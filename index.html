@@ -7,7 +7,8 @@
       Example of ODR resource hosted on this server:<br>
       <a href="/odr-poc/games/AssetPackManifest.plist">https://gabriele-sacchi.github.io/odr-poc/games/AssetPackManifest.plist</a>
 
-      <br>Curl:
+      <br><br><br><br>Curl:<br><br>
+      <div style="background-color: black; color: white; padding: 20px;">
       <code>
 curl -v 'https://gabriele-sacchi.github.io/odr-poc/games/AssetPackManifest.plist' \
 -X GET \
@@ -15,8 +16,10 @@ curl -v 'https://gabriele-sacchi.github.io/odr-poc/games/AssetPackManifest.plist
 -H 'Accept: */*' \
 -H 'User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148'
       </code>
-      <br><br>Fetch API: (send this from an iOS simulator)
-      <code>
+      </div>
+
+      <br><br><br><br>Fetch API: (send this from an iOS simulator)<br><br>
+      <div style="background-color: black; color: white; padding: 20px;">
 fetch("https://gabriele-sacchi.github.io/odr-poc/games/AssetPackManifest.plist", {
   headers: {
     Accept: "*/*",
@@ -26,5 +29,6 @@ fetch("https://gabriele-sacchi.github.io/odr-poc/games/AssetPackManifest.plist",
 .then(res => { console.debug('Got resp.'); return res.text(); })
 .then((res) => console.debug('>> ', res.substring(0, 100)))
       </code>
+    </div>
   </body>
 </html>
