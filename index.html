@@ -6,5 +6,25 @@
 
       Example of ODR resource hosted on this server:<br>
       <a href="/odr-poc/games/AssetPackManifest.plist">https://gabriele-sacchi.github.io/odr-poc/games/AssetPackManifest.plist</a>
+
+      <br>Curl:
+      <code>
+curl -v 'https://gabriele-sacchi.github.io/odr-poc/games/AssetPackManifest.plist' \
+-X GET \
+-H 'Origin: iosapp://www.williamhill.com' \
+-H 'Accept: */*' \
+-H 'User-Agent: Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148'
+      </code>
+      <br><br>Fetch API: (send this from an iOS simulator)
+      <code>
+fetch("https://gabriele-sacchi.github.io/odr-poc/games/AssetPackManifest.plist", {
+  headers: {
+    Accept: "*/*",
+    "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148"
+  }
+})
+.then(res => { console.debug('Got resp.'); return res.text(); })
+.then((res) => console.debug('>> ', res.substring(0, 100)))
+      </code>
   </body>
 </html>
