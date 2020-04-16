@@ -1,0 +1,32 @@
+<html>
+<head>
+</head>
+<style type="text/css">
+    #viewport {
+        width: 960px;
+        height: 540px;
+        transform-origin: 0 0 0;
+        transform: scale(0.694);
+        top: 0;
+        left: 0;
+    }
+</style>
+<body>
+<script>
+  var gccLocation = '.';
+</script>
+
+<script src="./gcc_loader.js"></script>
+
+<div class="viewport-wrapper">
+    <div id="viewport"></div>
+</div>
+<script>
+    document.body.dispatchEvent(
+        new CustomEvent('Game.gameResourcesResponse', {
+            detail: {adventureEnabled: true}
+        })
+    );
+</script>
+</body>
+</html>

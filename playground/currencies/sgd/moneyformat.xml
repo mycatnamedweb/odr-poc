@@ -1,0 +1,11 @@
+<moneyformats>
+   <moneyformat>
+      <dividers thousands="." decimal=","/>
+      <strings>
+         <curchar after="false">SGD</curchar>
+         <centchar usecent="false" after="false">?</centchar>
+      </strings>
+      <iso>SGD</iso>
+      <decimals>2</decimals>
+   </moneyformat>
+</moneyformats>

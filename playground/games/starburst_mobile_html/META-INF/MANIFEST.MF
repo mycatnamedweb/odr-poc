@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Implementation-Title: Starburst
+Implementation-Version: 5.31.0
+Maven-ArtifactId: starburst_mobile_html
+Archiver-Version: Plexus Archiver
+Built-By: jenkins-slave
+Jenkins-BuildNumber: 33
+Implementation-Vendor-Id: com.netent.casino-software.games.videoslots.
+ starburst
+Jenkins-BuildId: 33
+Git-Hash: 15d0361ebaa0cf74a29fbe120d6fc0a4670bc13e (with local modific
+ ations)
+game-version: 5.31.0
+Implementation-Vendor: Net Entertainment
+Maven-Classifier: 
+Maven-GroupId: com.netent.casino-software.games.videoslots.starburst
+Jenkins-BuildUrl: https://gdp-del-01.netent.com/job/grxij-starburst-cl
+ ient-generic-master/33/
+Git-CommitTime: 2019-04-18T06:05:14.000Z
+Git-Url: https://git.netent.com/scm/grxij/starburst-client-generic.git
+common-version: 8.11.2
+jmx: false
+Maven-Name: Starburst
+Maven-Version: 5.31.0
+Jenkins-JobName: grxij-starburst-client-generic-master
+Created-By: Apache Maven 3.0.4
+Build-Jdk: 1.8.0_151
+

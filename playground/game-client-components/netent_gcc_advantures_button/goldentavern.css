@@ -1,0 +1,86 @@
+.mobile_portrait #advIcon {
+    left: -1%;
+    top: 69%;
+    height: 13%;
+    right: 79%;
+    overflow: hidden;
+    z-index: 2;
+}
+
+.mobile_portrait #advIcon #adv-image {
+    height: 90px;
+    z-index: 2;
+}
+
+.mobile_landscape #advIcon {
+    top: 62%;
+    left: -1%;
+    right: 90% !important;
+    bottom: 17%;
+    overflow: hidden;
+    z-index: 2;
+}
+
+.mobile_landscape #advIcon #adv-image {
+    height: 80px;
+    z-index: 2;
+}
+
+.tablet_landscape #advIcon #adv-image {
+    height: 142px;
+    z-index: 2;
+}
+
+@media only screen and (orientation: portrait) {
+    .tablet_portrait #advIcon,
+    .tablet_landscape #advIcon {
+    overflow: hidden;
+    z-index: 2;
+    }
+    .tablet_portrait #advIcon #adv-image,
+    .tablet_landscape #advIcon #adv-image {
+    height: 140px;
+    z-index: 2;
+    }
+}
+
+@media only screen and (orientation: landscape){
+    .tablet_portrait #advIcon,
+    .tablet_landscape #advIcon {
+        left: 11.2%;
+        top: 65.2%;
+        bottom: 18%;
+        right: 80%;
+        z-index: 2;
+        overflow: hidden;
+    }
+    .tablet_portrait #advIcon #adv-image,
+    .tablet_landscape #advIcon #adv-image {
+        height: 142px;
+        z-index: 2; 
+    }
+}
+
+@media only screen and (min-width: 1366px) and (orientation: landscape) { 
+    .tablet_landscape #advIcon,
+    .tablet_portrait #advIcon { 
+        left: 11%;
+        top: 64%;
+        right: 78%;
+        bottom: 16%;
+    }
+    .tablet_landscape #advIcon #adv-image,
+    .tablet_portrait #advIcon #adv-image {
+        height: 180px;
+    }
+}
+
+@media only screen and (max-width: 320px) { 
+    .mobile_portrait #advIcon { 
+        left: -2%;
+        top: 68%;
+    }
+    .mobile_portrait #advIcon #adv-image {
+        height: 90px;
+    }
+}

@@ -1,0 +1,462 @@
+﻿<defaults xml:lang="cs">
+  <!-- Czech locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 08:40:42 GMT on Tuesday 10 October 2017.
+
+ -->
+  <ds Jurisdiction="*" name="freeRoundsFinished" id="freeRoundsFinished"></ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpinsNoSpan" id="MGvarRetriggerFreeSpinsNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTvarRetriggerFSNoSpan" id="OCTvarRetriggerFSNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpins" id="MGvarRetriggerFreeSpins">&lt;span class='NetEnt_plusSign'&gt;+&lt;/span&gt;&lt;span class='NetEnt_numberFreeSpins'&gt;{0}&lt;/span&gt; Free Spins</ds>
+  <ds Jurisdiction="*" name="NeProduction" id="NeProduction">A NET ENTERTAINMENT PRODUCTION</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Abyste mohli hrát, musíte si aktualizovat prohlížeč.</ds>
+  <ds Jurisdiction="*" name="MGswipeToActivate" id="MGswipeToActivate">Aktivujte hru potažením prstu nahoru.</ds>
+  <ds Jurisdiction="*" name="animationsGameSetting" id="animationsGameSetting">Animace</ds>
+  <ds Jurisdiction="*" name="MGbutton_yes" id="MGbutton_yes">Ano</ds>
+  <ds Jurisdiction="*" name="OCTbtnYes" id="OCTbtnYes">Ano</ds>
+  <ds Jurisdiction="*" name="MGyes" id="MGyes">Ano*</ds>
+  <ds Jurisdiction="*" name="OCTautoplayButton" id="OCTautoplayButton">AUTOM. HRA</ds>
+  <ds Jurisdiction="*" name="autoplayButtonTwoLine" id="autoplayButtonTwoLine">AUTOM.&lt;br&gt;HRA</ds>
+  <ds Jurisdiction="*" name="MGautoplayPanelLabel" id="MGautoplayPanelLabel">Automatická hra</ds>
+  <ds Jurisdiction="*" name="OCTautoplayPanelLabel" id="OCTautoplayPanelLabel">Automatická hra</ds>
+  <ds Jurisdiction="*" name="MGautoplayCancelled" id="MGautoplayCancelled">Automatická hra je zrušena</ds>
+  <ds Jurisdiction="*" name="OCTFreeRoundsLeftwithColon" id="OCTFreeRoundsLeftwithColon">Bezplatná kola: {0}</ds>
+  <ds Jurisdiction="*" name="OCTcongratsLC" id="OCTcongratsLC">Blahopřejeme!</ds>
+  <ds Jurisdiction="*" name="MGcongrats" id="MGcongrats">Blahopřejeme!</ds>
+  <ds Jurisdiction="*" name="MGnoOSSupport" id="MGnoOSSupport">Bohužel, tento operační systém není podporován.</ds>
+  <ds Jurisdiction="*" name="MGnoBrowserSupport" id="MGnoBrowserSupport">Bohužel, tento prohlížeč není podporován.</ds>
+  <ds Jurisdiction="*" name="MGdeviceNoSupport" id="MGdeviceNoSupport">Bohužel, toto zařízení není podporováno.</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinUCnoVar" id="OCTtotalWinUCnoVar">CELKOVÁ VÝHRA:</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinColonVar" id="OCTtotalWinColonVar">Celková výhra: {0}</ds>
+  <ds Jurisdiction="*" name="OCTcontinueYesNo" id="OCTcontinueYesNo">Chcete pokračovat?</ds>
+  <ds Jurisdiction="*" name="MGcontinueYesNo" id="MGcontinueYesNo">Chcete pokračovat?</ds>
+  <ds Jurisdiction="*" name="updateBrowserQuestion" id="updateBrowserQuestion">Chcete provést aktualizaci?</ds>
+  <ds Jurisdiction="*" name="updateBrowserReq" id="updateBrowserReq">Chcete-li hrát, musíte aktualizovat svůj prohlížeč. Minimální požadavky: {0}</ds>
+  <ds Jurisdiction="*" name="specialWinCombo" id="specialWinCombo">COMBO</ds>
+  <ds Jurisdiction="*" name="OCTifFreeSpinsIsStarted" id="OCTifFreeSpinsIsStarted">Dojde-li k výhře Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTcasino_btn" id="OCTcasino_btn">Domů</ds>
+  <ds Jurisdiction="*" name="MGcasino_btn" id="MGcasino_btn">Domů</ds>
+  <ds Jurisdiction="*" name="MG11" id="MG11">Dosáhli jste svého herního limitu. Přihlaste se později!</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsUC" id="OCTfreeSpinsUC">FREE SPINS</ds>
+  <ds Jurisdiction="*" name="OCTplayLimit" id="OCTplayLimit">Herní limit</ds>
+  <ds Jurisdiction="*" name="MGplayLimit" id="MGplayLimit">Herní limit</ds>
+  <ds Jurisdiction="*" name="OCTslidePanelLabel" id="OCTslidePanelLabel">Herní nastavení</ds>
+  <ds Jurisdiction="*" name="OCTgameHistory" id="OCTgameHistory">Historie her</ds>
+  <ds Jurisdiction="*" name="OCTgameHistoryHeadingUC" id="OCTgameHistoryHeadingUC">HISTORIE HER</ds>
+  <ds Jurisdiction="*" name="gameHistory" id="gameHistory">Historie her</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeading" id="MGgameHistoryHeading">Historie hry</ds>
+  <ds Jurisdiction="*" name="MGhistoryNotAvailable" id="MGhistoryNotAvailable">Historie hry je k dispozici pouze při hraní o peníze.</ds>
+  <ds Jurisdiction="*" name="OCThistoryNotAvailable" id="OCThistoryNotAvailable">Historie hry je k dispozici pouze při hraní o peníze.</ds>
+  <ds Jurisdiction="Algeria" name="OCTnewHistoryWindow" id="OCTnewHistoryWindow">Historie hry se otevře v novém okně. Jejím zavřením se vrátíte zpět do hry.</ds>
+  <ds Jurisdiction="*" name="MGnewHistoryWindow" id="MGnewHistoryWindow">Historie hry se otevře v novém okně. Jejím zavřením se vrátíte zpět do hry.</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coinvalue" id="OCTmachinetext_coinvalue">HODN. MINCÍ</ds>
+  <ds Jurisdiction="*" name="OCTcoinValue" id="OCTcoinValue">Hodnota mincí</ds>
+  <ds Jurisdiction="*" name="MGcoinvalue" id="MGcoinvalue">Hodnota mincí</ds>
+  <ds Jurisdiction="*" name="MGbetInCashRev" id="MGbetInCashRev">Hodnota sázky</ds>
+  <ds Jurisdiction="*" name="OCTbetInCash" id="OCTbetInCash">Hodnota sázky</ds>
+  <ds Jurisdiction="*" name="MGpaytableInfoBetLevel1" id="MGpaytableInfoBetLevel1">Hodnota vyplacených mincí závisí na úrovni sázky 1.</ds>
+  <ds Jurisdiction="Afghanistan" name="MGsymbolPayout" id="MGsymbolPayout">Hodnota vyplacených symbolů</ds>
+  <ds Jurisdiction="*" name="OCTsymbolPayout" id="OCTsymbolPayout">Hodnota vyplacených symbolů</ds>
+  <ds Jurisdiction="*" name="paytableInfoBetLevel1" id="paytableInfoBetLevel1">Hodnoty výher vycházejí z úrovně sázky 1.</ds>
+  <ds Jurisdiction="*" name="OCTlostConnectInactivity" id="OCTlostConnectInactivity">Hra byla z důvodu neaktivity odpojena.</ds>
+  <ds Jurisdiction="*" name="MGlostConnectionInactivity" id="MGlostConnectionInactivity">Hra byla z důvodu neaktivity odpojena.</ds>
+  <ds Jurisdiction="*" name="gameOptimisedFor" id="gameOptimisedFor">Hra je optimalizovaná pro {0} na {1}.</ds>
+  <ds Jurisdiction="*" name="gameOptimisedVersion" id="gameOptimisedVersion">Hra je optimalizovaná pro: {0}</ds>
+  <ds Jurisdiction="*" name="MGgameUnavailable" id="MGgameUnavailable">Hra není k dispozici</ds>
+  <ds Jurisdiction="*" name="OCTgameUnavailable" id="OCTgameUnavailable">Hra není k dispozici</ds>
+  <ds Jurisdiction="*" name="OCTrestoredGameHeader" id="OCTrestoredGameHeader">Hra obnovena</ds>
+  <ds Jurisdiction="*" name="MGrestoredGameHeader" id="MGrestoredGameHeader">Hra obnovena</ds>
+  <ds Jurisdiction="*" name="MGplayingForFun" id="MGplayingForFun">HRA PRO ZÁBAVU</ds>
+  <ds Jurisdiction="*" name="OCTplayingForFun" id="OCTplayingForFun">HRA PRO ZÁBAVU</ds>
+  <ds Jurisdiction="*" name="MGyouPlayingFun" id="MGyouPlayingFun">Hrajete pro zábavu</ds>
+  <ds Jurisdiction="*" name="OCTyouPlayingFun" id="OCTyouPlayingFun">Hrajete pro zábavu</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingLost" id="OCTRCheckPlayingLost">Hráli jste {0} hodin a prohráli jste {1}.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingLost" id="MGRCheckPlayingLost">Hráli jste {0} hodin a prohráli jste {1}.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingWon" id="MGRCheckPlayingWon">Hráli jste {0} hodin a vyhráli jste {1}.</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingWon" id="OCTRCheckPlayingWon">Hráli jste {0} hodin a vyhráli jste {1}.</ds>
+  <ds Jurisdiction="*" name="MGstopIfBonusGame" id="MGstopIfBonusGame">Jsou-li vyhrána Bonus Game, zastaví se</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinscrosstowntraffic" id="OCTstopIfFreeSpinscrosstowntraffic">Jsou-li vyhrána Crosstown Traffic Free Spins, zastaví se</ds>
+  <ds Jurisdiction="*" name="stopIfFeatureSpins" id="stopIfFeatureSpins">Jsou-li vyhrána Feature Spin, zastaví se</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpins" id="OCTstopIfFreeSpins">Jsou-li vyhrána Free Spins, zastaví se</ds>
+  <ds Jurisdiction="*" name="MGstopIfFreeSpins" id="MGstopIfFreeSpins">Jsou-li vyhrána Free Spins, zastaví se</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinslittlewing" id="OCTstopIfFreeSpinslittlewing">Jsou-li vyhrána Little Wing Free Spins, zastaví se</ds>
+  <ds Jurisdiction="*" name="stopIfPickAndClick" id="stopIfPickAndClick">Jsou-li vyhrána Pick and Click, zastaví se</ds>
+  <ds Jurisdiction="*" name="stopIfPoliceSpins" id="stopIfPoliceSpins">Jsou-li vyhrána Police Spins, zastaví se</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinspurplehaze" id="OCTstopIfFreeSpinspurplehaze">Jsou-li vyhrána Purple Haze Free Spins, zastaví se</ds>
+  <ds Jurisdiction="*" name="OCTifWinExeeds" id="OCTifWinExeeds">Když jedna výhra překročí</ds>
+  <ds Jurisdiction="*" name="ifWinExeeds" id="ifWinExeeds">Když jedna výhra překročí</ds>
+  <ds Jurisdiction="*" name="OCTifCashDecreasesBy" id="OCTifCashDecreasesBy">Když se hotovost sníží o</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsTitle" id="OCTfreeRoundsTitle">Kola zdarma</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsTitle" id="MGfreeRoundsTitle">Kola zdarma</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsFinished" id="MGfreeRoundsFinished">Kola zdarma ukončena</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinished" id="OCTfreeRoundsFinished">Kola zdarma ukončena</ds>
+  <ds Jurisdiction="*" name="OCTfreerounds" id="OCTfreerounds">Kola zdarma vypršela</ds>
+  <ds Jurisdiction="*" name="MGfreerounds" id="MGfreerounds">Kola zdarma vypršela</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsVar" id="MGfreeRoundsVar">Kola zdarma: {0}</ds>
+  <ds Jurisdiction="*" name="OCTqualityHeading" id="OCTqualityHeading">Kvalita grafiky</ds>
+  <ds Jurisdiction="*" name="qualityHeading" id="qualityHeading">Kvalita grafiky</ds>
+  <ds Jurisdiction="*" name="MGleft" id="MGleft">L</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRounds" id="MGhaveFreeRounds">Máte {0} kol zdarma.</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRoundsRev" id="MGhaveFreeRoundsRev">Máte {0} kol(a) zdarma!</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbuttonTwoLine" id="OCTmaxbetbuttonTwoLine">MAX. &lt;br&gt;SÁZKA</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbutton" id="OCTmaxbetbutton">MAX. SÁZKA</ds>
+  <ds Jurisdiction="*" name="MGmaxNumberReSpinsLC" id="MGmaxNumberReSpinsLC">Maximální počet dalších otočení {0}.</ds>
+  <ds Jurisdiction="*" name="maxNumberReSpins" id="maxNumberReSpins">MAXIMÁLNÍ POČET DALŠÍCH OTOČENÍ {0}.</ds>
+  <ds Jurisdiction="*" name="WinUpTodup" id="WinUpTodup">MAXIMÁLNÍ VÝHRA</ds>
+  <ds Jurisdiction="*" name="specialWinMegaCombo" id="specialWinMegaCombo">MEGA COMBO</ds>
+  <ds Jurisdiction="*" name="megaWin" id="megaWin">MEGA VÝHRA!</ds>
+  <ds Jurisdiction="*" name="OCTmegaWin" id="OCTmegaWin">MEGA VÝHRA!</ds>
+  <ds Jurisdiction="*" name="RCheckMonths" id="RCheckMonths">měsíce</ds>
+  <ds Jurisdiction="*" name="MGcoins" id="MGcoins">Mince: {0}</ds>
+  <ds Jurisdiction="*" name="coins" id="coins">Mincí</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coins" id="OCTmachinetext_coins">MINCÍ</ds>
+  <ds Jurisdiction="*" name="OCTcoinsColonVar" id="OCTcoinsColonVar">Mincí: {0}</ds>
+  <ds Jurisdiction="*" name="MGminOSReq" id="MGminOSReq">Minimální požadavek je:</ds>
+  <ds Jurisdiction="*" name="MGoptionUnavailable" id="MGoptionUnavailable">Možnost není k dispozici</ds>
+  <ds Jurisdiction="*" name="multiplierFLC" id="multiplierFLC">Multiplier</ds>
+  <ds Jurisdiction="*" name="OCTloadingText" id="OCTloadingText">Načítání</ds>
+  <ds Jurisdiction="*" name="OCTloadingTakesLonger" id="OCTloadingTakesLonger">Načítání hry trvá neobvykle dlouho.</ds>
+  <ds Jurisdiction="*" name="loadingTakesLonger" id="loadingTakesLonger">Načítání hry trvá neobvykle dlouho.</ds>
+  <ds Jurisdiction="*" name="OCTloading" id="OCTloading">Načítání...</ds>
+  <ds Jurisdiction="*" name="gameNotLoaded" id="gameNotLoaded">Načtení hry se nezdařilo.</ds>
+  <ds Jurisdiction="*" name="MGreload_btnRev" id="MGreload_btnRev">Nahrát znovu</ds>
+  <ds Jurisdiction="*" name="MGsubAllSymbolsLC" id="MGsubAllSymbolsLC">Nahrazuje všechny ostatní symboly.</ds>
+  <ds Jurisdiction="*" name="subAllSymbols" id="subAllSymbols">NAHRAZUJE VŠECHNY OSTATNÍ SYMBOLY.</ds>
+  <ds Jurisdiction="*" name="multiplierUC" id="multiplierUC">NÁSOBITEL</ds>
+  <ds Jurisdiction="*" name="MGcolHeadBetMulti" id="MGcolHeadBetMulti">Násobitel sázky</ds>
+  <ds Jurisdiction="*" name="MGspinSettings" id="MGspinSettings">Nastavení roztočení</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRev" id="MGspinSettingsRev">Nastavení roztočení</ds>
+  <ds Jurisdiction="*" name="OCTspinSettingsCaps" id="OCTspinSettingsCaps">NASTAVENÍ ROZTOČENÍ</ds>
+  <ds Jurisdiction="*" name="OCTbetSettingsCaps" id="OCTbetSettingsCaps">NASTAVENÍ SÁZKY</ds>
+  <ds Jurisdiction="*" name="MGbetOptions" id="MGbetOptions">Nastavení sázky</ds>
+  <ds Jurisdiction="*" name="MGbetSettings" id="MGbetSettings">Nastavení sázky</ds>
+  <ds Jurisdiction="*" name="MGsoundSettings" id="MGsoundSettings">Nastavení zvuku</ds>
+  <ds Jurisdiction="*" name="OCTsoundSettingsCaps" id="OCTsoundSettingsCaps">NASTAVENÍ ZVUKU</ds>
+  <ds Jurisdiction="*" name="OCTbtnNo" id="OCTbtnNo">Ne</ds>
+  <ds Jurisdiction="*" name="MGbutton_no" id="MGbutton_no">Ne</ds>
+  <ds Jurisdiction="*" name="MGoutOfMoney" id="MGoutOfMoney">Nedostatek peněz</ds>
+  <ds Jurisdiction="*" name="OCToutOfMoney" id="OCToutOfMoney">Nedostatek peněz</ds>
+  <ds Jurisdiction="*" name="couldNotConnectServer" id="couldNotConnectServer">Nelze se připojit k serveru.</ds>
+  <ds Jurisdiction="*" name="lowQuality" id="lowQuality">Nízká</ds>
+  <ds Jurisdiction="*" name="OCTlowQuality" id="OCTlowQuality">Nízká</ds>
+  <ds Jurisdiction="*" name="OCTreset" id="OCTreset">Obnovit</ds>
+  <ds Jurisdiction="*" name="OCTbtnOK" id="OCTbtnOK">OK</ds>
+  <ds Jurisdiction="*" name="MGok_btn" id="MGok_btn">OK</ds>
+  <ds Jurisdiction="*" name="OCTspaceSpin" id="OCTspaceSpin">Otáčí se mezerníkem</ds>
+  <ds Jurisdiction="*" name="spaceSpin" id="spaceSpin">Otáčí se mezerníkem</ds>
+  <ds Jurisdiction="*" name="OCTautoSpins" id="OCTautoSpins">otočení</ds>
+  <ds Jurisdiction="*" name="MGright" id="MGright">P</ds>
+  <ds Jurisdiction="*" name="OCTcash" id="OCTcash">Peníze</ds>
+  <ds Jurisdiction="*" name="OCTcashColon" id="OCTcashColon">Peníze:</ds>
+  <ds Jurisdiction="*" name="MGcash" id="MGcash">Peníze:  {0}</ds>
+  <ds Jurisdiction="*" name="OCTcashColonVar" id="OCTcashColonVar">Peníze: {0}</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Počet {0}</ds>
+  <ds Jurisdiction="*" name="OCTnumberSpins" id="OCTnumberSpins">Počet roztočení</ds>
+  <ds Jurisdiction="*" name="MGnumberSpins" id="MGnumberSpins">Počet roztočení</ds>
+  <ds Jurisdiction="*" name="OCTspinsLeftText" id="OCTspinsLeftText">Počet zbývajících {0}</ds>
+  <ds Jurisdiction="*" name="OCTbutton_CONTINUE" id="OCTbutton_CONTINUE">POKRAČOVAT</ds>
+  <ds Jurisdiction="*" name="OCTContinue" id="OCTContinue">Pokračovat</ds>
+  <ds Jurisdiction="*" name="MGcontinue" id="MGcontinue">Pokračovat</ds>
+  <ds Jurisdiction="*" name="OCTadvancedSettings" id="OCTadvancedSettings">Pokročilá nastavení</ds>
+  <ds Jurisdiction="*" name="OCTcontinuePlaying" id="OCTcontinuePlaying">Poté co odejdete, hra pokračuje.</ds>
+  <ds Jurisdiction="*" name="MGcontinuePlaying" id="MGcontinuePlaying">Poté co odejdete, hra pokračuje.</ds>
+  <ds Jurisdiction="*" name="MGspinButtonPosition" id="MGspinButtonPosition">Pozice tlačítka pro roztočení</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheading" id="MGgameRulesheading">Pravidla hry</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheadingCaps" id="MGgameRulesheadingCaps">PRAVIDLA HRY</ds>
+  <ds Jurisdiction="*" name="OCTgameRulesUC" id="OCTgameRulesUC">PRAVIDLA HRY</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">pravidly pro soubory cookie.</ds>
+  <ds Jurisdiction="*" name="OCTskipIntro" id="OCTskipIntro">Přeskočit úvod</ds>
+  <ds Jurisdiction="*" name="onAnyWin" id="onAnyWin">Při jakékoliv výhře</ds>
+  <ds Jurisdiction="Spain" name="OCTifFBonusIsStarted" id="OCTifFBonusIsStarted">Při výhře bonusové hry</ds>
+  <ds Jurisdiction="*" name="OCTlogin_btn" id="OCTlogin_btn">Přihl.</ds>
+  <ds Jurisdiction="*" name="MGlogin_btn" id="MGlogin_btn">Přihl.</ds>
+  <ds Jurisdiction="*" name="connectionQualityPoor" id="connectionQualityPoor">Připojení: Špatné</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Připojení: Špatné</ds>
+  <ds Jurisdiction="*" name="dontShowNextTime" id="dontShowNextTime">Příště nezobrazovat</ds>
+  <ds Jurisdiction="*" name="MGdepositPlay" id="MGdepositPlay">Pro pokračování hry vložte víc peněz.</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Pro správu statistik a lepší komfort využívá tato hra soubory cookie. Potvrďte prosím, že souhlasíte s našimi</ds>
+  <ds Jurisdiction="*" name="extraInfo" id="extraInfo">Pro více informací viz Pravidla hry.</ds>
+  <ds Jurisdiction="*" name="OCTextraInfo" id="OCTextraInfo">Pro více informací viz Pravidla hry.</ds>
+  <ds Jurisdiction="*" name="MGuseDefaultBrowser" id="MGuseDefaultBrowser">Pro zařízení použijte výchozí prohlížeč nebo svůj systém aktualizujte.</ds>
+  <ds Jurisdiction="*" name="MGsessionTimeOut" id="MGsessionTimeOut">Relace vypršela</ds>
+  <ds Jurisdiction="*" name="OCTsessionTimeOut" id="OCTsessionTimeOut">Relace vypršela</ds>
+  <ds Jurisdiction="*" name="OCTreturnCasino" id="OCTreturnCasino">Restartujte hru, prosím.</ds>
+  <ds Jurisdiction="*" name="MGreturnCasino" id="MGreturnCasino">Restartujte hru, prosím.</ds>
+  <ds Jurisdiction="*" name="MGleftHandMode" id="MGleftHandMode">Režim pro leváky</ds>
+  <ds Jurisdiction="*" name="OCTleftHandMode" id="OCTleftHandMode">Režim pro leváky</ds>
+  <ds Jurisdiction="*" name="MGexpandReelTriggerLC" id="MGexpandReelTriggerLC">Rozšiřuje se na celý válec a spouští další otočení.</ds>
+  <ds Jurisdiction="*" name="expandReelTrigger" id="expandReelTrigger">ROZŠIŘUJE SE NA CELÝ VÁLEC A SPOUŠTÍ DALŠÍ OTOČENÍ.</ds>
+  <ds Jurisdiction="*" name="OCTquickSpinGameSetting" id="OCTquickSpinGameSetting">Rychlé otočení</ds>
+  <ds Jurisdiction="*" name="quickSpinGameSetting" id="quickSpinGameSetting">Rychlé otočení</ds>
+  <ds Jurisdiction="*" name="OCTquickSpin" id="OCTquickSpin">Rychlé roztočení</ds>
+  <ds Jurisdiction="*" name="MGquickSpinGameSetting" id="MGquickSpinGameSetting">Rychlé roztočení</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_bet" id="OCTmachinetext_bet">SÁZKA</ds>
+  <ds Jurisdiction="*" name="OCTtotalbet" id="OCTtotalbet">Sázka</ds>
+  <ds Jurisdiction="*" name="MGbetCashCoins" id="MGbetCashCoins">Sázka v hot./mincích</ds>
+  <ds Jurisdiction="*" name="MGbetInCash" id="MGbetInCash">Sázka v hotovosti</ds>
+  <ds Jurisdiction="*" name="MGbetInCoins" id="MGbetInCoins">Sázka v mincích</ds>
+  <ds Jurisdiction="*" name="MGbetInCoinsRev" id="MGbetInCoinsRev">Sázka v mincích</ds>
+  <ds Jurisdiction="*" name="OCTbetInCoins" id="OCTbetInCoins">Sázka v mincích</ds>
+  <ds Jurisdiction="*" name="OCTbetColonVar" id="OCTbetColonVar">Sázka: {0}</ds>
+  <ds Jurisdiction="*" name="MGbet" id="MGbet">Sázka: {0}</ds>
+  <ds Jurisdiction="*" name="MGbetLineWinsLeftRight" id="MGbetLineWinsLeftRight">Sázkové řady vyhrávají pokud výherní symboly následují zleva doprava.</ds>
+  <ds Jurisdiction="*" name="MGreduceBet_btn" id="MGreduceBet_btn">Snížit sázku</ds>
+  <ds Jurisdiction="Antigua and Barbuda" name="OCTreduceBet_btn" id="OCTreduceBet_btn">Snížit sázku</ds>
+  <ds Jurisdiction="*" name="OCTreduce" id="OCTreduce">Snižte sázku a pokračujte ve hře, prosím.</ds>
+  <ds Jurisdiction="*" name="MGreduce" id="MGreduce">Snižte sázku a pokračujte ve hře, prosím.</ds>
+  <ds Jurisdiction="*" name="MGsoftNotTest" id="MGsoftNotTest">Software není na vašem zařízení otestován.</ds>
+  <ds Jurisdiction="*" name="MGconnectionLost" id="MGconnectionLost">Spojení bylo ztraceno</ds>
+  <ds Jurisdiction="*" name="OCTconnectionLost" id="OCTconnectionLost">Spojení bylo ztraceno</ds>
+  <ds Jurisdiction="*" name="OCTstartFreeSpins" id="OCTstartFreeSpins">SPUSTIT FREE SPINS</ds>
+  <ds Jurisdiction="*" name="startFreeSpins" id="startFreeSpins">Spustit Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTreload" id="OCTreload">Spusťte hru znovu, prosím.</ds>
+  <ds Jurisdiction="*" name="MGreload" id="MGreload">Spusťte hru znovu, prosím.</ds>
+  <ds Jurisdiction="*" name="starburstNameOfWild" id="starburstNameOfWild">Starburst™ Wild</ds>
+  <ds Jurisdiction="*" name="OCTautoplayStopText" id="OCTautoplayStopText">STOP</ds>
+  <ds Jurisdiction="*" name="OCTmediumQuality" id="OCTmediumQuality">Střední</ds>
+  <ds Jurisdiction="*" name="mediumQuality" id="mediumQuality">Střední</ds>
+  <ds Jurisdiction="*" name="specialWinSuperCombo" id="specialWinSuperCombo">SUPER COMBO</ds>
+  <ds Jurisdiction="*" name="superMegaWin" id="superMegaWin">SUPER MEGA VÝHRA!</ds>
+  <ds Jurisdiction="*" name="OCTsuperMegaWin" id="OCTsuperMegaWin">SUPER MEGA VÝHRA!</ds>
+  <ds Jurisdiction="*" name="MGcolHeadFSpinSyms" id="MGcolHeadFSpinSyms">Symboly Free Spin</ds>
+  <ds Jurisdiction="*" name="MGpaytable" id="MGpaytable">Tabulka výplat</ds>
+  <ds Jurisdiction="*" name="OCTpaytable" id="OCTpaytable">Tabulka výplat</ds>
+  <ds Jurisdiction="*" name="OCTbutton_paytableUC" id="OCTbutton_paytableUC">TABULKA VÝPLAT</ds>
+  <ds Jurisdiction="*" name="optimisedForVersion" id="optimisedForVersion">Tato hra je optimalizovaná pro: {0}</ds>
+  <ds Jurisdiction="*" name="MGoptionAvailable" id="MGoptionAvailable">Tato možnost je k dispozici pouze po dokončení herního kola.</ds>
+  <ds Jurisdiction="*" name="MGerror" id="MGerror">Technická chyba</ds>
+  <ds Jurisdiction="*" name="OCTerror" id="OCTerror">Technická chyba</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">To zřejmě není výsledek, ve který jste doufali. Dejte si ještě {0} Kola zdarma na náš účet.</ds>
+  <ds Jurisdiction="*" name="OCTaccountUnavailable" id="OCTaccountUnavailable">Účet není k dispozici</ds>
+  <ds Jurisdiction="*" name="MGaccountUnavailable" id="MGaccountUnavailable">Účet není k dispozici</ds>
+  <ds Jurisdiction="*" name="upgradeDevice" id="upgradeDevice">Upgradujte prosím své zařízení.</ds>
+  <ds Jurisdiction="*" name="MGRCcheckReminder" id="MGRCcheckReminder">Upomínka</ds>
+  <ds Jurisdiction="*" name="OCTRCcheckReminder" id="OCTRCcheckReminder">Upomínka</ds>
+  <ds Jurisdiction="*" name="OCTlevel" id="OCTlevel">ÚROVEŇ</ds>
+  <ds Jurisdiction="*" name="OCTintroGameSetting" id="OCTintroGameSetting">Úvodní film</ds>
+  <ds Jurisdiction="*" name="OCTintroScreeGameSetting" id="OCTintroScreeGameSetting">Úvodní obrazovka</ds>
+  <ds Jurisdiction="*" name="introScreeGameSetting" id="introScreeGameSetting">Úvodní obrazovka</ds>
+  <ds Jurisdiction="*" name="MGroundsUseAccountMoney" id="MGroundsUseAccountMoney">V budoucích kolech použijte peníze, které máte na účtu. Hodně štěstí!</ds>
+  <ds Jurisdiction="*" name="OCTroundsUseAcctMoney" id="OCTroundsUseAcctMoney">V budoucích kolech použijte peníze, které máte na účtu. Hodně štěstí!</ds>
+  <ds Jurisdiction="*" name="OCTvoidAllPays" id="OCTvoidAllPays">V případě závady jsou všechny výplaty a hry prohlášeny za neplatné.</ds>
+  <ds Jurisdiction="*" name="operatingSystemNoSupport" id="operatingSystemNoSupport">Váš operační systém není podporovaný.</ds>
+  <ds Jurisdiction="*" name="OCTslowConnection" id="OCTslowConnection">Vaše současné připojení k internetu je pomalé.</ds>
+  <ds Jurisdiction="*" name="MGslowConnection" id="MGslowConnection">Vaše současné připojení k internetu je pomalé.</ds>
+  <ds Jurisdiction="*" name="MGwinIncoins" id="MGwinIncoins">Vaše výhra v mincích: {0}</ds>
+  <ds Jurisdiction="*" name="deviceNotSupported" id="deviceNotSupported">Vaše zařízení není podporované.</ds>
+  <ds Jurisdiction="*" name="InAssociation" id="InAssociation">ve spolupráci s</ds>
+  <ds Jurisdiction="*" name="bigWin" id="bigWin">VELKÁ VÝHRA!</ds>
+  <ds Jurisdiction="*" name="OCTbigWin" id="OCTbigWin">VELKÁ VÝHRA!</ds>
+  <ds Jurisdiction="*" name="OCTdeposit_btn" id="OCTdeposit_btn">Vklad</ds>
+  <ds Jurisdiction="*" name="MGdeposit_btn" id="MGdeposit_btn">Vklad</ds>
+  <ds Jurisdiction="*" name="MGdeposit" id="MGdeposit">Vložte další peníze nebo snižte sázku.</ds>
+  <ds Jurisdiction="*" name="OCTdeposit" id="OCTdeposit">Vložte další peníze nebo snižte sázku.</ds>
+  <ds Jurisdiction="*" name="OCTdepositPlay" id="OCTdepositPlay">Vložte si na účet více peněz, ať můžete pokračovat ve hře.</ds>
+  <ds Jurisdiction="*" name="OCTreturnToLobby" id="OCTreturnToLobby">Vraťte se prosím do lobby.</ds>
+  <ds Jurisdiction="*" name="MGreturnToLobby" id="MGreturnToLobby">Vraťte se prosím do lobby.</ds>
+  <ds Jurisdiction="*" name="scatterSelect" id="scatterSelect">VYBERTE SCATTER</ds>
+  <ds Jurisdiction="*" name="MGwinningCombinations" id="MGwinningCombinations">Výherní kombinace a výplaty</ds>
+  <ds Jurisdiction="*" name="MGwinningLinesHeading" id="MGwinningLinesHeading">Výherní sázkové řady</ds>
+  <ds Jurisdiction="*" name="OCTwinningBetLinesHeading" id="OCTwinningBetLinesHeading">Výherní sázkové řady</ds>
+  <ds Jurisdiction="*" name="OCTwin" id="OCTwin">Výhra</ds>
+  <ds Jurisdiction="Spain" name="OCTmachinetext_win" id="OCTmachinetext_win">VÝHRA</ds>
+  <ds Jurisdiction="*" name="MGwinPay" id="MGwinPay">Výhra</ds>
+  <ds Jurisdiction="*" name="MGwinUpTo" id="MGwinUpTo">Výhra až {0} mincí</ds>
+  <ds Jurisdiction="*" name="OCTwinUpTo" id="OCTwinUpTo">Výhra až {0} mincí</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinWithColon" id="OCTtotalWinWithColon">Výhra celkem:</ds>
+  <ds Jurisdiction="*" name="MGtotalWin" id="MGtotalWin">Výhra celkem: {0}</ds>
+  <ds Jurisdiction="*" name="OCTwinColonUC" id="OCTwinColonUC">VÝHRA:</ds>
+  <ds Jurisdiction="*" name="OCTwinColonVar" id="OCTwinColonVar">Výhra: {0}</ds>
+  <ds Jurisdiction="*" name="MGwin" id="MGwin">Výhra: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinCapitals" id="MGwinCapitals">VÝHRA: {0}</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinWon" id="MGadditonalFreeSpinWon">Vyhráli jste {0} další Free Spin</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinsWon" id="MGadditonalFreeSpinsWon">Vyhráli jste {0} další Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTadditonalFreeSpinsWon" id="OCTadditonalFreeSpinsWon">Vyhráli jste {0} další Free Spins</ds>
+  <ds Jurisdiction="*" name="MGyouWonCoins" id="MGyouWonCoins">Vyhráli jste {0} mincí</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoins" id="OCTyouWonCoins">Vyhráli jste {0} mincí</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoinsUC" id="OCTyouWonCoinsUC">Vyhráli jste {0} mincí</ds>
+  <ds Jurisdiction="*" name="MGyouWon" id="MGyouWon">Vyhráli jste:{0}</ds>
+  <ds Jurisdiction="*" name="OCTcoinsWonColon" id="OCTcoinsWonColon">Vyhrané mince:</ds>
+  <ds Jurisdiction="*" name="coinsWonColon" id="coinsWonColon">Vyhrané mince:</ds>
+  <ds Jurisdiction="*" name="winBothWaysRev" id="winBothWaysRev">VYHRÁVÁ OBĚMI SMĚRY</ds>
+  <ds Jurisdiction="*" name="OCTyouWinUCNoExclamation" id="OCTyouWinUCNoExclamation">VYHRÁVÁTE</ds>
+  <ds Jurisdiction="*" name="FSplashWinBothWays" id="FSplashWinBothWays">VYHRÁVEJTE &lt;br&gt; V OBOU SMĚRECH</ds>
+  <ds Jurisdiction="*" name="MGwinMultiplierVar" id="MGwinMultiplierVar">Výhry mincí jsou znásobeny {0}</ds>
+  <ds Jurisdiction="*" name="winBothWaysPaysRev" id="winBothWaysPaysRev">Výhry ze sázkových řad se vyplácí postupně buď zleva doprava, anebo zprava doleva.</ds>
+  <ds Jurisdiction="*" name="OCTbetLineWinsLeftToRightOnly" id="OCTbetLineWinsLeftToRightOnly">Výhry ze sázkových řad se vyplácí zleva doprava.</ds>
+  <ds Jurisdiction="*" name="MGpaytableHighestPaid" id="MGpaytableHighestPaid">Vyplácí se pouze nejvyšší výherní kombinace na sázkovou řadu.</ds>
+  <ds Jurisdiction="Spain" name="OCTpaytableHighest" id="OCTpaytableHighest">Vyplácí se pouze nejvyšší výhra sázkové řadě.</ds>
+  <ds Jurisdiction="*" name="paytableHighestRev" id="paytableHighestRev">Vyplácí se pouze nejvyšší výhra v aktivní sázkové řadě z obou směrů.</ds>
+  <ds Jurisdiction="Spain" name="paytableHighestNoActive" id="paytableHighestNoActive">Vyplácí se pouze nejvyšší výhra v sázkové řadě.</ds>
+  <ds Jurisdiction="*" name="MGoff" id="MGoff">Vypnout</ds>
+  <ds Jurisdiction="*" name="MGsoundsNo" id="MGsoundsNo">Vypnout zvuk</ds>
+  <ds Jurisdiction="*" name="OCTsoundsNo" id="OCTsoundsNo">Vypnout zvuk</ds>
+  <ds Jurisdiction="Spain" name="OCTbetlevel" id="OCTbetlevel">Výše sázky</ds>
+  <ds Jurisdiction="*" name="MGbetlevel" id="MGbetlevel">Výše sázky</ds>
+  <ds Jurisdiction="*" name="highQuality" id="highQuality">Vysoká</ds>
+  <ds Jurisdiction="*" name="OCThighQuality" id="OCThighQuality">Vysoká</ds>
+  <ds Jurisdiction="*" name="MGbigWin" id="MGbigWin">VYSOKÁ VÝHRA!</ds>
+  <ds Jurisdiction="*" name="OCTpaytableHighestWinMatch" id="OCTpaytableHighestWinMatch">Za každou výherní shodu se proplácí jen nejvyšší dosažená výhra.</ds>
+  <ds Jurisdiction="*" name="MGplayingForMoney" id="MGplayingForMoney">Začít hrát o peníze?</ds>
+  <ds Jurisdiction="*" name="MGnoWin" id="MGnoWin">Žádná výhra</ds>
+  <ds Jurisdiction="*" name="MGsoundsOn" id="MGsoundsOn">Zapnout zvuk</ds>
+  <ds Jurisdiction="*" name="OCTsoundsOn" id="OCTsoundsOn">Zapnout zvuk</ds>
+  <ds Jurisdiction="*" name="MGdownloadSounds" id="MGdownloadSounds">Zapnout zvuk?</ds>
+  <ds Jurisdiction="*" name="MGlandscapeMode" id="MGlandscapeMode">Zařízení přepněte do režimu na šířku!</ds>
+  <ds Jurisdiction="*" name="OCTlandscapeMode" id="OCTlandscapeMode">Zařízení přepněte do režimu na šířku!</ds>
+  <ds Jurisdiction="*" name="autoBonusGame" id="autoBonusGame">Zastaví automatickou hru, pokud ještě před odehráním nastaveného počtu kol dojde k výhře Bonus Game.</ds>
+  <ds Jurisdiction="*" name="autoplayFeatureSpins" id="autoplayFeatureSpins">Zastaví automatickou hru, pokud ještě před odehráním nastaveného počtu kol dojde k výhře Feature Spins.</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlay" id="OCTstopAutoPlay">Zastavit automatickou hru</ds>
+  <ds Jurisdiction="*" name="OCTclose_btn" id="OCTclose_btn">Zavřít</ds>
+  <ds Jurisdiction="*" name="MGclose_btn" id="MGclose_btn">Zavřít</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsLeftColonVar" id="OCTfreeSpinsLeftColonVar">Zbývá Free Spins: {0}</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsLeft" id="MGfreeRoundsLeft">Zbývá vám {0} kol zdarma!</ds>
+  <ds Jurisdiction="*" name="MGfreeSpinsLeftColonVar" id="MGfreeSpinsLeftColonVar">Zbývající Free Spins: {0}</ds>
+  <ds Jurisdiction="*" name="MGreload_btn" id="MGreload_btn">Znovu</ds>
+  <ds Jurisdiction="*" name="OCTreload_btn" id="OCTreload_btn">Znovu</ds>
+  <ds Jurisdiction="*" name="MGappearsOnReelsLC" id="MGappearsOnReelsLC">Zobrazuje se na válcích {0}, {1} a {2}.</ds>
+  <ds Jurisdiction="*" name="appearsOnReels" id="appearsOnReels">ZOBRAZUJE SE NA VÁLCÍCH {0}, {1} A {2}.</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Zpráva</ds>
+  <ds Jurisdiction="Spain" name="OCTautoplayPanelStartText" id="OCTautoplayPanelStartText">Zvolte pro spuštění</ds>
+  <ds Jurisdiction="*" name="OCTgameSound" id="OCTgameSound">Zvuk</ds>
+  <ds Jurisdiction="*" name="MGgameSound" id="MGgameSound">Zvuk</ds>
+  <ds Jurisdiction="*" name="ambience" id="ambience">Zvuk prostředí</ds>
+  <ds Jurisdiction="*" name="MGsoundsOff" id="MGsoundsOff">Zvuk vždy vypnout</ds>
+  <ds Jurisdiction="*" name="sound" id="sound">Zvukové efekty</ds>
+  <ds Jurisdiction="*" name="MGsounds" id="MGsounds">Zvuky</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">Abyste mohli hrát, musíte si aktualizovat operační systém.</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Abyste mohli hrát, potřebujete {0}.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Další kola zdarma</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeadingCaps" id="MGgameHistoryHeadingCaps">HISTORIE HRY</ds>
+  <ds Jurisdiction="*" name="ifCashIncreasesBy" id="ifCashIncreasesBy">Když se hotovost navýší o</ds>
+  <ds Jurisdiction="*" name="OCTifCashIncreasesBy" id="OCTifCashIncreasesBy">Když se hotovost navýší o</ds>
+  <ds Jurisdiction="*" name="ifCashDecreasesBy" id="ifCashDecreasesBy">Když se hotovost sníží o</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRevCaps" id="MGspinSettingsRevCaps">NASTAVENÍ ROZTOČENÍ</ds>
+  <ds Jurisdiction="*" name="MGbetSettingsCaps" id="MGbetSettingsCaps">NASTAVENÍ SÁZKY</ds>
+  <ds Jurisdiction="*" name="MGsoundSettingsCaps" id="MGsoundSettingsCaps">NASTAVENÍ ZVUKU</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">Optimalizováno pro prohlížeč {0} na {1} {2}</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Pro zlepšení uživatelského komfortu a pro správu reklam využívá tato hra soubory cookie. Potvrďte prosím, že souhlasíte s našimi</ds>
+  <ds Jurisdiction="*" name="MGvoidAllPays" id="MGvoidAllPays">V případě závady jsou všechny výplaty a hry prohlášeny za neplatné.</ds>
+  <ds Jurisdiction="*" name="voidAllPays" id="voidAllPays">V případě závady jsou všechny výplaty a hry prohlášeny za neplatné.</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">V zájmu dosažení nejlepšího zážitku ze hry si prosím aktualizujte operační systém.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">V zájmu dosažení nejlepšího zážitku ze hry si prosím aktualizujte prohlížeč.</ds>
+  <ds Jurisdiction="*" name="autoplayPS" id="autoplayPS">Zastaví automatickou hru, pokud ještě před odehráním nastaveného počtu kol dojde k výhře bonusové hry nebo Police Spins.</ds>
+  <ds Jurisdiction="*" name="autoplayFS" id="autoplayFS">Zastaví automatickou hru, pokud ještě před odehráním nastaveného počtu kol dojde k výhře Free Spins.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Abyste mohli hrát, musíte si aktualizovat prohlížeč.</ds>
+  <ds Jurisdiction="*" name="12" id="12">Aktuální sázku nelze provést, protože uplynula platnost bonusu.</ds>
+  <ds Jurisdiction="*" name="RCheckLost" id="RCheckLost">Během této doby jste prohráli</ds>
+  <ds Jurisdiction="*" name="RCheckWon" id="RCheckWon">Během této doby jste vyhráli</ds>
+  <ds Jurisdiction="*" name="roundsLeft" id="roundsLeft">Bezplatná kola</ds>
+  <ds Jurisdiction="*" name="freeRoundsCompleteDialogText" id="freeRoundsCompleteDialogText">Bezplatná kola dokončena. Další kola čerpají peníze z účtu. Hodně štěstí!</ds>
+  <ds Jurisdiction="*" name="FreeRoundsLeftwithColonVar" id="FreeRoundsLeftwithColonVar">Bezplatná kola: {0}</ds>
+  <ds Jurisdiction="*" name="OCTcongratsUC" id="OCTcongratsUC">BLAHOPŘEJEME!</ds>
+  <ds Jurisdiction="*" name="freeRoundsInitiatedDialogText" id="freeRoundsInitiatedDialogText">Blahopřejeme!  Máte tento počet bezplatných kol: {0}. Hodně štěstí!</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered" id="gameWalletMssgWagered">Blahopřejeme! Váš {0} Bonus se stal kreditem. Pro jeho použití se znovu přihlaste.</ds>
+  <ds Jurisdiction="*" name="browserVersionNotSupported" id="browserVersionNotSupported">Bohužel, tato verze prohlížeče není podporovaná.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered_header" id="gameWalletMssgWagered_header">Bonus přeměněn</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited_header" id="gameWalletMssgForfeited_header">Bonus propadl</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired_header" id="gameWalletMssgExpired_header">Bonus vypršel</ds>
+  <ds Jurisdiction="*" name="OBOCTTotalWinwithColonVar" id="OBOCTTotalWinwithColonVar">Celkem vyplaceno: {0}</ds>
+  <ds Jurisdiction="*" name="OBfreeRoundsGamePanel" id="OBfreeRoundsGamePanel">Celková výhra: {0}</ds>
+  <ds Jurisdiction="*" name="OCTTotalWinwithColonUC" id="OCTTotalWinwithColonUC">CELKOVÁ VÝHRA: {0}</ds>
+  <ds Jurisdiction="*" name="TotalWinwithColonVar" id="TotalWinwithColonVar">Celková výhra: {0}</ds>
+  <ds Jurisdiction="*" name="RCheckEndCont" id="RCheckEndCont">Chcete skončit hru, nebo pokračovat?</ds>
+  <ds Jurisdiction="*" name="121" id="121">Chcete-li spustit automatickou hru, musíte podat sázku.</ds>
+  <ds Jurisdiction="*" name="performanceNotification" id="performanceNotification">Chcete-li zvýšit výkon, pomocí nastavení hry snižte kvalitu grafiky.</ds>
+  <ds Jurisdiction="*" name="OBperformanceNotification" id="OBperformanceNotification">Chcete-li zvýšit výkon, snižte v nabídce herních nastavení kvalitu grafiky.</ds>
+  <ds Jurisdiction="*" name="RCheckDay" id="RCheckDay">den</ds>
+  <ds Jurisdiction="*" name="RCheckDays" id="RCheckDays">dny(ů)</ds>
+  <ds Jurisdiction="*" name="11" id="11">Dosáhli jste svého herního limitu.  Přijďte si znovu zahrát později.</ds>
+  <ds Jurisdiction="*" name="122" id="122">Film ze závodu nelze přehrát.</ds>
+  <ds Jurisdiction="*" name="RCheckHours" id="RCheckHours">hod</ds>
+  <ds Jurisdiction="*" name="RCheckHour" id="RCheckHour">hod.</ds>
+  <ds Jurisdiction="*" name="0" id="0">Hra momentálně není k dispozici. Zkuste to znovu později.</ds>
+  <ds Jurisdiction="*" name="53" id="53">Hra momentálně není k dispozici. Zkuste to znovu později.</ds>
+  <ds Jurisdiction="*" name="56" id="56">Hra momentálně není k dispozici. Zkuste to znovu později.</ds>
+  <ds Jurisdiction="*" name="58" id="58">Hra momentálně není k dispozici. Zkuste to znovu později.</ds>
+  <ds Jurisdiction="*" name="RCheckPlaying" id="RCheckPlaying">Hrajete {0} {1}. {2} {3}.  {4}</ds>
+  <ds Jurisdiction="*" name="RCheckPlayingFor" id="RCheckPlayingFor">Hrajete:</ds>
+  <ds Jurisdiction="*" name="110" id="110">Hru nelze spustit. Zkuste to znovu později.</ds>
+  <ds Jurisdiction="*" name="RCheckReminder" id="RCheckReminder">JEMNÁ PŘIPOMÍNKA</ds>
+  <ds Jurisdiction="*" name="59" id="59">Klient již je přihlášen. Zkuste to znovu později.</ds>
+  <ds Jurisdiction="*" name="autoRounds" id="autoRounds">kol</ds>
+  <ds Jurisdiction="*" name="OCTroundsLeft" id="OCTroundsLeft">Kola zdarma</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinishedRev" id="OCTfreeRoundsFinishedRev">Kola zdarma ukončena</ds>
+  <ds Jurisdiction="*" name="RCheckEndButton" id="RCheckEndButton">Konec</ds>
+  <ds Jurisdiction="*" name="OCTCheckEndButton" id="OCTCheckEndButton">Konec</ds>
+  <ds Jurisdiction="*" name="OCTlossLimit" id="OCTlossLimit">Limit ztrát</ds>
+  <ds Jurisdiction="*" name="OCThaveFreeRounds" id="OCThaveFreeRounds">Máte {0} kol(a) zdarma!</ds>
+  <ds Jurisdiction="*" name="RCheckMonth" id="RCheckMonth">měsíc</ds>
+  <ds Jurisdiction="*" name="RCheckMinute" id="RCheckMinute">min.</ds>
+  <ds Jurisdiction="*" name="RCheckMinutes" id="RCheckMinutes">min.</ds>
+  <ds Jurisdiction="*" name="70" id="70">Momentálně nemůžeme získat přístup k Vašemu účtu. Zkuste to prosím znovu později.</ds>
+  <ds Jurisdiction="*" name="51" id="51">Na Vašem účtu není dostatek peněz.</ds>
+  <ds Jurisdiction="*" name="10" id="10">Na Vašem účtu není dostatek peněz.</ds>
+  <ds Jurisdiction="*" name="100" id="100">Na Vašem účtu není dostatek peněz.</ds>
+  <ds Jurisdiction="*" name="15" id="15">Na Vašem účtu není dostatek peněz. Přidejte peníze nebo snižte sázku.</ds>
+  <ds Jurisdiction="*" name="101" id="101">Na Vašem účtu v Casinu není dostatek peněz.</ds>
+  <ds Jurisdiction="*" name="14" id="14">Načtěte prosím znovu obsah stránky, aby se aktualizoval zůstatek ve hře.</ds>
+  <ds Jurisdiction="*" name="reset" id="reset">Obnovit</ds>
+  <ds Jurisdiction="*" name="ok_btn" id="ok_btn">OK</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited" id="gameWalletMssgForfeited">Omlouváme se. Váš {0} Bonus propadnul.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired" id="gameWalletMssgExpired">Omlouváme se. Váš {0} Bonus vypršel a již není k dispozici.</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Počet {0}</ds>
+  <ds Jurisdiction="*" name="button_CONTINUE" id="button_CONTINUE">POKRAČOVAT</ds>
+  <ds Jurisdiction="*" name="Continue" id="Continue">Pokračovat</ds>
+  <ds Jurisdiction="*" name="mandatoryField" id="mandatoryField">Povinné pole</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">pravidly pro soubory cookie.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfo" id="OCTlossLimitInfo">Před nastavením limitu **Když se hotovost sníží o** prosím potvrďte nebo určete výši sázky</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfoTouch" id="OCTlossLimitInfoTouch">Před určením limitu pro zastavení automatické hry prosím zadejte výši sázky.</ds>
+  <ds Jurisdiction="*" name="OCTonAnyWin" id="OCTonAnyWin">Při jakékoliv výhře</ds>
+  <ds Jurisdiction="*" name="addValue" id="addValue">Přidat hodnotu</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Připojení: Špatné</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Pro správu statistik a lepší komfort využívá tato hra soubory cookie. Potvrďte prosím, že souhlasíte s našimi</ds>
+  <ds Jurisdiction="*" name="RCheckYear" id="RCheckYear">rok</ds>
+  <ds Jurisdiction="*" name="RCheckYears" id="RCheckYears">roky(ů)</ds>
+  <ds Jurisdiction="*" name="RCheckSecond" id="RCheckSecond">sek.</ds>
+  <ds Jurisdiction="*" name="RCheckSeconds" id="RCheckSeconds">sek.</ds>
+  <ds Jurisdiction="*" name="120" id="120">Tato možnost je k dispozici pouze po skončení kola hry.</ds>
+  <ds Jurisdiction="*" name="40" id="40">Tento turnaj dosud nezačal, zkuste to prosím později.</ds>
+  <ds Jurisdiction="*" name="60" id="60">Tento turnaj skončil, poslední odehrané kolo nebude součástí statistiky turnaje.</ds>
+  <ds Jurisdiction="*" name="50" id="50">Tento turnaj skončil.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">To zřejmě není výsledek, ve který jste doufali. Dejte si ještě {0} Kola zdarma na náš účet.</ds>
+  <ds Jurisdiction="*" name="RCheckWeek" id="RCheckWeek">týden</ds>
+  <ds Jurisdiction="*" name="RCheckWeeks" id="RCheckWeeks">týdny(ů)</ds>
+  <ds Jurisdiction="*" name="upgradeIn" id="upgradeIn">Upgradujte prosím {0} na {1}.</ds>
+  <ds Jurisdiction="*" name="greaterCDB" id="greaterCDB">Uvedená hodnota musí být vyšší než vsazená částka.</ds>
+  <ds Jurisdiction="*" name="notSupportedBrowser" id="notSupportedBrowser">Váš prohlížeč není podporovaný.</ds>
+  <ds Jurisdiction="*" name="102" id="102">Vaše automatická hra byla zrušena.</ds>
+  <ds Jurisdiction="*" name="betExceedCDB" id="betExceedCDB">Vaše sázka je vyšší než hodnota „Když se hotovost sníží o“. Zvyšte prosím příslušný limit.</ds>
+  <ds Jurisdiction="*" name="13" id="13">Vaše sázka překročila maximální sázkový limit pro tuto hru.</ds>
+  <ds Jurisdiction="*" name="25" id="25">Všechny hry byly deaktivovány.</ds>
+  <ds Jurisdiction="*" name="20" id="20">Vypršel stanovený čas Vaší relace. Restartujte hru.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitTouch" id="OCTlossLimitTouch">Zadejte částku „Když se hotovost sníží o“</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitWarning" id="OCTlossLimitWarning">Zadejte prosím výši limitu **Když se hotovost sníží o**.</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlayColon" id="OCTstopAutoPlayColon">Zastavit automatickou hru:</ds>
+  <ds Jurisdiction="*" name="close_btn" id="close_btn">Zavřít</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Zpráva</ds>
+  <ds Jurisdiction="*" name="messagecaption" id="messagecaption">Zpráva</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">Abyste mohli hrát, musíte si aktualizovat operační systém.</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Abyste mohli hrát, potřebujete {0}.</ds>
+  <ds Jurisdiction="*" name="bonusAwardedCongrats" id="bonusAwardedCongrats">Blahopřejeme! Byl vám udělen bonus ve výši {0}.</ds>
+  <ds Jurisdiction="*" name="OBTotalWinwithColonVar" id="OBTotalWinwithColonVar">Celkem vyplaceno: {0}</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Další kola zdarma</ds>
+  <ds Jurisdiction="*" name="nothanks" id="nothanks">Ne, díky</ds>
+  <ds Jurisdiction="*" name="16" id="16">Omlouváme se. Nabídka her zdarma již byla využita.</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">Optimalizováno pro prohlížeč {0} na {1} {2}</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Pro zlepšení uživatelského komfortu a pro správu reklam využívá tato hra soubory cookie. Potvrďte prosím, že souhlasíte s našimi</ds>
+  <ds Jurisdiction="*" name="iagree" id="iagree">Souhlasím</ds>
+  <ds Jurisdiction="*" name="bonusAwardedTitle" id="bonusAwardedTitle">Udělen bonus</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">V zájmu dosažení nejlepšího zážitku ze hry si prosím aktualizujte operační systém.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">V zájmu dosažení nejlepšího zážitku ze hry si prosím aktualizujte prohlížeč.</ds>
+  <ds Jurisdiction="*" name="OCTstopIfWinExeeds" id="OCTstopIfWinExeeds">Zastavit, když jedna výhra překročí</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashIncreasesBy" id="OCTstopIfCashIncreasesBy">Zastavit, když se hotovost navýší o</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashDecreasesBy" id="OCTstopIfCashDecreasesBy">Zastavit, když se hotovost sníží o</ds>
+  <ds Jurisdiction="*" name="stopWhenJackpotIsWon" id="stopWhenJackpotIsWon">Zastavit, když vyhrajete jackpot</ds>
+</defaults>

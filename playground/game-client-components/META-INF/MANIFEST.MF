@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Implementation-Title: Game Client Components
+Implementation-Version: 1.10.0
+Maven-ArtifactId: game-client-components
+Archiver-Version: Plexus Archiver
+Built-By: jenkins-slave
+Jenkins-BuildNumber: 1
+Implementation-Vendor-Id: com.netent.casino-software.games.common
+Jenkins-BuildId: 1
+Git-Hash: b7779eaf15cc0e6258ed0d8acb2499f72d53f3cc (with local modific
+ ations)
+Implementation-Vendor: Net Entertainment
+Maven-Classifier: 
+Maven-GroupId: com.netent.casino-software.games.common
+Jenkins-BuildUrl: https://gdp-gbc-01.netent.com/job/ngcc-game-client-c
+ omponents-master/1/
+Git-CommitTime: 2019-11-15T09:59:48.000Z
+Git-Url: https://git.netent.com/scm/ngcc/game-client-components.git
+Maven-Name: Game Client Components
+Maven-Version: 1.10.0
+Jenkins-JobName: ngcc-game-client-components-master
+Created-By: Apache Maven 3.0.4
+Build-Jdk: 1.8.0_151
+

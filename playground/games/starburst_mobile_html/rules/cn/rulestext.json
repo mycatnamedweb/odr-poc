@@ -1,0 +1,738 @@
+﻿[
+    {
+        "id": "RTGameHistNoPlayForFun",
+        "text": "（\u003cb\u003e小赌怡情\u003c/b\u003e模式下不提供）。"
+    },
+    {
+        "id": "RTquickSpinDisclaimer",
+        "text": "（并非所有赌局都提供此功能）。"
+    },
+    {
+        "id": "RTmaxbetPlays",
+        "text": "\u003cb\u003e最高赌注\u003c/b\u003e以最高赌注线、最高赌注等级、目前游戏币值玩游戏。"
+    },
+    {
+        "id": "RTMGsettingsDisclaimer",
+        "text": "\u003cb\u003e注：\u003c/b\u003e 一些运营商可能不提供所有列出的游戏设置。"
+    },
+    {
+        "id": "RTsettingsDisclaimer",
+        "text": "\u003cb\u003e注:\u003c/b\u003e 有些赌场的运作可能不使用所有列出的游戏设定。"
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003e注：\u003c/b\u003e一些自动游戏选项在某些地区是必选的。"
+    },
+    {
+        "id": "RTAutoplayDisconnect",
+        "text": "\u003cb\u003e注：\u003c/b\u003e如果游戏过程中失去连接，重新载入游戏时所有自动游戏设置将恢复默认设置。"
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003e注\u003c/b\u003e: 如果您使用英文以外的语言进行游戏，那么以下的列表就适用。"
+    },
+    {
+        "id": "RTMGautoplayDisconnect",
+        "text": "\u003cb\u003e注意:\u003c/b\u003e如果游戏过程中中断连接，重新载入游戏时所有 自动游戏 设置将恢复默认设置。"
+    },
+    {
+        "id": "RTcoinsDisplayValues",
+        "text": "\u003cb\u003e游戏币\u003c/b\u003e显示玩家拥有的可下注游戏币数量。"
+    },
+    {
+        "id": "RTMGcoinsDisplayValues",
+        "text": "\u003cb\u003e游戏币\u003c/b\u003e显示玩家拥有的可下注游戏币数量。"
+    },
+    {
+        "id": "RTautoplayPlays",
+        "text": "\u003cb\u003e自动游戏\u003c/b\u003e 会自动就所选择的回合次数进行游戏（或者，您也可以单击\u003cb\u003eAUTO\u003c/b\u003e按钮）。"
+    },
+    {
+        "id": "RTautoplayPlaysJimi",
+        "text": "\u003cb\u003e自动游戏\u003c/b\u003e 会自动就所选择的回合次数进行游戏（或者，您也可以单击\u003cb\u003eAUTO\u003c/b\u003e按钮）。"
+    },
+    {
+        "id": "RTMGreturnToPlayer",
+        "text": "\u003cb\u003e返回玩家\u003c/b\u003e"
+    },
+    {
+        "id": "RTsoundButton",
+        "text": "\u003cb\u003e音效\u003c/b\u003e"
+    },
+    {
+        "id": "RTMGstarburstTouchIntro",
+        "text": "Starburst Touch™ 是一款 5 卷轴、3 行的视频老虎机游戏，拥有带重新旋转的 Starburst™ Wild，还可以双向赢奖。"
+    },
+    {
+        "id": "RTMGstarburstTouchRulesHeading",
+        "text": "Starburst Touch™ 游戏规则"
+    },
+    {
+        "id": "RTstarBurstWildHeading",
+        "text": "Starburst™ Wild"
+    },
+    {
+        "id": "RTstarBurstWildSymbAppear",
+        "text": "Starburst™ Wild 符号只在卷轴 2、3 和 4 上出现。"
+    },
+    {
+        "id": "RTstarBurstWildSubstitute",
+        "text": "Starburst™ Wild 符号可代替所有符号。"
+    },
+    {
+        "id": "RTstarBurstIntro",
+        "text": "Starburst™ 是一款 5 卷轴、3 行的视频老虎机游戏，拥有带重新旋转的 Starburst™ Wild，还可以双向赢奖。"
+    },
+    {
+        "id": "RTstarBurstRulesHeading",
+        "text": "Starburst™ 游戏规则"
+    },
+    {
+        "id": "RTreferWebSite",
+        "text": "下列游戏功能和设置可能受游戏网站的条款和条件约束。 欲知以下问题的更多相关信息，请参阅游戏网站："
+    },
+    {
+        "id": "RTtableDescribes",
+        "text": "下表列出了游戏中的各种按钮，并说明了它们的功能。"
+    },
+    {
+        "id": "RTMGgameSessions2",
+        "text": "不活动的游戏会话在此时间后自动结束。"
+    },
+    {
+        "id": "RTMGbuttonsMainGame",
+        "text": "主游戏"
+    },
+    {
+        "id": "RTpaytableHighestRev",
+        "text": "仅支付每条赔付线上的双向最高赢奖。"
+    },
+    {
+        "id": "RTMGreferWebSite",
+        "text": "以下游戏功能和设置以博彩网站的条款和条件为准。关于以下内容的更多信息，请参阅博彩网站："
+    },
+    {
+        "id": "RTplayCurrentBetLinesTo10",
+        "text": "以不同的赌注等级和硬币值玩 1 到 10 条赔付线。"
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoMultiplierTrans",
+        "text": "以游戏币计算的赌注线赢奖等于\u003cb\u003e赔率表\u003c/b\u003e上显示的值乘以赌注等级。"
+    },
+    {
+        "id": "RTCalcBetLineCoinNoMultiplierTransNew",
+        "text": "以游戏币计算的赌注线赢奖等于赔率表上显示的值乘以赌注等级。"
+    },
+    {
+        "id": "RTMGbetInCash",
+        "text": "以现金下注"
+    },
+    {
+        "id": "RTMGbetInCoins",
+        "text": "以硬币下注"
+    },
+    {
+        "id": "RTMGshowsBetCoins",
+        "text": "以硬币显示您的下注金额。"
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "以硬币计算的赔付线赢奖等于\u003cb\u003e赔率表\u003c/b\u003e中显示的值乘以赌注等级。"
+    },
+    {
+        "id": "RTMGjimiwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "以硬币计算的赔付线赢奖等于\u003cb\u003e赔率表\u003c/b\u003e中显示的值乘以赌注等级。"
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoBold",
+        "text": "以硬币计算的赔付线赢奖等于赔率表中显示的值乘以赌注等级。此金额也与任何适用的乘数相乘。"
+    },
+    {
+        "id": "RTwinCalcBetLinesNoMultiplier",
+        "text": "以硬币计算的赔付线赢奖等于赔率表中显示的值乘以赌注等级。此金额也与任何适用的乘数相乘。"
+    },
+    {
+        "id": "RTwinCalculationBetLinesCurrency",
+        "text": "以货币计算的赌注线赢奖等于赢得的游戏币乘以游戏币值。"
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCurrency",
+        "text": "以货币计算的赔付线赢奖等于赢得的游戏币乘以游戏币值。"
+    },
+    {
+        "id": "RTMGshowsBetCurrency",
+        "text": "以选定货币显示您的下注金额。"
+    },
+    {
+        "id": "RTMGbetLevelInstruction",
+        "text": "使用\u003cb\u003e赌注等级\u003c/b\u003e选择器设置赌注等级。"
+    },
+    {
+        "id": "RTMGcoinValueInstruction",
+        "text": "使用游戏币值选择器设置游戏币值。"
+    },
+    {
+        "id": "RTMGstopAutoplayOnOff",
+        "text": "停止 自动游戏"
+    },
+    {
+        "id": "RTfunctionTableHead",
+        "text": "功能"
+    },
+    {
+        "id": "RTstarburstWildFeatureActive",
+        "text": "卷轴 2、3 或 4 上任意位置出现一个或多个 Starburst™ Wild 可激活 Starburst™ Wild 功能。"
+    },
+    {
+        "id": "RTHighWinSymCompleteActLineRev",
+        "text": "只有从最左至右边和/或从最右至左边的激活赔付线上的最高赢奖组合得到赔付。"
+    },
+    {
+        "id": "RTMGhistoryNotAvailable",
+        "text": "只有玩真钱游戏时才能使用游戏历史。"
+    },
+    {
+        "id": "RTstarBurststickyWExpandsReSpinsRev",
+        "text": "在 Starburst™ Wild 功能期间，Starburst™ Wild 扩展以覆盖整个卷轴，并在其他卷轴重新旋转时留在原位。"
+    },
+    {
+        "id": "simultaneousWinsAdded",
+        "text": "在不同的赌注线同时赢奖，奖金会添加。"
+    },
+    {
+        "id": "RTMGtapDuringSpin",
+        "text": "在旋转中轻按游戏区以停止卷轴。"
+    },
+    {
+        "id": "RTMGtouchMainGameNew",
+        "text": "在横向模式下，触摸游戏区以把旋转按钮隐藏起来。"
+    },
+    {
+        "id": "RTgameSessions2",
+        "text": "处于非活动状态的游戏会话在该时间后将自动终止。"
+    },
+    {
+        "id": "RTstarBurstAddReSpinsRev",
+        "text": "如果新的 Starburst™ Wild 在重新旋转期间出现，它会扩展并与任何先前扩展过的 Starburst™ Wild 一起留在原位准备又一次重新旋转。"
+    },
+    {
+        "id": "RTmalfunction",
+        "text": "如果游戏硬件/软件发生故障，所有受影响的游戏赌注和赔付将作废，所有受影响的赌注将退还。"
+    },
+    {
+        "id": "RTMGmalfunction",
+        "text": "如果游戏硬件/软件发生故障，所有受影响的游戏赌注和赔付将作废，所有受影响的赌注将退还。"
+    },
+    {
+        "id": "RTMGstopIfFreeSpins",
+        "text": "如果赢得 Free Spin 就停止"
+    },
+    {
+        "id": "RTMGdisableAutoplay",
+        "text": "如果还未完成所选的自动游戏回合，却已赢得 Free Spins，请轻按以禁用自动游戏。"
+    },
+    {
+        "id": "RTMGdisableAutoplayPickClick",
+        "text": "如果还未完成所选的自动游戏回合，却已赢得 Pick and Click ，请轻按以禁用自动游戏。"
+    },
+    {
+        "id": "RTMGsoundsOff",
+        "text": "始终禁用音效"
+    },
+    {
+        "id": "RTMGleftHandMode",
+        "text": "左手模式"
+    },
+    {
+        "id": "cashDecreasesDesc",
+        "text": "当现金减少了您指定的金额时，停止自动游戏。"
+    },
+    {
+        "id": "cashIncreasesDesc",
+        "text": "当现金增加了您指定的金额时，停止自动游戏。"
+    },
+    {
+        "id": "RTMGquickStop",
+        "text": "快速停止"
+    },
+    {
+        "id": "RTMGquickSpin",
+        "text": "快速旋转"
+    },
+    {
+        "id": "RTMGquickSpinGameSetting",
+        "text": "快速旋转"
+    },
+    {
+        "id": "RTMGquickSettings",
+        "text": "快速设置菜单"
+    },
+    {
+        "id": "RTviewMiniPaytable",
+        "text": "您也可以在进行主要游戏时单击任何在卷轴上的符号以查看该符号的迷你支付表。"
+    },
+    {
+        "id": "RTMGplay10FixedBetLines",
+        "text": "您可以不同的赌注等级和硬币值玩 10 条固定赔付线。"
+    },
+    {
+        "id": "RTintroOffRev",
+        "text": "打开或关闭介绍屏幕。"
+    },
+    {
+        "id": "RTanimationsOff",
+        "text": "打开或关闭动画。"
+    },
+    {
+        "id": "RTquickSpinDescRev",
+        "text": "打开或关闭快速旋转选项"
+    },
+    {
+        "id": "RTgameSoundDesc",
+        "text": "打开或关闭游戏音效。"
+    },
+    {
+        "id": "RTspacebarspin",
+        "text": "打开或关闭空格键功能。"
+    },
+    {
+        "id": "RTambienceDescRev",
+        "text": "打开或关闭背景音效。"
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRevNew",
+        "text": "拖动或点击滑块以启动自动游戏并设置游戏回合数。自动游戏使用所选的游戏回合数来进行游戏。"
+    },
+    {
+        "id": "RTMGselectBetLevelRevNew",
+        "text": "拖动或点击滑块以选择每条赔付线上的投注硬币数。"
+    },
+    {
+        "id": "RTMGselectCoinValueRevNew",
+        "text": "拖动或轻点滑块以选择筹码面值。"
+    },
+    {
+        "id": "RTbuttonTableHead",
+        "text": "按钮"
+    },
+    {
+        "id": "RTMGnoAutoplayLeft",
+        "text": "按钮上显示了剩余的旋转数量。"
+    },
+    {
+        "id": "RTMGspinButton",
+        "text": "旋转按钮"
+    },
+    {
+        "id": "RTspinPlayRev",
+        "text": "旋转按钮会采用当前赌注线，赌注大小，和钱币值（或者，按空白键）。"
+    },
+    {
+        "id": "RTMGnumberSpins",
+        "text": "旋转数量"
+    },
+    {
+        "id": "RTMGspinSettingsRev",
+        "text": "旋转设置"
+    },
+    {
+        "id": "RTmaxBetAtHighBetLevel",
+        "text": "最高赌注以最高赌注等级和当前硬币值玩游戏。"
+    },
+    {
+        "id": "RTtheoreticalReturn",
+        "text": "本游戏的理论玩家回报率为"
+    },
+    {
+        "id": "RTgameFunctionsHeading",
+        "text": "游戏功能"
+    },
+    {
+        "id": "RTMGgameHistoryHeading",
+        "text": "游戏历史"
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "游戏术语的翻译"
+    },
+    {
+        "id": "RTMGtheoreticalReturn",
+        "text": "游戏玩家的理论回报是"
+    },
+    {
+        "id": "RTMGgameRules",
+        "text": "游戏规则"
+    },
+    {
+        "id": "RTrulesGenerated",
+        "text": "游戏规则制定日期："
+    },
+    {
+        "id": "RTMGgameSettings",
+        "text": "游戏设置与游戏信息"
+    },
+    {
+        "id": "gameSettingOptionsHeading",
+        "text": "游戏设置选项"
+    },
+    {
+        "id": "RTMGsounds",
+        "text": "游戏音效"
+    },
+    {
+        "id": "RTinformationIconButtonDesc",
+        "text": "点击以查看\u003cb\u003e赔率表\u003c/b\u003e。"
+    },
+    {
+        "id": "RTinformationIconButtonDescJimi",
+        "text": "点击以查看\u003cb\u003e赔率表\u003c/b\u003e。"
+    },
+    {
+        "id": "RTinformationIconButtonNoBold",
+        "text": "点击以查看赔率表。"
+    },
+    {
+        "id": "RTstartGameRound",
+        "text": "点击以目前赌注等级和游戏币值开始一轮游戏（或者按空格键）。"
+    },
+    {
+        "id": "RTmuteSoundSliderRev",
+        "text": "点击关闭游戏音效，或用滑块调整音量。"
+    },
+    {
+        "id": "RTpaytableButtonsDescRev",
+        "text": "点击向左或向右箭头，移动\u003cb\u003e赔率表\u003c/b\u003e页面。 点击中心按钮返回游戏。"
+    },
+    {
+        "id": "RTpaytableButtonsDescNoBold",
+        "text": "点击向左或向右箭头，移动赔率表页面。 点击中心按钮返回游戏。"
+    },
+    {
+        "id": "RTopenGameRules",
+        "text": "点击打开游戏规则。"
+    },
+    {
+        "id": "RTopenSettingsMenu",
+        "text": "点击打开游戏设置菜单，选择游戏选项。 参阅下文的\"游戏设置\"部分。"
+    },
+    {
+        "id": "RTgameHistoryDesc",
+        "text": "点击查看最新游戏历史记录"
+    },
+    {
+        "id": "gameSettingIntro",
+        "text": "点击游戏面板上的扳手图标，进入游戏设置。"
+    },
+    {
+        "id": "RTreturnToPlayer",
+        "text": "玩家回报率"
+    },
+    {
+        "id": "RTMGunfinishedGameSession2",
+        "text": "用于管理未完成游戏回合的程序。"
+    },
+    {
+        "id": "RTunfinishedGameSession2",
+        "text": "用于管理未完游戏回合的程序。"
+    },
+    {
+        "id": "RTMGcoinvalue",
+        "text": "硬币价值"
+    },
+    {
+        "id": "RTMGautoplayPanelLabel",
+        "text": "自动游戏"
+    },
+    {
+        "id": "RTMGautoplayQuickSpinHeading",
+        "text": "自动游戏 和快速旋转"
+    },
+    {
+        "id": "advancedAutoplayOptionsHeading",
+        "text": "自动游戏高级选项"
+    },
+    {
+        "id": "termEnglish",
+        "text": "英文术语"
+    },
+    {
+        "id": "RTMGmenu",
+        "text": "菜单"
+    },
+    {
+        "id": "RTMGadditionalInformation",
+        "text": "补充信息"
+    },
+    {
+        "id": "RTAutoplayButton",
+        "text": "要高级自动游戏选项，单击在键盘上的\u003cb\u003e自动游戏\u003c/b\u003e或游戏面板上的\u003cb\u003eAUTO\u003c/b\u003e，然后单击\u003cb\u003e高级设定\u003c/b\u003e。"
+    },
+    {
+        "id": "RTMGtouchMainGame",
+        "text": "触摸游戏区以隐藏旋转按钮。"
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "译成术语"
+    },
+    {
+        "id": "RTadjustQualityRev",
+        "text": "调整画质，获得最佳画质表现。"
+    },
+    {
+        "id": "RTMGbetlevel",
+        "text": "赌注等级"
+    },
+    {
+        "id": "RTbetLevel",
+        "text": "赌注等级为每条赌注线的游戏币赌注数量。"
+    },
+    {
+        "id": "termPaytable",
+        "text": "赔率表"
+    },
+    {
+        "id": "RTMGpaytable",
+        "text": "赔率表"
+    },
+    {
+        "id": "RTMGpaytableJimi",
+        "text": "赔率表"
+    },
+    {
+        "id": "RTMGwinCombinations",
+        "text": "赢奖组合和赔付率根据\u003cb\u003e赔率表\u003c/b\u003e确定。"
+    },
+    {
+        "id": "RTwinCombinationPaytable",
+        "text": "赢奖组合和赔付率根据\u003cb\u003e赔率表\u003c/b\u003e确定。"
+    },
+    {
+        "id": "RTwinCombinationPaytablenoBold",
+        "text": "赢奖组合和赔付率根据赔率表确定。"
+    },
+    {
+        "id": "anyWinDesc",
+        "text": "赢得一轮后停止自动游戏。"
+    },
+    {
+        "id": "singleWinDesc",
+        "text": "赢得的金额超过或等于您的指定金额时停止自动游戏 。"
+    },
+    {
+        "id": "RTsingleWinDescRev",
+        "text": "赢得的金额超过或等于指定金额时停止自动游戏。"
+    },
+    {
+        "id": "RTMGselectSpinsRev",
+        "text": "轻扫或轻按设置转盘以选择 自动游戏 旋转次数。"
+    },
+    {
+        "id": "RTMGselectBetLevelRev",
+        "text": "轻扫或轻按设置转盘以选择每条赔付线上的投注硬币数。"
+    },
+    {
+        "id": "RTMGselectCoinValueRev",
+        "text": "轻扫或轻按设置转盘以选择硬币价值。"
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRev",
+        "text": "轻按“切换”以开启或关闭 自动游戏。 自动游戏 在选定的轮数进行游戏。"
+    },
+    {
+        "id": "RTMGtapOnOffRev",
+        "text": "轻按“切换”以开启或关闭“快速旋转”。"
+    },
+    {
+        "id": "RTMGsoundOnOffRev",
+        "text": "轻按“切换”以开启或关闭音效。"
+    },
+    {
+        "id": "RTMGsoundsDisabledRev",
+        "text": "轻按“切换”以禁用未来游戏会话的音效。"
+    },
+    {
+        "id": "RTMGtapSpinButtonRev",
+        "text": "轻按以使用当前赔付线、赌注等级和硬币值开始游戏。"
+    },
+    {
+        "id": "RTMGstopAutoplay",
+        "text": "轻按以停止 自动游戏。"
+    },
+    {
+        "id": "RTMGspinButtonLeft",
+        "text": "轻按以启动或关闭左手模式。"
+    },
+    {
+        "id": "RTMGstartAutoplay",
+        "text": "轻按以开始 自动游戏。"
+    },
+    {
+        "id": "RTMGstartQuickSpin",
+        "text": "轻按以开始快速旋转。"
+    },
+    {
+        "id": "RTMGgameHistoryDesc",
+        "text": "轻按以查看您的最新游戏历史记录"
+    },
+    {
+        "id": "RTMGviewGamesRules",
+        "text": "轻按以查看游戏规则。"
+    },
+    {
+        "id": "RTMGwinComb",
+        "text": "轻按以查看赢奖组合和派彩。"
+    },
+    {
+        "id": "RTMGdisableAutoplayIfBonusGame",
+        "text": "轻按以禁用自动游戏（只适用于在自动游戏回合完成前赢得奖金游戏的情况）。"
+    },
+    {
+        "id": "RTMGleaveGame",
+        "text": "轻按以离开游戏。"
+    },
+    {
+        "id": "RTMGbackMainGame",
+        "text": "轻按以返回主游戏。"
+    },
+    {
+        "id": "RTMGgameSettingIntroDevNew",
+        "text": "轻按以进入游戏设置和取得游戏信息。"
+    },
+    {
+        "id": "RTMGgameSettingIntroDev",
+        "text": "轻按以进入游戏设置和游戏信息，交替轻按现金显示和硬币显示。"
+    },
+    {
+        "id": "RTMGquickSettingsMenu",
+        "text": "轻按加号以进入快速设置菜单。"
+    },
+    {
+        "id": "RTMGautoplayUI",
+        "text": "轻按即可启动或关闭停止游戏，而不需要通过设置菜单。设默认值为 50 个回合。"
+    },
+    {
+        "id": "RTMGquickSpinUI",
+        "text": "轻按即可启动或关闭快速旋转，而不需要通过设置菜单。"
+    },
+    {
+        "id": "RTMGsoundSettingsUI",
+        "text": "轻按即可启动或关闭音效，而不需要通过设置菜单。"
+    },
+    {
+        "id": "RTMGback",
+        "text": "返回"
+    },
+    {
+        "id": "RTgHistoryNotAvailableForFun",
+        "text": "进行 \u003cb\u003e玩玩就好\u003c/b\u003e时无法提供游戏历史。"
+    },
+    {
+        "id": "RTMGexit",
+        "text": "退出"
+    },
+    {
+        "id": "RTMGAutoplaySpins",
+        "text": "选定的旋转数量会被显示在按钮上。"
+    },
+    {
+        "id": "RTautoplaySelectSpins",
+        "text": "选择自动游戏的轮数，或打开高级设置，配置停止自动游戏选项。"
+    },
+    {
+        "id": "RTstarburstWildEnds",
+        "text": "重新旋转期间不再出现新的 Starburst™ Wild 时，Starburst™ Wild 功能结束。"
+    },
+    {
+        "id": "ReSpinsAtActivatingRound",
+        "text": "重新旋转的赌注与激活重新旋转那一轮游戏的相同。"
+    },
+    {
+        "id": "RTMGsoundSettings",
+        "text": "音效设置"
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "额外信息"
+    },
+    {
+        "id": "termWild",
+        "text": "鬼牌"
+    },
+    {
+        "id": "RTautoplayDuringGameRev",
+        "text": "\u003cb\u003e注意：\u003c/b\u003e如果在一轮游戏过程中更改 自动游戏 设置，所有设置将在游戏回合或功能完成时生效。"
+    },
+    {
+        "id": "RTwinCalculationWinMatchCurrency",
+        "text": "以货币计算的赌注线赢奖等于赢得的游戏币乘以游戏币值。"
+    },
+    {
+        "id": "RTopenAutoplayMenu",
+        "text": "点击打开自动游戏设置菜单，自动玩游戏。"
+    },
+    {
+        "id": "RTexCloneWildOverlay",
+        "text": "Expanding Cloning Wild 符号会以重叠的方式出现在旋转的卷轴上。拷贝的符号也会以重叠的方式出现在卷轴上。"
+    },
+    {
+        "id": "RTeachStar1AddRespinUpTo3respin",
+        "text": "Starburst™ Wild 激活一次再旋转后最多有 2 个额外 Starburst™ Wild 符号出现，触发 1 次额外的再旋转或最多有 3 次再旋转。"
+    },
+    {
+        "id": "RTsliderBetLevel",
+        "text": "使用投注等级滑动块设置投注等级。"
+    },
+    {
+        "id": "RTsliderCoinValue",
+        "text": "使用硬币值滑动块设置硬币值。"
+    },
+    {
+        "id": "RTcashDecreasesDescRev",
+        "text": "当现金减少了您指定的金额时，停止自动游戏。"
+    },
+    {
+        "id": "RTcashIncreasesDescRev",
+        "text": "当现金增加了您指定的金额时，停止自动游戏。"
+    },
+    {
+        "id": "onlyHighWinComb",
+        "text": "投注线上只赔付从最左边到右边和/或从最右边到左边排列的最高赢奖组合。"
+    },
+    {
+        "id": "RTMGautoOptions",
+        "text": "拖动或点击滑动来启用自动游戏并设置自动游戏选项和局数，从而自动进行选定次数的旋转。"
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003e注：\u003c/b\u003e一些自动游戏选项在某些地区是必选的。"
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003e注\u003c/b\u003e: 如果您使用英文以外的语言进行游戏，那么以下的列表就适用。"
+    },
+    {
+        "id": "featuresNotAvailablePFF",
+        "text": "一些功能在\u003cb\u003e玩玩就好\u003c/b\u003e模式时也许不可用 。"
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "游戏术语的翻译"
+    },
+    {
+        "id": "termEnglish",
+        "text": "英文术语"
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "译成术语"
+    },
+    {
+        "id": "RTsingleWinDescRevNew",
+        "text": "赢得的金额超过或等于指定金额时停止自动游戏。"
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "额外信息"
+    }
+]

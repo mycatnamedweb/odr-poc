@@ -1,0 +1,738 @@
+﻿[
+    {
+        "id": "RTGameHistNoPlayForFun",
+        "text": "(Nem elérhető \u003cb\u003eDEMÓ JÁTÉK\u003c/b\u003e)."
+    },
+    {
+        "id": "RTquickSpinDisclaimer",
+        "text": "(Nem minden kaszinóban érhető el)."
+    },
+    {
+        "id": "RTsoundButton",
+        "text": "\u003cb\u003eHang\u003c/b\u003e"
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003eMegjegyzés:\u003c/b\u003e Egyes automatikus játék opciók bizonyos illetékességi területeken kötelezők."
+    },
+    {
+        "id": "RTsettingsDisclaimer",
+        "text": "\u003cb\u003eMegjegyzés:\u003c/b\u003e Előfordulhat, hogy bizonyos kaszinókban nem érhető el minden játékbeállítás."
+    },
+    {
+        "id": "RTMGsettingsDisclaimer",
+        "text": "\u003cb\u003eMegjegyzés:\u003c/b\u003e Előfordulhat, hogy egyes szolgáltatóknál nem minden játékbeállítás érhető el."
+    },
+    {
+        "id": "RTMGautoplayDisconnect",
+        "text": "\u003cb\u003eMegjegyzés:\u003c/b\u003e Ha játék közben megszakad a csatlakozása a játékhoz, akkor a játék újratöltésekor az Automatikus játék beállításai alapértelmezésbe állítódnak vissza."
+    },
+    {
+        "id": "RTAutoplayDisconnect",
+        "text": "\u003cb\u003eMegjegyzés:\u003c/b\u003e Ha játék közben megszűnik a csatlakozás, akkor játék újraindításakor az Autom. játék beállítások visszakerülnek alapbeállításba."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003eMegjegyzés\u003c/b\u003e: A következő táblázat csak akkor érvényes, ha nem angol nyelven játszik."
+    },
+    {
+        "id": "RTMGreturnToPlayer",
+        "text": "\u003cb\u003eVissza a játékoshoz\u003c/b\u003e"
+    },
+    {
+        "id": "RTMGplay10FixedBetLines",
+        "text": "10 tétsoron, különböző tétszinten és érmeértéken játszhatsz egyszerre."
+    },
+    {
+        "id": "RTinformationIconButtonDesc",
+        "text": "A \u003cb\u003eKIFIZETÉSI TÁBLÁZAT\u003c/b\u003e megtekintéséhez kattints ide."
+    },
+    {
+        "id": "RTinformationIconButtonDescJimi",
+        "text": "A \u003cb\u003eKIFIZETÉSI TÁBLÁZAT\u003c/b\u003e megtekintéséhez kattints ide."
+    },
+    {
+        "id": "RTpaytableButtonsDescRev",
+        "text": "A \u003cb\u003eKIFIZETÉSI TÁBLÁZAT\u003c/b\u003e oldalainak görgetéséhez kattintson a jobbra vagy balra mutató nyilakra. A játékhoz a középső gombra kattintva térhet vissza."
+    },
+    {
+        "id": "RTmaxbetPlays",
+        "text": "A \u003cb\u003eMAX. TÉT\u003c/b\u003e beállítással az összes nyerővonalon, a legmagasabb tétszinten és aktuális érmeértékkel játszhat."
+    },
+    {
+        "id": "RTstarburstWildFeatureActive",
+        "text": "A 2, 3, 4 tárcsákon bárhol megjelenő egy vagy több Starburst™ Wilds  aktiválja a Starburst™ Wild funkciót."
+    },
+    {
+        "id": "RTMGspinButtonLeft",
+        "text": "A bal kezes mód ki- és bekapcsolásához koppintson."
+    },
+    {
+        "id": "RTunfinishedGameSession2",
+        "text": "A be nem fejezett játékkörök kezeléséhez szükséges eljárások."
+    },
+    {
+        "id": "RTMGunfinishedGameSession2",
+        "text": "A be nem fejezett játékkörök kezeléséhez szükséges eljárások."
+    },
+    {
+        "id": "RTMGquickSettingsMenu",
+        "text": "A Gyorsbeállítások menü eléréséhez koppintson a plusz jelre."
+    },
+    {
+        "id": "RTquickSpinDescRev",
+        "text": "A gyorspörgetés opció be- és kikapcsolása"
+    },
+    {
+        "id": "RTMGnoAutoplayLeft",
+        "text": "A hátralévő pörgetések száma megjelenik a gombon."
+    },
+    {
+        "id": "RTMGgameSettingIntroDevNew",
+        "text": "A játék beállítások és információk megnyitásához koppintson."
+    },
+    {
+        "id": "RTmuteSoundSliderRev",
+        "text": "A játék hangjának elnémításához kattintson, vagy használja a csúszkát a hangerő beállításához."
+    },
+    {
+        "id": "RTmalfunction",
+        "text": "A játék hardver/szoftver meghibásodása esetén az összes érintett fogadás és kifizetés semmisnek minősül és az összes megett tétet visszafizetjük."
+    },
+    {
+        "id": "RTMGmalfunction",
+        "text": "A játék hardver/szoftver meghibásodása esetén az összes érintett fogadás és kifizetés semmisnek minősül és az összes megtett tétet visszafizetjük."
+    },
+    {
+        "id": "RTMGleaveGame",
+        "text": "A játékból való kilépéshez koppintson ide."
+    },
+    {
+        "id": "RTMGhistoryNotAvailable",
+        "text": "A játékelőzmények csak pénzes játék esetén kérhetők le."
+    },
+    {
+        "id": "RTgHistoryNotAvailableForFun",
+        "text": "A Játékelőzmények funkció nem érhető el a \u003cb\u003eDEMÓ JÁTÉK\u003c/b\u003e változatban."
+    },
+    {
+        "id": "RTstartGameRound",
+        "text": "A játékkör indításához az aktuális tétszinten és érmeértéken, nyomja le a szóköz billentyűt."
+    },
+    {
+        "id": "RTtheoreticalReturn",
+        "text": "A játékos általános nyeresége ebben a játékban"
+    },
+    {
+        "id": "RTMGtheoreticalReturn",
+        "text": "A játékos általános nyeresége ebben a játékban"
+    },
+    {
+        "id": "RTinformationIconButtonNoBold",
+        "text": "A kifizetési táblázat megtekintéséhez kattintson."
+    },
+    {
+        "id": "RTpaytableButtonsDescNoBold",
+        "text": "A kifizetési táblázat oldalak közötti görgetéshez kattintson a balra vagy jobbra mutató nyilakra. A játékhoz való visszatéréshez kattintson a középső gombra."
+    },
+    {
+        "id": "RTMGAutoplaySpins",
+        "text": "A kiválasztott pörgetések száma a gombon látható."
+    },
+    {
+        "id": "RTreferWebSite",
+        "text": "A következő játék funkciókra és beállításokra a játék weboldalának használati feltételei vonatkozhatnak. További tájékoztatásért lásd a játék weboldalát:"
+    },
+    {
+        "id": "RTMGreferWebSite",
+        "text": "A következő játékfunkciókat és beállításokat befolyásolhatják a játék weboldalának használati feltételei. További tájékoztatásért az alábbiakról fordulj a játék üzemeltetőjéhez:"
+    },
+    {
+        "id": "RTHighWinSymCompleteActLineRev",
+        "text": "A legmagasabb nyerő kombináció a bal szélső keréktől és/vagy a jobb szélső keréktől kell haladnia egy aktív tétsoron."
+    },
+    {
+        "id": "RTwinCombinationPaytable",
+        "text": "A nyerő kombinációkat és a kifizetéseket a \u003cb\u003eKIFIZETÉSI TÁBLÁZAT\u003c/b\u003e tartalmazza."
+    },
+    {
+        "id": "RTMGwinCombinations",
+        "text": "A nyerő kombinációkat és a kifizetéseket a kifizetési táblázat tartalmazza."
+    },
+    {
+        "id": "RTwinCombinationPaytablenoBold",
+        "text": "A nyerő kombinációkat és kifizetéseket a kifizetési Táblázat Határozza meg."
+    },
+    {
+        "id": "RTMGselectBetLevelRevNew",
+        "text": "A nyerővonalankénti érmék számának kiválasztásához húzd vagy koppints a csúszkára."
+    },
+    {
+        "id": "RTspacebarspin",
+        "text": "A space gomb funkció be- és kikapcsolása."
+    },
+    {
+        "id": "RTspinPlayRev",
+        "text": "A spin gombbal az aktuális nyerősorok, tét és érmeérték figyelembe vételével indítható a játék (vagy nyomja meg a space gombot)."
+    },
+    {
+        "id": "RTMGstarburstTouchIntro",
+        "text": "A Starburst Touch™ egy 5 kerekes, 3 soros videojáték Starburst™ Wild funkcióval, újrapörgetésekkel és kétirányú nyereményekkel."
+    },
+    {
+        "id": "RTstarBurstIntro",
+        "text": "A Starburst™ egy 5-kerekes, 3-soros videójáték Starburst™ Wild szimbólumokkal, újrapörgetéssel és kétoldali nyereménnyel."
+    },
+    {
+        "id": "RTstarburstWildEnds",
+        "text": "A Starburst™ Wild funkció akkor ér véget, ha nincs újabb Starburst™ Wilds jel az újrapörgetéskor."
+    },
+    {
+        "id": "RTstarBurststickyWExpandsReSpinsRev",
+        "text": "A Starburst™ Wild funkció során a Starburst™ Wilds a teljes tárcsára kiterjed és a helyén marad amíg a többi tárcsa újrapörög."
+    },
+    {
+        "id": "RTstarBurstWildSymbAppear",
+        "text": "A Starburst™ Wild szimbólumok csak a 2, 3 és 4 tárcsákon jelenhetnek meg."
+    },
+    {
+        "id": "RTstarBurstWildSubstitute",
+        "text": "A Starburst™ Wild szimbólumok minden szimbólumot helyettesítenek."
+    },
+    {
+        "id": "RTMGshowsBetCurrency",
+        "text": "A tét mennyiségét mutatja ki a választott pénznemben."
+    },
+    {
+        "id": "RTMGshowsBetCoins",
+        "text": "A tét mennyiségét mutatja ki érmékben."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoMultiplierTrans",
+        "text": "A tétsor nyeremény érmékben megegyezik a \u003cb\u003eKIFIZETÉSI TÁBLÁZATBAN\u003c/b\u003e szereplő értékkel, a tétszinttel megszorozva."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "A tétsor nyeremény érmékben megegyezik a \u003cb\u003eKIFIZETÉSI TÁBLÁZATBAN\u003c/b\u003e szereplő értékkel, a tétszinttel megszorozva."
+    },
+    {
+        "id": "RTMGjimiwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "A tétsor nyeremény érmékben megegyezik a \u003cb\u003eKIFIZETÉSI TÁBLÁZATBAN\u003c/b\u003e szereplő értékkel, a tétszinttel megszorozva."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCurrency",
+        "text": "A tétsor nyereménye pénznemben egyenlő az érmenyeremény és érmeérték szorzatával."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCurrency",
+        "text": "A tétsor nyereménye pénznemben egyenlő az érmenyeremény és érmeérték szorzatával."
+    },
+    {
+        "id": "RTMGbetLevelInstruction",
+        "text": "A tétszintet a \u003cb\u003eTétszint\u003c/b\u003e kiválasztóval állíthatja be."
+    },
+    {
+        "id": "RTbetLevel",
+        "text": "A tétszintet a soronként megtett  érmeérték adja."
+    },
+    {
+        "id": "RTCalcBetLineCoinNoMultiplierTransNew",
+        "text": "A tétvonal nyeremény érmékben megegyezik a tétszinttel beszorzott kifizetési táblázatban látható értékkel."
+    },
+    {
+        "id": "simultaneousWinsAdded",
+        "text": "A több nyerővonalon egy időben szerzett nyeremények összeadódnak."
+    },
+    {
+        "id": "RTpaytableHighestRev",
+        "text": "Aktív nyerővonalanként csak a legmagasabb nyereményt és fogadási módot fizetjük ki."
+    },
+    {
+        "id": "termEnglish",
+        "text": "Angol kifejezés"
+    },
+    {
+        "id": "RTanimationsOff",
+        "text": "Animációk be- és kikapcsolása."
+    },
+    {
+        "id": "RTsingleWinDescRev",
+        "text": "Automata játék leállítása, ha a nyert összeg eléri vagy meghaladja az Ön által megadott értéket."
+    },
+    {
+        "id": "RTMGautoplayPanelLabel",
+        "text": "Automatikus játék"
+    },
+    {
+        "id": "RTMGautoplayQuickSpinHeading",
+        "text": "Automatikus játék és gyorspörgetés"
+    },
+    {
+        "id": "RTMGstopAutoplayOnOff",
+        "text": "Automatikus játék leállítása"
+    },
+    {
+        "id": "RTautoplayPlays",
+        "text": "Az \u003cb\u003eAUTOM. JÁTÉK\u003c/b\u003e beállításban a megadott számú körök végéig a játék automatikusan folyik (vagy kattintson az \u003cb\u003eAUTO\u003c/b\u003e gombra)."
+    },
+    {
+        "id": "RTautoplayPlaysJimi",
+        "text": "Az \u003cb\u003eAUTOM. JÁTÉK\u003c/b\u003e beállításban a megadott számú körök végéig a játék automatikusan folyik (vagy kattintson az \u003cb\u003eAUTO\u003c/b\u003e gombra)."
+    },
+    {
+        "id": "RTcoinsDisplayValues",
+        "text": "Az \u003cb\u003eÉRMÉ\u003c/b\u003e opció kijelzi a játékosnak rendelkezésére álló érmék számát."
+    },
+    {
+        "id": "RTMGcoinsDisplayValues",
+        "text": "Az \u003cb\u003eÉrmék\u003c/b\u003e a játékos rendelkezésére álló érmék számát mutatja."
+    },
+    {
+        "id": "RTtableDescribes",
+        "text": "Az alábbi táblázatban megtalálja a játékban előforduló gombok és ezek működésének leírását."
+    },
+    {
+        "id": "advancedAutoplayOptionsHeading",
+        "text": "Az automata játék beállításai haladóknak"
+    },
+    {
+        "id": "anyWinDesc",
+        "text": "Az automata játék leállítása nyert kör után."
+    },
+    {
+        "id": "cashDecreasesDesc",
+        "text": "Az automata játék leállítása, ha a készpénzmennyiség az Ön által meghatározott összeggel csökkent."
+    },
+    {
+        "id": "cashIncreasesDesc",
+        "text": "Az automata játék leállítása, ha a készpénzmennyiség meghaladja az Ön által meghatározott összeget."
+    },
+    {
+        "id": "singleWinDesc",
+        "text": "Az automata játék leállítása, ha a nyert összeg eléri vagy meghaladja az Ön által meghatározott értéket."
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRevNew",
+        "text": "Az Automatikus játék bekapcsolásához koppints a csúszkára és húzással állítsd be a körök számát. A játékot a megadott körök számáig automatikusan folytatja."
+    },
+    {
+        "id": "RTMGdisableAutoplayIfBonusGame",
+        "text": "Az automatikus játék kikapcsolásához koppintson, ha Bonus Game játékot nyer mielőtt az automatikus játék befejeződne."
+    },
+    {
+        "id": "RTMGselectCoinValueRevNew",
+        "text": "Az érmeérték kiválasztásához húzza vagy koppintson a csúszkára."
+    },
+    {
+        "id": "RTMGcoinValueInstruction",
+        "text": "Az érmeértéket az ÉRMEÉRTÉK kiválasztóval állíthatja be."
+    },
+    {
+        "id": "RTgameSessions2",
+        "text": "Az inaktív játékmenetek automatikus befejezésének ideje."
+    },
+    {
+        "id": "RTMGgameSessions2",
+        "text": "Az inaktív játékmenetek automatikus befejezésének ideje."
+    },
+    {
+        "id": "RTstarBurstAddReSpinsRev",
+        "text": "Az újrapörgetés során megjelenő újabb Starburst™ Wild szimbólum újabb újrapörgetést aktivál és a korábban kiterjedt Starburst™ Wild szimbólummal együtt a helyén marad."
+    },
+    {
+        "id": "ReSpinsAtActivatingRound",
+        "text": "Az újrapörgetések tétje a Free Spins-t aktiváló játék tétjével egyenlő."
+    },
+    {
+        "id": "RTMGleftHandMode",
+        "text": "Bal kéz mód"
+    },
+    {
+        "id": "RTgameSoundDesc",
+        "text": "Be- és kikapcsolja a játék hangját."
+    },
+    {
+        "id": "RTwinCalcBetLinesNoMultiplier",
+        "text": "Egy tétsor nyereménye érmében megegyezik a tétszinttel megszorzott Kifizetési táblázat összegével."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoBold",
+        "text": "Egy tétsor nyereménye érmében megegyezik a tétszinttel megszorzott Kifizetési táblázat összegével. Ezt az összeget az egyéb szorzókkal is be kell szorozni."
+    },
+    {
+        "id": "RTMGselectSpinsRev",
+        "text": "Érintse meg a beállítási tárcsát az automatikus játékkörök kiválasztásához."
+    },
+    {
+        "id": "RTMGselectCoinValueRev",
+        "text": "Érintse meg a beállítási tárcsát az érmeérték kiválasztásához."
+    },
+    {
+        "id": "RTMGselectBetLevelRev",
+        "text": "Érintse meg a beállítási tárcsát, hogy kiválassza, mennyi érmét kíván megjátszani egy soron."
+    },
+    {
+        "id": "RTMGtapOnOffRev",
+        "text": "Érintse meg a gombot a Gyorspörgetés ki- és bekapcsolásához."
+    },
+    {
+        "id": "RTMGsoundOnOffRev",
+        "text": "Érintse meg a gombot a hang be- és kikapcsolásához."
+    },
+    {
+        "id": "RTMGtapSpinButtonRev",
+        "text": "Érintse meg a gombot a játék elindításához a jelenlegi nyerővonalakkal, tétszinten és érmeértéken."
+    },
+    {
+        "id": "RTMGgameSettingIntroDev",
+        "text": "Érintse meg a gombot a játékbeállítások és információk megnyitásához, vagy érintse meg a Pénznem és Érmék kijelzéseket."
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRev",
+        "text": "Érintse meg a gombot az automatikus játékmód ki- és bekapcsolásához. Automatikus játékmódban a megadott számú pörgetések végéig a játék automatikusan folyik."
+    },
+    {
+        "id": "RTMGsoundsDisabledRev",
+        "text": "Érintse meg a gombot, hogy leállítsa a hangokat a további játékmenetekben."
+    },
+    {
+        "id": "RTMGtapDuringSpin",
+        "text": "Érintse meg a játékfelületet egy pörgetés közben, a tárcsák leállításához."
+    },
+    {
+        "id": "RTMGtouchMainGame",
+        "text": "Érintse meg a játékfelületet, a Pörgetés gomb elrejtéséhez."
+    },
+    {
+        "id": "RTMGbackMainGame",
+        "text": "Érintse meg, hogy visszatérjen a főjátékhoz."
+    },
+    {
+        "id": "RTMGcoinvalue",
+        "text": "Érmeérték"
+    },
+    {
+        "id": "RTMGtouchMainGameNew",
+        "text": "Fekvő módban a Pörgetés gomb elrejtéséhez érintse meg a játék területet."
+    },
+    {
+        "id": "RTMGbetInCoins",
+        "text": "Fogadás érmében"
+    },
+    {
+        "id": "RTMGbetInCash",
+        "text": "Fogadás pénzben"
+    },
+    {
+        "id": "RTMGbuttonsMainGame",
+        "text": "Főjáték"
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Fordítás"
+    },
+    {
+        "id": "RTfunctionTableHead",
+        "text": "Funkció"
+    },
+    {
+        "id": "RTrulesGenerated",
+        "text": "Generált játékszabályok:"
+    },
+    {
+        "id": "RTbuttonTableHead",
+        "text": "Gomb"
+    },
+    {
+        "id": "RTMGquickSettings",
+        "text": "Gyorsbeállítások menü"
+    },
+    {
+        "id": "RTMGquickStop",
+        "text": "Gyorsleállítás"
+    },
+    {
+        "id": "RTMGquickSpin",
+        "text": "Gyorspörgetés"
+    },
+    {
+        "id": "RTMGquickSpinGameSetting",
+        "text": "Gyorspörgetés"
+    },
+    {
+        "id": "gameSettingIntro",
+        "text": "Ha a játékbeállításokon kíván változtatni, kattintson a játékpanelen található, franciakulcs alakú ikonra."
+    },
+    {
+        "id": "RTAutoplayButton",
+        "text": "Ha az automatikus játék beállításain kíván változtatni, kattintson a billentyűzet \u003cb\u003eAUTOM. JÁTÉK\u003c/b\u003e gombjára, vagy a játékpanelen található \u003cb\u003eAUTO\u003c/b\u003e gombra, majd ott a \u003cb\u003eSpeciális beállítások\u003c/b\u003e feliratra."
+    },
+    {
+        "id": "RTMGsoundsOff",
+        "text": "Hang kikapcsolása mindig"
+    },
+    {
+        "id": "RTMGsoundSettings",
+        "text": "Hangbeállítások"
+    },
+    {
+        "id": "RTambienceDescRev",
+        "text": "Háttérzene be- és kikapcsolása."
+    },
+    {
+        "id": "RTviewMiniPaytable",
+        "text": "Illetve játék közben rákattinthat a tárcsákon megjelenő bármely szimbólumra a szimbólum mini játékának megtekintéséhez."
+    },
+    {
+        "id": "RTgameHistoryDesc",
+        "text": "Itt legutóbbi játékainak alakulását tekintheti meg"
+    },
+    {
+        "id": "gameSettingOptionsHeading",
+        "text": "Játékbeállítások"
+    },
+    {
+        "id": "RTMGgameSettings",
+        "text": "Játékbeállítások és játékinformáció"
+    },
+    {
+        "id": "RTMGgameHistoryHeading",
+        "text": "Játékelőzmények"
+    },
+    {
+        "id": "RTgameFunctionsHeading",
+        "text": "Játékfunkciók"
+    },
+    {
+        "id": "RTMGsounds",
+        "text": "Játékhangok"
+    },
+    {
+        "id": "RTMGgameRules",
+        "text": "Játékszabályok"
+    },
+    {
+        "id": "RTopenSettingsMenu",
+        "text": "Kattintson a gombra a játékbeállítások menű megnyitásához, és válasszon játékopciót. A játékbeállításokat alább tekintheti meg."
+    },
+    {
+        "id": "RTopenGameRules",
+        "text": "Kattintson a gombra a játékszabályok megnyitásához."
+    },
+    {
+        "id": "RTadjustQualityRev",
+        "text": "Képminőség beállítása az optimális teljesítmény érdekében."
+    },
+    {
+        "id": "RTintroOffRev",
+        "text": "Kezdőképernyő be- és kikapcsolása."
+    },
+    {
+        "id": "RTMGpaytable",
+        "text": "Kifizetési táblázat"
+    },
+    {
+        "id": "termPaytable",
+        "text": "Kifizetési táblázat"
+    },
+    {
+        "id": "RTMGpaytableJimi",
+        "text": "Kifizetési táblázat"
+    },
+    {
+        "id": "RTMGexit",
+        "text": "Kilépés"
+    },
+    {
+        "id": "RTMGquickSpinUI",
+        "text": "Koppintson a gyors pörgetés ki- és bekapcsolásához a beállítások menü megnyitása nélkül."
+    },
+    {
+        "id": "RTMGsoundSettingsUI",
+        "text": "Koppintson a hang ki- és bekapcsolásához a beállítások menü megnyitása nélkül."
+    },
+    {
+        "id": "RTMGautoplayUI",
+        "text": "Koppintson az automatikus játék be-és kikapcsolásához a beállítások menü megnyitása nélkül. Az alapértelmezés szerinti körök száma 50."
+    },
+    {
+        "id": "RTMGdisableAutoplay",
+        "text": "Koppintson az automatikus játék kikapcsolásához, ha Free Spins-t nyert a megadott játékkörök lejátszása előtt."
+    },
+    {
+        "id": "RTMGdisableAutoplayPickClick",
+        "text": "Koppintson az automatikus játék kikapcsolásához, ha Pick and Click -t nyert a megadott játékkörök lejátszása előtt."
+    },
+    {
+        "id": "RTMGstartQuickSpin",
+        "text": "Koppintson rá a Gyorspörgetés indításához."
+    },
+    {
+        "id": "RTMGwinComb",
+        "text": "Koppintson rá a nyerési kombinációk és kifeizetések megtekintéséhez."
+    },
+    {
+        "id": "RTMGviewGamesRules",
+        "text": "Koppintson rá a szabályok megtekintéséhez."
+    },
+    {
+        "id": "RTMGstartAutoplay",
+        "text": "Koppintson rá az automatikus játék indításához."
+    },
+    {
+        "id": "RTMGstopAutoplay",
+        "text": "Koppintson rá az automatikus játék leállításához."
+    },
+    {
+        "id": "RTMGgameHistoryDesc",
+        "text": "Koppintson rá legutóbbi játékai megtekintéséhez."
+    },
+    {
+        "id": "RTMGstopIfFreeSpins",
+        "text": "Leáll, ha Free Spins-t nyer"
+    },
+    {
+        "id": "RTmaxBetAtHighBetLevel",
+        "text": "MAX TÉTTEL a játékot a legmagasabb tétszinten és az aktuális érmeértéken játszhatja."
+    },
+    {
+        "id": "RTMGmenu",
+        "text": "Menü"
+    },
+    {
+        "id": "RTplayCurrentBetLinesTo10",
+        "text": "Összesen 1 - 10 nyerővonalon, különböző tétszinten és érmeértéken játszhat."
+    },
+    {
+        "id": "RTMGspinButton",
+        "text": "Pörgetés gomb"
+    },
+    {
+        "id": "RTMGspinSettingsRev",
+        "text": "Pörgetés-beállítások"
+    },
+    {
+        "id": "RTMGnumberSpins",
+        "text": "Pörgetések száma"
+    },
+    {
+        "id": "RTMGstarburstTouchRulesHeading",
+        "text": "Starburst Touch™ játékszabályok"
+    },
+    {
+        "id": "RTstarBurstRulesHeading",
+        "text": "Starburst™ játékszabályok"
+    },
+    {
+        "id": "RTstarBurstWildHeading",
+        "text": "Starburst™ Wild szimbólumok"
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Szerencsejáték kifejezések fordítása"
+    },
+    {
+        "id": "RTMGbetlevel",
+        "text": "Tétszint"
+    },
+    {
+        "id": "RTMGadditionalInformation",
+        "text": "További információk"
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "További információk"
+    },
+    {
+        "id": "RTautoplaySelectSpins",
+        "text": "Válassza ki az Automatikus játék pörgetéseinek számát vagy nyissa meg a Speciális beállítások menüt az Automatikus játék leállításának beállításához."
+    },
+    {
+        "id": "RTMGback",
+        "text": "Vissza"
+    },
+    {
+        "id": "RTreturnToPlayer",
+        "text": "Vissza a játékoshoz"
+    },
+    {
+        "id": "termWild",
+        "text": "Wild"
+    },
+    {
+        "id": "RTautoplayDuringGameRev",
+        "text": "\u003cb\u003eMegjegyzés:\u003c/b\u003e Ha egy játékkörben módosítja az Automatikus játék beállításokat, az összes beállítás csak a játékkör vagy funkció befejezése után lép érvénybe."
+    },
+    {
+        "id": "RTwinCalculationWinMatchCurrency",
+        "text": "A tétsor nyereménye pénznemben egyenlő az érmenyeremény és érmeérték szorzatával."
+    },
+    {
+        "id": "RTopenAutoplayMenu",
+        "text": "Kattintson az Automatikus játék beállítása menüre az automatikus játék elindításához."
+    },
+    {
+        "id": "RTsliderBetLevel",
+        "text": "A tétszintet a Tétszint csúszkával állíthatod be."
+    },
+    {
+        "id": "RTMGautoOptions",
+        "text": "Az automatikus játék és játékkör opciók beállításához húzd vagy kattints a csúszkára. Az automatikus játékot a megadott számú pörgetésig játssza."
+    },
+    {
+        "id": "RTsliderCoinValue",
+        "text": "Az érmeértéket az Érmeérték csúszkával állíthatod be."
+    },
+    {
+        "id": "RTexCloneWildOverlay",
+        "text": "Az Expanding Cloning Wild szimbólumok a pörgő tárcsákra helyezve jelennek meg. A lemásolt szimbólumok szintén a tárcsákon ráhelyezve láthatók."
+    },
+    {
+        "id": "RTcashIncreasesDescRev",
+        "text": "Leállítja az Automatikus játékot ha a készpénz a megadott értékkel nő."
+    },
+    {
+        "id": "RTcashDecreasesDescRev",
+        "text": "Leállítja az Automatikus játékot ha a készpénz a megadott összeggel csökken."
+    },
+    {
+        "id": "RTeachStar1AddRespinUpTo3respin",
+        "text": "Legfeljebb két további Starburst™ Wild szimbólum jelenhet meg miután a Starburst™ Wild aktiválja az újrapörgetést, elindítva egy, vagy maximum 3 újrapörgetést."
+    },
+    {
+        "id": "onlyHighWinComb",
+        "text": "Tétsoronként csak a legmagasabb nyerő kombinációt fizeti ki, a bal szélétől a jobb széléig és/vagy a jobb szélétől a bal széléig."
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003eMegjegyzés:\u003c/b\u003e Egyes automatikus játék opciók bizonyos illetékességi területeken kötelezők."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003eMegjegyzés\u003c/b\u003e: A következő táblázat csak akkor érvényes, ha nem angol nyelven játszik."
+    },
+    {
+        "id": "termEnglish",
+        "text": "Angol kifejezés"
+    },
+    {
+        "id": "featuresNotAvailablePFF",
+        "text": "Előfordulhat, hogy \u003cb\u003eDEMÓ JÁTÉK\u003c/b\u003e módban egyes funkciók nem állnak rendelkezésre."
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Fordítás"
+    },
+    {
+        "id": "RTsingleWinDescRevNew",
+        "text": "Leállítja az autom. játékot ha a nyeremény eléri vagy meghaladja a megadott szintet."
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Szerencsejáték kifejezések fordítása"
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "További információk"
+    }
+]

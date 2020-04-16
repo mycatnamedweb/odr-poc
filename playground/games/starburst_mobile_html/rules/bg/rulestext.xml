@@ -1,0 +1,197 @@
+<defaults xml:lang="bg">
+  <!-- Bulgarian locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 16:41:58 GMT on Tuesday 16 May 2017.
+
+ -->
+  <ds Jurisdiction="*" name="RTGameHistNoPlayForFun" id="RTGameHistNoPlayForFun">(Не е на разположение при &lt;b&gt;ИГРА ЗА ЗАБАВЛЕНИЕ&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDisclaimer" id="RTquickSpinDisclaimer">(Не се предлага от всички казина).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlaysJimi" id="RTautoplayPlaysJimi">&lt;b&gt;АВТОМ. ИГРА&lt;/b&gt; автоматично стартира играта на избрания брой рундове (или кликнете бутона &lt;b&gt;AUTO&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlays" id="RTautoplayPlays">&lt;b&gt;АВТОМ. ИГРА&lt;/b&gt; автоматично стартира играта на избрания брой рундове (или кликнете върху бутона &lt;b&gt;AUTO&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTMGreturnToPlayer" id="RTMGreturnToPlayer">&lt;b&gt;Възвръщаемост за играча&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTMGcoinsDisplayValues" id="RTMGcoinsDisplayValues">&lt;b&gt;Жетони&lt;/b&gt; показва броя жетони, които играчът може да залага.</ds>
+  <ds Jurisdiction="*" name="RTcoinsDisplayValues" id="RTcoinsDisplayValues">&lt;b&gt;ЖЕТОНИ&lt;/b&gt; показва броя жетони, които играчът може да заложи.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayDisconnect" id="RTMGautoplayDisconnect">&lt;b&gt;Забележка:&lt;/b&gt; Ако по време на игра бъдете изхвърлен от системата, при презареждане на играта ще се върнат настройките на автоматичната игра по подразбиране.</ds>
+  <ds Jurisdiction="*" name="RTAutoplayDisconnect" id="RTAutoplayDisconnect">&lt;b&gt;Забележка:&lt;/b&gt; Ако по време на играта връзката се разпадне, при възобновяване на играта ще се върнат всички първоначални настройки на автоматичната игра.</ds>
+  <ds Jurisdiction="*" name="RTsettingsDisclaimer" id="RTsettingsDisclaimer">&lt;b&gt;Забележка:&lt;/b&gt; В някои казина не се предлагат всички изброени тук настройки.</ds>
+  <ds Jurisdiction="*" name="RTMGsettingsDisclaimer" id="RTMGsettingsDisclaimer">&lt;b&gt;Забележка:&lt;/b&gt; Някои оператори може да не предлагат всички изброени настройки на играта.</ds>
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Забележка:&lt;/b&gt; Някои опции на автоматичната игра са задължителни за някои юрисдикции.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Забележка&lt;/b&gt;: Следната таблица се прилага само ако играете на език, различен от английския език.</ds>
+  <ds Jurisdiction="*" name="RTsoundButton" id="RTsoundButton">&lt;b&gt;Звук&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTmaxbetPlays" id="RTmaxbetPlays">&lt;b&gt;МАКС. ЗАЛОГ&lt;/b&gt; стартира играта с максимални линии за залагане, най-високото ниво на залагане и текущата стойност жет.</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchIntro" id="RTMGstarburstTouchIntro">Starburst Touch™ е ротативка с 5 барабана, 3 реда, разполагаща с Starburst™ Wild с повторно завъртане, и печалба по двата начина.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSymbAppear" id="RTstarBurstWildSymbAppear">Starburst™ Wild символите могат да се появят само на барабани 2, 3 и 4.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildEnds" id="RTstarburstWildEnds">Starburst™ Wild функцията приключва, когато при повторно завъртане не се появяват нови Starburst™ Wilds символа.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstIntro" id="RTstarBurstIntro">Starburst™ е 5-барабанна, 3-редова видео ротативка, включваща Starburst™ Уайлд с повторни завъртания и печалби по два пътя.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSubstitute" id="RTstarBurstWildSubstitute">Starburst™ Уайлд символите замесват всички символи.</ds>
+  <ds Jurisdiction="*" name="termPaytable" id="termPaytable">Tаблица на печалбите</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPanelLabel" id="RTMGautoplayPanelLabel">Автоматична игра</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayQuickSpinHeading" id="RTMGautoplayQuickSpinHeading">Автоматична игра и бързо завъртане</ds>
+  <ds Jurisdiction="*" name="RTstarBurstAddReSpinsRev" id="RTstarBurstAddReSpinsRev">Ако по време на повторно завъртане се появи нов Starburst™ Wild символ, той се разширява и остава на място заедно с всички предишно разширени Starburst™ Wild символи за повторно завъртане.</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Английски термин</ds>
+  <ds Jurisdiction="*" name="RTMGnumberSpins" id="RTMGnumberSpins">Брой завъртания</ds>
+  <ds Jurisdiction="*" name="RTMGAutoplaySpins" id="RTMGAutoplaySpins">Броят на избраните завъртания се показва на бутона.</ds>
+  <ds Jurisdiction="*" name="RTbuttonTableHead" id="RTbuttonTableHead">Бутон</ds>
+  <ds Jurisdiction="*" name="RTMGspinButton" id="RTMGspinButton">Бутон Завъртане</ds>
+  <ds Jurisdiction="*" name="RTspinPlayRev" id="RTspinPlayRev">Бутонът за въртене стартира играта с текущите линии за залагане, нивото на залагане и стойността на жетона (алтернативно натиснете интервала).</ds>
+  <ds Jurisdiction="*" name="RTMGquickStop" id="RTMGquickStop">Бърз стоп</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpin" id="RTMGquickSpin">Бързо въртене</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinGameSetting" id="RTMGquickSpinGameSetting">Бързо завъртане</ds>
+  <ds Jurisdiction="*" name="RTtableDescribes" id="RTtableDescribes">В долната таблица са изброени различните бутони в играта и тяхната функция.</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGameNew" id="RTMGtouchMainGameNew">В режим "Пейзаж" докоснете игровата зона, за да скриете бутона "Завърти".</ds>
+  <ds Jurisdiction="*" name="RTMGmalfunction" id="RTMGmalfunction">В случай на неизправност на игралния хардуер/софтуер, всички засегнати залози и плащания се анулират, а засегнатите залози се възстановяват.</ds>
+  <ds Jurisdiction="Italy" name="RTmalfunction" id="RTmalfunction">В случай на неизправност на игралния хардуер/софтуер, всички засегнати залози и плащания се анулират, а засегнатите залози се възстановяват.</ds>
+  <ds Jurisdiction="*" name="RTgameSoundDesc" id="RTgameSoundDesc">Включва или изключва звука на играта.</ds>
+  <ds Jurisdiction="*" name="RTintroOffRev" id="RTintroOffRev">Включва или изключва началния екран.</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDescRev" id="RTquickSpinDescRev">Включва или изключва опцията за бързо завъртане</ds>
+  <ds Jurisdiction="*" name="RTambienceDescRev" id="RTambienceDescRev">Включва или изключва фоновата музика.</ds>
+  <ds Jurisdiction="*" name="RTspacebarspin" id="RTspacebarspin">Включва или изключва функцията на интервала.</ds>
+  <ds Jurisdiction="*" name="RTanimationsOff" id="RTanimationsOff">Включване или изключване на анимациите.</ds>
+  <ds Jurisdiction="Italy" name="RTgameSessions2" id="RTgameSessions2">Времето, след което неактивните сесии на играта автоматично завършват.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSessions2" id="RTMGgameSessions2">Времето, след което неактивните сесии на играта автоматично завършват.</ds>
+  <ds Jurisdiction="*" name="RTreturnToPlayer" id="RTreturnToPlayer">Възвръщаемост за играча</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDev" id="RTMGgameSettingIntroDev">Докоснете за достъп до настройките и информация за играта, след това докоснете дисплея Пари и жетони.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettingsMenu" id="RTMGquickSettingsMenu">Докоснете знака плюс, за да влезете в меню "Бързи настройки".</ds>
+  <ds Jurisdiction="*" name="RTMGtapDuringSpin" id="RTMGtapDuringSpin">Докоснете зоната на играта по време на завъртане, за да спрете барабаните.</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGame" id="RTMGtouchMainGame">Докоснете зоната на играта, за да скриете бутона Завъртане.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRev" id="RTMGautoplayPutOnOffRev">Докоснете, за да включите или изключите автоматичната игра. Автоматичната игра е активна за избрания брой завъртания.</ds>
+  <ds Jurisdiction="*" name="RTMGtapOnOffRev" id="RTMGtapOnOffRev">Докоснете, за да включите или изключите бързото въртене.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundOnOffRev" id="RTMGsoundOnOffRev">Докоснете, за да включите или изключите звука.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDevNew" id="RTMGgameSettingIntroDevNew">Докоснете, за да влезете в настройките и информацията на играта.</ds>
+  <ds Jurisdiction="*" name="RTMGtapSpinButtonRev" id="RTMGtapSpinButtonRev">Докоснете, за да започнете да играете текущите линии на залагане, ниво на залагане и стойност на жетона.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayIfBonusGame" id="RTMGdisableAutoplayIfBonusGame">Докоснете, за да изключите "Автоматична игра", ако сте спечелили бонус игра преди изтичане на задедния брой рундове в автоматичната игра.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplay" id="RTMGdisableAutoplay">Докоснете, за да изключите автоматичната игра, ако Free Spins са спечелени преди задаване на броя на автоматичните рундове.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayPickClick" id="RTMGdisableAutoplayPickClick">Докоснете, за да изключите автоматичната игра, ако Pick and Click  са спечелени преди задаване на броя на автоматичните рундове.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsDisabledRev" id="RTMGsoundsDisabledRev">Докоснете, за да изключите звука на бъдещите сесии на играта.</ds>
+  <ds Jurisdiction="*" name="RTMGleaveGame" id="RTMGleaveGame">Докоснете, за да напуснете играта.</ds>
+  <ds Jurisdiction="*" name="RTMGbackMainGame" id="RTMGbackMainGame">Докоснете, за да се върнете обратно в играта.</ds>
+  <ds Jurisdiction="*" name="RTMGstartAutoplay" id="RTMGstartAutoplay">Докоснете, за да стартирате Автоматичната игра.</ds>
+  <ds Jurisdiction="*" name="RTMGadditionalInformation" id="RTMGadditionalInformation">Допълнителна информация</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Допълнителна информация</ds>
+  <ds Jurisdiction="*" name="ReSpinsAtActivatingRound" id="ReSpinsAtActivatingRound">Допълнителните завъртания се играят със същия залог като този в кръга, в който са активирани.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRevNew" id="RTMGautoplayPutOnOffRevNew">Дръпнете или докоснете плъзгача, за да активирате автоматичната игра и да зададете броя на рундовете. Автоматичната игра играе играта за избрания брой завъртания.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildFeatureActive" id="RTstarburstWildFeatureActive">Един или повече Starburst™ Wilds символа, появяващи се на барабани 2, 3 или 4, активират функцията Starburst™ Wild.</ds>
+  <ds Jurisdiction="*" name="simultaneousWinsAdded" id="simultaneousWinsAdded">Едновременните печалби на различи линии за залагане се събират.</ds>
+  <ds Jurisdiction="*" name="RTwinCalcBetLinesNoMultiplier" id="RTwinCalcBetLinesNoMultiplier">Жетонната печалба на линия на залагане е равна на стойността, показана в Таблица на печалбите, умножена по нивото на залагане.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoBold" id="RTwinCalculationBetLinesCoinsNoBold">Жетонната печалба на линия на залагане е равна на стойността, показана в Таблица на печалбите, умножена по нивото на залагане. Сумата също така се умножава по всеки приложим множител.</ds>
+  <ds Jurisdiction="Spain" name="RTAutoplayButton" id="RTAutoplayButton">За да настроите разширените опции на автоматичната игра, кликнете върху &lt;b&gt;АВТОМ. ИГРА&lt;/b&gt; от клавиатурата или кликнете върху &lt;b&gt;AUTO&lt;/b&gt; в панела на играта, след което кликнете върху &lt;b&gt;Разширени настройки&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCash" id="RTMGbetInCash">Залог в брой</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCoins" id="RTMGbetInCoins">Залог в жетони</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsOff" id="RTMGsoundsOff">Звукът винаги е изключен</ds>
+  <ds Jurisdiction="*" name="RTMGsounds" id="RTMGsounds">Звуци на играта</ds>
+  <ds Jurisdiction="*" name="RTautoplaySelectSpins" id="RTautoplaySelectSpins">Изберете броя завъртания в автоматичната игра или отворете Pазширени Настройки, за да конфигурирате опциите за спиране на автоматичната игра.</ds>
+  <ds Jurisdiction="*" name="RTpaytableHighestRev" id="RTpaytableHighestRev">Изпл. се по-вис. печ. на акт. линия от двата пътя.</ds>
+  <ds Jurisdiction="*" name="RTMGexit" id="RTMGexit">Изход</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescNoBold" id="RTpaytableButtonsDescNoBold">Кликнете върху стрелките, сочещи наляво или надясно, за да превъртите страниците на таблицата на печалбите.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescRev" id="RTpaytableButtonsDescRev">Кликнете върху стрелките, сочещи наляво или надясно, за да прелистите страниците на &lt;b&gt;ТАБЛИЦАТА НА ПЕЧАЛБИТЕ&lt;/b&gt;. Кликнете върху бутона в средата, за да се върнете към играта.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDescJimi" id="RTinformationIconButtonDescJimi">Кликнете, за да видите &lt;b&gt;ТАБЛИЦАТА НА ПЕЧАЛБИТЕ&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTMGwinComb" id="RTMGwinComb">Кликнете, за да видите печелившата комбинация и печалбите.</ds>
+  <ds Jurisdiction="*" name="RTMGviewGamesRules" id="RTMGviewGamesRules">Кликнете, за да видите правилата на играта.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonNoBold" id="RTinformationIconButtonNoBold">Кликнете, за да видите таблицата на печалбите.</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryDesc" id="RTMGgameHistoryDesc">Кликнете, за да видите хронологията на играта.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayUI" id="RTMGautoplayUI">Кликнете, за да включите или изключите без да отивате в меню "Настройки". Задайте 50 рунда по подразбиране.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinUI" id="RTMGquickSpinUI">Кликнете, за да включите или изключите Бързото завъртане без да отивате в меню "Настройки".</ds>
+  <ds Jurisdiction="Anguilla" name="RTMGsoundSettingsUI" id="RTMGsoundSettingsUI">Кликнете, за да включите или изключите звука без да отивате в меню "Настройки".</ds>
+  <ds Jurisdiction="*" name="RTMGspinButtonLeft" id="RTMGspinButtonLeft">Кликнете, за да включите или изключите режим "Лява ръка".</ds>
+  <ds Jurisdiction="*" name="RTstartGameRound" id="RTstartGameRound">Кликнете, за да започнете игрови рунд с текущото ниво на залог и жетонна стойност (или натиснете бутона интервал).</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplay" id="RTMGstopAutoplay">Кликнете, за да спрете Автоматичната игра.</ds>
+  <ds Jurisdiction="*" name="RTMGstartQuickSpin" id="RTMGstartQuickSpin">Кликнете, за да стартирате Бързо завъртане.</ds>
+  <ds Jurisdiction="*" name="RTmaxBetAtHighBetLevel" id="RTmaxBetAtHighBetLevel">МАКС. ЗАЛОГ играе играта на най-високо ниво на залагане и на текущата стойност на жетоните.</ds>
+  <ds Jurisdiction="*" name="RTMGmenu" id="RTMGmenu">Меню</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettings" id="RTMGquickSettings">Меню "Бързи настройки"</ds>
+  <ds Jurisdiction="*" name="RTplayCurrentBetLinesTo10" id="RTplayCurrentBetLinesTo10">Можете да играете между 1 и 10 линии за залагане с различни нива на залагане и стойност на жетоните.</ds>
+  <ds Jurisdiction="*" name="RTMGplay10FixedBetLines" id="RTMGplay10FixedBetLines">Можете да играете на 10 фиксирани линии на различни нива на залагане и стойност на жетоните.</ds>
+  <ds Jurisdiction="*" name="RTMGback" id="RTMGback">Назад</ds>
+  <ds Jurisdiction="*" name="RTadjustQualityRev" id="RTadjustQualityRev">Настройва качеството графиката за оптимална забава.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettings" id="RTMGgameSettings">Настройки и информация за играта</ds>
+  <ds Jurisdiction="*" name="RTMGspinSettingsRev" id="RTMGspinSettingsRev">Настройки на завъртането</ds>
+  <ds Jurisdiction="*" name="RTMGsoundSettings" id="RTMGsoundSettings">Настройки на звука</ds>
+  <ds Jurisdiction="*" name="RTMGbetlevel" id="RTMGbetlevel">Ниво на залагане</ds>
+  <ds Jurisdiction="*" name="RTbetLevel" id="RTbetLevel">Ниво на залагане е броят жетони, заложени на линия на залагане.</ds>
+  <ds Jurisdiction="*" name="RTMGbetLevelInstruction" id="RTMGbetLevelInstruction">Нивото на залагане се настройва с помощта на селектора &lt;b&gt;Ниво на залагане&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="gameSettingOptionsHeading" id="gameSettingOptionsHeading">Опции за настройка на играта</ds>
+  <ds Jurisdiction="*" name="RTviewMiniPaytable" id="RTviewMiniPaytable">Освен това можете да кликнете върху всеки символ върху барабаните по време на основната игра, за да видите малка таблица на печалбите за този символ.</ds>
+  <ds Jurisdiction="*" name="RTMGbuttonsMainGame" id="RTMGbuttonsMainGame">Основна игра</ds>
+  <ds Jurisdiction="*" name="RTMGnoAutoplayLeft" id="RTMGnoAutoplayLeft">Оставащият брой завъртания се показват на бутона.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCoinsNoMultiplier" id="RTMGwinCalculationBetLinesCoinsNoMultiplier">Печалба от линия на залагане в жетони е равна на стойността, показана в &lt;b&gt;ТАБЛИЦА НА ПЕЧАЛБИТЕ&lt;/b&gt;, умножена по нивото на залагане.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoMultiplierTrans" id="RTwinCalculationBetLinesCoinsNoMultiplierTrans">Печалба от линия на залагане в жетони е равна на стойността, показана в &lt;b&gt;ТАБЛИЦА НА ПЕЧАЛБИТЕ&lt;/b&gt;, умножена по нивото на залагане.</ds>
+  <ds Jurisdiction="*" name="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier" id="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier">Печалба от линия на залагане в жетони е равна на стойността, показана в &lt;b&gt;ТАБЛИЦА НА ПЕЧАЛБИТЕ&lt;/b&gt;, умножена по нивото на залагане.</ds>
+  <ds Jurisdiction="*" name="RTCalcBetLineCoinNoMultiplierTransNew" id="RTCalcBetLineCoinNoMultiplierTransNew">Печалба от линия на залагане в жетони е равна на стойността, показана в таблицата на печалбите, умножена по нивото на залагане.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCurrency" id="RTMGwinCalculationBetLinesCurrency">Печалба от линия на залагане във валута е равна на печалбата в жетони, умножена по стойността на жетона.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCurrency" id="RTwinCalculationBetLinesCurrency">Печалбата от линия на залагане във валута е равна на печалбата в жетони, умножена по стойността на жетона.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytable" id="RTwinCombinationPaytable">Печелившите комбинации и сумите за изплащане се формират според &lt;b&gt;ТАБЛИЦА НА ПЕЧАЛБИТЕ&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytablenoBold" id="RTwinCombinationPaytablenoBold">Печелившите комбинации и сумите за изплащане се формират според таблицата на печалбите.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCombinations" id="RTMGwinCombinations">Печелившите комбинации и сумите за изплащане се формират според таблицата на печалбите.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRevNew" id="RTMGselectBetLevelRevNew">Плъзнете или докоснете плъзгача, за да изберете броя жетони, които да заложите на линия на залагане.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRevNew" id="RTMGselectCoinValueRevNew">Плъзнете или докоснете плъзгача, за да изберете стойност на жетоните.</ds>
+  <ds Jurisdiction="*" name="RTstarBurststickyWExpandsReSpinsRev" id="RTstarBurststickyWExpandsReSpinsRev">По време на функцията Starburst™ Wilds Starburst™ Wilds се разширява, за да покрие целия барабан и остава на място по време на повторното завъртане на останалите барабани.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCoins" id="RTMGshowsBetCoins">Показва размера на залога Ви в жетони.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCurrency" id="RTMGshowsBetCurrency">Показва размера на залога Ви в избраната от Вас валута.</ds>
+  <ds Jurisdiction="*" name="RTMGgameRules" id="RTMGgameRules">Правила на играта</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchRulesHeading" id="RTMGstarburstTouchRulesHeading">Правила на играта Starburst Touch™</ds>
+  <ds Jurisdiction="*" name="RTstarBurstRulesHeading" id="RTstarBurstRulesHeading">Правила на играта Starburst™</ds>
+  <ds Jurisdiction="*" name="RTrulesGenerated" id="RTrulesGenerated">Правилата на играта са генерирани на:</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Преведен термин</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Превод на терминологията на играта</ds>
+  <ds Jurisdiction="Italy" name="RTunfinishedGameSession2" id="RTunfinishedGameSession2">Процедури за управление на незавършени рундове от играта.</ds>
+  <ds Jurisdiction="*" name="RTMGunfinishedGameSession2" id="RTMGunfinishedGameSession2">Процедури за управление на незавършени рундове от играта.</ds>
+  <ds Jurisdiction="*" name="advancedAutoplayOptionsHeading" id="advancedAutoplayOptionsHeading">Разширени опции за автоматична игра</ds>
+  <ds Jurisdiction="*" name="RTMGleftHandMode" id="RTMGleftHandMode">Режим "Лява ръка"</ds>
+  <ds Jurisdiction="*" name="RTHighWinSymCompleteActLineRev" id="RTHighWinSymCompleteActLineRev">Само най-високата печеливша комбинация на активна линия на залагане от най-левия барабан до десния и/или от най-десния до левия барабан се изплаща.</ds>
+  <ds Jurisdiction="Italy" name="RTreferWebSite" id="RTreferWebSite">Следните настройки и функции на играта могат да бъдат обект на правилата и условията на игралния сайт. За повече информация относно това, посетете уебсайта за игри:</ds>
+  <ds Jurisdiction="*" name="RTMGreferWebSite" id="RTMGreferWebSite">Следните функции и настройки на играта са обект на общите условия на сайта на играта. За повече информация посетете уебсайта:</ds>
+  <ds Jurisdiction="Spain" name="cashDecreasesDesc" id="cashDecreasesDesc">Спира автоматичната игра, ако парите намалеят до посочената от Вас сума.</ds>
+  <ds Jurisdiction="*" name="cashIncreasesDesc" id="cashIncreasesDesc">Спира автоматичната игра, ако парите увеличава с размера, които сте задали.</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRev" id="RTsingleWinDescRev">Спира автоматичната игра, ако печалбата превиши или е равна на посочената сума.</ds>
+  <ds Jurisdiction="*" name="singleWinDesc" id="singleWinDesc">Спира автоматичната игра, ако печалбата превиши или е равна на посочената сума.</ds>
+  <ds Jurisdiction="*" name="anyWinDesc" id="anyWinDesc">Спира автоматичната игра, ако спечелите.</ds>
+  <ds Jurisdiction="*" name="RTMGstopIfFreeSpins" id="RTMGstopIfFreeSpins">Спира при спечелване на Free Spins</ds>
+  <ds Jurisdiction="*" name="RTMGcoinvalue" id="RTMGcoinvalue">Стойност на жетон</ds>
+  <ds Jurisdiction="*" name="RTMGcoinValueInstruction" id="RTMGcoinValueInstruction">Стойността на жетона се настройва с помощта на селектора СТОЙНОСТ НА ЖЕТОНИТЕ.</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplayOnOff" id="RTMGstopAutoplayOnOff">Стоп на автоматичната игра</ds>
+  <ds Jurisdiction="*" name="RTMGpaytable" id="RTMGpaytable">Таблица на печалбите</ds>
+  <ds Jurisdiction="*" name="RTMGpaytableJimi" id="RTMGpaytableJimi">Таблица на печалбите</ds>
+  <ds Jurisdiction="*" name="RTMGtheoreticalReturn" id="RTMGtheoreticalReturn">Теоретичната възвръщаемост за играча в тази игра е</ds>
+  <ds Jurisdiction="Italy" name="RTtheoreticalReturn" id="RTtheoreticalReturn">Теоретичната възвръщаемост за играча в тази игра е</ds>
+  <ds Jurisdiction="*" name="termWild" id="termWild">Уайлд</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildHeading" id="RTstarBurstWildHeading">Уайлд Starburst™</ds>
+  <ds Jurisdiction="*" name="RTMGselectSpinsRev" id="RTMGselectSpinsRev">Ударете силно или докоснете колелото с настройките, за да изберете броя на завъртанията в автоматичната игра.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRev" id="RTMGselectBetLevelRev">Ударете силно или докоснете колелото с настройките, за да изберете броя на заложените жетони на линия на залагане</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRev" id="RTMGselectCoinValueRev">Ударете силно или докоснете колелото с настройките, за да изберете стойността на жетона.</ds>
+  <ds Jurisdiction="*" name="RTgameFunctionsHeading" id="RTgameFunctionsHeading">Функции на играта</ds>
+  <ds Jurisdiction="*" name="RTfunctionTableHead" id="RTfunctionTableHead">Функция</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryHeading" id="RTMGgameHistoryHeading">Хронология на играта</ds>
+  <ds Jurisdiction="*" name="RTMGhistoryNotAvailable" id="RTMGhistoryNotAvailable">Хронологията на играта е активна само ако играете за истински пари.</ds>
+  <ds Jurisdiction="*" name="RTgHistoryNotAvailableForFun" id="RTgHistoryNotAvailableForFun">Хронологията на играта не е активна, когато сте в режим &lt;b&gt;ИГРА ЗА ЗАБАВЛЕНИЕ&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTautoplayDuringGameRev" id="RTautoplayDuringGameRev">&lt;b&gt;Забележка:&lt;/b&gt; Когато по време на рунд променяте настройките на автоматичната игра, всички настройки ще влязат в сила след завършване на рунда или функцията.</ds>
+  <ds Jurisdiction="*" name="RTopenAutoplayMenu" id="RTopenAutoplayMenu">Кликнете, за да отворите менюто за настройки за автоматична игра и играйте автоматично.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationWinMatchCurrency" id="RTwinCalculationWinMatchCurrency">Печалбата от линия на залагане във валута е равна на печалбата в жетони, умножена по стойността на жетона.</ds>
+  <ds Jurisdiction="*" name="RTeachStar1AddRespinUpTo3respin" id="RTeachStar1AddRespinUpTo3respin">До 2 допълнителни Starburst™ Wild символа могат да се появят, след като Starburst™ Wild активира повторно завъртане, задействащо повторно завъртане или максимум 3 повторни завъртания.</ds>
+  <ds Jurisdiction="*" name="gameSettingIntro" id="gameSettingIntro">За да получите достъп до настройките на играта, кликнете върху иконата с ключа в панела на играта.</ds>
+  <ds Jurisdiction="*" name="onlyHighWinComb" id="onlyHighWinComb">Изплаща се само най-високата печеливша комбинация на линии на залагане или от ляво надясно и/или от дясно наляво.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDesc" id="RTinformationIconButtonDesc">Кликнете, за да видите &lt;b&gt;ТАБЛИЦАТА С ПЕЧАЛБИТЕ&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTgameHistoryDesc" id="RTgameHistoryDesc">Кликнете, за да видите последната си история на играта</ds>
+  <ds Jurisdiction="*" name="RTmuteSoundSliderRev" id="RTmuteSoundSliderRev">Кликнете, за да изключите звука на играта или използвайте плъзгач, за да настроите нивото на звука.</ds>
+  <ds Jurisdiction="*" name="RTopenSettingsMenu" id="RTopenSettingsMenu">Кликнете, за да отворите менюто за настройките на играта и изберете опциите за играта. Вижте секцията Настройки на играта по-долу.</ds>
+  <ds Jurisdiction="*" name="RTopenGameRules" id="RTopenGameRules">Кликнете, за да отворите правилата на играта.</ds>
+  <ds Jurisdiction="*" name="RTsliderBetLevel" id="RTsliderBetLevel">Нивото на залагане се настройва с помощта на плъзгача.</ds>
+  <ds Jurisdiction="*" name="RTMGautoOptions" id="RTMGautoOptions">Плъзнете или натиснете плъзгача, за да активирате автоматичната игра, за да настроите опциите на автоматичната игра и броя на рундовете. Автоматичната игра играе играта на избрания брой завъртания.</ds>
+  <ds Jurisdiction="*" name="RTexCloneWildOverlay" id="RTexCloneWildOverlay">Символите Expanding Cloning Wild могат да се появят като припокриване на въртящите се барабани. Клонирани символи се появяват и като припокриване на барабаните.</ds>
+  <ds Jurisdiction="*" name="RTcashDecreasesDescRev" id="RTcashDecreasesDescRev">Спира автоматичната игра, ако парите в брой намалеят с указаната от вас сума.</ds>
+  <ds Jurisdiction="*" name="RTcashIncreasesDescRev" id="RTcashIncreasesDescRev">Спира автоматичната игра, ако парите в брой се увеличат с указаната от вас сума.</ds>
+  <ds Jurisdiction="*" name="RTsliderCoinValue" id="RTsliderCoinValue">Стойността на жетона се настройва от плъзгача за нивото на жетоните.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Забележка:&lt;/b&gt; Някои опции на автоматичната игра са задължителни за някои юрисдикции.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Забележка&lt;/b&gt;: Следната таблица се прилага само ако играете на език, различен от английския език.</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Английски термин</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Допълнителна информация</ds>
+  <ds Jurisdiction="*" name="featuresNotAvailablePFF" id="featuresNotAvailablePFF">Някои функции може да не работят в режим на игра &lt;b&gt;ИГРА ЗА ЗАБ.&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Преведен термин</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Превод на терминологията на играта</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRevNew" id="RTsingleWinDescRevNew">Спира "Автом. игра", когато спечелената от вас сума е по-висока или равна на определената сума.</ds>
+</defaults>

@@ -1,0 +1,11 @@
+<moneyformats>
+   <moneyformat>
+      <dividers thousands="," decimal="."/>
+      <strings>
+         <curchar after="false">COP</curchar>
+         <centchar usecent="false" after="false">?</centchar>
+      </strings>
+      <iso>COP</iso>
+      <decimals>2</decimals>
+   </moneyformat>
+</moneyformats>

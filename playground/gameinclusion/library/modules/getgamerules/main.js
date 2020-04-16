@@ -1,0 +1,9 @@
+/*
+ * @netent/game-inclusion 1.7.2
+ * Game Inclusion
+ *
+ * Copyright, NetEnt AB (publ)
+ * Website: https://www.netent.com/
+*/
+
+var netent_getgamerules=function(){function e(e,i,d){netent_json_handling.getJson(e.staticServer+"gameinclusion/directory/directory.json",function(o){var s;return e.gameId=o[e.gameName]||e.gameId,e.gameId?(e.gameId=e.gameId.replace(/_sw$/,""),e.language=e.language||"en",(s=o[e.gameId])?(s=e.casinoBrand&&"default"!==e.casinoBrand?s.replace("<casinobrand>",e.casinoBrand):s.replace("<casinobrand>/",""),void netent_json_handling.getJson(e.staticServer+s,function(a){var d=e.staticServer;"flash"===a.technologyType?d+=parseInt(a.technologyVersion)>8?g:n:a.preBuiltGameRulesSupported===!0?(d+=e.jurisdictionCode?s.replace(/[^\/]*\.json$/,"")+t.replace(/<gameid>/g,e.gameId).replace("<jurisdictionCode>",e.jurisdictionCode).replace("<language>",e.language):s.replace(/[^\/]*\.json$/,"")+l.replace(/<gameid>/g,e.gameId).replace("<language>",e.language),d=netent_tools.getBooleanValue(e.showRtp)===!1?d.replace(/<nortp>/g,"nortp"):d.replace(/.<nortp>/g,"")):d+=s.replace(/[^\/]*\.json$/,"")+r,d=d.replace(/<gameid>/g,e.gameId).replace("<language>",e.language),i(d)},d)):void d(4,a,"gameId")):void d(4,a,"gameName")},d)}var a="getGameRules",n="gamerules/rules.html?gameid=<gameid>&langid=<language>",g="flash/<gameid>/rules/rules.html?gameid=<gameid>&langid=<language>",r="rules/rules.html?gameid=<gameid>&langid=<language>",l="rules/templates/<gameid>.<nortp>.<language>.html",t="rules/templates/<gameid>.<jurisdictionCode>.<nortp>.<language>.html",i=["staticServer","gameId||gameName"];return{init:e,essentialParameters:i}}();

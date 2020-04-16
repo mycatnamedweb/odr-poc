@@ -1,0 +1,460 @@
+﻿<defaults xml:lang="nt">
+  <!-- Norwegian (Nynorsk) locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 18:55:53 GMT on Thursday 9 November 2017.
+
+ -->
+  <ds Jurisdiction="*" name="freeRoundsFinished" id="freeRoundsFinished"></ds>
+  <ds Jurisdiction="*" name="autoplayButtonTwoLine" id="autoplayButtonTwoLine">.</ds>
+  <ds Jurisdiction="*" name="onAnyWin" id="onAnyWin">.</ds>
+  <ds Jurisdiction="*" name="ifWinExeeds" id="ifWinExeeds">.</ds>
+  <ds Jurisdiction="*" name="OCTifWinExeeds" id="OCTifWinExeeds">.</ds>
+  <ds Jurisdiction="*" name="OCTifCashDecreasesBy" id="OCTifCashDecreasesBy">.</ds>
+  <ds Jurisdiction="*" name="OCTautoplayButton" id="OCTautoplayButton">.</ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpinsNoSpan" id="MGvarRetriggerFreeSpinsNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTvarRetriggerFSNoSpan" id="OCTvarRetriggerFSNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpins" id="MGvarRetriggerFreeSpins">&lt;span class='NetEnt_plusSign'&gt;+&lt;/span&gt;&lt;span class='NetEnt_numberFreeSpins'&gt;{0}&lt;/span&gt; Free Spins</ds>
+  <ds Jurisdiction="*" name="NeProduction" id="NeProduction">A NET ENTERTAINMENT PRODUCTION</ds>
+  <ds Jurisdiction="*" name="MGsoundsOff" id="MGsoundsOff">Alltid deaktiver lyd</ds>
+  <ds Jurisdiction="*" name="MGoptionUnavailable" id="MGoptionUnavailable">Alternativ utilgjengelig</ds>
+  <ds Jurisdiction="*" name="animationsGameSetting" id="animationsGameSetting">Animasjoner</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Antall {0}</ds>
+  <ds Jurisdiction="*" name="OCTspinsLeftText" id="OCTspinsLeftText">Antall {0} gjenværende</ds>
+  <ds Jurisdiction="*" name="paytableInfoBetLevel1" id="paytableInfoBetLevel1">Antall mynter som utbetales er basert på innsatsnivå 1.</ds>
+  <ds Jurisdiction="*" name="OCTnumberSpins" id="OCTnumberSpins">Antall spinn</ds>
+  <ds Jurisdiction="*" name="MGnumberSpins" id="MGnumberSpins">Antall spinn</ds>
+  <ds Jurisdiction="*" name="MGautoplayPanelLabel" id="MGautoplayPanelLabel">Autospill</ds>
+  <ds Jurisdiction="*" name="OCTautoplayPanelLabel" id="OCTautoplayPanelLabel">Autospill</ds>
+  <ds Jurisdiction="*" name="MGautoplayCancelled" id="MGautoplayCancelled">Autospill avbrutt</ds>
+  <ds Jurisdiction="*" name="MGoff" id="MGoff">Av</ds>
+  <ds Jurisdiction="*" name="OCTadvancedSettings" id="OCTadvancedSettings">Avanserte innstillinger</ds>
+  <ds Jurisdiction="*" name="ambience" id="ambience">Bakgrunnslyd</ds>
+  <ds Jurisdiction="Spain" name="paytableHighestNoActive" id="paytableHighestNoActive">Bare den høyeste gevinsten per innsatslinje betales ut.</ds>
+  <ds Jurisdiction="*" name="MGuseDefaultBrowser" id="MGuseDefaultBrowser">Bruk standard nettleseren for enheten eller oppgrader systemet ditt.</ds>
+  <ds Jurisdiction="*" name="specialWinCombo" id="specialWinCombo">COMBO</ds>
+  <ds Jurisdiction="Spain" name="OCTifFBonusIsStarted" id="OCTifFBonusIsStarted">Dersom Bonus Game blir vunnet</ds>
+  <ds Jurisdiction="*" name="MGdeviceNoSupport" id="MGdeviceNoSupport">Dessverre, støttes ikke denne enheten.</ds>
+  <ds Jurisdiction="*" name="MGnoBrowserSupport" id="MGnoBrowserSupport">Dessverre, støttes ikke denne nettleseren.</ds>
+  <ds Jurisdiction="*" name="MGnoOSSupport" id="MGnoOSSupport">Dessverre, støttes ikke dette operativsystemet.</ds>
+  <ds Jurisdiction="Spain" name="OCTpaytableHighest" id="OCTpaytableHighest">Det er kun høyeste oppnådde gevinst på hver gevinstlinje som gjelder.</ds>
+  <ds Jurisdiction="*" name="MGoptionAvailable" id="MGoptionAvailable">Dette alternativet er kun tilgjengelig etter avsluttet spillrunde.</ds>
+  <ds Jurisdiction="*" name="optimisedForVersion" id="optimisedForVersion">Dette spillet er optimalisert for: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinIncoins" id="MGwinIncoins">Din gevinst i mynter: {0}</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsLeft" id="MGfreeRoundsLeft">Du har {0} gratis runder igjen!</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRoundsRev" id="MGhaveFreeRoundsRev">Du har {0} gratisrunder!</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRounds" id="MGhaveFreeRounds">Du har {0} gratisrunder.</ds>
+  <ds Jurisdiction="*" name="MG11" id="MG11">Du har nådd spillgrensen din. Velkommen tilbake senere!</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingLost" id="MGRCheckPlayingLost">Du har spilt i {0} timer og tapt {1}.</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingLost" id="OCTRCheckPlayingLost">Du har spilt i {0} timer og tapt {1}.</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingWon" id="OCTRCheckPlayingWon">Du har spilt i {0} timer og vunnet {1}.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingWon" id="MGRCheckPlayingWon">Du har spilt i {0} timer og vunnet {1}.</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinWon" id="MGadditonalFreeSpinWon">Du har vunnet {0} ekstra Free Spin</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinsWon" id="MGadditonalFreeSpinsWon">Du har vunnet {0} ekstra Free Spins.</ds>
+  <ds Jurisdiction="*" name="OCTadditonalFreeSpinsWon" id="OCTadditonalFreeSpinsWon">Du har vunnet {0} ekstra Free Spins.</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoinsUC" id="OCTyouWonCoinsUC">Du har vunnet {0} mynter</ds>
+  <ds Jurisdiction="*" name="MGyouWonCoins" id="MGyouWonCoins">Du har vunnet {0} mynter</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoins" id="OCTyouWonCoins">Du har vunnet {0} mynter</ds>
+  <ds Jurisdiction="*" name="MGyouWon" id="MGyouWon">Du har vunnet:{0}</ds>
+  <ds Jurisdiction="*" name="updateBrowserReq" id="updateBrowserReq">Du må oppdatere nettleseren din for å kunne spille. Minimumskrav: {0}</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Du må oppdatere nettleseren din for å spille spillet.</ds>
+  <ds Jurisdiction="*" name="MGyouPlayingFun" id="MGyouPlayingFun">Du spiller for moroskyld</ds>
+  <ds Jurisdiction="*" name="OCTyouPlayingFun" id="OCTyouPlayingFun">Du spiller for moroskyld</ds>
+  <ds Jurisdiction="*" name="OCTyouWinUCNoExclamation" id="OCTyouWinUCNoExclamation">DU VANT</ds>
+  <ds Jurisdiction="*" name="OCTRCcheckReminder" id="OCTRCcheckReminder">En vennlig påminnelse</ds>
+  <ds Jurisdiction="*" name="MGRCcheckReminder" id="MGRCcheckReminder">En vennlig påminnelse</ds>
+  <ds Jurisdiction="*" name="deviceNotSupported" id="deviceNotSupported">Enheten din støttes ikke.</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Forbindelse: Svak</ds>
+  <ds Jurisdiction="*" name="connectionQualityPoor" id="connectionQualityPoor">Forbindelse: Svak</ds>
+  <ds Jurisdiction="*" name="MGcontinue" id="MGcontinue">Fortsett</ds>
+  <ds Jurisdiction="*" name="OCTContinue" id="OCTContinue">Fortsett</ds>
+  <ds Jurisdiction="*" name="OCTbutton_CONTINUE" id="OCTbutton_CONTINUE">FORTSETT</ds>
+  <ds Jurisdiction="*" name="OCTcontinuePlaying" id="OCTcontinuePlaying">Fortsett å spille der du avsluttet.</ds>
+  <ds Jurisdiction="*" name="MGcontinuePlaying" id="MGcontinuePlaying">Fortsett å spille der du avsluttet.</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsUC" id="OCTfreeSpinsUC">FREE SPINS</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsLeftColonVar" id="OCTfreeSpinsLeftColonVar">Free Spins igjen: {0}</ds>
+  <ds Jurisdiction="*" name="MGfreeSpinsLeftColonVar" id="MGfreeSpinsLeftColonVar">Free Spins igjen: {0}</ds>
+  <ds Jurisdiction="*" name="MGcolHeadFSpinSyms" id="MGcolHeadFSpinSyms">Free Spin-symboler</ds>
+  <ds Jurisdiction="*" name="MGroundsUseAccountMoney" id="MGroundsUseAccountMoney">Fremtidige runder bruker dine kontopenger. Lykke til!</ds>
+  <ds Jurisdiction="*" name="OCTroundsUseAcctMoney" id="OCTroundsUseAcctMoney">Fremtidige runder bruker dine kontopenger. Lykke til!</ds>
+  <ds Jurisdiction="*" name="OCTvoidAllPays" id="OCTvoidAllPays">Funksjonsfeil gjør alle spill og utbetalinger ugyldige.</ds>
+  <ds Jurisdiction="*" name="OCTwin" id="OCTwin">Gevinst</ds>
+  <ds Jurisdiction="Spain" name="OCTmachinetext_win" id="OCTmachinetext_win">GEVINST</ds>
+  <ds Jurisdiction="*" name="MGwinPay" id="MGwinPay">Gevinst</ds>
+  <ds Jurisdiction="*" name="OCTwinColonUC" id="OCTwinColonUC">GEVINST:</ds>
+  <ds Jurisdiction="*" name="MGwin" id="MGwin">Gevinst: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinCapitals" id="MGwinCapitals">GEVINST: {0}</ds>
+  <ds Jurisdiction="*" name="OCTwinColonVar" id="OCTwinColonVar">Gevinst: {0}</ds>
+  <ds Jurisdiction="*" name="winBothWaysPaysRev" id="winBothWaysPaysRev">Gevinster på forskjellige gevinstlinjer legges sammen og utgjør samlet gevinstbeløp.</ds>
+  <ds Jurisdiction="*" name="MGbetLineWinsLeftRight" id="MGbetLineWinsLeftRight">Gevinstlinjer regnes fra venstre til høyre.</ds>
+  <ds Jurisdiction="*" name="OCTbetLineWinsLeftToRightOnly" id="OCTbetLineWinsLeftToRightOnly">Gevinstlinjer regnes fra venstre til høyre.</ds>
+  <ds Jurisdiction="*" name="MGsubAllSymbolsLC" id="MGsubAllSymbolsLC">Gjelder for alle symboler.</ds>
+  <ds Jurisdiction="*" name="subAllSymbols" id="subAllSymbols">GJELDER FOR ALLE SYMBOLER.</ds>
+  <ds Jurisdiction="*" name="qualityHeading" id="qualityHeading">Grafikkvalitet</ds>
+  <ds Jurisdiction="*" name="OCTqualityHeading" id="OCTqualityHeading">Grafikkvalitet</ds>
+  <ds Jurisdiction="*" name="MGfreerounds" id="MGfreerounds">Gratis runder er utgått</ds>
+  <ds Jurisdiction="*" name="OCTfreerounds" id="OCTfreerounds">Gratis runder er utgått</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsTitle" id="MGfreeRoundsTitle">Gratisrunder</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsTitle" id="OCTfreeRoundsTitle">Gratisrunder</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsFinished" id="MGfreeRoundsFinished">Gratisrunder ferdig</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinished" id="OCTfreeRoundsFinished">Gratisrunder ferdig</ds>
+  <ds Jurisdiction="*" name="OCTFreeRoundsLeftwithColon" id="OCTFreeRoundsLeftwithColon">Gratisrunder: {0}</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsVar" id="MGfreeRoundsVar">Gratisrunder: {0}</ds>
+  <ds Jurisdiction="*" name="MGcongrats" id="MGcongrats">Gratulerer!</ds>
+  <ds Jurisdiction="*" name="OCTcongratsLC" id="OCTcongratsLC">Gratulerer!</ds>
+  <ds Jurisdiction="*" name="MGright" id="MGright">H</ds>
+  <ds Jurisdiction="*" name="OCTcasino_btn" id="OCTcasino_btn">Hjem</ds>
+  <ds Jurisdiction="*" name="MGcasino_btn" id="MGcasino_btn">Hjem</ds>
+  <ds Jurisdiction="*" name="OCTskipIntro" id="OCTskipIntro">Hopp over intro</ds>
+  <ds Jurisdiction="*" name="highQuality" id="highQuality">Høy</ds>
+  <ds Jurisdiction="*" name="OCThighQuality" id="OCThighQuality">Høy</ds>
+  <ds Jurisdiction="*" name="MGquickSpinGameSetting" id="MGquickSpinGameSetting">Hurtigspinn</ds>
+  <ds Jurisdiction="*" name="quickSpinGameSetting" id="quickSpinGameSetting">Hurtigspinn</ds>
+  <ds Jurisdiction="*" name="OCTquickSpinGameSetting" id="OCTquickSpinGameSetting">Hurtigspinn</ds>
+  <ds Jurisdiction="*" name="OCTquickSpin" id="OCTquickSpin">Hurtigspinn</ds>
+  <ds Jurisdiction="*" name="OCTifFreeSpinsIsStarted" id="OCTifFreeSpinsIsStarted">Hvis Free Spins blir vunnet</ds>
+  <ds Jurisdiction="*" name="InAssociation" id="InAssociation">I samarbeid med</ds>
+  <ds Jurisdiction="*" name="dontShowNextTime" id="dontShowNextTime">Ikke vis neste gang</ds>
+  <ds Jurisdiction="*" name="MGnoWin" id="MGnoWin">Ingen gevinst</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_bet" id="OCTmachinetext_bet">INNSATS</ds>
+  <ds Jurisdiction="*" name="OCTtotalbet" id="OCTtotalbet">Innsats</ds>
+  <ds Jurisdiction="*" name="MGbetInCashRev" id="MGbetInCashRev">Innsats i kontanter</ds>
+  <ds Jurisdiction="*" name="OCTbetInCash" id="OCTbetInCash">Innsats i kr</ds>
+  <ds Jurisdiction="*" name="OCTbetInCoins" id="OCTbetInCoins">Innsats i mynter</ds>
+  <ds Jurisdiction="*" name="MGbetInCoinsRev" id="MGbetInCoinsRev">Innsats i mynter</ds>
+  <ds Jurisdiction="*" name="MGpaytableHighestPaid" id="MGpaytableHighestPaid">Innsats i spillet avhenger av dine valg. Hvis du setter alle innstillingene til maksimale verdier, får du maksimum innsats , og hvis du setter dem til de minste verdiene får du minimumsinnsatsen. I dette spillet er maksinnsatsen 30 kr. Det er kun høyeste oppnådde gevinst på hver gevinstlinje som gjelder.</ds>
+  <ds Jurisdiction="*" name="MGbet" id="MGbet">Innsats: {0}</ds>
+  <ds Jurisdiction="*" name="OCTbetColonVar" id="OCTbetColonVar">Innsats: {0}</ds>
+  <ds Jurisdiction="*" name="MGbetOptions" id="MGbetOptions">Innsatsinnstilling</ds>
+  <ds Jurisdiction="*" name="MGbetSettings" id="MGbetSettings">Innsatsinnstillinger</ds>
+  <ds Jurisdiction="*" name="OCTbetSettingsCaps" id="OCTbetSettingsCaps">INNSATSINNSTILLINGER</ds>
+  <ds Jurisdiction="*" name="MGcolHeadBetMulti" id="MGcolHeadBetMulti">Innsatsmultiplikator</ds>
+  <ds Jurisdiction="*" name="MGbetlevel" id="MGbetlevel">Innsatsnivå</ds>
+  <ds Jurisdiction="Spain" name="OCTbetlevel" id="OCTbetlevel">Innsatsnivå</ds>
+  <ds Jurisdiction="*" name="OCTdeposit_btn" id="OCTdeposit_btn">Innskudd</ds>
+  <ds Jurisdiction="*" name="MGdeposit_btn" id="MGdeposit_btn">Innskudd</ds>
+  <ds Jurisdiction="*" name="OCTslowConnection" id="OCTslowConnection">Internett-tilkoblingen din er for treg.</ds>
+  <ds Jurisdiction="*" name="MGslowConnection" id="MGslowConnection">Internett-tilkoblingen din er for treg.</ds>
+  <ds Jurisdiction="*" name="OCTintroGameSetting" id="OCTintroGameSetting">Intro-film</ds>
+  <ds Jurisdiction="*" name="OCTintroScreeGameSetting" id="OCTintroScreeGameSetting">Introskjerm</ds>
+  <ds Jurisdiction="*" name="introScreeGameSetting" id="introScreeGameSetting">Introskjerm</ds>
+  <ds Jurisdiction="*" name="MGbutton_yes" id="MGbutton_yes">Ja</ds>
+  <ds Jurisdiction="*" name="OCTbtnYes" id="OCTbtnYes">Ja</ds>
+  <ds Jurisdiction="*" name="MGyes" id="MGyes">Ja*</ds>
+  <ds Jurisdiction="*" name="MGaccountUnavailable" id="MGaccountUnavailable">Konto utilgjengelig</ds>
+  <ds Jurisdiction="*" name="OCTaccountUnavailable" id="OCTaccountUnavailable">Konto utilgjengelig</ds>
+  <ds Jurisdiction="*" name="OCTpaytableHighestWinMatch" id="OCTpaytableHighestWinMatch">Kun den høyeste gevinsten per gevinstkombinasjon utbetales.</ds>
+  <ds Jurisdiction="*" name="paytableHighestRev" id="paytableHighestRev">Kun høyeste gevinst for hver aktive innsatslinje begge veier utbetales.</ds>
+  <ds Jurisdiction="*" name="couldNotConnectServer" id="couldNotConnectServer">Kunne ikke koble til server.</ds>
+  <ds Jurisdiction="*" name="MGreload_btnRev" id="MGreload_btnRev">Last på nytt</ds>
+  <ds Jurisdiction="*" name="OCTloadingText" id="OCTloadingText">Laster inn</ds>
+  <ds Jurisdiction="*" name="OCTloading" id="OCTloading">Laster inn ...</ds>
+  <ds Jurisdiction="*" name="OCTloadingTakesLonger" id="OCTloadingTakesLonger">Lastingen av spillet tar lenger tid enn normalt.</ds>
+  <ds Jurisdiction="*" name="loadingTakesLonger" id="loadingTakesLonger">Lastingen av spillet tar lenger tid enn normalt.</ds>
+  <ds Jurisdiction="*" name="lowQuality" id="lowQuality">Lav</ds>
+  <ds Jurisdiction="*" name="OCTlowQuality" id="OCTlowQuality">Lav</ds>
+  <ds Jurisdiction="*" name="MGlogin_btn" id="MGlogin_btn">Logg inn</ds>
+  <ds Jurisdiction="*" name="OCTlogin_btn" id="OCTlogin_btn">Logg inn</ds>
+  <ds Jurisdiction="*" name="MGclose_btn" id="MGclose_btn">Lukk</ds>
+  <ds Jurisdiction="*" name="OCTclose_btn" id="OCTclose_btn">Lukk</ds>
+  <ds Jurisdiction="*" name="sound" id="sound">Lydeffekter</ds>
+  <ds Jurisdiction="*" name="MGsoundsNo" id="MGsoundsNo">Lyder av</ds>
+  <ds Jurisdiction="*" name="OCTsoundsNo" id="OCTsoundsNo">Lyder av</ds>
+  <ds Jurisdiction="*" name="OCTsoundsOn" id="OCTsoundsOn">Lyder på</ds>
+  <ds Jurisdiction="*" name="MGsoundsOn" id="MGsoundsOn">Lyder på</ds>
+  <ds Jurisdiction="*" name="MGsoundSettings" id="MGsoundSettings">Lydinnstillinger</ds>
+  <ds Jurisdiction="*" name="OCTsoundSettingsCaps" id="OCTsoundSettingsCaps">LYDINNSTILLINGER</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbutton" id="OCTmaxbetbutton">MAKS INNSATS</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbuttonTwoLine" id="OCTmaxbetbuttonTwoLine">MAKS&lt;br&gt;INNSATS</ds>
+  <ds Jurisdiction="*" name="MGmaxNumberReSpinsLC" id="MGmaxNumberReSpinsLC">Maksimalt antall re-spins er {0}.</ds>
+  <ds Jurisdiction="*" name="maxNumberReSpins" id="maxNumberReSpins">MAKSIMALT ANTALL RE-SPINS ER {0}.</ds>
+  <ds Jurisdiction="*" name="RCheckMonths" id="RCheckMonths">måneder</ds>
+  <ds Jurisdiction="*" name="mediumQuality" id="mediumQuality">Medium</ds>
+  <ds Jurisdiction="*" name="OCTmediumQuality" id="OCTmediumQuality">Medium</ds>
+  <ds Jurisdiction="*" name="specialWinMegaCombo" id="specialWinMegaCombo">MEGA COMBO</ds>
+  <ds Jurisdiction="*" name="OCTmegaWin" id="OCTmegaWin">MEGA GEVINST!</ds>
+  <ds Jurisdiction="*" name="megaWin" id="megaWin">MEGAGEVINST!</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Melding</ds>
+  <ds Jurisdiction="*" name="OCTspaceSpin" id="OCTspaceSpin">Mellomromstast for å spinne</ds>
+  <ds Jurisdiction="*" name="spaceSpin" id="spaceSpin">Mellomromstast for å spinne</ds>
+  <ds Jurisdiction="*" name="MGminOSReq" id="MGminOSReq">Minimumskrav er:</ds>
+  <ds Jurisdiction="*" name="MGleftHandMode" id="MGleftHandMode">Modus for venstrehendte</ds>
+  <ds Jurisdiction="*" name="OCTleftHandMode" id="OCTleftHandMode">Modus for venstrehendte</ds>
+  <ds Jurisdiction="*" name="multiplierFLC" id="multiplierFLC">Multiplier</ds>
+  <ds Jurisdiction="*" name="multiplierUC" id="multiplierUC">MULTIPLIKATOR</ds>
+  <ds Jurisdiction="*" name="MGpaytableInfoBetLevel1" id="MGpaytableInfoBetLevel1">Myntenes utbetalingsverdi er basert på innsats nivå 1.</ds>
+  <ds Jurisdiction="*" name="coins" id="coins">Mynter</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coins" id="OCTmachinetext_coins">MYNTER</ds>
+  <ds Jurisdiction="*" name="OCTcoinsWonColon" id="OCTcoinsWonColon">Mynter vunnet:</ds>
+  <ds Jurisdiction="*" name="coinsWonColon" id="coinsWonColon">Mynter vunnet:</ds>
+  <ds Jurisdiction="*" name="MGcoins" id="MGcoins">Mynter: {0}</ds>
+  <ds Jurisdiction="*" name="OCTcoinsColonVar" id="OCTcoinsColonVar">Mynter: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinMultiplierVar" id="MGwinMultiplierVar">Myntgevinster er multiplisert med {0}</ds>
+  <ds Jurisdiction="*" name="MGcoinvalue" id="MGcoinvalue">Myntverdi</ds>
+  <ds Jurisdiction="*" name="OCTcoinValue" id="OCTcoinValue">Myntverdi</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coinvalue" id="OCTmachinetext_coinvalue">MYNTVERDI</ds>
+  <ds Jurisdiction="*" name="OCTbtnNo" id="OCTbtnNo">Nei</ds>
+  <ds Jurisdiction="*" name="MGbutton_no" id="MGbutton_no">Nei</ds>
+  <ds Jurisdiction="*" name="OCTlevel" id="OCTlevel">NIVÅ</ds>
+  <ds Jurisdiction="*" name="OCTbtnOK" id="OCTbtnOK">OK</ds>
+  <ds Jurisdiction="*" name="MGok_btn" id="MGok_btn">Ok</ds>
+  <ds Jurisdiction="*" name="MGsessionTimeOut" id="MGsessionTimeOut">Økten er utløpt</ds>
+  <ds Jurisdiction="*" name="OCTsessionTimeOut" id="OCTsessionTimeOut">Økten er utløpt</ds>
+  <ds Jurisdiction="*" name="updateBrowserQuestion" id="updateBrowserQuestion">Ønsker du å oppdatere?</ds>
+  <ds Jurisdiction="*" name="operatingSystemNoSupport" id="operatingSystemNoSupport">Operativsystemet ditt støttes ikke.</ds>
+  <ds Jurisdiction="*" name="OCTreload_btn" id="OCTreload_btn">Oppdater</ds>
+  <ds Jurisdiction="*" name="MGreload_btn" id="MGreload_btn">Oppdater</ds>
+  <ds Jurisdiction="*" name="MGreload" id="MGreload">Oppdater spillet.</ds>
+  <ds Jurisdiction="*" name="OCTreload" id="OCTreload">Oppdater spillet.</ds>
+  <ds Jurisdiction="*" name="MGspinButtonPosition" id="MGspinButtonPosition">Plasseringen til Spinn-knappen</ds>
+  <ds Jurisdiction="*" name="MGsoftNotTest" id="MGsoftNotTest">Programvaren er ikke testet på enheten din.</ds>
+  <ds Jurisdiction="*" name="MGplayingForFun" id="MGplayingForFun">PRØVESPILL</ds>
+  <ds Jurisdiction="*" name="OCTplayingForFun" id="OCTplayingForFun">PRØVESPILL</ds>
+  <ds Jurisdiction="Antigua and Barbuda" name="OCTreduceBet_btn" id="OCTreduceBet_btn">Reduser innsats</ds>
+  <ds Jurisdiction="*" name="MGreduceBet_btn" id="MGreduceBet_btn">Reduser innsats</ds>
+  <ds Jurisdiction="*" name="MGreduce" id="MGreduce">Reduser innsatsen din for å kunne fortsette å spille.</ds>
+  <ds Jurisdiction="*" name="OCTreduce" id="OCTreduce">Reduser innsatsen din for å kunne fortsette å spille.</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">retningslinjer om informasjonskapsler.</ds>
+  <ds Jurisdiction="*" name="OCTcash" id="OCTcash">Saldo</ds>
+  <ds Jurisdiction="*" name="OCTcashColon" id="OCTcashColon">Saldo:</ds>
+  <ds Jurisdiction="*" name="MGcash" id="MGcash">Saldo:  {0}</ds>
+  <ds Jurisdiction="*" name="OCTcashColonVar" id="OCTcashColonVar">Saldo: {0}</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinUCnoVar" id="OCTtotalWinUCnoVar">SAMLET GEVINST:</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Sannsynligvis ikke resultatet du håpet på. Prøv en {0}-gratisrunde – vi spanderer.</ds>
+  <ds Jurisdiction="*" name="MGbetInCoins" id="MGbetInCoins">Sats mynter</ds>
+  <ds Jurisdiction="*" name="MGbetInCash" id="MGbetInCash">Sats penger</ds>
+  <ds Jurisdiction="*" name="MGbetCashCoins" id="MGbetCashCoins">Sats penger/mynter</ds>
+  <ds Jurisdiction="*" name="extraInfo" id="extraInfo">Se Spillregler for mer informasjon.</ds>
+  <ds Jurisdiction="*" name="OCTextraInfo" id="OCTextraInfo">Se Spillregler for mer informasjon.</ds>
+  <ds Jurisdiction="*" name="OCTlandscapeMode" id="OCTlandscapeMode">Sett enheten din i landskapsmodus!</ds>
+  <ds Jurisdiction="*" name="MGlandscapeMode" id="MGlandscapeMode">Sett enheten din i landskapsmodus!</ds>
+  <ds Jurisdiction="*" name="MGdepositPlay" id="MGdepositPlay">Sett inn flere penger for å kunne fortsette å spille.</ds>
+  <ds Jurisdiction="*" name="MGdeposit" id="MGdeposit">Sett inn mer penger eller reduser innsatsen din.</ds>
+  <ds Jurisdiction="*" name="OCTdeposit" id="OCTdeposit">Sett inn mer penger eller reduser innsatsen din.</ds>
+  <ds Jurisdiction="*" name="OCTdepositPlay" id="OCTdepositPlay">Sett inn penger for å fortsette med å spille.</ds>
+  <ds Jurisdiction="*" name="MGdownloadSounds" id="MGdownloadSounds">Slå på lyd?</ds>
+  <ds Jurisdiction="*" name="MGrestoredGameHeader" id="MGrestoredGameHeader">Spill gjenopprettet</ds>
+  <ds Jurisdiction="*" name="OCTrestoredGameHeader" id="OCTrestoredGameHeader">Spill gjenopprettet</ds>
+  <ds Jurisdiction="*" name="OCTgameUnavailable" id="OCTgameUnavailable">Spill utilgjengelig</ds>
+  <ds Jurisdiction="*" name="MGgameUnavailable" id="MGgameUnavailable">Spill utilgjengelig</ds>
+  <ds Jurisdiction="*" name="OCTgameHistoryHeadingUC" id="OCTgameHistoryHeadingUC">SPILLEHISTORIKK</ds>
+  <ds Jurisdiction="*" name="OCTgameRulesUC" id="OCTgameRulesUC">SPILLEREGLER</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheadingCaps" id="MGgameRulesheadingCaps">SPILLEREGLER</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheading" id="MGgameRulesheading">Spilleregler</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Spillet bruker informasjonskapsler til å hente statistikk og forbedre brukeropplevelsen. Godta våre</ds>
+  <ds Jurisdiction="*" name="gameOptimisedFor" id="gameOptimisedFor">Spillet er optimalisert for {0} på {1}.</ds>
+  <ds Jurisdiction="*" name="gameOptimisedVersion" id="gameOptimisedVersion">Spillet er optimalisert for: {0}</ds>
+  <ds Jurisdiction="*" name="OCTlostConnectInactivity" id="OCTlostConnectInactivity">Spillet har mistet kontakten grunnet inaktivitet.</ds>
+  <ds Jurisdiction="*" name="MGlostConnectionInactivity" id="MGlostConnectionInactivity">Spillet har mistet kontakten grunnet inaktivitet.</ds>
+  <ds Jurisdiction="*" name="gameNotLoaded" id="gameNotLoaded">Spillet kunne ikke lastes.</ds>
+  <ds Jurisdiction="*" name="OCTplayLimit" id="OCTplayLimit">Spillgrense</ds>
+  <ds Jurisdiction="*" name="MGplayLimit" id="MGplayLimit">Spillgrense</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeading" id="MGgameHistoryHeading">Spillhistorikk</ds>
+  <ds Jurisdiction="*" name="gameHistory" id="gameHistory">Spillhistorikk</ds>
+  <ds Jurisdiction="*" name="OCTgameHistory" id="OCTgameHistory">Spillhistorikk</ds>
+  <ds Jurisdiction="*" name="OCThistoryNotAvailable" id="OCThistoryNotAvailable">Spillhistorikk er bare tilgjengelig når du spiller for penger.</ds>
+  <ds Jurisdiction="*" name="MGhistoryNotAvailable" id="MGhistoryNotAvailable">Spillhistorikk er bare tilgjengelig når du spiller for penger.</ds>
+  <ds Jurisdiction="*" name="MGnewHistoryWindow" id="MGnewHistoryWindow">Spillhistorikken vil åpnes i et nytt vindu. Lukk siden for å returnere til spillet.</ds>
+  <ds Jurisdiction="Algeria" name="OCTnewHistoryWindow" id="OCTnewHistoryWindow">Spillhistorikken vil åpnes i et nytt vindu. Lukk siden for å returnere til spillet.</ds>
+  <ds Jurisdiction="*" name="OCTslidePanelLabel" id="OCTslidePanelLabel">Spillinnstillinger</ds>
+  <ds Jurisdiction="*" name="OCTgameSound" id="OCTgameSound">Spillyder</ds>
+  <ds Jurisdiction="*" name="MGgameSound" id="MGgameSound">Spillyder</ds>
+  <ds Jurisdiction="*" name="MGsounds" id="MGsounds">Spillyder</ds>
+  <ds Jurisdiction="*" name="OCTautoSpins" id="OCTautoSpins">spinn</ds>
+  <ds Jurisdiction="*" name="MGspinSettings" id="MGspinSettings">Spinninnstillinger</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRev" id="MGspinSettingsRev">Spinninnstillinger</ds>
+  <ds Jurisdiction="*" name="OCTspinSettingsCaps" id="OCTspinSettingsCaps">SPINNINNSTILLINGER</ds>
+  <ds Jurisdiction="*" name="starburstNameOfWild" id="starburstNameOfWild">Starburst™ Wild</ds>
+  <ds Jurisdiction="*" name="MGplayingForMoney" id="MGplayingForMoney">Start å spille for penger?</ds>
+  <ds Jurisdiction="*" name="startFreeSpins" id="startFreeSpins">Start Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTstartFreeSpins" id="OCTstartFreeSpins">START FREE SPINS</ds>
+  <ds Jurisdiction="*" name="MGreturnCasino" id="MGreturnCasino">Start spillet på nytt.</ds>
+  <ds Jurisdiction="*" name="OCTreturnCasino" id="OCTreturnCasino">Start spillet på nytt.</ds>
+  <ds Jurisdiction="*" name="OCTautoplayStopText" id="OCTautoplayStopText">STOPP</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlay" id="OCTstopAutoPlay">Stopp autospill</ds>
+  <ds Jurisdiction="*" name="autoBonusGame" id="autoBonusGame">Stopp autospill hvis Bonus Game vinnes før det gitte antallet autospillrunder.</ds>
+  <ds Jurisdiction="*" name="autoplayFeatureSpins" id="autoplayFeatureSpins">Stopp autospill hvis Feature Spins vinnes før det gitte antallet autospillrunder.</ds>
+  <ds Jurisdiction="*" name="MGstopIfBonusGame" id="MGstopIfBonusGame">Stopp hvis Bonus Game er vunnet</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinscrosstowntraffic" id="OCTstopIfFreeSpinscrosstowntraffic">Stopp hvis Crosstown Traffic Free Spins vinnes</ds>
+  <ds Jurisdiction="*" name="stopIfFeatureSpins" id="stopIfFeatureSpins">Stopp hvis Feature Spin vinnes</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpins" id="OCTstopIfFreeSpins">Stopp hvis Free Spins vinnes</ds>
+  <ds Jurisdiction="*" name="MGstopIfFreeSpins" id="MGstopIfFreeSpins">Stopp hvis Free Spins vinnes</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinslittlewing" id="OCTstopIfFreeSpinslittlewing">Stopp hvis Little Wing Free Spins vinnes</ds>
+  <ds Jurisdiction="*" name="stopIfPickAndClick" id="stopIfPickAndClick">Stopp hvis Pick and Click vinnes</ds>
+  <ds Jurisdiction="*" name="stopIfPoliceSpins" id="stopIfPoliceSpins">Stopp hvis Police Spins er vunnet</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinspurplehaze" id="OCTstopIfFreeSpinspurplehaze">Stopp hvis Purple Haze Free Spins vinnes</ds>
+  <ds Jurisdiction="*" name="OCTbigWin" id="OCTbigWin">STOR GEVINST!</ds>
+  <ds Jurisdiction="*" name="bigWin" id="bigWin">STOR GEVINST!</ds>
+  <ds Jurisdiction="*" name="MGbigWin" id="MGbigWin">STOR GEVINST!</ds>
+  <ds Jurisdiction="*" name="specialWinSuperCombo" id="specialWinSuperCombo">SUPER COMBO</ds>
+  <ds Jurisdiction="*" name="OCTsuperMegaWin" id="OCTsuperMegaWin">SUPER MEGA GEVINST!</ds>
+  <ds Jurisdiction="*" name="superMegaWin" id="superMegaWin">SUPERMEGAGEVINST!</ds>
+  <ds Jurisdiction="*" name="MGswipeToActivate" id="MGswipeToActivate">Sveip opp for å aktivere spillet.</ds>
+  <ds Jurisdiction="*" name="OCTsymbolPayout" id="OCTsymbolPayout">Symbolenes utbetalingsverdi</ds>
+  <ds Jurisdiction="Afghanistan" name="MGsymbolPayout" id="MGsymbolPayout">Symbolenes utbetalingsverdi</ds>
+  <ds Jurisdiction="*" name="MGerror" id="MGerror">Teknisk feil</ds>
+  <ds Jurisdiction="*" name="OCTerror" id="OCTerror">Teknisk feil</ds>
+  <ds Jurisdiction="*" name="OCTreset" id="OCTreset">Tilbakestill</ds>
+  <ds Jurisdiction="*" name="OCTconnectionLost" id="OCTconnectionLost">Tilkobling mistet</ds>
+  <ds Jurisdiction="*" name="MGconnectionLost" id="MGconnectionLost">Tilkobling mistet</ds>
+  <ds Jurisdiction="*" name="MGoutOfMoney" id="MGoutOfMoney">Tom for penger</ds>
+  <ds Jurisdiction="*" name="OCToutOfMoney" id="OCToutOfMoney">Tom for penger</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinWithColon" id="OCTtotalWinWithColon">Total gevinst:</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinColonVar" id="OCTtotalWinColonVar">Total gevinst: {0}</ds>
+  <ds Jurisdiction="*" name="MGtotalWin" id="MGtotalWin">Total gevinst: {0}</ds>
+  <ds Jurisdiction="*" name="winBothWaysRev" id="winBothWaysRev">TOVEISGEVINST</ds>
+  <ds Jurisdiction="*" name="MGpaytable" id="MGpaytable">Utbetalingstabell</ds>
+  <ds Jurisdiction="*" name="OCTbutton_paytableUC" id="OCTbutton_paytableUC">UTBETALINGSTABELL</ds>
+  <ds Jurisdiction="*" name="OCTpaytable" id="OCTpaytable">Utbetalingstabell</ds>
+  <ds Jurisdiction="*" name="MGexpandReelTriggerLC" id="MGexpandReelTriggerLC">Utvides over hjulet og trigger en re-spin.</ds>
+  <ds Jurisdiction="*" name="expandReelTrigger" id="expandReelTrigger">UTVIDES OVER HJULET OG TRIGGER EN RE-SPIN.</ds>
+  <ds Jurisdiction="*" name="MGleft" id="MGleft">V</ds>
+  <ds Jurisdiction="*" name="scatterSelect" id="scatterSelect">VELG EN SCATTER</ds>
+  <ds Jurisdiction="Spain" name="OCTautoplayPanelStartText" id="OCTautoplayPanelStartText">Velg for å starte</ds>
+  <ds Jurisdiction="*" name="upgradeDevice" id="upgradeDevice">Vennligst oppgrader enheten din.</ds>
+  <ds Jurisdiction="*" name="MGreturnToLobby" id="MGreturnToLobby">Vennligst returner til lobbyen.</ds>
+  <ds Jurisdiction="*" name="OCTreturnToLobby" id="OCTreturnToLobby">Vennligst returner til lobbyen.</ds>
+  <ds Jurisdiction="*" name="MGcontinueYesNo" id="MGcontinueYesNo">Vil du fortsette?</ds>
+  <ds Jurisdiction="*" name="OCTcontinueYesNo" id="OCTcontinueYesNo">Vil du fortsette?</ds>
+  <ds Jurisdiction="*" name="FSplashWinBothWays" id="FSplashWinBothWays">VINN &lt;br&gt; BEGGE VEIER</ds>
+  <ds Jurisdiction="*" name="MGwinUpTo" id="MGwinUpTo">Vinn opp til {0} mynter</ds>
+  <ds Jurisdiction="*" name="WinUpTodup" id="WinUpTodup">VINN OPPTIL</ds>
+  <ds Jurisdiction="*" name="OCTwinUpTo" id="OCTwinUpTo">Vinn opptil {0} mynter</ds>
+  <ds Jurisdiction="*" name="OCTwinningBetLinesHeading" id="OCTwinningBetLinesHeading">Vinnende innsatslinjer</ds>
+  <ds Jurisdiction="*" name="MGwinningLinesHeading" id="MGwinningLinesHeading">Vinnende innsatslinjer</ds>
+  <ds Jurisdiction="*" name="MGwinningCombinations" id="MGwinningCombinations">Vinnerkombinasjoner og utbetalinger</ds>
+  <ds Jurisdiction="*" name="appearsOnReels" id="appearsOnReels">VISES PÅ HJUL {0}, {1} OG {2}.</ds>
+  <ds Jurisdiction="*" name="MGappearsOnReelsLC" id="MGappearsOnReelsLC">Vises på hjul {0}, {1} og {2}.</ds>
+  <ds Jurisdiction="*" name="ifCashDecreasesBy" id="ifCashDecreasesBy">.</ds>
+  <ds Jurisdiction="*" name="ifCashIncreasesBy" id="ifCashIncreasesBy">.</ds>
+  <ds Jurisdiction="*" name="OCTifCashIncreasesBy" id="OCTifCashIncreasesBy">.</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Dette spillet bruker informasjonskapsler til å forbedre brukeropplevelsen og administrere reklame. Bekreft at du godtar våre</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Du må bruke {0} for å spille spillet.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">Du må oppdatere operativsystemet ditt for å spille spillet.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Ekstra gratisrunder</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">For best mulig spillopplevelse må du oppdatere nettleseren din.</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">For best mulig spillopplevelse må du oppdatere operativsystemet ditt.</ds>
+  <ds Jurisdiction="*" name="voidAllPays" id="voidAllPays">Funksjonsfeil gjør alle spill og utbetalinger ugyldige.</ds>
+  <ds Jurisdiction="*" name="MGvoidAllPays" id="MGvoidAllPays">Funksjonsfeil gjør alle spill og utbetalinger ugyldige.</ds>
+  <ds Jurisdiction="*" name="MGbetSettingsCaps" id="MGbetSettingsCaps">INNSTILLINGER FOR INNSATS</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRevCaps" id="MGspinSettingsRevCaps">INNSTILLINGER FOR SPINN</ds>
+  <ds Jurisdiction="*" name="MGsoundSettingsCaps" id="MGsoundSettingsCaps">LYDINNSTILLINGER</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">Optimalisert for {0} på {1} {2} </ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeadingCaps" id="MGgameHistoryHeadingCaps">SPILLHISTORIKK</ds>
+  <ds Jurisdiction="*" name="autoplayFS" id="autoplayFS">Stopp autospill hvis Free Spins vinnes før det gitte antallet autospillrunder.</ds>
+  <ds Jurisdiction="*" name="autoplayPS" id="autoplayPS">Stopper Autospill hvis Bonusspillet eller Police Spins vinner før settnummer av autospill-runder.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="25" id="25">Alt spill er deaktivert.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitWarning" id="OCTlossLimitWarning">Angi  **hvis penger synker med**-beløpet.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfoTouch" id="OCTlossLimitInfoTouch">Angi innsatsbeløpet før du angir grensen, for å stoppe autospill.</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Antall {0}</ds>
+  <ds Jurisdiction="*" name="RCheckYear" id="RCheckYear">år</ds>
+  <ds Jurisdiction="*" name="RCheckYears" id="RCheckYears">år</ds>
+  <ds Jurisdiction="*" name="OCTCheckEndButton" id="OCTCheckEndButton">Avslutt</ds>
+  <ds Jurisdiction="*" name="RCheckEndButton" id="RCheckEndButton">Avslutt</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited" id="gameWalletMssgForfeited">Beklager. {0}-Bonusen din har blitt slettet.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired" id="gameWalletMssgExpired">Beklager. {0}-Bonusen har utgått og er ikke lenger tilgjengelig.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfo" id="OCTlossLimitInfo">Bekreft eller angi innsatsbeløpet før du angir **hvis penger synker med**-grense.</ds>
+  <ds Jurisdiction="*" name="greaterCDB" id="greaterCDB">Beløp må være større enn innsatsbeløp.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered_header" id="gameWalletMssgWagered_header">Bonus gjort om</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited_header" id="gameWalletMssgForfeited_header">Bonus slettet</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired_header" id="gameWalletMssgExpired_header">Bonus utgått</ds>
+  <ds Jurisdiction="*" name="RCheckDay" id="RCheckDay">dag</ds>
+  <ds Jurisdiction="*" name="RCheckDays" id="RCheckDays">dager</ds>
+  <ds Jurisdiction="*" name="50" id="50">Denne runde er avsluttett</ds>
+  <ds Jurisdiction="*" name="60" id="60">Denne turneringen er avsluttett, siste spilte runde vil ikke være en del av denne turneringsstatistikken.</ds>
+  <ds Jurisdiction="*" name="40" id="40">Denne turneringen har ikke startet enda, prøv igjen senere.</ds>
+  <ds Jurisdiction="*" name="browserVersionNotSupported" id="browserVersionNotSupported">Dessverre støttes ikke denne versjonen av nettleseren.</ds>
+  <ds Jurisdiction="*" name="101" id="101">Det er ikke nok penger på casinokontoen din.</ds>
+  <ds Jurisdiction="*" name="10" id="10">Det er ikke nok penger på kontoen din.</ds>
+  <ds Jurisdiction="*" name="100" id="100">Det er ikke nok penger på kontoen din.</ds>
+  <ds Jurisdiction="*" name="51" id="51">Det er ikke nok penger på kontoen din.</ds>
+  <ds Jurisdiction="*" name="15" id="15">Det er ikke nok penger på kontoen din. Sett inn mer penger eller reduser innsatsen din.</ds>
+  <ds Jurisdiction="*" name="120" id="120">Dette alternativet er kun tilgjengelig etter at du har fullført spillrunden.</ds>
+  <ds Jurisdiction="*" name="102" id="102">Din autoplay har blitt kansellert.</ds>
+  <ds Jurisdiction="*" name="OCThaveFreeRounds" id="OCThaveFreeRounds">Du har {0} gratisrunder!</ds>
+  <ds Jurisdiction="*" name="11" id="11">Du har nådd spillgrensen din. Velkommen tilbake senere.</ds>
+  <ds Jurisdiction="*" name="RCheckPlayingFor" id="RCheckPlayingFor">Du har spilt i</ds>
+  <ds Jurisdiction="*" name="RCheckPlaying" id="RCheckPlaying">Du har spilt i {0} {1}. {2} {3}. {4}</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Du må oppdatere nettleseren din for å spille spillet.</ds>
+  <ds Jurisdiction="*" name="RCheckReminder" id="RCheckReminder">EN VENNLIG PÅMINNELSE</ds>
+  <ds Jurisdiction="*" name="OBperformanceNotification" id="OBperformanceNotification">For å øke ytelsen kan du senke grafikkvaliteten i menyen med alternativer.</ds>
+  <ds Jurisdiction="*" name="121" id="121">For å starte autoplay må du plassere en innsats.</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Forbindelse: Svak</ds>
+  <ds Jurisdiction="*" name="button_CONTINUE" id="button_CONTINUE">FORTSETT</ds>
+  <ds Jurisdiction="*" name="Continue" id="Continue">Fortsett</ds>
+  <ds Jurisdiction="*" name="OCTroundsLeft" id="OCTroundsLeft">Gratisrunder</ds>
+  <ds Jurisdiction="*" name="roundsLeft" id="roundsLeft">Gratisrunder</ds>
+  <ds Jurisdiction="*" name="freeRoundsCompleteDialogText" id="freeRoundsCompleteDialogText">Gratisrunder avsluttet. For fremtidige runder bruker du pengene på kontoen din. Lykke til!</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinishedRev" id="OCTfreeRoundsFinishedRev">Gratisrunder ferdig</ds>
+  <ds Jurisdiction="*" name="FreeRoundsLeftwithColonVar" id="FreeRoundsLeftwithColonVar">Gratisrunder: {0}</ds>
+  <ds Jurisdiction="*" name="OCTcongratsUC" id="OCTcongratsUC">GRATULERER!</ds>
+  <ds Jurisdiction="*" name="freeRoundsInitiatedDialogText" id="freeRoundsInitiatedDialogText">Gratulerer!  Du har {0} gratisrunder. Lykke til!</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered" id="gameWalletMssgWagered">Gratulerer! {0}-Bonusen din har blitt kreditert. For å bruke den, logg inn igjen.</ds>
+  <ds Jurisdiction="*" name="RCheckLost" id="RCheckLost">I løpet av denne tiden har du tapt</ds>
+  <ds Jurisdiction="*" name="RCheckWon" id="RCheckWon">I løpet av denne tiden har du vunnet</ds>
+  <ds Jurisdiction="*" name="betExceedCDB" id="betExceedCDB">Innsatsen din har overskredet Dersom saldo reduseres med-grensen. Vennligst øk grensen.</ds>
+  <ds Jurisdiction="*" name="13" id="13">Innsatsen din overskrider den maskimale grensen satt for dette spillet.</ds>
+  <ds Jurisdiction="*" name="12" id="12">Innskuddet kunne ikke gjennomføres fordi bonusen har løpt ut.</ds>
+  <ds Jurisdiction="*" name="59" id="59">Kunde er allerede logget inn. Prøv igjen senere.</ds>
+  <ds Jurisdiction="*" name="addValue" id="addValue">Legg til verdi</ds>
+  <ds Jurisdiction="*" name="close_btn" id="close_btn">Lukk</ds>
+  <ds Jurisdiction="*" name="RCheckMonth" id="RCheckMonth">måned</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Melding</ds>
+  <ds Jurisdiction="*" name="messagecaption" id="messagecaption">Melding</ds>
+  <ds Jurisdiction="*" name="RCheckMinute" id="RCheckMinute">minutt</ds>
+  <ds Jurisdiction="*" name="RCheckMinutes" id="RCheckMinutes">minutter</ds>
+  <ds Jurisdiction="*" name="notSupportedBrowser" id="notSupportedBrowser">Nettleseren din støttes ikke.</ds>
+  <ds Jurisdiction="*" name="mandatoryField" id="mandatoryField">Obligatorisk felt</ds>
+  <ds Jurisdiction="*" name="ok_btn" id="ok_btn">OK</ds>
+  <ds Jurisdiction="*" name="20" id="20">Økten din er tidsavbrutt. Start spillet på nytt.</ds>
+  <ds Jurisdiction="*" name="14" id="14">Oppdater for å se den oppdaterte saldoen i spillet.</ds>
+  <ds Jurisdiction="*" name="OCTonAnyWin" id="OCTonAnyWin">På enhver gevinst</ds>
+  <ds Jurisdiction="*" name="122" id="122">Racefilmen kunne ikke spilles.</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">retningslinjer om informasjonskapsler.</ds>
+  <ds Jurisdiction="*" name="autoRounds" id="autoRounds">runder</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Sannsynligvis ikke resultatet du håpet på. Prøv en {0}-gratisrunde – vi spanderer.</ds>
+  <ds Jurisdiction="*" name="RCheckSecond" id="RCheckSecond">sekund</ds>
+  <ds Jurisdiction="*" name="RCheckSeconds" id="RCheckSeconds">sekunder</ds>
+  <ds Jurisdiction="*" name="performanceNotification" id="performanceNotification">Senk grafikkinnstilinger ved hjelp av spillinnstillingene for å øke ytelsen.</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Spillet bruker informasjonskapsler til å hente statistikk og forbedre brukeropplevelsen. Godta våre</ds>
+  <ds Jurisdiction="*" name="53" id="53">Spillet er ikke tilgjengelig. Prøv igjen senere.</ds>
+  <ds Jurisdiction="*" name="56" id="56">Spillet er ikke tilgjengelig. Prøv igjen senere.</ds>
+  <ds Jurisdiction="*" name="58" id="58">Spillet er ikke tilgjengelig. Prøv igjen senere.</ds>
+  <ds Jurisdiction="*" name="0" id="0">Spillet er ikke tilgjengelig. Prøv igjen senere.</ds>
+  <ds Jurisdiction="*" name="110" id="110">Spillet kan ikke startes. Prøv igjen senere.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitTouch" id="OCTlossLimitTouch">Start dersom saldo reduseres med</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlayColon" id="OCTstopAutoPlayColon">Stopp autospill:</ds>
+  <ds Jurisdiction="*" name="OCTlossLimit" id="OCTlossLimit">Tapsgrense</ds>
+  <ds Jurisdiction="*" name="reset" id="reset">Tilbakestill</ds>
+  <ds Jurisdiction="*" name="RCheckHour" id="RCheckHour">time</ds>
+  <ds Jurisdiction="*" name="RCheckHours" id="RCheckHours">timer</ds>
+  <ds Jurisdiction="*" name="TotalWinwithColonVar" id="TotalWinwithColonVar">Total gevinst: {0}</ds>
+  <ds Jurisdiction="*" name="OBfreeRoundsGamePanel" id="OBfreeRoundsGamePanel">Total gevinst: {0}</ds>
+  <ds Jurisdiction="*" name="OCTTotalWinwithColonUC" id="OCTTotalWinwithColonUC">TOTAL GEVINST: {0}</ds>
+  <ds Jurisdiction="*" name="OBOCTTotalWinwithColonVar" id="OBOCTTotalWinwithColonVar">Totalt betalt: {0}</ds>
+  <ds Jurisdiction="*" name="RCheckWeek" id="RCheckWeek">uke</ds>
+  <ds Jurisdiction="*" name="RCheckWeeks" id="RCheckWeeks">uker</ds>
+  <ds Jurisdiction="*" name="upgradeIn" id="upgradeIn">Vennligst oppgrader {0} i {1}.</ds>
+  <ds Jurisdiction="*" name="70" id="70">Vi kan ikke nå kontoen din for øyeblikket. Prøv igjen senere.</ds>
+  <ds Jurisdiction="*" name="RCheckEndCont" id="RCheckEndCont">Vil du avslutte eller fortsette å spille?</ds>
+  <ds Jurisdiction="*" name="16" id="16">Beklager. Tilbudet om gratisrunder er allerede brukt.</ds>
+  <ds Jurisdiction="*" name="bonusAwardedTitle" id="bonusAwardedTitle">Bonus tildelt</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Dette spillet bruker informasjonskapsler til å forbedre brukeropplevelsen og administrere reklame. Bekreft at du godtar våre</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Du må bruke {0} for å spille spillet.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">Du må oppdatere operativsystemet ditt for å spille spillet.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Ekstra gratisrunder</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">For best mulig spillopplevelse må du oppdatere nettleseren din.</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">For best mulig spillopplevelse må du oppdatere operativsystemet ditt.</ds>
+  <ds Jurisdiction="*" name="bonusAwardedCongrats" id="bonusAwardedCongrats">Gratulerer! Du har vunnet {0}-bonusen.</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">Optimalisert for {0} på {1} {2} </ds>
+  <ds Jurisdiction="*" name="OCTstopIfWinExeeds" id="OCTstopIfWinExeeds">Stopp dersom enkel gevinst overskrider</ds>
+  <ds Jurisdiction="*" name="stopWhenJackpotIsWon" id="stopWhenJackpotIsWon">Stopp dersom jackpot vinnes</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashIncreasesBy" id="OCTstopIfCashIncreasesBy">Stopp dersom saldoen øker med</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashDecreasesBy" id="OCTstopIfCashDecreasesBy">Stopp dersom saldoen synker med</ds>
+  <ds Jurisdiction="*" name="OBTotalWinwithColonVar" id="OBTotalWinwithColonVar">Totalt betalt: {0}</ds>
+</defaults>

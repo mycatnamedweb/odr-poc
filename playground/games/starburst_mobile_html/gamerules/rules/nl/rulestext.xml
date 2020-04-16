@@ -1,0 +1,197 @@
+<defaults xml:lang="nl">
+  <!-- Dutch locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 16:41:58 GMT on Tuesday 16 May 2017.
+
+ -->
+  <ds Jurisdiction="*" name="RTGameHistNoPlayForFun" id="RTGameHistNoPlayForFun">(niet beschikbaar tijdens &lt;b&gt;OEFENEN&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDisclaimer" id="RTquickSpinDisclaimer">(niet in alle casino's beschikbaar).</ds>
+  <ds Jurisdiction="*" name="RTsoundButton" id="RTsoundButton">&lt;b&gt;Geluid&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTAutoplayDisconnect" id="RTAutoplayDisconnect">&lt;b&gt;Let op:&lt;/b&gt; Als je verbinding tijdens het spelen verbroken wordt, worden alle Autoplay-instellingen op de standaardwaarden teruggezet wanneer je het spel weer opstart.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayDisconnect" id="RTMGautoplayDisconnect">&lt;b&gt;Let op:&lt;/b&gt; Als je verbinding tijdens het spelen verbroken wordt, worden alle Autospel-instellingen op de standaardwaarden teruggezet wanneer je het spel weer opstart.</ds>
+  <ds Jurisdiction="*" name="RTMGsettingsDisclaimer" id="RTMGsettingsDisclaimer">&lt;b&gt;Let op:&lt;/b&gt; Bepaalde operators bieden niet alle genoemde instellingen aan.</ds>
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Let op:&lt;/b&gt; Sommige Autoplay-opties zijn verplicht in bepaalde rechtsgebieden.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Let op&lt;/b&gt;: De volgende tabel is uitsluitend van toepassing als je niet in de Engelse taal speelt.</ds>
+  <ds Jurisdiction="*" name="RTMGcoinsDisplayValues" id="RTMGcoinsDisplayValues">&lt;b&gt;Munten&lt;/b&gt; geeft het aantal munten weer dat de speler beschikbaar heeft om in te zetten.</ds>
+  <ds Jurisdiction="*" name="RTcoinsDisplayValues" id="RTcoinsDisplayValues">&lt;b&gt;MUNTEN&lt;/b&gt; geeft het aantal munten weer dat de speler beschikbaar heeft om in te zetten.</ds>
+  <ds Jurisdiction="*" name="RTsettingsDisclaimer" id="RTsettingsDisclaimer">&lt;b&gt;Opmerking:&lt;/b&gt; Sommige casino’s hebben wellicht geen van de genoemde instellingen.</ds>
+  <ds Jurisdiction="*" name="RTMGreturnToPlayer" id="RTMGreturnToPlayer">&lt;b&gt;Uitbetalingspercentage&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTMGnumberSpins" id="RTMGnumberSpins">Aantal rondes</ds>
+  <ds Jurisdiction="*" name="RTMGadditionalInformation" id="RTMGadditionalInformation">Aanvullende informatie</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Aanvullende informatie</ds>
+  <ds Jurisdiction="*" name="RTpaytableHighestRev" id="RTpaytableHighestRev">Alleen de hoogste winst per actieve lijn in beide richtingen wordt uitbetaald.</ds>
+  <ds Jurisdiction="*" name="RTanimationsOff" id="RTanimationsOff">Animaties aan of uit zetten.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayQuickSpinHeading" id="RTMGautoplayQuickSpinHeading">Automatisch spelen en Snel draaien</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPanelLabel" id="RTMGautoplayPanelLabel">Autospel</ds>
+  <ds Jurisdiction="Italy" name="RTunfinishedGameSession2" id="RTunfinishedGameSession2">De gebruikte procedures bij onvoltooide spelrondes.</ds>
+  <ds Jurisdiction="*" name="RTMGunfinishedGameSession2" id="RTMGunfinishedGameSession2">De gebruikte procedures bij onvoltooide spelrondes.</ds>
+  <ds Jurisdiction="*" name="RTMGcoinValueInstruction" id="RTMGcoinValueInstruction">De muntwaarde kun je kiezen met behulp van het keuzemenu MUNTWAARDE.</ds>
+  <ds Jurisdiction="*" name="RTMGhistoryNotAvailable" id="RTMGhistoryNotAvailable">De spelgeschiedenis is uitsluitend beschikbaar als je voor geld speelt.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildEnds" id="RTstarburstWildEnds">De Starburst™ Wild-functie is ten einde wanneer er geen Starburst™ Wilds meer verschijnen tijdens een re-spin.</ds>
+  <ds Jurisdiction="Italy" name="RTtheoreticalReturn" id="RTtheoreticalReturn">De theoretische uitbetaling van dit spel is</ds>
+  <ds Jurisdiction="*" name="RTMGtheoreticalReturn" id="RTMGtheoreticalReturn">De theoretische uitbetaling van dit spel is</ds>
+  <ds Jurisdiction="*" name="RTMGgameSessions2" id="RTMGgameSessions2">De tijdslimiet waarna een inactieve spelsessie automatisch gesloten wordt.</ds>
+  <ds Jurisdiction="Italy" name="RTgameSessions2" id="RTgameSessions2">De tijdslimiet waarna een inactieve spelsessie automatisch gesloten wordt.</ds>
+  <ds Jurisdiction="*" name="RTMGreferWebSite" id="RTMGreferWebSite">De volgende spelfuncties kunnen onderhevig zijn aan de algemene voorwaarden van de spelsite. Voor meer informatie over het volgende, neem je contact op met de betreffende spelsite:</ds>
+  <ds Jurisdiction="Italy" name="RTreferWebSite" id="RTreferWebSite">De volgende spelfuncties kunnen onderhevig zijn aan de algemene voorwaarden van de spelsite. Voor meer informatie over het volgende, neem je contact op met de betreffende spelsite:</ds>
+  <ds Jurisdiction="*" name="RTMGspinButton" id="RTMGspinButton">Draaien-knop</ds>
+  <ds Jurisdiction="*" name="RTMGspinSettingsRev" id="RTMGspinSettingsRev">Draai-instellingen</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCurrency" id="RTwinCalculationBetLinesCurrency">Een lijnwinst in een valuta is gelijk aan de winst in munten vermenigvuldigd met de muntwaarde.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCurrency" id="RTMGwinCalculationBetLinesCurrency">Een lijnwinst in een valuta is gelijk aan de winst in munten vermenigvuldigd met de muntwaarde.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoMultiplierTrans" id="RTwinCalculationBetLinesCoinsNoMultiplierTrans">Een lijnwinst in munten is gelijk aan de waarde die wordt weergegeven in de &lt;b&gt;PRIJZENTABEL&lt;/b&gt; vermenigvuldigd met het inzetniveau.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCoinsNoMultiplier" id="RTMGwinCalculationBetLinesCoinsNoMultiplier">Een lijnwinst in munten is gelijk aan de waarde die wordt weergegeven in de &lt;b&gt;PRIJZENTABEL&lt;/b&gt;, vermenigvuldigd met het inzetniveau.</ds>
+  <ds Jurisdiction="*" name="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier" id="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier">Een lijnwinst in munten is gelijk aan de waarde die wordt weergegeven in de &lt;b&gt;PRIJZENTABEL&lt;/b&gt;, vermenigvuldigd met het inzetniveau.</ds>
+  <ds Jurisdiction="*" name="RTCalcBetLineCoinNoMultiplierTransNew" id="RTCalcBetLineCoinNoMultiplierTransNew">Een lijnwinst in munten is gelijk aan de waarde die wordt weergegeven in de prijzentabel, vermenigvuldigd met het inzetniveau.</ds>
+  <ds Jurisdiction="*" name="RTwinCalcBetLinesNoMultiplier" id="RTwinCalcBetLinesNoMultiplier">Een lijnwinst in munten is gelijk aan de waarde die wordt weergegeven in de Prijzentabel, vermenigvuldigd met het inzetniveau.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoBold" id="RTwinCalculationBetLinesCoinsNoBold">Een lijnwinst in munten is gelijk aan de waarde die wordt weergegeven in de Prijzentabel, vermenigvuldigd met het inzetniveau. Dit bedrag wordt ook vermenigvuldigd met eventuele andere toepasselijke vermenigvuldigers.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildFeatureActive" id="RTstarburstWildFeatureActive">Een of meerdere Starburst™ Wilds waar dan ook op rollen 2, 3 of 4 activeren de Starburst™ Wild-functie.</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Engelse term</ds>
+  <ds Jurisdiction="*" name="RTfunctionTableHead" id="RTfunctionTableHead">Functie</ds>
+  <ds Jurisdiction="*" name="advancedAutoplayOptionsHeading" id="advancedAutoplayOptionsHeading">Geavanceerde autoplay-opties</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCash" id="RTMGbetInCash">Geld inzetten</ds>
+  <ds Jurisdiction="*" name="simultaneousWinsAdded" id="simultaneousWinsAdded">Gelijktijdige winsten op verschillende inzetlijnen worden opgeteld.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsOff" id="RTMGsoundsOff">Geluid altijd uitschakelen</ds>
+  <ds Jurisdiction="*" name="RTMGsounds" id="RTMGsounds">Geluidseffecten</ds>
+  <ds Jurisdiction="*" name="RTMGsoundSettings" id="RTMGsoundSettings">Geluidsinstellingen</ds>
+  <ds Jurisdiction="*" name="RTMGAutoplaySpins" id="RTMGAutoplaySpins">Het aantal geselecteerde rondes wordt weergegeven op de knop.</ds>
+  <ds Jurisdiction="*" name="RTMGnoAutoplayLeft" id="RTMGnoAutoplayLeft">Het aantal resterende rondes wordt weergegeven op de knop.</ds>
+  <ds Jurisdiction="*" name="RTbetLevel" id="RTbetLevel">Het inzetniveau is het aantal munten dat wordt ingezet per lijn.</ds>
+  <ds Jurisdiction="*" name="RTMGbetLevelInstruction" id="RTMGbetLevelInstruction">Het inzetniveau kun je kiezen met behulp van het keuzemenu &lt;b&gt;Inzetniveau&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTMGbuttonsMainGame" id="RTMGbuttonsMainGame">Hoofdspel</ds>
+  <ds Jurisdiction="*" name="RTtableDescribes" id="RTtableDescribes">In de onderstaande tabel staan de verschillende knoppen die je vindt in het spel en hun functies.</ds>
+  <ds Jurisdiction="Italy" name="RTmalfunction" id="RTmalfunction">In het geval van een fout in de spelsoftware/-hardware, worden alle hierdoor beïnvloede spellen en uitbetalingen geannuleerd en de betreffende inzetten geretourneerd.</ds>
+  <ds Jurisdiction="*" name="RTMGmalfunction" id="RTMGmalfunction">In het geval van een fout in de spelsoftware/-hardware, worden alle hierdoor beïnvloede spellen en uitbetalingen geannuleerd en de betreffende inzetten geretourneerd.</ds>
+  <ds Jurisdiction="*" name="RTMGbetlevel" id="RTMGbetlevel">Inzetniveau</ds>
+  <ds Jurisdiction="*" name="RTviewMiniPaytable" id="RTviewMiniPaytable">Je kunt ook tijdens het spel op een van de symbolen op de rollen klikken om de uitbetalingen van dat symbool te bekijken.</ds>
+  <ds Jurisdiction="*" name="RTplayCurrentBetLinesTo10" id="RTplayCurrentBetLinesTo10">Je kunt op 1 tot 10 lijnen spelen, met verschillende inzetniveaus en muntwaardes.</ds>
+  <ds Jurisdiction="*" name="RTMGplay10FixedBetLines" id="RTMGplay10FixedBetLines">Je speelt met 10 vaste lijnen op verschillende inzetniveaus en muntwaardes.</ds>
+  <ds Jurisdiction="*" name="termWild" id="termWild">Joker</ds>
+  <ds Jurisdiction="*" name="RTautoplaySelectSpins" id="RTautoplaySelectSpins">Kies het aantal Autoplay-rondes, of open de geavanceerde instellingen om de opties voor het stoppen van Autoplay in te stellen.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDesc" id="RTinformationIconButtonDesc">Klik hier om de &lt;b&gt;PRIJZENTABEL&lt;/b&gt; te bekijken.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDescJimi" id="RTinformationIconButtonDescJimi">Klik hier om de &lt;b&gt;PRIJZENTABEL&lt;/b&gt; te bekijken.</ds>
+  <ds Jurisdiction="*" name="RTstartGameRound" id="RTstartGameRound">Klik hier om een spelronde te starten met de huidige muntwaarde en inzetniveau (je kunt ook op spatiebalk drukken).</ds>
+  <ds Jurisdiction="*" name="RTopenGameRules" id="RTopenGameRules">Klik hierop om de spelregels te bekijken.</ds>
+  <ds Jurisdiction="*" name="RTmuteSoundSliderRev" id="RTmuteSoundSliderRev">Klik hierop om het geluid van het spel uit te zetten, of gebruik de schuifbalk om het volume aan te passen.</ds>
+  <ds Jurisdiction="*" name="RTopenSettingsMenu" id="RTopenSettingsMenu">Klik hierop om het menu met spelinstellingen te openen en spelopties te kiezen. Zie het onderdeel Spelinstellingen hieronder.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonNoBold" id="RTinformationIconButtonNoBold">Klik om de prijzentabel te bekijken.</ds>
+  <ds Jurisdiction="*" name="RTgameHistoryDesc" id="RTgameHistoryDesc">Klik om je spelgeschiedenis te bekijken</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescRev" id="RTpaytableButtonsDescRev">Klik op de pijltjes naar links en rechts om door de &lt;b&gt;PRIJZENTABEL&lt;/b&gt; te bladeren. Klik op de middelste knop om terug te keren naar het spel.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescNoBold" id="RTpaytableButtonsDescNoBold">Klik op de pijltjes naar links en rechts om door de prijzentabel te bladeren. Klik op de middelste knop om terug te keren naar het spel.</ds>
+  <ds Jurisdiction="*" name="RTbuttonTableHead" id="RTbuttonTableHead">Knop</ds>
+  <ds Jurisdiction="*" name="RTMGleftHandMode" id="RTMGleftHandMode">Linkshandige stand</ds>
+  <ds Jurisdiction="*" name="RTMGmenu" id="RTMGmenu">Menu</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettings" id="RTMGquickSettings">Menu Snelle instellingen</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlays" id="RTautoplayPlays">Met &lt;b&gt;AUTO PLAY&lt;/b&gt; speel je het spel automatisch voor het ingestelde aantal ronden (je kunt ook op de &lt;b&gt;AUTO&lt;/b&gt;-knop drukken).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlaysJimi" id="RTautoplayPlaysJimi">Met &lt;b&gt;AUTOSPEL&lt;/b&gt; speel je het spel automatisch voor het ingestelde aantal ronden (je kunt ook op de &lt;b&gt;AUTO&lt;/b&gt;-knop drukken).</ds>
+  <ds Jurisdiction="*" name="RTmaxbetPlays" id="RTmaxbetPlays">Met de knop &lt;b&gt;MAX. INZET&lt;/b&gt; start je het spel met het maximale aantal lijnen, op het hoogste inzetniveau en met de huidige muntwaarde.</ds>
+  <ds Jurisdiction="*" name="RTspinPlayRev" id="RTspinPlayRev">Met de knop Draaien start je het spel met het huidige aantal lijnen, inzetniveau en muntwaarde (je kunt ook op de spatiebalk drukken).</ds>
+  <ds Jurisdiction="*" name="RTmaxBetAtHighBetLevel" id="RTmaxBetAtHighBetLevel">Met MAX. INZET speel je het spel met het hoogste inzetniveau, en de huidige muntwaarde.</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCoins" id="RTMGbetInCoins">Munten inzetten</ds>
+  <ds Jurisdiction="*" name="RTMGcoinvalue" id="RTMGcoinvalue">Muntwaarde</ds>
+  <ds Jurisdiction="Spain" name="RTAutoplayButton" id="RTAutoplayButton">Om de geavanceerde autoplay-opties in te stellen, klik je op &lt;b&gt;AUTO PLAY&lt;/b&gt; of op &lt;b&gt;AUTO&lt;/b&gt; in het spelpaneel, en vervolgens op &lt;b&gt;Geavanceerde instellingen&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="gameSettingIntro" id="gameSettingIntro">Om de spelinstellingen te openen, klik je op het steeksleutelicoon in het spelpaneel.</ds>
+  <ds Jurisdiction="*" name="ReSpinsAtActivatingRound" id="ReSpinsAtActivatingRound">Opnieuw draaien wordt gespeeld met dezelfde inzet als de ronde die het opnieuw draaien activeert.</ds>
+  <ds Jurisdiction="*" name="RTMGpaytable" id="RTMGpaytable">Prijzentabel</ds>
+  <ds Jurisdiction="*" name="termPaytable" id="termPaytable">Prijzentabel</ds>
+  <ds Jurisdiction="*" name="RTMGpaytableJimi" id="RTMGpaytableJimi">Prijzentabel</ds>
+  <ds Jurisdiction="*" name="RTspacebarspin" id="RTspacebarspin">Schakelt het gebruik van de spatiebalk in of uit.</ds>
+  <ds Jurisdiction="*" name="RTgameSoundDesc" id="RTgameSoundDesc">Schakelt het geluid van het spel in of uit.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRevNew" id="RTMGautoplayPutOnOffRevNew">Sleep of tik de schuif om Autoplay te activeren en het aantal rondes te kiezen. Met Autoplay speel je het spel automatisch voor het ingestelde aantal rondes.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRevNew" id="RTMGselectCoinValueRevNew">Sleep of tik de schuif om een muntwaarde te kiezen.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRev" id="RTMGselectCoinValueRev">Sleep of tik het instellingswiel om een muntwaarde te kiezen.</ds>
+  <ds Jurisdiction="*" name="RTMGselectSpinsRev" id="RTMGselectSpinsRev">Sleep of tik het instellingswiel om het aantal Autospel-rondes te kiezen.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRev" id="RTMGselectBetLevelRev">Sleep of tik het instellingswiel om het aantal per lijn ingezette munten aan te passen.</ds>
+  <ds Jurisdiction="*" name="RTMGexit" id="RTMGexit">Sluiten</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpin" id="RTMGquickSpin">Snel draaien</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinGameSetting" id="RTMGquickSpinGameSetting">Snel draaien</ds>
+  <ds Jurisdiction="*" name="RTMGquickStop" id="RTMGquickStop">Snel stoppen</ds>
+  <ds Jurisdiction="*" name="RTgameFunctionsHeading" id="RTgameFunctionsHeading">Spelfuncties</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryHeading" id="RTMGgameHistoryHeading">Spelgeschiedenis</ds>
+  <ds Jurisdiction="*" name="RTgHistoryNotAvailableForFun" id="RTgHistoryNotAvailableForFun">Spelgeschiedenis is niet beschikbaar tijdens &lt;b&gt;OEFENEN&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettings" id="RTMGgameSettings">Spelinstellingen en spelinformatie</ds>
+  <ds Jurisdiction="*" name="gameSettingOptionsHeading" id="gameSettingOptionsHeading">Spelinstellingsopties</ds>
+  <ds Jurisdiction="*" name="RTMGgameRules" id="RTMGgameRules">Spelregels</ds>
+  <ds Jurisdiction="*" name="RTrulesGenerated" id="RTrulesGenerated">Spelregels gegenereerd:</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchRulesHeading" id="RTMGstarburstTouchRulesHeading">Spelregels Starburst Touch™</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchIntro" id="RTMGstarburstTouchIntro">Starburst Touch™ is een videoslot met 5 rollen, 3 rijen, Starburst™ Wild, opnieuw draaien en win heen en weer.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstIntro" id="RTstarBurstIntro">Starburst™ is een videoslot met 5 rollen, 3 rijen, Starburst™-jokers, opnieuw draaien en win heen en weer.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstRulesHeading" id="RTstarBurstRulesHeading">Starburst™ Spelregels</ds>
+  <ds Jurisdiction="*" name="RTstarBurstAddReSpinsRev" id="RTstarBurstAddReSpinsRev">Starburst™ Wild-symbolen die verschijnen tijdens een re-spin, leveren een extra re-spin op.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSymbAppear" id="RTstarBurstWildSymbAppear">Starburst™ Wild-symbolen verschijnen uitsluitend op rollen 2, 3 en 4.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSubstitute" id="RTstarBurstWildSubstitute">Starburst™-jokersymbolen vervangen andere symbolen.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildHeading" id="RTstarBurstWildHeading">Starburst™-Wilds</ds>
+  <ds Jurisdiction="*" name="RTMGstopIfFreeSpins" id="RTMGstopIfFreeSpins">Stop als ik Free Spins win</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplayOnOff" id="RTMGstopAutoplayOnOff">Stop Automatisch spelen</ds>
+  <ds Jurisdiction="*" name="cashIncreasesDesc" id="cashIncreasesDesc">Stop Autoplay wanneer je saldo omhoog gaat met het ingevulde bedrag.</ds>
+  <ds Jurisdiction="Spain" name="cashDecreasesDesc" id="cashDecreasesDesc">Stop Autoplay wanneer je saldo omlaag gaat met het ingevulde bedrag.</ds>
+  <ds Jurisdiction="*" name="singleWinDesc" id="singleWinDesc">Stop Autospel wanneer het gewonnen bedrag groter of gelijk is aan het ingevulde bedrag.</ds>
+  <ds Jurisdiction="*" name="anyWinDesc" id="anyWinDesc">Stop Autospel wanneer je in een ronde wint.</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRev" id="RTsingleWinDescRev">Stopt automatisch spelen wanneer het gewonnen bedrag groter of gelijk is aan het ingevulde bedrag.</ds>
+  <ds Jurisdiction="*" name="RTMGback" id="RTMGback">Terug</ds>
+  <ds Jurisdiction="*" name="RTstarBurststickyWExpandsReSpinsRev" id="RTstarBurststickyWExpandsReSpinsRev">Tijdens de Starburst™ Wild-bonus klappen de Starburst™ Wilds uit over de hele rol en blijven op hun plaats terwijl de overige rollen opnieuw draaien.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDev" id="RTMGgameSettingIntroDev">Tik hierop om de spelinstellingen en spelinformatie te openen. Je kunt ook op de vakken Geld en Munten tikken.</ds>
+  <ds Jurisdiction="*" name="RTMGtapSpinButtonRev" id="RTMGtapSpinButtonRev">Tik hierop om het spel te spelen met de huidige lijnen, muntwaarde en inzetniveau.</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGameNew" id="RTMGtouchMainGameNew">Tik in de liggende stand op het spelvak om de Draaien-knop te verbergen.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayUI" id="RTMGautoplayUI">Tik om Autoplay in of uit te schakelen zonder het instellingenmenu te openen. Stelt standaard 50 rondes in.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplay" id="RTMGdisableAutoplay">Tik om Autoplay uit te schakelen als je Free Spins wint voordat het ingestelde aantal Autoplay-rondes voorbij is.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayIfBonusGame" id="RTMGdisableAutoplayIfBonusGame">Tik om Autoplay uit te schakelen als je het bonusspel wint voordat het ingestelde aantal autoplay-rondes voorbij is.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayPickClick" id="RTMGdisableAutoplayPickClick">Tik om Autoplay uit te schakelen als je Pick and Click  wint voordat het ingestelde aantal Autoplay-rondes voorbij is.</ds>
+  <ds Jurisdiction="*" name="RTMGstartAutoplay" id="RTMGstartAutoplay">Tik om Autospel te starten.</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplay" id="RTMGstopAutoplay">Tik om Autospel te stoppen.</ds>
+  <ds Jurisdiction="*" name="RTMGspinButtonLeft" id="RTMGspinButtonLeft">Tik om de linkshandige stand aan of uit te zetten.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDevNew" id="RTMGgameSettingIntroDevNew">Tik om de spelinstellingen en spelinformatie te openen.</ds>
+  <ds Jurisdiction="*" name="RTMGviewGamesRules" id="RTMGviewGamesRules">Tik om de spelregels te bekijken.</ds>
+  <ds Jurisdiction="Anguilla" name="RTMGsoundSettingsUI" id="RTMGsoundSettingsUI">Tik om geluiden in of uit te schakelen zonder het instellingenmenu te openen.</ds>
+  <ds Jurisdiction="*" name="RTMGleaveGame" id="RTMGleaveGame">Tik om het spel te verlaten.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinUI" id="RTMGquickSpinUI">Tik om Hurtig tur in of uit te schakelen zonder het instellingenmenu te openen.</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryDesc" id="RTMGgameHistoryDesc">Tik om je spelgeschiedenis te bekijken.</ds>
+  <ds Jurisdiction="*" name="RTMGstartQuickSpin" id="RTMGstartQuickSpin">Tik om Snel draaien te starten.</ds>
+  <ds Jurisdiction="*" name="RTMGbackMainGame" id="RTMGbackMainGame">Tik om terug te keren naar het hoofdspel.</ds>
+  <ds Jurisdiction="*" name="RTMGwinComb" id="RTMGwinComb">Tik om winnende combinaties en uitbetalingen te tonen.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRev" id="RTMGautoplayPutOnOffRev">Tik op de schakelaar om Autospel aan of uit te zetten. Met Autospel speel je het spel automatisch voor het ingestelde aantal ronden.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundOnOffRev" id="RTMGsoundOnOffRev">Tik op de schakelaar om de geluidseffecten aan of uit te zetten.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsDisabledRev" id="RTMGsoundsDisabledRev">Tik op de schakelaar om geluidseffecten ook voor toekomstige sessies uit te zetten.</ds>
+  <ds Jurisdiction="*" name="RTMGtapOnOffRev" id="RTMGtapOnOffRev">Tik op de schakelaar om Snel draaien aan of uit te zetten.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettingsMenu" id="RTMGquickSettingsMenu">Tik op het plus-symbool om het menu Snel instellen te openen.</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGame" id="RTMGtouchMainGame">Tik op het spelvak om de Draaien-knop te verbergen.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRevNew" id="RTMGselectBetLevelRevNew">Tik op sleep de schuifregelaar om het aantal munten inzet per lijn te kiezen.</ds>
+  <ds Jurisdiction="*" name="RTMGtapDuringSpin" id="RTMGtapDuringSpin">Tik tijdens een draai op het spelvak om de rollen te stoppen.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCurrency" id="RTMGshowsBetCurrency">Toont het inzetbedrag in de gekozen valuta.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCoins" id="RTMGshowsBetCoins">Toont het inzetbedrag in munten.</ds>
+  <ds Jurisdiction="*" name="RTreturnToPlayer" id="RTreturnToPlayer">Uitbetalingspercentage</ds>
+  <ds Jurisdiction="*" name="RTHighWinSymCompleteActLineRev" id="RTHighWinSymCompleteActLineRev">Uitsluitend de hoogste winnende combinaties van uiterst links naar rechts en/of van uiterst rechts naar links op een actieve lijn worden uitbetaald.</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Vertaalde term</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Vertaling van spelterminologie</ds>
+  <ds Jurisdiction="*" name="RTadjustQualityRev" id="RTadjustQualityRev">Wijzigt de grafische kwaliteit voor optimale prestaties.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytable" id="RTwinCombinationPaytable">Winnende combinaties en uitbetalingen geschieden aan de hand van de &lt;b&gt;PRIJZENTABEL&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytablenoBold" id="RTwinCombinationPaytablenoBold">Winnende combinaties en uitbetalingen geschieden aan de hand van de Prijzentabel.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCombinations" id="RTMGwinCombinations">Winnende combinaties en uitbetalingen geschieden aan de hand van de Prijzentabel.</ds>
+  <ds Jurisdiction="*" name="RTambienceDescRev" id="RTambienceDescRev">Zet de achtergrondmuziek aan of uit.</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDescRev" id="RTquickSpinDescRev">Zet de optie Snel draaien aan of uit</ds>
+  <ds Jurisdiction="*" name="RTintroOffRev" id="RTintroOffRev">Zet het introductiescherm aan of uit.</ds>
+  <ds Jurisdiction="*" name="RTautoplayDuringGameRev" id="RTautoplayDuringGameRev">&lt;b&gt;Let op:&lt;/b&gt; Wanneer je de Autoplay-instellingen verandert tijdens een spelronde, dan worden deze wijzigingen pas van kracht wanneer de spelronde of functie afgerond is.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationWinMatchCurrency" id="RTwinCalculationWinMatchCurrency">Een lijnwinst in een valuta is gelijk aan de winst in munten vermenigvuldigd met de muntwaarde.</ds>
+  <ds Jurisdiction="*" name="RTopenAutoplayMenu" id="RTopenAutoplayMenu">Klik hierop om het Autoplay-menu te openen en het spel automatisch te spelen.</ds>
+  <ds Jurisdiction="*" name="RTexCloneWildOverlay" id="RTexCloneWildOverlay">De Expanding Cloning Wild-symbolen verschijnen over de draaiende rollen en ook de gekloonde symbolen verschijnen over de rollen.</ds>
+  <ds Jurisdiction="*" name="RTsliderCoinValue" id="RTsliderCoinValue">Kies de muntwaarde met behulp van de schuifregelaar Muntwaarde.</ds>
+  <ds Jurisdiction="*" name="RTsliderBetLevel" id="RTsliderBetLevel">Kies het inzetniveau met behulp van de schuifregelaar Inzetniveau.</ds>
+  <ds Jurisdiction="*" name="RTeachStar1AddRespinUpTo3respin" id="RTeachStar1AddRespinUpTo3respin">Nadat een Starburst™ Wild een re-spin geactiveerd heeft, kunnen tot 2 extra Starburst™ Wild-symbolen verschijnen. Hierdoor win je tot maximaal 3 extra re-spins.</ds>
+  <ds Jurisdiction="*" name="RTMGautoOptions" id="RTMGautoOptions">Sleep of tik de schuif om de Autplay-opties en het aantal rondes te kiezen. Met Autospel speel je het spel automatisch voor het ingestelde aantal rondes.</ds>
+  <ds Jurisdiction="*" name="RTcashDecreasesDescRev" id="RTcashDecreasesDescRev">Stopt Autoplay als cash daalt met het door jou opgegeven bedrag.</ds>
+  <ds Jurisdiction="*" name="RTcashIncreasesDescRev" id="RTcashIncreasesDescRev">Stopt Autoplay als cash stijgt met het door jou opgegeven bedrag.</ds>
+  <ds Jurisdiction="*" name="onlyHighWinComb" id="onlyHighWinComb">Uitsluitend de hoogste winnende combinatie van uiterst links naar rechts op een lijn wordt uitbetaald.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Let op:&lt;/b&gt; Sommige Autoplay-opties zijn verplicht in bepaalde rechtsgebieden.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Let op&lt;/b&gt;: De volgende tabel is uitsluitend van toepassing als je niet in de Engelse taal speelt.</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Aanvullende informatie</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Engelse term</ds>
+  <ds Jurisdiction="*" name="featuresNotAvailablePFF" id="featuresNotAvailablePFF">Sommige functies zijn niet beschikbaar in &lt;b&gt;SPEEL VOOR DE LOL&lt;/b&gt; modus.</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRevNew" id="RTsingleWinDescRevNew">Stopt Autoplay wanneer het gewonnen bedrag groter of gelijk is aan het ingevulde bedrag.</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Vertaalde term</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Vertaling van spelterminologie</ds>
+</defaults>

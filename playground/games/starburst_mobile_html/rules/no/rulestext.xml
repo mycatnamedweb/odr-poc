@@ -1,0 +1,197 @@
+<defaults xml:lang="no">
+  <!-- Norwegian locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 16:41:58 GMT on Tuesday 16 May 2017.
+
+ -->
+  <ds Jurisdiction="*" name="RTGameHistNoPlayForFun" id="RTGameHistNoPlayForFun">(er ikke tilgjengelig når du &lt;b&gt;SPILLER PÅ GØY&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDisclaimer" id="RTquickSpinDisclaimer">(ikke tilgjengelig på alle casinoer).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlays" id="RTautoplayPlays">&lt;b&gt;AUTOSPILL&lt;/b&gt; spiller spillet automatisk i antall valgte runder (alternativt, klikk på knappen &lt;b&gt;AUTO&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlaysJimi" id="RTautoplayPlaysJimi">&lt;b&gt;AUTOSPILL&lt;/b&gt; spiller spillet automatisk i antall valgte runder (alternativt, klikk på knappen &lt;b&gt;AUTO&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTsoundButton" id="RTsoundButton">&lt;b&gt;Lyd&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTmaxbetPlays" id="RTmaxbetPlays">&lt;b&gt;MAKS INNSATS&lt;/b&gt; spiller spillet på maksimale innsatslinjer, det høyeste innsatsnivået og gjeldende myntverdi.</ds>
+  <ds Jurisdiction="*" name="RTsettingsDisclaimer" id="RTsettingsDisclaimer">&lt;b&gt;Merk:&lt;/b&gt; Det kan hende at enkelte kasinoer ikke opererer med alle opplistede spillinnstillinger.</ds>
+  <ds Jurisdiction="*" name="RTAutoplayDisconnect" id="RTAutoplayDisconnect">&lt;b&gt;Merk:&lt;/b&gt; Hvis du kobles fra Internett mens du spiller, vil alle innstillinger for Autospill tilbakestilles til standard når du starter spillet på nytt.</ds>
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Merk:&lt;/b&gt; Noen autospill-alternativer er obligatoriske for visse jurisdiksjoner.</ds>
+  <ds Jurisdiction="*" name="RTMGsettingsDisclaimer" id="RTMGsettingsDisclaimer">&lt;b&gt;Merk:&lt;/b&gt; Noen operatører tilbyr kanskje ikke alle de opplistede spillinnstillingene.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayDisconnect" id="RTMGautoplayDisconnect">&lt;b&gt;Merk:&lt;/b&gt; Hvis du kobles fra spillet mens du spiller, vil alle Autospill-innstillingene gå tilbake til standard når du starter spillet på nytt.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Merk&lt;/b&gt;: Tabellen nedenfor er bare aktuell hvis du spiller på et annet språk enn engelsk.</ds>
+  <ds Jurisdiction="*" name="RTMGcoinsDisplayValues" id="RTMGcoinsDisplayValues">&lt;b&gt;Mynter&lt;/b&gt; viser antall mynter som spilleren kan satse.</ds>
+  <ds Jurisdiction="*" name="RTcoinsDisplayValues" id="RTcoinsDisplayValues">&lt;b&gt;MYNTER&lt;/b&gt; viser antall mynter som spilleren kan satse.</ds>
+  <ds Jurisdiction="*" name="RTMGreturnToPlayer" id="RTMGreturnToPlayer">&lt;b&gt;Tilbake til spiller&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsOff" id="RTMGsoundsOff">Alltid deaktiver lyder</ds>
+  <ds Jurisdiction="*" name="RTviewMiniPaytable" id="RTviewMiniPaytable">Alternativt kan du klikke på et symbol på hjulene under hovedspillet for å se en liten utbetalingstabell for det symbolet.</ds>
+  <ds Jurisdiction="*" name="RTMGnumberSpins" id="RTMGnumberSpins">Antall spinn</ds>
+  <ds Jurisdiction="*" name="RTMGnoAutoplayLeft" id="RTMGnoAutoplayLeft">Antall spinn som gjenstår vises på knappen.</ds>
+  <ds Jurisdiction="*" name="RTMGAutoplaySpins" id="RTMGAutoplaySpins">Antallet spinn valgt vises på knappen.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPanelLabel" id="RTMGautoplayPanelLabel">Autospill</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayQuickSpinHeading" id="RTMGautoplayQuickSpinHeading">Autospill og hurtigspinn</ds>
+  <ds Jurisdiction="*" name="advancedAutoplayOptionsHeading" id="advancedAutoplayOptionsHeading">Avanserte autospill-alternativer</ds>
+  <ds Jurisdiction="*" name="RTMGexit" id="RTMGexit">Avslutt</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGame" id="RTMGtouchMainGame">Berør spillområdet for å skjule Spinn-knappen.</ds>
+  <ds Jurisdiction="*" name="RTHighWinSymCompleteActLineRev" id="RTHighWinSymCompleteActLineRev">Den høyeste vinnerkombinasjonen fra hjulet lengst til venstre til høyre og/eller hjulet fra lengst til høyre til venstre på en aktiv innsatslinje utbetales.</ds>
+  <ds Jurisdiction="*" name="RTMGtheoreticalReturn" id="RTMGtheoreticalReturn">Den teoretiske tilbakebetalingen til spilleren for dette spillet</ds>
+  <ds Jurisdiction="Italy" name="RTtheoreticalReturn" id="RTtheoreticalReturn">Den teoretiske tilbakebetalingen til spilleren for dette spillet er</ds>
+  <ds Jurisdiction="*" name="RTMGselectSpinsRev" id="RTMGselectSpinsRev">Dra eller trykk på innstillingshjulet for å velge antall Autospill-spinner.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRev" id="RTMGselectBetLevelRev">Dra eller trykk på innstillingshjulet for å velge antall mynter du vil satse per innsatslinje.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRev" id="RTMGselectCoinValueRev">Dra eller trykk på innstillingshjulet for å velge myntverdi.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRevNew" id="RTMGselectBetLevelRevNew">Dra eller trykk på skyvebryteren for å velge antall mynter du vil satse per linje.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRevNew" id="RTMGselectCoinValueRevNew">Dra eller trykk på skyvebryteren for å velge myntverdi.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRevNew" id="RTMGautoplayPutOnOffRevNew">Dra eller trykk på skyveknappen for å aktivere Autospill, og angi antall runder. Autospill spiller spillet i valg antall spinn.</ds>
+  <ds Jurisdiction="*" name="RTMGplay10FixedBetLines" id="RTMGplay10FixedBetLines">Du kan spille 10 faste innsatslinjer ved ulike innsatsnivåer og myntverdier.</ds>
+  <ds Jurisdiction="*" name="RTplayCurrentBetLinesTo10" id="RTplayCurrentBetLinesTo10">Du kan spille på 1 til 10 innsatslinjer på ulike innsatsnivåer og med ulike myntverdier.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildFeatureActive" id="RTstarburstWildFeatureActive">En eller flere Starburst™ Wilds som vises hvor som helst på hjul 2, 3 eller 4 aktiverer Starburst™ Wild-funksjonen.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoMultiplierTrans" id="RTwinCalculationBetLinesCoinsNoMultiplierTrans">En gevinst på en innsatslinje i mynter tilsvarer verdien som vises i &lt;b&gt;UTBETALINGSTABELL&lt;/b&gt; multiplisert med innsatsnivå.</ds>
+  <ds Jurisdiction="*" name="RTwinCalcBetLinesNoMultiplier" id="RTwinCalcBetLinesNoMultiplier">En gevinst på en innsatslinje i mynter tilsvarer verdien som vises i Utbetalingstabellen multiplisert med innsatsnivå.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoBold" id="RTwinCalculationBetLinesCoinsNoBold">En gevinst på en innsatslinje i mynter tilsvarer verdien som vises i Utbetalingstabellen multiplisert med innsatsnivå. Dette beløpet blir også multiplisert med gjeldende multiplikatorer.</ds>
+  <ds Jurisdiction="*" name="RTCalcBetLineCoinNoMultiplierTransNew" id="RTCalcBetLineCoinNoMultiplierTransNew">En gevinst på en innsatslinje i mynter tilsvarer verdien vist i utbetalingstabellen multiplisert med innsatsnivået.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCurrency" id="RTwinCalculationBetLinesCurrency">En gevinst på en innsatslinje i valuta tilsvarer gevinsten i mynter multiplisert med myntverdi.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCurrency" id="RTMGwinCalculationBetLinesCurrency">En gevinst på en innsatslinje i valuta tilsvarer gevinsten i mynter multiplisert med myntverdi.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCoinsNoMultiplier" id="RTMGwinCalculationBetLinesCoinsNoMultiplier">En myntgevinst fra en innsatsline tilsvarer verdien som vises i &lt;b&gt;UTBETALINGSTABELLEN&lt;/b&gt;, og multipliseres med innsatsnivået.</ds>
+  <ds Jurisdiction="*" name="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier" id="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier">En myntgevinst fra en innsatsline tilsvarer verdien som vises i &lt;b&gt;UTBETALINGSTABELLEN&lt;/b&gt;, og multipliseres med innsatsnivået.</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Engelsk uttrykk</ds>
+  <ds Jurisdiction="Italy" name="RTreferWebSite" id="RTreferWebSite">Følgende spillfunksjoner og innstillinger kan være underlagt spillsidens vilkår og betingelser. For å finne mer informasjon om følgende, se spillsiden:</ds>
+  <ds Jurisdiction="*" name="RTMGreferWebSite" id="RTMGreferWebSite">Følgende spillfunksjoner og innstillinger kan være underlagt spillsidens vilkår og betingelser. For å finne mer informasjon om følgende, se spillsiden:</ds>
+  <ds Jurisdiction="Spain" name="RTAutoplayButton" id="RTAutoplayButton">For å stille inn avanserte autospill-alternativer, klikk &lt;b&gt;AUTOSPILL&lt;/b&gt; på tastaturet eller &lt;b&gt;AUTO&lt;/b&gt; i spillpanelet og deretter klikk &lt;b&gt;Avanserte innstillinger&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTfunctionTableHead" id="RTfunctionTableHead">Funksjon</ds>
+  <ds Jurisdiction="*" name="RTMGwinCombinations" id="RTMGwinCombinations">Gevinstkombinasjoner og utbetalinger gjøres i henhold til &lt;b&gt;Utbetalingstabellen&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTMGbuttonsMainGame" id="RTMGbuttonsMainGame">Hovedspill</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettings" id="RTMGquickSettings">Hurtiginnstillinger-meny</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpin" id="RTMGquickSpin">Hurtigspinn</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinGameSetting" id="RTMGquickSpinGameSetting">Hurtigspinn</ds>
+  <ds Jurisdiction="*" name="RTMGquickStop" id="RTMGquickStop">Hurtigstopp</ds>
+  <ds Jurisdiction="*" name="RTstarBurstAddReSpinsRev" id="RTstarBurstAddReSpinsRev">Hvis et nytt Starburst™ Wild-symbol dukker opp under et respinn, utvides det og holdes på plass sammen med tidligere Starburst™ Wild-symboler som har utvidet seg, og et nytt respinn foretas.</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGameNew" id="RTMGtouchMainGameNew">I liggende modus berører du spillområde for å skjule Spinn-knappen.</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCash" id="RTMGbetInCash">Innsats i kontanter</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCoins" id="RTMGbetInCoins">Innsats i mynter</ds>
+  <ds Jurisdiction="*" name="RTMGbetlevel" id="RTMGbetlevel">Innsatsnivå</ds>
+  <ds Jurisdiction="*" name="RTbetLevel" id="RTbetLevel">Innsatsnivå er antall mynter som satses per innsatslinje.</ds>
+  <ds Jurisdiction="*" name="RTMGbetLevelInstruction" id="RTMGbetLevelInstruction">Innsatsnivået velges ved hjelp av &lt;b&gt;Innsatsnivå&lt;/b&gt;-velgeren.</ds>
+  <ds Jurisdiction="*" name="termWild" id="termWild">Joker</ds>
+  <ds Jurisdiction="*" name="RTadjustQualityRev" id="RTadjustQualityRev">Justerer kvaliteten på grafikken for optimal ytelse.</ds>
+  <ds Jurisdiction="*" name="RTopenSettingsMenu" id="RTopenSettingsMenu">Klikk for å åpne spillets innstillingsmeny og velge spillalternativer. Se delen om spillinnstillinger nedenfor.</ds>
+  <ds Jurisdiction="*" name="RTopenGameRules" id="RTopenGameRules">Klikk for å åpne spillregler.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonNoBold" id="RTinformationIconButtonNoBold">Klikk for å se utbetalingstabellen.</ds>
+  <ds Jurisdiction="*" name="RTstartGameRound" id="RTstartGameRound">Klikk for å starte en spillrunde med nåværende innsatsnivå og myntverdi (alternativt kan du trykke på mellomrom-tasten).</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDesc" id="RTinformationIconButtonDesc">Klikk for å vise &lt;b&gt;UTBETALINGSTABELLEN&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDescJimi" id="RTinformationIconButtonDescJimi">Klikk for å vise &lt;b&gt;UTBETALINGSTABELLEN&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTgameHistoryDesc" id="RTgameHistoryDesc">Klikk for å vise siste spillhistorikk</ds>
+  <ds Jurisdiction="*" name="RTmuteSoundSliderRev" id="RTmuteSoundSliderRev">Klikk for lydløs eller bruk glidebryteren for å justere volumet.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescNoBold" id="RTpaytableButtonsDescNoBold">Klikk på pilen som peker til venstre eller høyre for å bla deg gjennom sidene til utbetalingstabellen. Klikk på den midterste knappen for å returnere til spillet.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescRev" id="RTpaytableButtonsDescRev">Klikk på pilene som peker til høyre eller venstre for å rulle gjennom sidene i &lt;b&gt;UTBETALINGSTABELL&lt;/b&gt;. Klikk på knappen i midten for å vende tilbake til spillet.</ds>
+  <ds Jurisdiction="*" name="gameSettingIntro" id="gameSettingIntro">Klikk på skiftenøkkelikonet i spillpanelet for å få tilgang til spillinnstillingene.</ds>
+  <ds Jurisdiction="*" name="RTbuttonTableHead" id="RTbuttonTableHead">Knapp</ds>
+  <ds Jurisdiction="*" name="RTpaytableHighestRev" id="RTpaytableHighestRev">Kun høyeste gevinst for hver aktive innsatslinje begge veier utbetales.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundSettings" id="RTMGsoundSettings">Lydinnstillinger</ds>
+  <ds Jurisdiction="*" name="RTmaxBetAtHighBetLevel" id="RTmaxBetAtHighBetLevel">MAKSIMAL INNSATS spiller spillet med det høyeste innsatsnivå og med aktuell myntverdi.</ds>
+  <ds Jurisdiction="*" name="RTMGmenu" id="RTMGmenu">Meny</ds>
+  <ds Jurisdiction="*" name="RTMGleftHandMode" id="RTMGleftHandMode">Modus for venstrehendte</ds>
+  <ds Jurisdiction="*" name="RTMGcoinvalue" id="RTMGcoinvalue">Myntverdi</ds>
+  <ds Jurisdiction="*" name="RTMGcoinValueInstruction" id="RTMGcoinValueInstruction">Myntverdien velges ved hjelp av MYNTVERDI-velgeren.</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Oversatt uttrykk</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Oversettelser av spillterminologi</ds>
+  <ds Jurisdiction="Italy" name="RTunfinishedGameSession2" id="RTunfinishedGameSession2">Prosedyrene som benyttes til å administrere ufullførte spillrunder.</ds>
+  <ds Jurisdiction="*" name="RTMGunfinishedGameSession2" id="RTMGunfinishedGameSession2">Prosedyrene som benyttes til å administrere ufullførte spillrunder.</ds>
+  <ds Jurisdiction="*" name="ReSpinsAtActivatingRound" id="ReSpinsAtActivatingRound">Re-spins spilles med samme innsats som runden som aktiverte re-spins.</ds>
+  <ds Jurisdiction="*" name="simultaneousWinsAdded" id="simultaneousWinsAdded">Samtidige gevinster på ulike innsatslinjer legges sammen.</ds>
+  <ds Jurisdiction="*" name="RTanimationsOff" id="RTanimationsOff">Slå animeringen av eller på.</ds>
+  <ds Jurisdiction="*" name="RTspacebarspin" id="RTspacebarspin">Slå mellomromsfunksjonen av eller på.</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDescRev" id="RTquickSpinDescRev">Slår alternativet Hurtigspinn av eller på</ds>
+  <ds Jurisdiction="*" name="RTintroOffRev" id="RTintroOffRev">Slår introduksjonsskjermen av eller på.</ds>
+  <ds Jurisdiction="*" name="RTambienceDescRev" id="RTambienceDescRev">Slår på eller av bakgrunnsmusikken.</ds>
+  <ds Jurisdiction="*" name="RTgameSoundDesc" id="RTgameSoundDesc">Slår på eller av spillydene.</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchRulesHeading" id="RTMGstarburstTouchRulesHeading">Spilleregler for Starburst Touch™</ds>
+  <ds Jurisdiction="*" name="RTstarBurstRulesHeading" id="RTstarBurstRulesHeading">Spilleregler for Starburst™</ds>
+  <ds Jurisdiction="*" name="RTgameFunctionsHeading" id="RTgameFunctionsHeading">Spillfunksjoner</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryHeading" id="RTMGgameHistoryHeading">Spillhistorikk</ds>
+  <ds Jurisdiction="*" name="RTMGhistoryNotAvailable" id="RTMGhistoryNotAvailable">Spillhistorikk er bare tilgjengelig når du spiller for penger.</ds>
+  <ds Jurisdiction="*" name="RTgHistoryNotAvailableForFun" id="RTgHistoryNotAvailableForFun">Spillhistorikk er ikke tilgjengelig når du &lt;b&gt;SPILLER PÅ GØY&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="gameSettingOptionsHeading" id="gameSettingOptionsHeading">Spillinnstillinger</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettings" id="RTMGgameSettings">Spillinnstillinger og spillinformasjon</ds>
+  <ds Jurisdiction="*" name="RTMGgameRules" id="RTMGgameRules">Spillregler</ds>
+  <ds Jurisdiction="*" name="RTrulesGenerated" id="RTrulesGenerated">Spillregler generert:</ds>
+  <ds Jurisdiction="*" name="RTMGsounds" id="RTMGsounds">Spillyder</ds>
+  <ds Jurisdiction="*" name="RTMGspinSettingsRev" id="RTMGspinSettingsRev">Spinninnstillinger</ds>
+  <ds Jurisdiction="*" name="RTMGspinButton" id="RTMGspinButton">Spinn-knapp</ds>
+  <ds Jurisdiction="*" name="RTspinPlayRev" id="RTspinPlayRev">Spinn-knappen setter i gang spillet på aktuelle innsatslinjer, innsatsnivåer og myntverdier (alternativt kan du trykke på mellomromstasten).</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchIntro" id="RTMGstarburstTouchIntro">Starburst Touch™ er en videoautomat med 5 hjul og 3 rader. Den har Starburst™ Wild med gjentatte spinninger og gevinster begge veier.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstIntro" id="RTstarBurstIntro">Starburst™ er en 5-hjuls, 3-raders videoautomat med funksjonene Starburst™ Wild med re-spins og win both ways.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildEnds" id="RTstarburstWildEnds">Starburst™ Wild-funksjonen avsluttes når ingen nye Starburst™ Wilds vises under re-spin.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildHeading" id="RTstarBurstWildHeading">Starburst™ Wilds</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSymbAppear" id="RTstarBurstWildSymbAppear">Starburst™ Wild-symbolene kan dukke opp på hjulene 2, 3 og 4.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSubstitute" id="RTstarBurstWildSubstitute">Starburst™ Wild-symboler erstatter alle andre symboler.</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplayOnOff" id="RTMGstopAutoplayOnOff">Stopp autospill</ds>
+  <ds Jurisdiction="*" name="cashIncreasesDesc" id="cashIncreasesDesc">Stopp Autospill hvis saldoen øker med beløpet du oppgir.</ds>
+  <ds Jurisdiction="Spain" name="cashDecreasesDesc" id="cashDecreasesDesc">Stopp Autospill hvis saldoen reduseres med beløpet du oppgir.</ds>
+  <ds Jurisdiction="*" name="singleWinDesc" id="singleWinDesc">Stopp Autospill når beløpet du vinner overskrider eller tilsvarer beløpet du oppgir.</ds>
+  <ds Jurisdiction="*" name="anyWinDesc" id="anyWinDesc">Stopp Autospill når du vinner i en runde.</ds>
+  <ds Jurisdiction="*" name="RTMGstopIfFreeSpins" id="RTMGstopIfFreeSpins">Stopp hvis Free Spins vinnes</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRev" id="RTsingleWinDescRev">Stopper Autospill når beløpet du vinner overskrider eller tilsvarer beløpet du oppgir.</ds>
+  <ds Jurisdiction="*" name="RTtableDescribes" id="RTtableDescribes">Tabellen nedenfor viser ulike knapper i spillet, og beskriver funksjonene deres.</ds>
+  <ds Jurisdiction="Italy" name="RTgameSessions2" id="RTgameSessions2">Tiden det tar før den inaktive spilløkten automatisk avsluttes.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSessions2" id="RTMGgameSessions2">Tiden det tar før den inaktive spilløkten automatisk avsluttes.</ds>
+  <ds Jurisdiction="*" name="RTMGback" id="RTMGback">Tilbake</ds>
+  <ds Jurisdiction="*" name="RTreturnToPlayer" id="RTreturnToPlayer">Tilbake til Spiller</ds>
+  <ds Jurisdiction="*" name="RTMGadditionalInformation" id="RTMGadditionalInformation">Tilleggsinformasjon</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Tilleggsinformasjon</ds>
+  <ds Jurisdiction="*" name="RTMGleaveGame" id="RTMGleaveGame">Trykk for å avslutte spillet.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayIfBonusGame" id="RTMGdisableAutoplayIfBonusGame">Trykk for å deaktivere autospill hvis bonusspill vinnes før antallet angitte runder med autospill er fullført.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplay" id="RTMGdisableAutoplay">Trykk for å deaktivere autospill, hvis Free Spins vinnes før det antallet runder med autospill er spilt.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayPickClick" id="RTMGdisableAutoplayPickClick">Trykk for å deaktivere autospill, hvis Pick and Click  vinnes før det antallet runder med autospill er spilt.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDevNew" id="RTMGgameSettingIntroDevNew">Trykk for å få tilgang til spillets innstillinger og informasjon om spillet.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDev" id="RTMGgameSettingIntroDev">Trykk for å få tilgang til spillinnstillinger og spillinformasjon, alternativt kan du trykke på kontanter- og myntvisninger.</ds>
+  <ds Jurisdiction="*" name="RTMGbackMainGame" id="RTMGbackMainGame">Trykk for å gå tilbake til hovedspillet.</ds>
+  <ds Jurisdiction="*" name="RTMGviewGamesRules" id="RTMGviewGamesRules">Trykk for å se spillereglene.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayUI" id="RTMGautoplayUI">Trykk for å slå autospill på eller av, uten å måtte gå inn i innstillingene. Angir 50 runder som standard.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinUI" id="RTMGquickSpinUI">Trykk for å slå hurtigspill på eller av, uten å måtte gå inn i innstillingene.</ds>
+  <ds Jurisdiction="Anguilla" name="RTMGsoundSettingsUI" id="RTMGsoundSettingsUI">Trykk for å slå lyd på eller av, uten å måtte gå inn i innstillingene.</ds>
+  <ds Jurisdiction="*" name="RTMGspinButtonLeft" id="RTMGspinButtonLeft">Trykk for å slå venstehåndsmodus på eller av.</ds>
+  <ds Jurisdiction="*" name="RTMGstartAutoplay" id="RTMGstartAutoplay">Trykk for å starte auto-spill.</ds>
+  <ds Jurisdiction="*" name="RTMGstartQuickSpin" id="RTMGstartQuickSpin">Trykk for å starte hurtigspinn.</ds>
+  <ds Jurisdiction="*" name="RTMGtapSpinButtonRev" id="RTMGtapSpinButtonRev">Trykk for å starte spillet med nåværende innsatslinjer, innsatsnivå og myntverdi.</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplay" id="RTMGstopAutoplay">Trykk for å stoppe auto-spill.</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryDesc" id="RTMGgameHistoryDesc">Trykk for å vise siste spillhistorikk.</ds>
+  <ds Jurisdiction="*" name="RTMGwinComb" id="RTMGwinComb">Trykk for å vise vinnerkombinasjoner og utbetalinger.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsDisabledRev" id="RTMGsoundsDisabledRev">Trykk på bryteren for å deaktivere lyder for fremtidige spilløkter.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRev" id="RTMGautoplayPutOnOffRev">Trykk på bryteren for å slå autospill på eller av. Autospill spiller spillet for det valgte antall spinn.</ds>
+  <ds Jurisdiction="*" name="RTMGtapOnOffRev" id="RTMGtapOnOffRev">Trykk på bryteren for å slå Hurtigspinn på eller av.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundOnOffRev" id="RTMGsoundOnOffRev">Trykk på bryteren for å slå lyder på eller av.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettingsMenu" id="RTMGquickSettingsMenu">Trykk på plusstegnet for å få tilgang til menyen med hurtiginnstillinger.</ds>
+  <ds Jurisdiction="*" name="RTMGtapDuringSpin" id="RTMGtapDuringSpin">Trykk på spillområdet under et spinn for å stoppe hjulene.</ds>
+  <ds Jurisdiction="*" name="RTstarBurststickyWExpandsReSpinsRev" id="RTstarBurststickyWExpandsReSpinsRev">Under Starburst™ Wild-funksjonen, vil Starburst™ Wilds utvide seg og dekke hele hjulet, og bli på hjulet mens de andre hjulene spinnes på nytt.</ds>
+  <ds Jurisdiction="*" name="termPaytable" id="termPaytable">Utbetalingstabell</ds>
+  <ds Jurisdiction="*" name="RTMGpaytable" id="RTMGpaytable">Utbetalingstabell</ds>
+  <ds Jurisdiction="*" name="RTMGpaytableJimi" id="RTMGpaytableJimi">Utbetalingstabell</ds>
+  <ds Jurisdiction="Italy" name="RTmalfunction" id="RTmalfunction">Ved feil på maskinvare/programvare for spill blir alle berørte innsatser og utbetalinger ugyldige og alle berørte innsatser vil bli refundert.</ds>
+  <ds Jurisdiction="*" name="RTMGmalfunction" id="RTMGmalfunction">Ved feil på maskinvare/programvare for spill, vil alle berørte innsatser og utbetalinger gjenopprettes og alle berørte innsatser vil bli refundert.</ds>
+  <ds Jurisdiction="*" name="RTautoplaySelectSpins" id="RTautoplaySelectSpins">Velg antall spinn i Autospill eller åpne Avanserte innstillinger for å konfigurere alternativer for Autospill.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytable" id="RTwinCombinationPaytable">Vinnende kombinasjoner og utbetalinger fastsettes på bakgrunn av &lt;b&gt;UTBETALINGSTABELL&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytablenoBold" id="RTwinCombinationPaytablenoBold">Vinnende kombinasjoner og utbetalinger foretas i henhold til Utbetalingstabellen.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCurrency" id="RTMGshowsBetCurrency">Viser innsatsbeløpet ditt i den valgte valutaen.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCoins" id="RTMGshowsBetCoins">Viser innsatsbeløpet ditt i mynter.</ds>
+  <ds Jurisdiction="*" name="RTautoplayDuringGameRev" id="RTautoplayDuringGameRev">&lt;b&gt;Merk:&lt;/b&gt; Når du endrer innstillingene for Autospill i løpet av en spillrunde, vil de nye innstillingene tre i kraft når spillrunden eller funksjonen er ferdig.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationWinMatchCurrency" id="RTwinCalculationWinMatchCurrency">En gevinst på en innsatslinje i valuta tilsvarer gevinsten i mynter multiplisert med myntverdi.</ds>
+  <ds Jurisdiction="*" name="RTopenAutoplayMenu" id="RTopenAutoplayMenu">Klikk for å åpne innstillingsmenyen Autospill og spille spillet automatisk.</ds>
+  <ds Jurisdiction="*" name="RTMGautoOptions" id="RTMGautoOptions">Dra eller trykk på skyveknappen for å aktivere autospill for å velge alterntivene for autospill og antallet runder. Autospill spiller spillet i det valgte antallet spinn.</ds>
+  <ds Jurisdiction="*" name="RTexCloneWildOverlay" id="RTexCloneWildOverlay">Expanding Cloning Wild-symbolene vil legge seg over de spinnende hjulene. Klonede symboler vil også legge seg oppå hjulene.</ds>
+  <ds Jurisdiction="*" name="RTsliderBetLevel" id="RTsliderBetLevel">Innsatsnivået angis med Innsatsnivå-bryteren.</ds>
+  <ds Jurisdiction="*" name="onlyHighWinComb" id="onlyHighWinComb">Kun den høyeste vinnerkombinasjonen på innsatslinjene fra enten lengst fra venstre til høyre og/eller lengst fra høyre til venstre utbetales.</ds>
+  <ds Jurisdiction="*" name="RTsliderCoinValue" id="RTsliderCoinValue">Myntverdien angis med Myntverdi-bryteren.</ds>
+  <ds Jurisdiction="*" name="RTeachStar1AddRespinUpTo3respin" id="RTeachStar1AddRespinUpTo3respin">Opptil 2 ekstra Starburst™ Wild-symboler kan dukke opp etter at en Starburst™ Wild aktivere et respinn, utløser et ekstra respinn, eller de maksimale 3 respinnene.</ds>
+  <ds Jurisdiction="*" name="RTcashIncreasesDescRev" id="RTcashIncreasesDescRev">Stopper Autoplay dersom saldo øker med beløpet du spesifiserer.</ds>
+  <ds Jurisdiction="*" name="RTcashDecreasesDescRev" id="RTcashDecreasesDescRev">Stopper Autoplay dersom saldo reduserer med beløpet du spesifiserer.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Merk:&lt;/b&gt; Noen autospill-alternativer er obligatoriske for visse jurisdiksjoner.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Merk&lt;/b&gt;: Tabellen nedenfor er bare aktuell hvis du spiller på et annet språk enn engelsk.</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Engelsk uttrykk</ds>
+  <ds Jurisdiction="*" name="featuresNotAvailablePFF" id="featuresNotAvailablePFF">Enkelte funksjoner kan være utilgjengelige i &lt;b&gt;SPILLER PÅ GØY&lt;/b&gt;-modus.</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Oversatt uttrykk</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Oversettelser av spillterminologi</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRevNew" id="RTsingleWinDescRevNew">Stopper Autospill når beløpet du vinner overstiger eller er lik beløpet du spesifiserer.</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Tilleggsinformasjon</ds>
+</defaults>

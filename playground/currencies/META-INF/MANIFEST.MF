@@ -1,0 +1,24 @@
+Manifest-Version: 1.0
+Implementation-Title: game-currency-formats
+Implementation-Version: 7.4.0
+Maven-ArtifactId: game-currency-formats
+Archiver-Version: Plexus Archiver
+Built-By: jenkins-slave
+Jenkins-BuildNumber: 2
+Implementation-Vendor-Id: com.netent.casino-software.games.common
+Jenkins-BuildId: 2
+Git-Hash: 0ed1cc5b28941f6cc7f7d185d11358b05b3fd0da (with local modific
+ ations)
+Implementation-Vendor: Net Entertainment
+Maven-Classifier: 
+Maven-GroupId: com.netent.casino-software.games.common
+Jenkins-BuildUrl: https://gdp-sto-01.netent.com/job/gamecf-game-curren
+ cy-formats-master/2/
+Git-CommitTime: 2019-10-02T16:40:33.000Z
+Git-Url: https://git.netent.com/scm/gamecf/game-currency-formats.git
+Maven-Name: game-currency-formats
+Maven-Version: 7.4.0
+Jenkins-JobName: gamecf-game-currency-formats-master
+Created-By: Apache Maven 3.0.4
+Build-Jdk: 1.8.0_151
+

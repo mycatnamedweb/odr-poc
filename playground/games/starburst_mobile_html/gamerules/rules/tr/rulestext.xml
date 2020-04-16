@@ -1,0 +1,197 @@
+<defaults xml:lang="tr">
+  <!-- Turkish locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 16:41:58 GMT on Tuesday 16 May 2017.
+
+ -->
+  <ds Jurisdiction="*" name="RTGameHistNoPlayForFun" id="RTGameHistNoPlayForFun">(&lt;b&gt;EĞLENCESİNE OYUN&lt;/b&gt; modunda kullanılamaz).</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDisclaimer" id="RTquickSpinDisclaimer">(Tüm casinolarda bulunmuyor).</ds>
+  <ds Jurisdiction="*" name="RTgHistoryNotAvailableForFun" id="RTgHistoryNotAvailableForFun">&lt;b&gt;EĞLENCESİNE OYUN&lt;/b&gt; modunda Oyun Geçmişi mevcut değildir.</ds>
+  <ds Jurisdiction="*" name="RTcoinsDisplayValues" id="RTcoinsDisplayValues">&lt;b&gt;JETON&lt;/b&gt; oyuncunun bahis için kullanabileceği jeton sayısını gösterir.</ds>
+  <ds Jurisdiction="*" name="RTMGcoinsDisplayValues" id="RTMGcoinsDisplayValues">&lt;b&gt;Jetonlar&lt;/b&gt; oyuncunun bahis için kullanabileceği jetonların sayısını gösterir.</ds>
+  <ds Jurisdiction="*" name="RTmaxbetPlays" id="RTmaxbetPlays">&lt;b&gt;MAKS. BAHİS&lt;/b&gt; oyunu maksimum fazla bahis çizgisiyle, en yüksek bahis seviyesinden ve geçerli jeton değerinden oynatır.</ds>
+  <ds Jurisdiction="*" name="RTsettingsDisclaimer" id="RTsettingsDisclaimer">&lt;b&gt;Not:&lt;/b&gt; Bazı casino'larda, belirtilen oyun ayarlarının hepsi olmayabilir.</ds>
+  <ds Jurisdiction="*" name="RTMGsettingsDisclaimer" id="RTMGsettingsDisclaimer">&lt;b&gt;Not:&lt;/b&gt; Bazı operatörler, verilen tüm oyun ayarlarını desteklemeyebilir.</ds>
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Not:&lt;/b&gt; Bazı otomatik oyun seçenekleri, bazı bölgelerde yerel kanunlar nedeniyle zorunludur.</ds>
+  <ds Jurisdiction="*" name="RTAutoplayDisconnect" id="RTAutoplayDisconnect">&lt;b&gt;Not:&lt;/b&gt; Eğer oyun sırasında bağlantınız kesilirse, oyunu yeniden başlattığınızda bütün Otomatik Oyun ayarları varsayılan ayarlara döner.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayDisconnect" id="RTMGautoplayDisconnect">&lt;b&gt;Not:&lt;/b&gt; Eğer oyun sırasında bağlantınız kesilirse, oyunu yeniden çalıştırdığınızda bütün otomatik oyun ayarları varsayılan değerlere geri döner.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Not&lt;/b&gt;: Takip eden tablo, sadece İngilizce dışında başka bir dilde oynuyorsanız geçerlidir.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDesc" id="RTinformationIconButtonDesc">&lt;b&gt;ÖDEME TABLOSU&lt;/b&gt;'nu görmek için tıklayın.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDescJimi" id="RTinformationIconButtonDescJimi">&lt;b&gt;ÖDEME TABLOSU&lt;/b&gt;'nu görmek için tıklayın.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescRev" id="RTpaytableButtonsDescRev">&lt;b&gt;ÖDEME TABLOSU&lt;/b&gt;'nun sayfalarını gezmek için, sağı veya solu gösteren okları tıklatın. Oyuna geri dönmek için merkezdeki butonu tıklatın.</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlays" id="RTautoplayPlays">&lt;b&gt;OTOM. OYNA&lt;/b&gt; oyunu, seçilen tur sayısı kadar otomatik olarak oynar (alternatif olarak, &lt;b&gt;AUTO&lt;/b&gt; butonunu tıklayın).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlaysJimi" id="RTautoplayPlaysJimi">&lt;b&gt;OTOMATIK OYUN&lt;/b&gt; oyunu, seçilen tur sayısı kadar otomatik olarak oynar (alternatif olarak, &lt;b&gt;AUTO&lt;/b&gt; butonunu tıklayın).</ds>
+  <ds Jurisdiction="*" name="RTMGreturnToPlayer" id="RTMGreturnToPlayer">&lt;b&gt;Oyuncuya Geri Dönüş&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTsoundButton" id="RTsoundButton">&lt;b&gt;Ses&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildFeatureActive" id="RTstarburstWildFeatureActive">2, 3 veya 4. çarkların herhangi bir yerinde beliren Starburst™ Wild'ları, Starburst™ Wild özelliğini etkinleştirir.</ds>
+  <ds Jurisdiction="*" name="RTHighWinSymCompleteActLineRev" id="RTHighWinSymCompleteActLineRev">Aktif bir bahis çizgisinde, en soldaki çarktan sağa doğru ve/veya en sağdaki çarktan sola doğru olan en yüksek kazanç kombinasyonları ödenir.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSessions2" id="RTMGgameSessions2">Aktif olmayan oturumların otomatik olarak sonlandırıldığı süre.</ds>
+  <ds Jurisdiction="Italy" name="RTgameSessions2" id="RTgameSessions2">Aktif olmayan oturumların otomatik olarak sonlandırıldığı süre.</ds>
+  <ds Jurisdiction="*" name="RTviewMiniPaytable" id="RTviewMiniPaytable">Alternatif olarak, ana oyun esnasında çarklardaki herhangi bir sembolü tıklayarak, o sembol ile ilgili bir mini ödeme tablosu görüntüleyebilirsiniz.</ds>
+  <ds Jurisdiction="*" name="RTMGreferWebSite" id="RTMGreferWebSite">Alttaki oyun özellikleri ve ayarları, oyun sitesinin şart ve koşullarına tabi olabilirler. Alttaki konular ile ilgili ayrıntılı bilgi için oyun web sitesine bakın:</ds>
+  <ds Jurisdiction="*" name="RTtableDescribes" id="RTtableDescribes">Alttaki tablo, oyunda bulunan farklı butonarı ve bu butonların fonksiyonlarını gösterir.</ds>
+  <ds Jurisdiction="*" name="RTMGbuttonsMainGame" id="RTMGbuttonsMainGame">Ana Oyun</ds>
+  <ds Jurisdiction="*" name="RTMGbackMainGame" id="RTMGbackMainGame">Ana oyuna geri dönmek için dokunun.</ds>
+  <ds Jurisdiction="*" name="RTanimationsOff" id="RTanimationsOff">Animasyonları açar ya da kapatır.</ds>
+  <ds Jurisdiction="*" name="RTambienceDescRev" id="RTambienceDescRev">Arka plandaki müziğini açar veya kapatır.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayIfBonusGame" id="RTMGdisableAutoplayIfBonusGame">Ayarlı otomatik dönüşlerin sayısı dolmadan Bonus Oyun kazanıldığında Otomatik Oyun'u durdurmak için dokunun.</ds>
+  <ds Jurisdiction="*" name="simultaneousWinsAdded" id="simultaneousWinsAdded">Aynı turda farklı bahis çizgilerinde elde edilen kazançlar toplanır.</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Ayrıntılı Bilgi</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRev" id="RTMGselectBetLevelRev">Bahis çizgisi başına oynamak istediğiniz jeton miktarını seçmek için ayar çarkına dokunun veya çarkı kaydırın.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRevNew" id="RTMGselectBetLevelRevNew">Bahis çizgisi başına oynamak istediğiniz jeton miktarını seçmek için ayar kaydıracını kaydırın veya ona dokunun.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCoins" id="RTMGshowsBetCoins">Bahis miktarını, jeton cinsinden gösterir</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCurrency" id="RTMGshowsBetCurrency">Bahis miktarını, seçili olan para cinsinden gösterir.</ds>
+  <ds Jurisdiction="*" name="RTMGbetlevel" id="RTMGbetlevel">Bahis seviyesi</ds>
+  <ds Jurisdiction="*" name="RTMGbetLevelInstruction" id="RTMGbetLevelInstruction">Bahis seviyesi, &lt;b&gt;Seviye&lt;/b&gt; seçeneği ile ayarlanır.</ds>
+  <ds Jurisdiction="*" name="RTbetLevel" id="RTbetLevel">Bahis seviyesi, bahis çizgisi başına oynanan jeton sayısıdır.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCoinsNoMultiplier" id="RTMGwinCalculationBetLinesCoinsNoMultiplier">Bir bahis çizgisi kazancı jeton cinsinden, &lt;b&gt;ÖDEME TABLOSU&lt;/b&gt;'nda verilen değer ie bahis seviyesinin çarpımı kadardır.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoMultiplierTrans" id="RTwinCalculationBetLinesCoinsNoMultiplierTrans">Bir bahis çizgisi kazancı jeton cinsinden, &lt;b&gt;ÖDEME TABLOSU&lt;/b&gt;'nda verilen değer ie bahis seviyesinin çarpımı kadardır.</ds>
+  <ds Jurisdiction="*" name="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier" id="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier">Bir bahis çizgisi kazancı jeton cinsinden, &lt;b&gt;ÖDEME TABLOSU&lt;/b&gt;'nda verilen değer ie bahis seviyesinin çarpımı kadardır.</ds>
+  <ds Jurisdiction="*" name="anyWinDesc" id="anyWinDesc">Bir tur kazandığınızda Otomatik Oyunu durdurur.</ds>
+  <ds Jurisdiction="*" name="RTMGunfinishedGameSession2" id="RTMGunfinishedGameSession2">Bitirilmemiş oyun turlarının yönetiminde kullanılan prosedürler.</ds>
+  <ds Jurisdiction="Italy" name="RTunfinishedGameSession2" id="RTunfinishedGameSession2">Bitirilmemiş oyun turlarının yönetiminde kullanılan prosedürler.</ds>
+  <ds Jurisdiction="*" name="RTspacebarspin" id="RTspacebarspin">Boşluk tuşu fonksiyonunu açar veya kapatır.</ds>
+  <ds Jurisdiction="*" name="RTMGtheoreticalReturn" id="RTMGtheoreticalReturn">Bu oyun için oyuncuya teorik geri dönüş</ds>
+  <ds Jurisdiction="Italy" name="RTtheoreticalReturn" id="RTtheoreticalReturn">Bu oyun için, oyuncuya teorik dönüş:</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsDisabledRev" id="RTMGsoundsDisabledRev">Bundan sonraki oyun seanslarında sesi etkisizleştirmek için şaltere dokunun.</ds>
+  <ds Jurisdiction="Italy" name="RTreferWebSite" id="RTreferWebSite">Buradaki oyun özellikleri ve ayarları kumar sitesinin şart ve koşullarına tabi olabilir. Ayrıntılı bilgiyi şans oyunları web sitesinde bulabilirsiniz:</ds>
+  <ds Jurisdiction="*" name="RTbuttonTableHead" id="RTbuttonTableHead">Buton</ds>
+  <ds Jurisdiction="*" name="RTMGtapDuringSpin" id="RTMGtapDuringSpin">Çarkları durdurmak için dönüş sırasında oyun alanına dokunun.</ds>
+  <ds Jurisdiction="*" name="RTMGtapOnOffRev" id="RTMGtapOnOffRev">Çarkların hızla dönmesi özelliğini açıp kapatmak için şaltere dokunun.</ds>
+  <ds Jurisdiction="*" name="RTMGexit" id="RTMGexit">Çıkış</ds>
+  <ds Jurisdiction="*" name="RTMGspinButton" id="RTMGspinButton">Döndür Butonu</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGame" id="RTMGtouchMainGame">Döndür butonunu gizlemek için oyun alanına dokunun.</ds>
+  <ds Jurisdiction="*" name="RTspinPlayRev" id="RTspinPlayRev">Döndür düğmesi, oyunu geçerli bahis çizgileri, bahis seviyesi ve jeton değerinde oynar (alternatif olarak boşluk tuşuna da basabilirsiniz).</ds>
+  <ds Jurisdiction="*" name="RTMGspinSettingsRev" id="RTMGspinSettingsRev">Dönüş Ayarları</ds>
+  <ds Jurisdiction="*" name="RTMGnumberSpins" id="RTMGnumberSpins">Dönüş sayısı</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryDesc" id="RTMGgameHistoryDesc">En son oyununuzun geçmişini görmek için dokunun.</ds>
+  <ds Jurisdiction="*" name="RTgameHistoryDesc" id="RTgameHistoryDesc">En son oyununuzun geçmişini görmek için tıklatın</ds>
+  <ds Jurisdiction="*" name="RTMGplay10FixedBetLines" id="RTMGplay10FixedBetLines">Farklı bahis seviyeleri ve jeton değerleri ile 10 sabit bahis çizgisine oynayabilirsiniz.</ds>
+  <ds Jurisdiction="*" name="RTplayCurrentBetLinesTo10" id="RTplayCurrentBetLinesTo10">Farklı bahis seviyeleri ve jeton değerlerinde 1-20 bahis çizgisine oynayabilirsiniz.</ds>
+  <ds Jurisdiction="*" name="RTfunctionTableHead" id="RTfunctionTableHead">Fonksiyon</ds>
+  <ds Jurisdiction="*" name="RTMGstopIfFreeSpins" id="RTMGstopIfFreeSpins">Free Spins kazanıldığında dur</ds>
+  <ds Jurisdiction="*" name="advancedAutoplayOptionsHeading" id="advancedAutoplayOptionsHeading">Gelişmiş Otomatik Oyun Seçenekleri</ds>
+  <ds Jurisdiction="Spain" name="RTAutoplayButton" id="RTAutoplayButton">Gelişmiş otomatik oyun seçeneklerini ayarlamak için mini klavyede &lt;b&gt;OTOM. OYNA&lt;/b&gt;'u veya oyun panelinde &lt;b&gt;AUTO&lt;/b&gt;'yu ve ardından &lt;b&gt;Gelişmiş ayarlar&lt;/b&gt;'ı tıklayın.</ds>
+  <ds Jurisdiction="*" name="RTMGback" id="RTMGback">Geri</ds>
+  <ds Jurisdiction="*" name="RTintroOffRev" id="RTintroOffRev">Giriş ekranını açar veya kapatır.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettings" id="RTMGquickSettings">Hızlı ayarlar menüsü</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettingsMenu" id="RTMGquickSettingsMenu">Hızlı ayarlar menüsüne erişmek için artı işaretine dokunun.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpin" id="RTMGquickSpin">Hızlı Döndür</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDescRev" id="RTquickSpinDescRev">Hızlı döndürme opsiyonunu açar veya kapatır</ds>
+  <ds Jurisdiction="*" name="RTMGstartQuickSpin" id="RTMGstartQuickSpin">Hızlı Döndürmeyi başlatmak için dokunun.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinGameSetting" id="RTMGquickSpinGameSetting">Hızlı Dönüş</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinUI" id="RTMGquickSpinUI">Hızlı dönüş özelliğini ayarlar menüsüne girmeden açıp kapatmak için dokunun.</ds>
+  <ds Jurisdiction="*" name="RTMGquickStop" id="RTMGquickStop">Hızlı Durdur</ds>
+  <ds Jurisdiction="*" name="RTMGadditionalInformation" id="RTMGadditionalInformation">İlave Bilgiler</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">İngilizce Terim</ds>
+  <ds Jurisdiction="*" name="RTCalcBetLineCoinNoMultiplierTransNew" id="RTCalcBetLineCoinNoMultiplierTransNew">Jeton cinsinden bahis çizgisi kazançları, ödeme tablosunda belirtilen miktarın bahis seviyesi ile çarpımı kadardır.</ds>
+  <ds Jurisdiction="*" name="RTwinCalcBetLinesNoMultiplier" id="RTwinCalcBetLinesNoMultiplier">Jeton cinsinden bir bahis çizgisi kazancı, Ödemetablosunda gösterilen değerin o bahis seviyesiyle çarpımına eşittir.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoBold" id="RTwinCalculationBetLinesCoinsNoBold">Jeton cinsinden bir bahis çizgisi kazancı, Ödemetablosunda gösterilen değerin o bahis seviyesiyle çarpımına eşittir. Bu tutar ayrıca geçerliliği olan herhangi bir çarpanla da çarpılmaktadır.</ds>
+  <ds Jurisdiction="*" name="RTMGcoinvalue" id="RTMGcoinvalue">Jeton değeri</ds>
+  <ds Jurisdiction="*" name="RTMGcoinValueInstruction" id="RTMGcoinValueInstruction">Jeton değeri, JETON DEĞERİ seçeneği ile ayarlanır.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRev" id="RTMGselectCoinValueRev">Jeton değerini seçmek için ayar çarkına dokunun veya çarkı kaydırın.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRevNew" id="RTMGselectCoinValueRevNew">Jeton değerini seçmek için kaydırıcıyı kaydırın veya ona dokunun.</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCoins" id="RTMGbetInCoins">Jeton ile bahis</ds>
+  <ds Jurisdiction="*" name="termWild" id="termWild">Joker</ds>
+  <ds Jurisdiction="*" name="RTMGnoAutoplayLeft" id="RTMGnoAutoplayLeft">Kalan dönüşlerin sayısı butonun üstünde görüntülenir.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytable" id="RTwinCombinationPaytable">Kazanan kombinasyonlar ve ödemeler &lt;b&gt;ÖDEME TABLOSU&lt;/b&gt;'na göre hesaplanır.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytablenoBold" id="RTwinCombinationPaytablenoBold">Kazanan kombinasyonlar ve ödemeler, ödeme Tablosuna göre gerçekleşir.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCombinations" id="RTMGwinCombinations">Kazanan kombinasyonlar ve yapılan ödemeler, Ödeme Tablosuna göredir.</ds>
+  <ds Jurisdiction="*" name="RTMGwinComb" id="RTMGwinComb">Kazanan kombinasyonları ve kazanılabilen miktarları görüntülemek için dokunun.</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRev" id="RTsingleWinDescRev">Kazanılan tutar belirttiğiniz miktarı geçtiğinde veya bu miktara eşit olduğunda, Otomatik oyunu durdurur.</ds>
+  <ds Jurisdiction="*" name="singleWinDesc" id="singleWinDesc">Kazanılan tutar belirttiğiniz miktarı geçtiğinde ya da eşit olduğunda Otomatik Oyunu durdurur.</ds>
+  <ds Jurisdiction="*" name="RTmaxBetAtHighBetLevel" id="RTmaxBetAtHighBetLevel">MAKS. BAHİS, oyunu en yüksek bahis seviyesinde ve mevcut jeton değeriyle oynatır.</ds>
+  <ds Jurisdiction="*" name="RTMGmenu" id="RTMGmenu">Menü</ds>
+  <ds Jurisdiction="*" name="RTMGtapSpinButtonRev" id="RTMGtapSpinButtonRev">Mevcut bahis çizgileri, bahis seviyesi ve jeton değerinden oynamak için dokunun.</ds>
+  <ds Jurisdiction="*" name="RTstartGameRound" id="RTstartGameRound">Mevcut bahis seviyesi ve jeton değeriyle yeni bir oyun turu başlatmak için tıklayın (veya boşluk tuşuna basın).</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCash" id="RTMGbetInCash">Nakit ile bahis</ds>
+  <ds Jurisdiction="*" name="cashIncreasesDesc" id="cashIncreasesDesc">Nakit, belirttiğiniz miktar kadar artarsa Otomatik Oyunu durdurur.</ds>
+  <ds Jurisdiction="Spain" name="cashDecreasesDesc" id="cashDecreasesDesc">Nakit, belirttiğiniz miktar kadar azalırsa Otomatik Oyunu durdurur.</ds>
+  <ds Jurisdiction="*" name="RTMGpaytable" id="RTMGpaytable">Ödeme Tablosu</ds>
+  <ds Jurisdiction="*" name="termPaytable" id="termPaytable">Ödeme Tablosu</ds>
+  <ds Jurisdiction="*" name="RTMGpaytableJimi" id="RTMGpaytableJimi">Ödeme Tablosu</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonNoBold" id="RTinformationIconButtonNoBold">Ödeme tablosunu görüntülemek için tıklayın.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescNoBold" id="RTpaytableButtonsDescNoBold">Ödeme tablosunun sayfaları arasında gezinmek için sola veya sağa bakan oklara tıklayın. Oyuna dönmek için ortadaki düğmeye basın.</ds>
+  <ds Jurisdiction="*" name="RTrulesGenerated" id="RTrulesGenerated">Oluşturulan oyun kuralları:</ds>
+  <ds Jurisdiction="*" name="RTadjustQualityRev" id="RTadjustQualityRev">Optimal performans için görüntü kalitesini ayarlar.</ds>
+  <ds Jurisdiction="*" name="RTMGselectSpinsRev" id="RTMGselectSpinsRev">Otomatik dönüşlerin sayısını seçmek için ayar çarkına dokunun veya çarkı kaydırın.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPanelLabel" id="RTMGautoplayPanelLabel">Otomatik Oyun</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplay" id="RTMGdisableAutoplay">Otomatik oyun için belirlenen dönüş sayısı tamamlanmadan Free Spins kazanılması durumunda Otomatik Oyun'u devre dışı bırakmak için dokunun.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayPickClick" id="RTMGdisableAutoplayPickClick">Otomatik oyun için belirlenen dönüş sayısı tamamlanmadan Pick and Click  kazanılması durumunda Otomatik Oyun'u devre dışı bırakmak için dokunun.</ds>
+  <ds Jurisdiction="*" name="RTautoplaySelectSpins" id="RTautoplaySelectSpins">Otomatik Oyun için dönüş sayısını seçin veya Otomatik Oyun'i durdurma seçeneklerini yapılandırmak için Gelişmiş Ayarlar'ı açın.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayQuickSpinHeading" id="RTMGautoplayQuickSpinHeading">Otomatik Oyun ve Hızlı Döndürme</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRev" id="RTMGautoplayPutOnOffRev">Otomatik Oyunu açıp kapatmak için şaltere dokunun. Otomatik Oyun, oyunu seçilen dönüş sayısı boyunca oynar.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayUI" id="RTMGautoplayUI">Otomatik Oyun'u ayarlar menüsüne girmeden açıp kapatmak için dokunun. 50 tur, varsayılan olarak ayarlanır.</ds>
+  <ds Jurisdiction="*" name="RTMGstartAutoplay" id="RTMGstartAutoplay">Otomatik Oyunu başlatmak için dokunun.</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplayOnOff" id="RTMGstopAutoplayOnOff">Otomatik Oyunu durdur</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplay" id="RTMGstopAutoplay">Otomatik Oyunu durdurmak için dokunun.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRevNew" id="RTMGautoplayPutOnOffRevNew">Otomatik Oyun'u etkinleştirmek ve tur sayısını ayarlamak için kaydırıcıyı kaydırın veya ona dokunun.</ds>
+  <ds Jurisdiction="*" name="RTopenSettingsMenu" id="RTopenSettingsMenu">Oyun ayarları menüsünü açmak için tıklatın ve oyun seçeneklerini seçin. Oyun Ayararı bölümü altta bulunuyor.</ds>
+  <ds Jurisdiction="*" name="gameSettingOptionsHeading" id="gameSettingOptionsHeading">Oyun Ayarları Seçenekleri</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettings" id="RTMGgameSettings">Oyun Ayarları ve Oyun Bilgileri</ds>
+  <ds Jurisdiction="*" name="gameSettingIntro" id="gameSettingIntro">Oyun ayarlarına erişmek için oyun panelindeki anahtar simgesini tıklatın.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDev" id="RTMGgameSettingIntroDev">Oyun ayarlarına ve oyun bilgilerine erişmek için dokunun. Alternatif olarak Nakit ve Jeton ekranlarına da dokunabilirsiniz.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDevNew" id="RTMGgameSettingIntroDevNew">Oyun ayarlarına ve oyun hakkında bilgilere erişmek için dokunun.</ds>
+  <ds Jurisdiction="Italy" name="RTmalfunction" id="RTmalfunction">Oyun donanımının/yazılımının arızalanması halinde, etkilenen tüm oyun bahisleri ve ödemeleri geçersiz sayılır ve etkilenen tüm bahisler iade edilir.</ds>
+  <ds Jurisdiction="*" name="RTMGmalfunction" id="RTMGmalfunction">Oyun donanımının/yazılımının arızalanması halinde, etkilenen tüm oyun bahisleri ve ödemeleri geçersiz sayılır ve etkilenen tüm bahisler iade edilir.</ds>
+  <ds Jurisdiction="*" name="RTgameFunctionsHeading" id="RTgameFunctionsHeading">Oyun Fonksiyonları</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryHeading" id="RTMGgameHistoryHeading">Oyun Geçmişi</ds>
+  <ds Jurisdiction="*" name="RTMGhistoryNotAvailable" id="RTMGhistoryNotAvailable">Oyun geçmişi, yalnızca para karşılığında oynadığınızda mevcuttur.</ds>
+  <ds Jurisdiction="*" name="RTMGgameRules" id="RTMGgameRules">Oyun Kuralları</ds>
+  <ds Jurisdiction="*" name="RTopenGameRules" id="RTopenGameRules">Oyun kurallarını açmak için tıklatın.</ds>
+  <ds Jurisdiction="*" name="RTMGviewGamesRules" id="RTMGviewGamesRules">Oyun kurallarını görmek için dokunun.</ds>
+  <ds Jurisdiction="*" name="RTMGsounds" id="RTMGsounds">Oyun Sesleri</ds>
+  <ds Jurisdiction="*" name="RTgameSoundDesc" id="RTgameSoundDesc">Oyun seslerini açar veya kapatır.</ds>
+  <ds Jurisdiction="*" name="RTmuteSoundSliderRev" id="RTmuteSoundSliderRev">Oyun seslerini kapatmak için tıklatın veya kaydırıcı ile ses düzeyini ayarlayın.</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Oyun Terminolojisinin Tercümeleri</ds>
+  <ds Jurisdiction="*" name="RTreturnToPlayer" id="RTreturnToPlayer">Oyuncuya geri dön</ds>
+  <ds Jurisdiction="*" name="RTMGleaveGame" id="RTMGleaveGame">Oyundan çıkmak için dokunun.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCurrency" id="RTMGwinCalculationBetLinesCurrency">Para cinsinden bahis çizgisi kazancı, jeton kazancı ile jeton değerinin çarpımı kadardır.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCurrency" id="RTwinCalculationBetLinesCurrency">Para cinsinden bahis çizgisi kazancı, jeton kazancı ile jeton değerinin çarpımı kadardır.</ds>
+  <ds Jurisdiction="*" name="RTpaytableHighestRev" id="RTpaytableHighestRev">Sadece aktif bahis çizgisinin iki yönündeki en yüksek kazanç ödenir.</ds>
+  <ds Jurisdiction="*" name="RTMGspinButtonLeft" id="RTMGspinButtonLeft">Sağ el modunu açıp kapatmak için dokunun.</ds>
+  <ds Jurisdiction="*" name="RTMGAutoplaySpins" id="RTMGAutoplaySpins">Seçilen dönüş sayısı düğmenin üstünde gösterilir.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundSettings" id="RTMGsoundSettings">Ses Ayarları</ds>
+  <ds Jurisdiction="*" name="RTMGsoundOnOffRev" id="RTMGsoundOnOffRev">Sesi açıp kapatmak için şaltere dokunun.</ds>
+  <ds Jurisdiction="Anguilla" name="RTMGsoundSettingsUI" id="RTMGsoundSettingsUI">Sesi ayarlar menüsüne girmeden açıp kapatmak için dokunun.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsOff" id="RTMGsoundsOff">Sesi her zaman kapat</ds>
+  <ds Jurisdiction="*" name="RTMGleftHandMode" id="RTMGleftHandMode">Sol El Modu</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchIntro" id="RTMGstarburstTouchIntro">Starburst Touch™ 5 çarklı, 3 satırlı bir video slot oyunudur ve yeniden dönüşleri olan Starburst™ Wild ile çift yönlü kazanç özelliklerini sunar.</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchRulesHeading" id="RTMGstarburstTouchRulesHeading">Starburst Touch™ Oyun Kuralları</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSubstitute" id="RTstarBurstWildSubstitute">Starburst™ Çılgın sembolü herhangi bir sembolün yerini alabilir.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstRulesHeading" id="RTstarBurstRulesHeading">Starburst™ Oyun Kuralları</ds>
+  <ds Jurisdiction="*" name="RTstarBurststickyWExpandsReSpinsRev" id="RTstarBurststickyWExpandsReSpinsRev">Starburst™ Wild özelliği sırasında, Starburst™ Wild'ler bütün çarkı kaplayacak şekilde genişler ve diğer çarklar yeniden dönerken yerlerinde sabit kalır.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSymbAppear" id="RTstarBurstWildSymbAppear">Starburst™ Wild sembolleri yalnızca 2’nci, 3’üncü ve 4’üncü makaralarda görülebilir.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildHeading" id="RTstarBurstWildHeading">Starburst™ Wilds</ds>
+  <ds Jurisdiction="*" name="RTstarBurstIntro" id="RTstarBurstIntro">Starburst™, 5 çarklı, 3 satırlı bir oyun makinesidir ve ilave dönüşle İki Yönde Kazan özelliği olan Starburst™ Çılgınını sunar.</ds>
+  <ds Jurisdiction="*" name="ReSpinsAtActivatingRound" id="ReSpinsAtActivatingRound">Tekrar dönüşler, tekrar dönüşü etkinleştiren turdaki bahisle aynı bahis tutarında oynanır.</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Tercüme edilmiş terim</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGameNew" id="RTMGtouchMainGameNew">Yatay görüntü modunda Döndürme düğmesini gizlemek için oyun alanına dokunun.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstAddReSpinsRev" id="RTstarBurstAddReSpinsRev">Yeniden dönüş sırasında yeni bir Starburst™ Wild sembolü belirirse, bu sembol genişler ve hem kendisi hem de önceden genişlemiş Starburst™ Wild sembolleri ile birlikte bir sonraki yeniden dönüş için bulunduğu yere sabitlenir.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildEnds" id="RTstarburstWildEnds">Yeniden dönüşlerden birinde artık Starburst™ Wild belirmezse Starburst™ Wild özelliği sona erer.</ds>
+  <ds Jurisdiction="*" name="RTautoplayDuringGameRev" id="RTautoplayDuringGameRev">&lt;b&gt;Not:&lt;/b&gt; Bir oyun turu sırasında Autoplay ayarlarını değiştirirken, tüm ayarlar oyun turu veya özellik tamamlandığında aktif hale gelecektir.</ds>
+  <ds Jurisdiction="*" name="RTopenAutoplayMenu" id="RTopenAutoplayMenu">Otomatik oyun ayarlarını açmak ve oyunu otomatik olarak oynatmak için tıklatın.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationWinMatchCurrency" id="RTwinCalculationWinMatchCurrency">Para cinsinden bahis çizgisi kazancı, jeton kazancı ile jeton değerinin çarpımı kadardır.</ds>
+  <ds Jurisdiction="*" name="RTsliderBetLevel" id="RTsliderBetLevel">Bahis seviyesi, Bahis seviyesi kaydıracı kullanılarak belirlenir.</ds>
+  <ds Jurisdiction="*" name="RTeachStar1AddRespinUpTo3respin" id="RTeachStar1AddRespinUpTo3respin">Bir Starburst™ Wild sembolünden sonra belirebilen 2'ye kadar  Starburst™ Wild, bir yeniden dönüş tetikler, ekstradan bir yeniden dönüş daha tetikleyebilir ve en fazla 3 yeniden dönüş kazandırabilir.</ds>
+  <ds Jurisdiction="*" name="onlyHighWinComb" id="onlyHighWinComb">En soldan sağa doğru ve/veya en sağdan sola doğru oluşan bahis çizgilerinin sadece en yüksek kazandıran kombinasyonu ödenir.</ds>
+  <ds Jurisdiction="*" name="RTexCloneWildOverlay" id="RTexCloneWildOverlay">Expanding Cloning Wild sembolleri, dönen çarkların üstünde bir katman olarak görüntülenir. Klonlanan semboller de çarkların üstünde bir katman olarak görüntülenir.</ds>
+  <ds Jurisdiction="*" name="RTsliderCoinValue" id="RTsliderCoinValue">Jeton değeri, Jeton değeri kaydıracı kullanılarak belirlenir.</ds>
+  <ds Jurisdiction="*" name="RTcashIncreasesDescRev" id="RTcashIncreasesDescRev">Nakit belirlediğiniz miktarda artarsa Otomatik Oyun'u durdurur.</ds>
+  <ds Jurisdiction="*" name="RTcashDecreasesDescRev" id="RTcashDecreasesDescRev">Nakit belirlediğiniz miktarda azalırsa Otomatik Oyun'u durdurur.</ds>
+  <ds Jurisdiction="*" name="RTMGautoOptions" id="RTMGautoOptions">Otomatik oyun seçeneklerini ve turların sayısını ayarlamak için kaydırıcıya dokunun veya onu sürükleyin. Otomatik oyun, oyunu seçilen dönüş sayısı kadar oynatır.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="featuresNotAvailablePFF" id="featuresNotAvailablePFF">&lt;b&gt;EĞLENCESİNE OYUN&lt;/b&gt; modunda bazı özellikler kullanılamayabilir.</ds>
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Not:&lt;/b&gt; Bazı otomatik oyun seçenekleri, bazı bölgelerde yerel kanunlar nedeniyle zorunludur.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Not&lt;/b&gt;: Takip eden tablo, sadece İngilizce dışında başka bir dilde oynuyorsanız geçerlidir.</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Ayrıntılı Bilgi</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">İngilizce Terim</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRevNew" id="RTsingleWinDescRevNew">Kazandığınız miktar, belirttiğiniz miktar ile aynı veya bu miktardan fazla ise Otomatik Oyun'u durdurur.</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Oyun Terminolojisinin Tercümeleri</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Tercüme edilmiş terim</ds>
+</defaults>

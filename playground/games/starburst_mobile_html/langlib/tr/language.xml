@@ -1,0 +1,462 @@
+﻿<defaults xml:lang="tr">
+  <!-- Turkish locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 08:40:42 GMT on Tuesday 10 October 2017.
+
+ -->
+  <ds Jurisdiction="*" name="freeRoundsFinished" id="freeRoundsFinished"></ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRoundsRev" id="MGhaveFreeRoundsRev">{0} bedava jetonunuz var!</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsLeft" id="MGfreeRoundsLeft">{0} bedava turunuz kaldı!</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRounds" id="MGhaveFreeRounds">{0} bedava turunuz mevcut.</ds>
+  <ds Jurisdiction="*" name="MGyouWonCoins" id="MGyouWonCoins">{0} jeton kazandınız</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoins" id="OCTyouWonCoins">{0} jeton kazandınız</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoinsUC" id="OCTyouWonCoinsUC">{0} jeton kazandınız</ds>
+  <ds Jurisdiction="*" name="OCTwinUpTo" id="OCTwinUpTo">{0} jetona kadar kazanın</ds>
+  <ds Jurisdiction="*" name="MGwinUpTo" id="MGwinUpTo">{0} jetona kadar kazanın</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingLost" id="OCTRCheckPlayingLost">{0} saattir oynuyorsunuz ve {1} kaybettiniz.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingLost" id="MGRCheckPlayingLost">{0} saattir oynuyorsunuz ve {1} kaybettiniz.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingWon" id="MGRCheckPlayingWon">{0} saattir oynuyorsunuz ve {1} kazandınız.</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingWon" id="OCTRCheckPlayingWon">{0} saattir oynuyorsunuz ve {1} kazandınız.</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">{0} sayısı</ds>
+  <ds Jurisdiction="*" name="MGappearsOnReelsLC" id="MGappearsOnReelsLC">{0}., {1}. ve {2}. çarklarda belirir.</ds>
+  <ds Jurisdiction="*" name="appearsOnReels" id="appearsOnReels">{0}., {1}. VE {2}. ÇARKLARDA BELİRİR.</ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpinsNoSpan" id="MGvarRetriggerFreeSpinsNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTvarRetriggerFSNoSpan" id="OCTvarRetriggerFSNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpins" id="MGvarRetriggerFreeSpins">&lt;span class='NetEnt_plusSign'&gt;+&lt;/span&gt;&lt;span class='NetEnt_numberFreeSpins'&gt;{0}&lt;/span&gt; Free Spins</ds>
+  <ds Jurisdiction="*" name="NeProduction" id="NeProduction">A NET ENTERTAINMENT PRODUCTION</ds>
+  <ds Jurisdiction="*" name="animationsGameSetting" id="animationsGameSetting">Animasyonlar</ds>
+  <ds Jurisdiction="*" name="OCTvoidAllPays" id="OCTvoidAllPays">Arıza durumları, tüm kazançları ve oyunları geçersiz kılar.</ds>
+  <ds Jurisdiction="*" name="RCheckMonths" id="RCheckMonths">ay</ds>
+  <ds Jurisdiction="*" name="OCTextraInfo" id="OCTextraInfo">Ayrıntılı bilgi için Oyun Kuralları'na bakınız.</ds>
+  <ds Jurisdiction="*" name="extraInfo" id="extraInfo">Ayrıntılı bilgi için Oyun Kuralları'na bakınız.</ds>
+  <ds Jurisdiction="*" name="MGconnectionLost" id="MGconnectionLost">Bağlantı Kesildi</ds>
+  <ds Jurisdiction="*" name="OCTconnectionLost" id="OCTconnectionLost">Bağlantı Kesildi</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Bağlantı: Zayıf</ds>
+  <ds Jurisdiction="*" name="connectionQualityPoor" id="connectionQualityPoor">Bağlantı: Zayıf</ds>
+  <ds Jurisdiction="*" name="OCTtotalbet" id="OCTtotalbet">Bahis</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_bet" id="OCTmachinetext_bet">BAHİS</ds>
+  <ds Jurisdiction="*" name="MGbetOptions" id="MGbetOptions">Bahis Ayarları</ds>
+  <ds Jurisdiction="*" name="MGbetSettings" id="MGbetSettings">Bahis Ayarları</ds>
+  <ds Jurisdiction="*" name="OCTbetSettingsCaps" id="OCTbetSettingsCaps">BAHİS AYARLARI</ds>
+  <ds Jurisdiction="*" name="MGcolHeadBetMulti" id="MGcolHeadBetMulti">Bahis çarpanı</ds>
+  <ds Jurisdiction="*" name="winBothWaysPaysRev" id="winBothWaysPaysRev">Bahis çizgileri kazançları, art arda en soldan sağa veya en sağdan sola geldiklerinde ödenir.</ds>
+  <ds Jurisdiction="*" name="MGbetLineWinsLeftRight" id="MGbetLineWinsLeftRight">Bahis çizgileri, kazanan semboller en sol çarktan sağa doğru art arda belirdiğinde kazandırır.</ds>
+  <ds Jurisdiction="*" name="OCTbetLineWinsLeftToRightOnly" id="OCTbetLineWinsLeftToRightOnly">Bahis çizgisi kazançları, eğer en sol çarktan en sağ çarka kadar art arda gelirse kazandırır.</ds>
+  <ds Jurisdiction="*" name="MGbetlevel" id="MGbetlevel">Bahis seviyesi</ds>
+  <ds Jurisdiction="Spain" name="OCTbetlevel" id="OCTbetlevel">Bahis Svy.</ds>
+  <ds Jurisdiction="*" name="OCTbetColonVar" id="OCTbetColonVar">Bahis:  {0}</ds>
+  <ds Jurisdiction="*" name="MGbet" id="MGbet">Bahis:  {0}</ds>
+  <ds Jurisdiction="*" name="MGreduceBet_btn" id="MGreduceBet_btn">Bahsi düşür</ds>
+  <ds Jurisdiction="Antigua and Barbuda" name="OCTreduceBet_btn" id="OCTreduceBet_btn">Bahsi düşür</ds>
+  <ds Jurisdiction="*" name="MGbetInCoins" id="MGbetInCoins">Bahsin jeton değ.</ds>
+  <ds Jurisdiction="*" name="MGbetInCash" id="MGbetInCash">Bahsin Nakit değ.</ds>
+  <ds Jurisdiction="Spain" name="OCTautoplayPanelStartText" id="OCTautoplayPanelStartText">Başlamak için seçin</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsTitle" id="OCTfreeRoundsTitle">Bedava Turlar</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsTitle" id="MGfreeRoundsTitle">Bedava Turlar</ds>
+  <ds Jurisdiction="*" name="MGfreerounds" id="MGfreerounds">Bedava Turlar Bitti</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsFinished" id="MGfreeRoundsFinished">Bedava Turlar Bitti</ds>
+  <ds Jurisdiction="*" name="OCTfreerounds" id="OCTfreerounds">Bedava Turlar Bitti</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinished" id="OCTfreeRoundsFinished">Bedava Turlar Bitti</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsVar" id="MGfreeRoundsVar">Bedava turlar: {0}</ds>
+  <ds Jurisdiction="*" name="MGlostConnectionInactivity" id="MGlostConnectionInactivity">Belli bir süre işlem yapılmadığı için, oyuna olan bağlantı kesildi.</ds>
+  <ds Jurisdiction="*" name="OCTlostConnectInactivity" id="OCTlostConnectInactivity">Belli bir süre işlem yapılmadığı için, oyuna olan bağlantı kesildi.</ds>
+  <ds Jurisdiction="*" name="dontShowNextTime" id="dontShowNextTime">Bir dahaki sefere gösterme</ds>
+  <ds Jurisdiction="*" name="MGstopIfBonusGame" id="MGstopIfBonusGame">Bonus Game kazanıldığında dur</ds>
+  <ds Jurisdiction="*" name="autoBonusGame" id="autoBonusGame">Bonus Game kazanıldığında Otomatik Oyun'u durdur.</ds>
+  <ds Jurisdiction="Spain" name="OCTifFBonusIsStarted" id="OCTifFBonusIsStarted">Bonus Game kazanılırsa</ds>
+  <ds Jurisdiction="*" name="OCTspaceSpin" id="OCTspaceSpin">Boşluk tuşu ile döndür</ds>
+  <ds Jurisdiction="*" name="spaceSpin" id="spaceSpin">Boşluk tuşu ile döndür</ds>
+  <ds Jurisdiction="*" name="MGdeviceNoSupport" id="MGdeviceNoSupport">Bu aygıt maalesef desteklenmemektedir.</ds>
+  <ds Jurisdiction="*" name="MGnoOSSupport" id="MGnoOSSupport">Bu İşletim Sistemi maalesef desteklenmemektedir.</ds>
+  <ds Jurisdiction="*" name="optimisedForVersion" id="optimisedForVersion">Bu oyun şunun için en iyileştirildi: {0}</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Bu oyun, kullanıcı deneyimi ve reklamlar için çerez kullanmaktadır. Lütfen çerez</ds>
+  <ds Jurisdiction="*" name="MGoptionAvailable" id="MGoptionAvailable">Bu seçenek sadece tamamlanmış olan bir oyun turundan sonra mevcut hale gelir.</ds>
+  <ds Jurisdiction="*" name="MGnoBrowserSupport" id="MGnoBrowserSupport">Bu tarayıcı maalesef desteklenmemektedir.</ds>
+  <ds Jurisdiction="*" name="MGsoftNotTest" id="MGsoftNotTest">Bu yazılım, aygıtınızda denenmemiştir.</ds>
+  <ds Jurisdiction="*" name="MGroundsUseAccountMoney" id="MGroundsUseAccountMoney">Bundan sonraki turlarda hesabınızdaki para kullanılır. Bol şans!</ds>
+  <ds Jurisdiction="*" name="OCTroundsUseAcctMoney" id="OCTroundsUseAcctMoney">Bundan sonraki turlarda hesabınızdaki para kullanılır. Bol şans!</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Büyük ihtimalle beklediğiniz sonuç değil. Size {0} Bedava Turlar bizden hediye.</ds>
+  <ds Jurisdiction="*" name="OCTbigWin" id="OCTbigWin">BÜYÜK KAZANÇ!</ds>
+  <ds Jurisdiction="*" name="bigWin" id="bigWin">BÜYÜK KAZANÇ!</ds>
+  <ds Jurisdiction="*" name="MGbigWin" id="MGbigWin">BÜYÜK ÖDÜL!</ds>
+  <ds Jurisdiction="*" name="MGexpandReelTriggerLC" id="MGexpandReelTriggerLC">Çarkin üstünde yayilir ve yeni bir dönüşü tetikler.</ds>
+  <ds Jurisdiction="*" name="expandReelTrigger" id="expandReelTrigger">ÇARKIN ÜSTÜNDE YAYILIR VE YENİ BİR DÖNÜŞÜ TETİKLER.</ds>
+  <ds Jurisdiction="*" name="OCTquickSpinGameSetting" id="OCTquickSpinGameSetting">Çarkları hızlı döndür</ds>
+  <ds Jurisdiction="*" name="quickSpinGameSetting" id="quickSpinGameSetting">Çarkları hızlı döndür</ds>
+  <ds Jurisdiction="*" name="multiplierUC" id="multiplierUC">ÇARPAN</ds>
+  <ds Jurisdiction="*" name="MGuseDefaultBrowser" id="MGuseDefaultBrowser">Cihazın varsayılan tarayıcısını kullanın veya sisteminizi yükseltin.</ds>
+  <ds Jurisdiction="*" name="deviceNotSupported" id="deviceNotSupported">Cihazınız desteklenmiyor.</ds>
+  <ds Jurisdiction="*" name="MGlandscapeMode" id="MGlandscapeMode">Cihazınızı lütfen manzara moduna getirin!</ds>
+  <ds Jurisdiction="*" name="OCTlandscapeMode" id="OCTlandscapeMode">Cihazınızı lütfen manzara moduna getirin!</ds>
+  <ds Jurisdiction="*" name="specialWinCombo" id="specialWinCombo">COMBO</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinscrosstowntraffic" id="OCTstopIfFreeSpinscrosstowntraffic">Crosstown Traffic Free Spins kazanıldığında dur</ds>
+  <ds Jurisdiction="*" name="OCTbutton_CONTINUE" id="OCTbutton_CONTINUE">DEVAM</ds>
+  <ds Jurisdiction="*" name="OCTContinue" id="OCTContinue">Devam</ds>
+  <ds Jurisdiction="*" name="MGcontinue" id="MGcontinue">Devam</ds>
+  <ds Jurisdiction="*" name="MGcontinueYesNo" id="MGcontinueYesNo">Devam etmek istiyor musunuz?</ds>
+  <ds Jurisdiction="*" name="OCTcontinueYesNo" id="OCTcontinueYesNo">Devam etmek istiyor musunuz?</ds>
+  <ds Jurisdiction="*" name="MGspinButtonPosition" id="MGspinButtonPosition">Döndür düğmesinin konumu</ds>
+  <ds Jurisdiction="*" name="OCTspinSettingsCaps" id="OCTspinSettingsCaps">DÖNÜŞ AYARLARI</ds>
+  <ds Jurisdiction="*" name="MGspinSettings" id="MGspinSettings">Dönüş Ayarları</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRev" id="MGspinSettingsRev">Dönüş Ayarları</ds>
+  <ds Jurisdiction="*" name="MGnumberSpins" id="MGnumberSpins">Dönüş sayısı</ds>
+  <ds Jurisdiction="*" name="OCTnumberSpins" id="OCTnumberSpins">Dönüş sayısı</ds>
+  <ds Jurisdiction="*" name="OCTautoSpins" id="OCTautoSpins">Dönüşler</ds>
+  <ds Jurisdiction="*" name="OCTautoplayStopText" id="OCTautoplayStopText">DURDUR</ds>
+  <ds Jurisdiction="*" name="OCTlowQuality" id="OCTlowQuality">Düşük</ds>
+  <ds Jurisdiction="*" name="lowQuality" id="lowQuality">Düşük</ds>
+  <ds Jurisdiction="*" name="MGyouPlayingFun" id="MGyouPlayingFun">Eğlencesine Oynuyorsunuz</ds>
+  <ds Jurisdiction="*" name="OCTyouPlayingFun" id="OCTyouPlayingFun">Eğlencesine Oynuyorsunuz</ds>
+  <ds Jurisdiction="*" name="OCTplayingForFun" id="OCTplayingForFun">EĞLENCESİNE OYUN</ds>
+  <ds Jurisdiction="*" name="MGplayingForFun" id="MGplayingForFun">EĞLENCESİNE OYUN</ds>
+  <ds Jurisdiction="*" name="MGbutton_yes" id="MGbutton_yes">Evet</ds>
+  <ds Jurisdiction="*" name="OCTbtnYes" id="OCTbtnYes">Evet</ds>
+  <ds Jurisdiction="*" name="MGyes" id="MGyes">Evet* </ds>
+  <ds Jurisdiction="*" name="stopIfFeatureSpins" id="stopIfFeatureSpins">Feature Spin kazanıldığında dur</ds>
+  <ds Jurisdiction="*" name="autoplayFeatureSpins" id="autoplayFeatureSpins">Feature Spins kazanıldığında Otomatik Oyun'u durdur.</ds>
+  <ds Jurisdiction="*" name="ambience" id="ambience">Fon sesi</ds>
+  <ds Jurisdiction="*" name="MGcolHeadFSpinSyms" id="MGcolHeadFSpinSyms">Free Spin sembolleri</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsUC" id="OCTfreeSpinsUC">FREE SPINS</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpins" id="OCTstopIfFreeSpins">Free Spins kazanıldığında dur</ds>
+  <ds Jurisdiction="*" name="MGstopIfFreeSpins" id="MGstopIfFreeSpins">Free Spins kazanıldığında dur</ds>
+  <ds Jurisdiction="*" name="OCTifFreeSpinsIsStarted" id="OCTifFreeSpinsIsStarted">Free Spins kazanılırsa</ds>
+  <ds Jurisdiction="*" name="OCTstartFreeSpins" id="OCTstartFreeSpins">FREE SPINS'İ BAŞLAT</ds>
+  <ds Jurisdiction="*" name="startFreeSpins" id="startFreeSpins">Free Spins'leri başlat</ds>
+  <ds Jurisdiction="*" name="OCTadvancedSettings" id="OCTadvancedSettings">Gelişmiş ayarlar</ds>
+  <ds Jurisdiction="*" name="OCTintroScreeGameSetting" id="OCTintroScreeGameSetting">Giriş ekranı</ds>
+  <ds Jurisdiction="*" name="introScreeGameSetting" id="introScreeGameSetting">Giriş ekranı</ds>
+  <ds Jurisdiction="*" name="OCTintroGameSetting" id="OCTintroGameSetting">Giriş filmi</ds>
+  <ds Jurisdiction="*" name="OCTskipIntro" id="OCTskipIntro">Girişi atla</ds>
+  <ds Jurisdiction="*" name="OCTqualityHeading" id="OCTqualityHeading">Grafik kalitesi</ds>
+  <ds Jurisdiction="*" name="qualityHeading" id="qualityHeading">Grafik kalitesi</ds>
+  <ds Jurisdiction="*" name="updateBrowserQuestion" id="updateBrowserQuestion">Güncelleştirmek ister misiniz?</ds>
+  <ds Jurisdiction="*" name="OCTbtnNo" id="OCTbtnNo">Hayır</ds>
+  <ds Jurisdiction="*" name="MGbutton_no" id="MGbutton_no">Hayır</ds>
+  <ds Jurisdiction="*" name="paytableHighestRev" id="paytableHighestRev">Her aktif bahis çizgisi için iki yöndeki en yüksek kazanç ödenir.</ds>
+  <ds Jurisdiction="*" name="MGpaytableHighestPaid" id="MGpaytableHighestPaid">Her bahis çizgisinde yalnızca kazanan en yüksek kombinasyon ödenir.</ds>
+  <ds Jurisdiction="*" name="onAnyWin" id="onAnyWin">Her türlü kazançta</ds>
+  <ds Jurisdiction="*" name="MGaccountUnavailable" id="MGaccountUnavailable">Hesap Mevcut Değil</ds>
+  <ds Jurisdiction="*" name="OCTaccountUnavailable" id="OCTaccountUnavailable">Hesap Mevcut Değil</ds>
+  <ds Jurisdiction="*" name="OCTquickSpin" id="OCTquickSpin">Hızlı dönüş</ds>
+  <ds Jurisdiction="*" name="MGquickSpinGameSetting" id="MGquickSpinGameSetting">Hızlı dönüş</ds>
+  <ds Jurisdiction="*" name="FSplashWinBothWays" id="FSplashWinBothWays">İKİ &lt;br&gt; YÖNLÜ KAZANÇ</ds>
+  <ds Jurisdiction="*" name="winBothWaysRev" id="winBothWaysRev">İKİ YÖNDE KAZAN</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinWon" id="MGadditonalFreeSpinWon">İlaveten {0} Free Spin kazandınız</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinsWon" id="MGadditonalFreeSpinsWon">İlaveten {0} Free Spins kazandınız.</ds>
+  <ds Jurisdiction="*" name="OCTadditonalFreeSpinsWon" id="OCTadditonalFreeSpinsWon">İlaveten {0} Free Spins kazandınız.</ds>
+  <ds Jurisdiction="*" name="InAssociation" id="InAssociation">işbirliği ile</ds>
+  <ds Jurisdiction="*" name="operatingSystemNoSupport" id="operatingSystemNoSupport">İşletim sisteminiz desteklenmiyor.</ds>
+  <ds Jurisdiction="*" name="coins" id="coins">Jeton</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coins" id="OCTmachinetext_coins">JETON</ds>
+  <ds Jurisdiction="*" name="OCTcoinValue" id="OCTcoinValue">Jeton değeri</ds>
+  <ds Jurisdiction="*" name="MGcoinvalue" id="MGcoinvalue">Jeton değeri</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coinvalue" id="OCTmachinetext_coinvalue">JETON DEĞERİ</ds>
+  <ds Jurisdiction="*" name="OCTbetInCoins" id="OCTbetInCoins">Jeton ile bahis</ds>
+  <ds Jurisdiction="*" name="MGbetInCoinsRev" id="MGbetInCoinsRev">Jeton ile bahis</ds>
+  <ds Jurisdiction="*" name="MGpaytableInfoBetLevel1" id="MGpaytableInfoBetLevel1">Jeton kazancı değerleri, bahis seviyesi 1 bazındadır.</ds>
+  <ds Jurisdiction="*" name="MGwinIncoins" id="MGwinIncoins">Jeton kazancınız: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinMultiplierVar" id="MGwinMultiplierVar">Jeton kazançları {0} ile çarpılır</ds>
+  <ds Jurisdiction="*" name="paytableInfoBetLevel1" id="paytableInfoBetLevel1">Jeton kazançlarının değerleri, bahis seviyesi 1'e dayanır.</ds>
+  <ds Jurisdiction="*" name="OCTcoinsColonVar" id="OCTcoinsColonVar">Jeton: {0}</ds>
+  <ds Jurisdiction="*" name="MGcoins" id="MGcoins">Jeton: {0}</ds>
+  <ds Jurisdiction="*" name="OCTspinsLeftText" id="OCTspinsLeftText">Kalan {0} sayısı</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsLeftColonVar" id="OCTfreeSpinsLeftColonVar">Kalan Free Spins: {0}</ds>
+  <ds Jurisdiction="*" name="MGfreeSpinsLeftColonVar" id="MGfreeSpinsLeftColonVar">Kalan Free Spins: {0}</ds>
+  <ds Jurisdiction="*" name="MGcontinuePlaying" id="MGcontinuePlaying">Kaldığınız yerden oyuna devam.</ds>
+  <ds Jurisdiction="*" name="OCTcontinuePlaying" id="OCTcontinuePlaying">Kaldığınız yerden oyuna devam.</ds>
+  <ds Jurisdiction="*" name="OCTclose_btn" id="OCTclose_btn">Kapat</ds>
+  <ds Jurisdiction="*" name="MGclose_btn" id="MGclose_btn">Kapat</ds>
+  <ds Jurisdiction="*" name="MGoff" id="MGoff">Kapat</ds>
+  <ds Jurisdiction="*" name="MGwinningLinesHeading" id="MGwinningLinesHeading">Kazanan Bahis Çizgileri</ds>
+  <ds Jurisdiction="*" name="OCTwinningBetLinesHeading" id="OCTwinningBetLinesHeading">Kazanan Bahis Çizgileri</ds>
+  <ds Jurisdiction="*" name="MGwinningCombinations" id="MGwinningCombinations">Kazanan Kombinasyonlar ve Ödüller</ds>
+  <ds Jurisdiction="*" name="MGnoWin" id="MGnoWin">Kazanç yok</ds>
+  <ds Jurisdiction="*" name="OCTwinColonUC" id="OCTwinColonUC">KAZANÇ:</ds>
+  <ds Jurisdiction="*" name="MGwinCapitals" id="MGwinCapitals">KAZANÇ: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinPay" id="MGwinPay">Kazancınız</ds>
+  <ds Jurisdiction="*" name="MGwin" id="MGwin">Kazancınız: {0}</ds>
+  <ds Jurisdiction="*" name="OCTwinColonVar" id="OCTwinColonVar">Kazancınız: {0}</ds>
+  <ds Jurisdiction="*" name="MGyouWon" id="MGyouWon">Kazancınız:{0}</ds>
+  <ds Jurisdiction="*" name="OCTyouWinUCNoExclamation" id="OCTyouWinUCNoExclamation">KAZANDINIZ</ds>
+  <ds Jurisdiction="Spain" name="OCTmachinetext_win" id="OCTmachinetext_win">KAZANILAN</ds>
+  <ds Jurisdiction="*" name="OCTwin" id="OCTwin">Kazanılan</ds>
+  <ds Jurisdiction="*" name="OCTcoinsWonColon" id="OCTcoinsWonColon">Kazanılan jetonlar:</ds>
+  <ds Jurisdiction="*" name="coinsWonColon" id="coinsWonColon">Kazanılan jetonlar:</ds>
+  <ds Jurisdiction="*" name="MGRCcheckReminder" id="MGRCcheckReminder">Küçük bir hatırlatma</ds>
+  <ds Jurisdiction="*" name="OCTRCcheckReminder" id="OCTRCcheckReminder">Küçük bir hatırlatma</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinslittlewing" id="OCTstopIfFreeSpinslittlewing">Little Wing Free Spins kazanıldığında dur</ds>
+  <ds Jurisdiction="*" name="OCTcasino_btn" id="OCTcasino_btn">Lobi</ds>
+  <ds Jurisdiction="*" name="MGcasino_btn" id="MGcasino_btn">Lobi</ds>
+  <ds Jurisdiction="*" name="upgradeDevice" id="upgradeDevice">Lütfen cihazınızı güncelleştirin.</ds>
+  <ds Jurisdiction="*" name="MGreturnToLobby" id="MGreturnToLobby">Lütfen lobiye geri dönün.</ds>
+  <ds Jurisdiction="*" name="OCTreturnToLobby" id="OCTreturnToLobby">Lütfen lobiye geri dönün.</ds>
+  <ds Jurisdiction="*" name="OCTreload" id="OCTreload">Lütfen oyunu tekrar yükleyin.</ds>
+  <ds Jurisdiction="*" name="MGreload" id="MGreload">Lütfen oyunu tekrar yükleyin.</ds>
+  <ds Jurisdiction="*" name="MGreturnCasino" id="MGreturnCasino">Lütfen oyunu yeniden başlatın.</ds>
+  <ds Jurisdiction="*" name="OCTreturnCasino" id="OCTreturnCasino">Lütfen oyunu yeniden başlatın.</ds>
+  <ds Jurisdiction="*" name="OCTdeposit" id="OCTdeposit">Lütfen ya daha fazla para yatırın ya da bahsinizi düşürün.</ds>
+  <ds Jurisdiction="*" name="MGdeposit" id="MGdeposit">Lütfen ya daha fazla para yatırın ya da bahsinizi düşürün.</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbuttonTwoLine" id="OCTmaxbetbuttonTwoLine">MAK &lt;br&gt;BAHİS</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbutton" id="OCTmaxbetbutton">MAKS. BAHİS</ds>
+  <ds Jurisdiction="*" name="WinUpTodup" id="WinUpTodup">MAKSİMUM KAZANÇ</ds>
+  <ds Jurisdiction="*" name="specialWinMegaCombo" id="specialWinMegaCombo">MEGA COMBO</ds>
+  <ds Jurisdiction="*" name="OCTmegaWin" id="OCTmegaWin">MEGA KAZANÇ!</ds>
+  <ds Jurisdiction="*" name="megaWin" id="megaWin">MEGA KAZANÇ!</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Mesaj</ds>
+  <ds Jurisdiction="*" name="OCTslowConnection" id="OCTslowConnection">Mevcut İnternet bağlantı hızınız düşük.</ds>
+  <ds Jurisdiction="*" name="MGslowConnection" id="MGslowConnection">Mevcut İnternet bağlantı hızınız düşük.</ds>
+  <ds Jurisdiction="*" name="MGminOSReq" id="MGminOSReq">Minimum sistem gereksinimleri:</ds>
+  <ds Jurisdiction="*" name="multiplierFLC" id="multiplierFLC">Multiplier</ds>
+  <ds Jurisdiction="*" name="OCTcash" id="OCTcash">Nakit</ds>
+  <ds Jurisdiction="*" name="OCTifCashDecreasesBy" id="OCTifCashDecreasesBy">Nakit şu kadar azalırsa</ds>
+  <ds Jurisdiction="*" name="MGbetCashCoins" id="MGbetCashCoins">Nakit/jeton ile bahis</ds>
+  <ds Jurisdiction="*" name="OCTcashColon" id="OCTcashColon">Nakit:</ds>
+  <ds Jurisdiction="*" name="MGcash" id="MGcash">Nakit:  {0}</ds>
+  <ds Jurisdiction="*" name="OCTcashColonVar" id="OCTcashColonVar">Nakit: {0}</ds>
+  <ds Jurisdiction="*" name="OCTbutton_paytableUC" id="OCTbutton_paytableUC">ÖDEME TABLOSU</ds>
+  <ds Jurisdiction="*" name="OCTpaytable" id="OCTpaytable">Ödeme Tablosu</ds>
+  <ds Jurisdiction="*" name="MGpaytable" id="MGpaytable">Ödeme Tablosu</ds>
+  <ds Jurisdiction="*" name="mediumQuality" id="mediumQuality">Orta</ds>
+  <ds Jurisdiction="*" name="OCTmediumQuality" id="OCTmediumQuality">Orta</ds>
+  <ds Jurisdiction="*" name="OCTautoplayPanelLabel" id="OCTautoplayPanelLabel">Otomatik Oyun</ds>
+  <ds Jurisdiction="*" name="MGautoplayPanelLabel" id="MGautoplayPanelLabel">Otomatik Oyun</ds>
+  <ds Jurisdiction="*" name="OCTautoplayButton" id="OCTautoplayButton">OTOMATİK OYUN</ds>
+  <ds Jurisdiction="*" name="MGautoplayCancelled" id="MGautoplayCancelled">Otomatik Oyun İptal Edildi</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlay" id="OCTstopAutoPlay">Otomatik Oyunu durdur</ds>
+  <ds Jurisdiction="*" name="autoplayButtonTwoLine" id="autoplayButtonTwoLine">OTOMATİK&lt;br&gt;OYUN</ds>
+  <ds Jurisdiction="*" name="MGlogin_btn" id="MGlogin_btn">Oturum Aç</ds>
+  <ds Jurisdiction="*" name="OCTlogin_btn" id="OCTlogin_btn">Oturum Aç</ds>
+  <ds Jurisdiction="*" name="OCTreduce" id="OCTreduce">Oynamaya devam edebilmek için lütfen bahsinizi düşürün.</ds>
+  <ds Jurisdiction="*" name="MGreduce" id="MGreduce">Oynamaya devam edebilmek için lütfen bahsinizi düşürün.</ds>
+  <ds Jurisdiction="*" name="MGdepositPlay" id="MGdepositPlay">Oynamaya devam edebilmek için lütfen ilave para yatırın.</ds>
+  <ds Jurisdiction="*" name="OCTdepositPlay" id="OCTdepositPlay">Oynamaya devam etmek için lütfen para yatırın.</ds>
+  <ds Jurisdiction="*" name="updateBrowserReq" id="updateBrowserReq">Oynayabilmek için tarayıcınızı güncelleştirmeniz gereklidir. Minimum gereksinim: {0}</ds>
+  <ds Jurisdiction="*" name="OCTslidePanelLabel" id="OCTslidePanelLabel">Oyun ayarları</ds>
+  <ds Jurisdiction="*" name="OCTgameHistory" id="OCTgameHistory">Oyun geçmişi</ds>
+  <ds Jurisdiction="*" name="gameHistory" id="gameHistory">Oyun geçmişi</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeading" id="MGgameHistoryHeading">Oyun Geçmişi</ds>
+  <ds Jurisdiction="*" name="OCTgameHistoryHeadingUC" id="OCTgameHistoryHeadingUC">OYUN GEÇMİŞİ</ds>
+  <ds Jurisdiction="Algeria" name="OCTnewHistoryWindow" id="OCTnewHistoryWindow">Oyun geçmişi yeni bir pencerede açılır, Lütfen sayfayı kapatıp oyuna geri dönün.</ds>
+  <ds Jurisdiction="*" name="MGnewHistoryWindow" id="MGnewHistoryWindow">Oyun geçmişi yeni bir pencerede açılır, Lütfen sayfayı kapatıp oyuna geri dönün.</ds>
+  <ds Jurisdiction="*" name="MGhistoryNotAvailable" id="MGhistoryNotAvailable">Oyun geçmişi, yalnızca para karşılığında oynadığınızda mevcuttur.</ds>
+  <ds Jurisdiction="*" name="OCThistoryNotAvailable" id="OCThistoryNotAvailable">Oyun geçmişi, yalnızca para karşılığında oynadığınızda mevcuttur.</ds>
+  <ds Jurisdiction="*" name="OCTrestoredGameHeader" id="OCTrestoredGameHeader">Oyun Geri Yüklendi</ds>
+  <ds Jurisdiction="*" name="MGrestoredGameHeader" id="MGrestoredGameHeader">Oyun Geri Yüklendi</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheadingCaps" id="MGgameRulesheadingCaps">OYUN KURALLARI</ds>
+  <ds Jurisdiction="*" name="OCTgameRulesUC" id="OCTgameRulesUC">OYUN KURALLARI</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheading" id="MGgameRulesheading">Oyun Kuralları</ds>
+  <ds Jurisdiction="*" name="MGplayLimit" id="MGplayLimit">Oyun Limiti</ds>
+  <ds Jurisdiction="*" name="OCTplayLimit" id="OCTplayLimit">Oyun Limiti</ds>
+  <ds Jurisdiction="*" name="MG11" id="MG11">Oyun limitinize ulaştınız! Lütfen daha sonra tekrar deneyiniz!</ds>
+  <ds Jurisdiction="*" name="MGgameUnavailable" id="MGgameUnavailable">Oyun Mevcut Değil</ds>
+  <ds Jurisdiction="*" name="OCTgameUnavailable" id="OCTgameUnavailable">Oyun Mevcut Değil</ds>
+  <ds Jurisdiction="*" name="OCTgameSound" id="OCTgameSound">Oyun Sesleri</ds>
+  <ds Jurisdiction="*" name="MGgameSound" id="MGgameSound">Oyun Sesleri</ds>
+  <ds Jurisdiction="*" name="MGsounds" id="MGsounds">Oyun sesleri</ds>
+  <ds Jurisdiction="*" name="gameNotLoaded" id="gameNotLoaded">Oyun yüklenemedi.</ds>
+  <ds Jurisdiction="*" name="gameOptimisedVersion" id="gameOptimisedVersion">Oyun, {0} için optimize edilmiştir.</ds>
+  <ds Jurisdiction="*" name="gameOptimisedFor" id="gameOptimisedFor">Oyun, {1} tabanlı {0} için optimize edilmiştir.</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Oyunu oynayabilmek için tarayıcınızı güncelleştirmelisiniz.</ds>
+  <ds Jurisdiction="*" name="loadingTakesLonger" id="loadingTakesLonger">Oyunu yüklemek normalden uzun sürüyor.</ds>
+  <ds Jurisdiction="*" name="OCTloadingTakesLonger" id="OCTloadingTakesLonger">Oyunu yüklemek normalden uzun sürüyor.</ds>
+  <ds Jurisdiction="*" name="OCTdeposit_btn" id="OCTdeposit_btn">Para yatır</ds>
+  <ds Jurisdiction="*" name="MGdeposit_btn" id="MGdeposit_btn">Para yatır</ds>
+  <ds Jurisdiction="*" name="MGoutOfMoney" id="MGoutOfMoney">Paranız Bitti</ds>
+  <ds Jurisdiction="*" name="OCToutOfMoney" id="OCToutOfMoney">Paranız Bitti</ds>
+  <ds Jurisdiction="*" name="OCTbetInCash" id="OCTbetInCash">Parayla bahis oyna</ds>
+  <ds Jurisdiction="*" name="MGbetInCashRev" id="MGbetInCashRev">Parayla bahis oyna</ds>
+  <ds Jurisdiction="*" name="MGplayingForMoney" id="MGplayingForMoney">Parayla oynamak ister misiniz?</ds>
+  <ds Jurisdiction="*" name="stopIfPickAndClick" id="stopIfPickAndClick">Pick and Click kazanıldığında dur</ds>
+  <ds Jurisdiction="*" name="stopIfPoliceSpins" id="stopIfPoliceSpins">Police Spins kazanıldığında dur</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">politikamızı onaylayın.</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinspurplehaze" id="OCTstopIfFreeSpinspurplehaze">Purple Haze Free Spins kazanıldığında dur</ds>
+  <ds Jurisdiction="*" name="MGright" id="MGright">Sağ</ds>
+  <ds Jurisdiction="*" name="scatterSelect" id="scatterSelect">SCATTER SEÇ</ds>
+  <ds Jurisdiction="*" name="MGoptionUnavailable" id="MGoptionUnavailable">Seçenek Mevcut Değil</ds>
+  <ds Jurisdiction="Afghanistan" name="MGsymbolPayout" id="MGsymbolPayout">Sembol Kazanç Değerleri</ds>
+  <ds Jurisdiction="*" name="OCTsymbolPayout" id="OCTsymbolPayout">Sembol Kazanç Değerleri</ds>
+  <ds Jurisdiction="*" name="OCTsoundSettingsCaps" id="OCTsoundSettingsCaps">SES AYARLARI</ds>
+  <ds Jurisdiction="*" name="MGsoundSettings" id="MGsoundSettings">Ses Ayarları</ds>
+  <ds Jurisdiction="*" name="sound" id="sound">Ses efektleri</ds>
+  <ds Jurisdiction="*" name="MGsoundsOff" id="MGsoundsOff">Sesi her zaman kapat</ds>
+  <ds Jurisdiction="*" name="MGsoundsOn" id="MGsoundsOn">Sesleri aç</ds>
+  <ds Jurisdiction="*" name="OCTsoundsOn" id="OCTsoundsOn">Sesleri aç</ds>
+  <ds Jurisdiction="*" name="MGdownloadSounds" id="MGdownloadSounds">Sesleri açmak ister misiniz?</ds>
+  <ds Jurisdiction="*" name="MGsoundsNo" id="MGsoundsNo">Sesleri kapat</ds>
+  <ds Jurisdiction="*" name="OCTsoundsNo" id="OCTsoundsNo">Sesleri kapat</ds>
+  <ds Jurisdiction="*" name="OCTlevel" id="OCTlevel">SEVİYE</ds>
+  <ds Jurisdiction="*" name="OCTreset" id="OCTreset">Sıfırla</ds>
+  <ds Jurisdiction="*" name="MGleft" id="MGleft">Sol</ds>
+  <ds Jurisdiction="*" name="MGleftHandMode" id="MGleftHandMode">Sol El Modu</ds>
+  <ds Jurisdiction="*" name="OCTleftHandMode" id="OCTleftHandMode">Sol El Modu</ds>
+  <ds Jurisdiction="*" name="starburstNameOfWild" id="starburstNameOfWild">Starburst™ Wild</ds>
+  <ds Jurisdiction="*" name="couldNotConnectServer" id="couldNotConnectServer">Sunucuya bağlanılamadı.</ds>
+  <ds Jurisdiction="*" name="specialWinSuperCombo" id="specialWinSuperCombo">SÜPER COMBO</ds>
+  <ds Jurisdiction="*" name="superMegaWin" id="superMegaWin">SÜPER MEGA KAZANÇ!</ds>
+  <ds Jurisdiction="*" name="OCTsuperMegaWin" id="OCTsuperMegaWin">SÜPER MEGA KAZANÇ!</ds>
+  <ds Jurisdiction="*" name="OCTbtnOK" id="OCTbtnOK">Tamam</ds>
+  <ds Jurisdiction="*" name="MGok_btn" id="MGok_btn">TAMAM</ds>
+  <ds Jurisdiction="*" name="MGcongrats" id="MGcongrats">Tebrikler!</ds>
+  <ds Jurisdiction="*" name="OCTcongratsLC" id="OCTcongratsLC">Tebrikler!</ds>
+  <ds Jurisdiction="*" name="OCTifWinExeeds" id="OCTifWinExeeds">Tek kazanma bu değeri aşarsa</ds>
+  <ds Jurisdiction="*" name="ifWinExeeds" id="ifWinExeeds">Tek kazanma bu değeri aşarsa</ds>
+  <ds Jurisdiction="*" name="MGerror" id="MGerror">Teknik Hata</ds>
+  <ds Jurisdiction="*" name="OCTerror" id="OCTerror">Teknik Hata</ds>
+  <ds Jurisdiction="*" name="OCTreload_btn" id="OCTreload_btn">Tekr.Yükle</ds>
+  <ds Jurisdiction="*" name="MGreload_btn" id="MGreload_btn">Tekr.Yükle</ds>
+  <ds Jurisdiction="*" name="MGmaxNumberReSpinsLC" id="MGmaxNumberReSpinsLC">Tekrar dönüşlerin maksimum sayisi {0}'tür.</ds>
+  <ds Jurisdiction="*" name="maxNumberReSpins" id="maxNumberReSpins">TEKRAR DÖNÜŞLERİN MAKSİMUM SAYISI {0}'TÜR.</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinUCnoVar" id="OCTtotalWinUCnoVar">TOPLAM KAZANÇ:</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinWithColon" id="OCTtotalWinWithColon">Toplam kazanç:</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinColonVar" id="OCTtotalWinColonVar">Toplam kazanç: {0}</ds>
+  <ds Jurisdiction="*" name="MGtotalWin" id="MGtotalWin">Toplam kazanç: {0}</ds>
+  <ds Jurisdiction="*" name="MGsubAllSymbolsLC" id="MGsubAllSymbolsLC">Tüm sembollerin yerine geçer.</ds>
+  <ds Jurisdiction="*" name="subAllSymbols" id="subAllSymbols">TÜM SEMBOLLERİN YERİNE GEÇER.</ds>
+  <ds Jurisdiction="*" name="OCTFreeRoundsLeftwithColon" id="OCTFreeRoundsLeftwithColon">Ücretsiz turlar: {0}</ds>
+  <ds Jurisdiction="Spain" name="OCTpaytableHighest" id="OCTpaytableHighest">Yalnızca her bahis çizgisindeki en yüksek kazanç ödenir.</ds>
+  <ds Jurisdiction="Spain" name="paytableHighestNoActive" id="paytableHighestNoActive">Yalnızca her bahis çizgisindeki en yüksek kazanç ödenir.</ds>
+  <ds Jurisdiction="*" name="OCTpaytableHighestWinMatch" id="OCTpaytableHighestWinMatch">Yalnızca kazanç eşleşmesi başına düşen en yüksek kazanç için ödeme yapılır.</ds>
+  <ds Jurisdiction="*" name="MGreload_btnRev" id="MGreload_btnRev">Yeniden Yükle</ds>
+  <ds Jurisdiction="*" name="MGswipeToActivate" id="MGswipeToActivate">Yukarı kaydırarak oyunu etkinleştirin.</ds>
+  <ds Jurisdiction="*" name="OCTloadingText" id="OCTloadingText">Yüklüyor</ds>
+  <ds Jurisdiction="*" name="OCTloading" id="OCTloading">Yüklüyor…</ds>
+  <ds Jurisdiction="*" name="OCThighQuality" id="OCThighQuality">Yüksek</ds>
+  <ds Jurisdiction="*" name="highQuality" id="highQuality">Yüksek</ds>
+  <ds Jurisdiction="*" name="MGsessionTimeOut" id="MGsessionTimeOut">Zaman aşımına uğradı.</ds>
+  <ds Jurisdiction="*" name="OCTsessionTimeOut" id="OCTsessionTimeOut">Zaman aşımına uğradı.</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">{1} {2} üzerinde {0} için optimize edilmiştir</ds>
+  <ds Jurisdiction="*" name="MGvoidAllPays" id="MGvoidAllPays">Arıza durumları, tüm kazançları ve oyunları geçersiz kılar.</ds>
+  <ds Jurisdiction="*" name="voidAllPays" id="voidAllPays">Arıza durumları, tüm kazançları ve oyunları geçersiz kılar.</ds>
+  <ds Jurisdiction="*" name="MGbetSettingsCaps" id="MGbetSettingsCaps">BAHİS AYARLARI</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Bu oyunda kullanıcı deneyimini geliştirmek ve reklamları yönetmek için çerezler kullanılır.  Lütfen (link) politikamızı kabul ettiğinizi</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRevCaps" id="MGspinSettingsRevCaps">DÖNÜŞ AYARLARI</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Ekstra Bedava Turlar</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">En iyi oyun deneyimi için lütfen işletim sisteminizi güncelleştirin.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">En iyi oyun deneyimi için lütfen tarayıcınızı güncelleştirin.</ds>
+  <ds Jurisdiction="*" name="autoplayFS" id="autoplayFS">Free Spins kazanıldığında Otomatik Oyun'u durdur.</ds>
+  <ds Jurisdiction="*" name="OCTifCashIncreasesBy" id="OCTifCashIncreasesBy">Nakit şu kadar artarsa</ds>
+  <ds Jurisdiction="*" name="ifCashIncreasesBy" id="ifCashIncreasesBy">Nakit şu kadar artarsa</ds>
+  <ds Jurisdiction="*" name="ifCashDecreasesBy" id="ifCashDecreasesBy">Nakit şu kadar azalırsa</ds>
+  <ds Jurisdiction="*" name="autoplayPS" id="autoplayPS">Otomatik olarak oynanacak dönüşler tamamlanmadan önce Bonus Oyun veya Police Spins kazanıldığı zaman Otomatik Oyun'u durdurur.</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeadingCaps" id="MGgameHistoryHeadingCaps">OYUN GEÇMİŞİ</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Oyunu oynayabilmek için {0} tarayıcı kullanmalısınız.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">Oyunu oynayabilmek için işletim sisteminizi güncelleştirmelisiniz.</ds>
+  <ds Jurisdiction="*" name="MGsoundSettingsCaps" id="MGsoundSettingsCaps">SES AYARLARI</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="OCTlossLimitInfo" id="OCTlossLimitInfo">**Nakit bu kadar azalırsa** limitini ayarlamadan önce bahis miktarını onaylayın veya belirleyin.</ds>
+  <ds Jurisdiction="*" name="RCheckPlaying" id="RCheckPlaying">{0} {1} dakikadır oynuyorsunuz. {2} {3}. {4}</ds>
+  <ds Jurisdiction="*" name="OCThaveFreeRounds" id="OCThaveFreeRounds">{0} bedava jetonunuz var!</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">{0} sayısı</ds>
+  <ds Jurisdiction="*" name="RCheckMonth" id="RCheckMonth">ay</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Bağlantı: Zayıf</ds>
+  <ds Jurisdiction="*" name="betExceedCDB" id="betExceedCDB">Bahsiniz, "Nakit bu kadar azalırsa" limitini aştı. Lütfen limitinizi yükseltin.</ds>
+  <ds Jurisdiction="*" name="13" id="13">Bahsiniz, bu oyun için belirlenmiş olan maksimum bahis limitini aştı.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinishedRev" id="OCTfreeRoundsFinishedRev">Bedava Turlar Bitti</ds>
+  <ds Jurisdiction="*" name="12" id="12">Bir bonus turunun süresi dolduğundan geçerli bahis yatırılamıyor.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered_header" id="gameWalletMssgWagered_header">Bonus Dönüştürüldü</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited_header" id="gameWalletMssgForfeited_header">Bonus Yandı</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired_header" id="gameWalletMssgExpired_header">Bonusun Süresi Doldu</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Bu oyun, kullanıcı deneyimi ve reklamlar için çerez kullanmaktadır. Lütfen çerez</ds>
+  <ds Jurisdiction="*" name="120" id="120">Bu seçenek sadece , oyun turunu tamamladıktan sonra mevcut hale gelir.</ds>
+  <ds Jurisdiction="*" name="RCheckLost" id="RCheckLost">Bu süre içerisinde kaybettiğiniz miktar</ds>
+  <ds Jurisdiction="*" name="RCheckWon" id="RCheckWon">Bu süre içerisinde kazandığınız miktar</ds>
+  <ds Jurisdiction="*" name="40" id="40">Bu turnuva henüz başlamadı, lütfen daha sonra tekrar deneyin.</ds>
+  <ds Jurisdiction="*" name="60" id="60">Bu turnuva sona erdi, son oynana tur bu turnuvanın istatistikleri arasında yer almayacaktır.</ds>
+  <ds Jurisdiction="*" name="50" id="50">Bu turnuva sona erdi.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Büyük ihtimalle beklediğiniz sonuç değil. Size {0} Bedava Turlar bizden hediye.</ds>
+  <ds Jurisdiction="*" name="101" id="101">Casino hesabınızda yeteri kadar para yok.</ds>
+  <ds Jurisdiction="*" name="OCTCheckEndButton" id="OCTCheckEndButton">Çık</ds>
+  <ds Jurisdiction="*" name="RCheckEndButton" id="RCheckEndButton">Çık</ds>
+  <ds Jurisdiction="*" name="RCheckMinute" id="RCheckMinute">dakika</ds>
+  <ds Jurisdiction="*" name="RCheckMinutes" id="RCheckMinutes">dakika</ds>
+  <ds Jurisdiction="*" name="addValue" id="addValue">Değer Ekle</ds>
+  <ds Jurisdiction="*" name="button_CONTINUE" id="button_CONTINUE">DEVAM</ds>
+  <ds Jurisdiction="*" name="Continue" id="Continue">Devam</ds>
+  <ds Jurisdiction="*" name="RCheckDay" id="RCheckDay">gün</ds>
+  <ds Jurisdiction="*" name="RCheckDays" id="RCheckDays">gün</ds>
+  <ds Jurisdiction="*" name="RCheckWeek" id="RCheckWeek">hafta</ds>
+  <ds Jurisdiction="*" name="RCheckWeeks" id="RCheckWeeks">hafta</ds>
+  <ds Jurisdiction="*" name="OCTonAnyWin" id="OCTonAnyWin">Her türlü kazançta</ds>
+  <ds Jurisdiction="*" name="10" id="10">Hesabınızda yeteri kadar para yok.</ds>
+  <ds Jurisdiction="*" name="100" id="100">Hesabınızda yeteri kadar para yok.</ds>
+  <ds Jurisdiction="*" name="51" id="51">Hesabınızda yeteri kadar para yok.</ds>
+  <ds Jurisdiction="*" name="15" id="15">Hesabınızda yeteri kadar para yok. Lütfen daha fazla para ekleyin veya bahis miktarınızı azaltın.</ds>
+  <ds Jurisdiction="*" name="close_btn" id="close_btn">Kapat</ds>
+  <ds Jurisdiction="*" name="OCTlossLimit" id="OCTlossLimit">Kayıp Limiti</ds>
+  <ds Jurisdiction="*" name="RCheckReminder" id="RCheckReminder">KÜÇÜK BİR HATIRLATMA</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitWarning" id="OCTlossLimitWarning">Lütfen **Nakit bu kadar azalırsa** miktarını girin.</ds>
+  <ds Jurisdiction="*" name="upgradeIn" id="upgradeIn">Lütfen {1} üzerinden {0} uygulamasını güncelleştirin.</ds>
+  <ds Jurisdiction="*" name="browserVersionNotSupported" id="browserVersionNotSupported">Maalesef tarayıcınızın bu sürümü desteklenmiyor.</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Mesaj</ds>
+  <ds Jurisdiction="*" name="messagecaption" id="messagecaption">Mesaj</ds>
+  <ds Jurisdiction="*" name="greaterCDB" id="greaterCDB">Miktar, bahis miktarından yüksek olmalıdır.</ds>
+  <ds Jurisdiction="*" name="59" id="59">Müşteri zaten oturum açtı. Lütfen daha sonra tekrar deneyin.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitTouch" id="OCTlossLimitTouch">Nakit bu kadar azalırsa girin</ds>
+  <ds Jurisdiction="*" name="OBfreeRoundsGamePanel" id="OBfreeRoundsGamePanel">Ödenen Toplam: {0}</ds>
+  <ds Jurisdiction="*" name="121" id="121">Otomatik oyunu başlatmak için bir bahis yatırmalısınız.</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlayColon" id="OCTstopAutoPlayColon">Otomatik Oyunu durdur:</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfoTouch" id="OCTlossLimitInfoTouch">Otomatik Oyun'un durdurulacağı limiti belirlemeden önce bahis miktarını belirleyin.</ds>
+  <ds Jurisdiction="*" name="102" id="102">Otomatik oyununuz iptal edildi.</ds>
+  <ds Jurisdiction="*" name="20" id="20">Oturumunuz süre aşımına uğradı. Oyunu yeniden başlatın.</ds>
+  <ds Jurisdiction="*" name="110" id="110">Oyun başlatılamıyor. Daha sonra tekrar deneyin</ds>
+  <ds Jurisdiction="*" name="11" id="11">Oyun limitinizi doldurdunuz. Tekrar hoşgeldiniz.</ds>
+  <ds Jurisdiction="*" name="0" id="0">Oyun şu anda sunulamamaktadır. Daha sonra tekrar deneyin</ds>
+  <ds Jurisdiction="*" name="53" id="53">Oyun şu anda sunulamamaktadır. Daha sonra tekrar deneyin</ds>
+  <ds Jurisdiction="*" name="56" id="56">Oyun şu anda sunulamamaktadır. Daha sonra tekrar deneyin</ds>
+  <ds Jurisdiction="*" name="58" id="58">Oyun şu anda sunulamamaktadır. Daha sonra tekrar deneyin</ds>
+  <ds Jurisdiction="*" name="14" id="14">Oyundaki hesap bakiyesini yenilemek için oyunu lütfen yeniden yükleyin.</ds>
+  <ds Jurisdiction="*" name="RCheckEndCont" id="RCheckEndCont">Oyundan çıkmak mı yoksa devam etmek mi istiyorsunuz?</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Oyunu oynayabilmek için tarayıcınızı güncelleştirmelisiniz.</ds>
+  <ds Jurisdiction="*" name="OBperformanceNotification" id="OBperformanceNotification">Performansı arttırmak için, oyun ayarları menüsünden grafik kalitesini düşürün.</ds>
+  <ds Jurisdiction="*" name="performanceNotification" id="performanceNotification">Performansı arttırmak için, oyun ayarlarını kullanarak grafik kalitesini düşürün.</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">politikamızı onaylayın.</ds>
+  <ds Jurisdiction="*" name="RCheckHour" id="RCheckHour">saat</ds>
+  <ds Jurisdiction="*" name="RCheckHours" id="RCheckHours">saat</ds>
+  <ds Jurisdiction="*" name="RCheckSecond" id="RCheckSecond">saniye</ds>
+  <ds Jurisdiction="*" name="RCheckSeconds" id="RCheckSeconds">saniye</ds>
+  <ds Jurisdiction="*" name="reset" id="reset">Sıfırla</ds>
+  <ds Jurisdiction="*" name="70" id="70">Şu anda hesabınıza erişemiyoruz. Lütfen daha sonra yeniden deneyin.</ds>
+  <ds Jurisdiction="*" name="RCheckPlayingFor" id="RCheckPlayingFor">Süreniz</ds>
+  <ds Jurisdiction="*" name="ok_btn" id="ok_btn">Tamam</ds>
+  <ds Jurisdiction="*" name="notSupportedBrowser" id="notSupportedBrowser">Tarayıcınız desteklenmiyor.</ds>
+  <ds Jurisdiction="*" name="OCTcongratsUC" id="OCTcongratsUC">TEBRİKLER!</ds>
+  <ds Jurisdiction="*" name="freeRoundsInitiatedDialogText" id="freeRoundsInitiatedDialogText">Tebrikler!  {0} ücretsiz turunuz var. İyi şanslar!</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered" id="gameWalletMssgWagered">Tebrikler! {0} bonusunuz krediye dönüştürüldü. Kredinizi kullanabilmeniz için yeniden oturum açın.</ds>
+  <ds Jurisdiction="*" name="OCTTotalWinwithColonUC" id="OCTTotalWinwithColonUC">TOPLAM KAZANÇ: {0}</ds>
+  <ds Jurisdiction="*" name="TotalWinwithColonVar" id="TotalWinwithColonVar">Toplam kazanç: {0}</ds>
+  <ds Jurisdiction="*" name="OBOCTTotalWinwithColonVar" id="OBOCTTotalWinwithColonVar">Toplam ödenen: {0}</ds>
+  <ds Jurisdiction="*" name="25" id="25">Tüm oyunlar etkisizleştirilmiştir.</ds>
+  <ds Jurisdiction="*" name="autoRounds" id="autoRounds">Tur</ds>
+  <ds Jurisdiction="*" name="freeRoundsCompleteDialogText" id="freeRoundsCompleteDialogText">Ücretsiz tur bitti Bundan sonraki turlarda hesaptaki paranızı kullanırsınız. İyi şanslar!</ds>
+  <ds Jurisdiction="*" name="OCTroundsLeft" id="OCTroundsLeft">Ücretsiz Turlar</ds>
+  <ds Jurisdiction="*" name="roundsLeft" id="roundsLeft">Ücretsiz turlar</ds>
+  <ds Jurisdiction="*" name="FreeRoundsLeftwithColonVar" id="FreeRoundsLeftwithColonVar">Ücretsiz turlar: {0}</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired" id="gameWalletMssgExpired">Üzgünüz. {0} bonusunuz süre dolumu nedeniyle artık mevcut değil.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited" id="gameWalletMssgForfeited">Üzgünüz. {0} bonusunuz yandı.</ds>
+  <ds Jurisdiction="*" name="122" id="122">Yarış görüntüsü oynatılamıyor.</ds>
+  <ds Jurisdiction="*" name="RCheckYear" id="RCheckYear">yıl</ds>
+  <ds Jurisdiction="*" name="RCheckYears" id="RCheckYears">yıl</ds>
+  <ds Jurisdiction="*" name="mandatoryField" id="mandatoryField">Zorunlu Alan</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">{1} {2} üzerinde {0} için optimize edilmiştir</ds>
+  <ds Jurisdiction="*" name="bonusAwardedTitle" id="bonusAwardedTitle">Bonus Kazanıldı</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Bu oyunda kullanıcı deneyimini geliştirmek ve reklamları yönetmek için çerezler kullanılır.  Lütfen (link) politikamızı kabul ettiğinizi</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Ekstra Bedava Turlar</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">En iyi oyun deneyimi için lütfen işletim sisteminizi güncelleştirin.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">En iyi oyun deneyimi için lütfen tarayıcınızı güncelleştirin.</ds>
+  <ds Jurisdiction="*" name="nothanks" id="nothanks">Hayır,teşekkürler</ds>
+  <ds Jurisdiction="*" name="stopWhenJackpotIsWon" id="stopWhenJackpotIsWon">Jackpot kazanıldığında durdur</ds>
+  <ds Jurisdiction="*" name="iagree" id="iagree">Kabul ediyorum</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashIncreasesBy" id="OCTstopIfCashIncreasesBy">Nakit bu kadar artarsa durdur:</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashDecreasesBy" id="OCTstopIfCashDecreasesBy">Nakit bu kadar azalırsa durdur:</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Oyunu oynayabilmek için {0} tarayıcı kullanmalısınız.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">Oyunu oynayabilmek için işletim sisteminizi güncelleştirmelisiniz.</ds>
+  <ds Jurisdiction="*" name="bonusAwardedCongrats" id="bonusAwardedCongrats">Tebrikler! {0} bonus kazandınız.</ds>
+  <ds Jurisdiction="*" name="OCTstopIfWinExeeds" id="OCTstopIfWinExeeds">Tek kazanç bu değeri aşarsa durdur:</ds>
+  <ds Jurisdiction="*" name="OBTotalWinwithColonVar" id="OBTotalWinwithColonVar">Toplam ödenen: {0}</ds>
+  <ds Jurisdiction="*" name="16" id="16">Üzgünüz. Ücretsiz Tur hakkınızı zaten kullandınız.</ds>
+</defaults>

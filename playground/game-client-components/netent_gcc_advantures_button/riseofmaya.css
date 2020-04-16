@@ -1,0 +1,24 @@
+.mobile_landscape #advIcon {
+    left: 45px !important;
+	top: -10px !important;
+	z-index: 0;
+}
+.mobile_portrait #advIcon {
+	bottom: -50% !important;
+	right: 81%;
+	z-index: 0;
+}
+
+.mobile_portrait #adv-image {
+	height: 10% !important;
+}
+
+.tablet_landscape #advIcon #adv-image {
+	height: 230px !important;
+}
+
+.tablet_landscape #advIcon {
+    left: 189px !important;
+    top: -10px !important;
+    z-index: 0;
+}

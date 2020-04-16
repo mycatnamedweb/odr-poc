@@ -1,0 +1,738 @@
+﻿[
+    {
+        "id": "RTGameHistNoPlayForFun",
+        "text": "(není k dispozici v režimu \u003cb\u003eHRA PRO ZÁBAVU\u003c/b\u003e)."
+    },
+    {
+        "id": "RTquickSpinDisclaimer",
+        "text": "(není k dispozici ve všech kasinech)."
+    },
+    {
+        "id": "RTcoinsDisplayValues",
+        "text": "\u003cb\u003eMINCE\u003c/b\u003e zobrazí počet mincí, které může hráč vsadit."
+    },
+    {
+        "id": "RTMGcoinsDisplayValues",
+        "text": "\u003cb\u003eMince\u003c/b\u003e zobrazí počet mincí, které může hráč vsadit."
+    },
+    {
+        "id": "RTMGreturnToPlayer",
+        "text": "\u003cb\u003eNávrat k hráči\u003c/b\u003e"
+    },
+    {
+        "id": "RTAutoplayDisconnect",
+        "text": "\u003cb\u003ePoznámka:\u003c/b\u003e Jste-li během hry odpojeni, všechna nastavení hry se při dalším spuštění hry vrátí do výchozího nastavení."
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003ePoznámka:\u003c/b\u003e Některá nastavení automatické hry jsou ve vybraných jurisdikcích povinná."
+    },
+    {
+        "id": "RTMGsettingsDisclaimer",
+        "text": "\u003cb\u003ePoznámka:\u003c/b\u003e Někteří operátoři nemusí nabízet všechna uvedená nastavení hry."
+    },
+    {
+        "id": "RTsettingsDisclaimer",
+        "text": "\u003cb\u003ePoznámka:\u003c/b\u003e v některých kasinech nemusí být k dispozici všechna uvedená nastavení hry."
+    },
+    {
+        "id": "RTMGautoplayDisconnect",
+        "text": "\u003cb\u003ePoznámka:\u003c/b\u003e Jste-li odpojeni během hry, všechna nastavení automatické hry se při opětovném spuštění hry vrátí do výchozího nastavení."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003ePoznámka\u003c/b\u003e: Následující tabulka platí pouze pokud hrajete v jiném jazyce než je angličtina."
+    },
+    {
+        "id": "RTsoundButton",
+        "text": "\u003cb\u003eZvuk\u003c/b\u003e"
+    },
+    {
+        "id": "termEnglish",
+        "text": "Anglický výraz"
+    },
+    {
+        "id": "RTMGautoplayPanelLabel",
+        "text": "Automatická hra"
+    },
+    {
+        "id": "RTMGautoplayQuickSpinHeading",
+        "text": "Automatická hra a rychlé roztočení"
+    },
+    {
+        "id": "RTstarBurststickyWExpandsReSpinsRev",
+        "text": "Během bonusové hry Starburst™ Wild  se symboly Starburst™ Wild se rozšíří na celý válec a zůstanou na místě, zatímco ostatní válce se znovu roztočí."
+    },
+    {
+        "id": "RTAutoplayButton",
+        "text": "Chcete-li nastavit pokročilé možnosti pro automatickou hru, klepněte na \u003cb\u003eAUTOM. HRA\u003c/b\u003e na klávesnici nebo na možnost \u003cb\u003eAUTO\u003c/b\u003e na herním panelu a poté na \u003cb\u003ePokročilá nastavení\u003c/b\u003e."
+    },
+    {
+        "id": "RTMGtouchMainGameNew",
+        "text": "Chcete-li při zobrazení na šířku skrýt tlačítko Roztočit, dotkněte se herní oblasti."
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "Další informace"
+    },
+    {
+        "id": "RTgameSessions2",
+        "text": "Doba, po které se automaticky ukončí neaktivní herní relace."
+    },
+    {
+        "id": "RTMGgameSessions2",
+        "text": "Doba, po které se automaticky ukončí neaktivní herní sezení."
+    },
+    {
+        "id": "RTMGadditionalInformation",
+        "text": "Doplňující informace"
+    },
+    {
+        "id": "RTfunctionTableHead",
+        "text": "Funkce"
+    },
+    {
+        "id": "RTstarburstWildEnds",
+        "text": "Funkce Starburst™ Wild končí kdy se při dalším roztočení nezobrazí žádné nové Starburst™ Wilds."
+    },
+    {
+        "id": "RTgameFunctionsHeading",
+        "text": "Herní funkce"
+    },
+    {
+        "id": "gameSettingIntro",
+        "text": "Herní nastavení otevřete klepnutím na ikonu klíče na herním panelu."
+    },
+    {
+        "id": "RTMGgameHistoryHeading",
+        "text": "Historie hry"
+    },
+    {
+        "id": "RTMGhistoryNotAvailable",
+        "text": "Historie hry je k dispozici pouze při hraní o peníze."
+    },
+    {
+        "id": "RTgHistoryNotAvailableForFun",
+        "text": "Historie hry není při hře \u003cb\u003eVIRTUÁLNÍ HRA\u003c/b\u003e k dispozici."
+    },
+    {
+        "id": "RTMGbuttonsMainGame",
+        "text": "Hlavní hra"
+    },
+    {
+        "id": "RTMGcoinvalue",
+        "text": "Hodnota mince"
+    },
+    {
+        "id": "RTMGcoinValueInstruction",
+        "text": "Hodnota mince se nastaví pomocí volby HODNOTA MINCE."
+    },
+    {
+        "id": "RTstarburstWildFeatureActive",
+        "text": "Jeden nebo více Starburst™ Wilds, které se zobrazí na libovolném místě na válcích 2, 3 nebo 4 aktivují funkci Starburst™ Wild."
+    },
+    {
+        "id": "RTMGselectBetLevelRevNew",
+        "text": "Klepnutím na posuvník nebo jeho přetažením navolte počet mincí, které budou vsazeny na řadu."
+    },
+    {
+        "id": "RTMGquickSettingsMenu",
+        "text": "Klepnutím na symbol plus otevřete nabídku rychlých nastavení."
+    },
+    {
+        "id": "RTMGleaveGame",
+        "text": "Klepnutím opusťte hru."
+    },
+    {
+        "id": "RTMGgameSettingIntroDevNew",
+        "text": "Klepnutím otevřete nastavení hry a informace o hře."
+    },
+    {
+        "id": "RTMGdisableAutoplayIfBonusGame",
+        "text": "Klepnutím vypnete automatickou hru, pokud před odehráním nastaveného počtu kol dojde k výhře bonusové hry."
+    },
+    {
+        "id": "RTMGdisableAutoplay",
+        "text": "Klepnutím vypnete automatickou hru, pokud před odehráním nastaveného počtu kol dojde k výhře Free Spins."
+    },
+    {
+        "id": "RTMGdisableAutoplayPickClick",
+        "text": "Klepnutím vypnete automatickou hru, pokud před odehráním nastaveného počtu kol dojde k výhře Pick and Click ."
+    },
+    {
+        "id": "RTMGautoplayUI",
+        "text": "Klepnutím zapnete nebo vypnete automatickou hru bez nutnosti otevírat nabídku nastavení. Ve výchozím nastavení bude použito 50 kol."
+    },
+    {
+        "id": "RTMGspinButtonLeft",
+        "text": "Klepnutím zapnete nebo vypnete režim pro leváky."
+    },
+    {
+        "id": "RTMGquickSpinUI",
+        "text": "Klepnutím zapnete nebo vypnete rychlé roztočení bez nutnosti otevírat nabídku nastavení."
+    },
+    {
+        "id": "RTMGsoundSettingsUI",
+        "text": "Klepnutím zapnete nebo vypnete zvuk bez nutnosti otevírat nabídku nastavení."
+    },
+    {
+        "id": "RTgameHistoryDesc",
+        "text": "Klepnutím zobrazíte historii her"
+    },
+    {
+        "id": "RTpaytableButtonsDescNoBold",
+        "text": "Klikáním na šipky vlevo a vpravo můžete listovat stránkami v tabulce výplat. Kliknutím na prostřední tlačítko se vrátíte zpět do hry."
+    },
+    {
+        "id": "RTMGtapDuringSpin",
+        "text": "Klikněte na herní oblast během roztočení a válce se zastaví."
+    },
+    {
+        "id": "RTpaytableButtonsDescRev",
+        "text": "Klikněte na šipky směřující doleva nebo doprava a přejděte na \u003cb\u003eTABULKA VÝPLAT\u003c/b\u003e. Pro návrat do hry klikněte na prostřední tlačítko."
+    },
+    {
+        "id": "RTMGbackMainGame",
+        "text": "Klikněte pro návrat do hlavní hry."
+    },
+    {
+        "id": "RTMGgameSettingIntroDev",
+        "text": "Klikněte pro otevření nastavení hry a informace o hře, nebo klikněte na Hotovost a Mince."
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRev",
+        "text": "Klikněte pro spuštění  nebo zastavení automatické hry. Automatická hra odehraje hru po zvolený počet roztočení."
+    },
+    {
+        "id": "RTMGstartAutoplay",
+        "text": "Klikněte pro spuštění Automatické hry."
+    },
+    {
+        "id": "RTMGtapOnOffRev",
+        "text": "Klikněte pro spuštění nebo zastavení Rychlého roztočení."
+    },
+    {
+        "id": "RTMGstartQuickSpin",
+        "text": "Klikněte pro spuštění Rychlého roztočení."
+    },
+    {
+        "id": "RTMGsoundsDisabledRev",
+        "text": "Klikněte pro vypnutí zvuku pro budoucí herní relace."
+    },
+    {
+        "id": "RTMGsoundOnOffRev",
+        "text": "Klikněte pro zapnutí nebo vypnutí zvuku."
+    },
+    {
+        "id": "RTMGstopAutoplay",
+        "text": "Klikněte pro zastavení Automatické hry."
+    },
+    {
+        "id": "RTMGgameHistoryDesc",
+        "text": "Klikněte pro zobrazení aktuální historie hry."
+    },
+    {
+        "id": "RTMGviewGamesRules",
+        "text": "Klikněte pro zobrazení pravidel hry."
+    },
+    {
+        "id": "RTMGwinComb",
+        "text": "Klikněte pro zobrazení výherní kombinace a výplat."
+    },
+    {
+        "id": "RTopenSettingsMenu",
+        "text": "Kliknutím otevřete menu herního nastavení a vyberte možnosti hry. Viz část Nastavení hry níže."
+    },
+    {
+        "id": "RTopenGameRules",
+        "text": "Kliknutím otevřete pravidla hry."
+    },
+    {
+        "id": "RTstartGameRound",
+        "text": "Kliknutím spustíte herní kolo s aktuální výší sázky a hodn. mince (můžete také stisknout mezerník)."
+    },
+    {
+        "id": "RTMGtapSpinButtonRev",
+        "text": "Kliknutím spusťte hru na aktuálních sázkových řadách, sázkové úrovni a s aktuální hodnotou mince."
+    },
+    {
+        "id": "RTinformationIconButtonDesc",
+        "text": "Kliknutím zobrazíte \u003cb\u003eTABULKA VÝPLAT\u003c/b\u003e."
+    },
+    {
+        "id": "RTinformationIconButtonDescJimi",
+        "text": "Kliknutím zobrazíte \u003cb\u003eTABULKA VÝPLAT\u003c/b\u003e."
+    },
+    {
+        "id": "RTinformationIconButtonNoBold",
+        "text": "Kliknutím zobrazíte tabulku výplat."
+    },
+    {
+        "id": "RTmuteSoundSliderRev",
+        "text": "Kliknutím ztlumíte zvuky nebo pro nastavení zvuku použijte posuvník."
+    },
+    {
+        "id": "RTMGexit",
+        "text": "Konec"
+    },
+    {
+        "id": "RTmaxBetAtHighBetLevel",
+        "text": "MAX. SÁZKA vyplácí hru s nejvyšší výší sázky a aktuální hodnotou mince."
+    },
+    {
+        "id": "RTMGmenu",
+        "text": "Menu"
+    },
+    {
+        "id": "RTmaxbetPlays",
+        "text": "Možností \u003cb\u003eMAX.SÁZKA\u003c/b\u003e se spouští hra s maximálním počtem sázkových řad, nejvyšší sázkovou úrovní a aktuální hodnotou mince."
+    },
+    {
+        "id": "gameSettingOptionsHeading",
+        "text": "Možnosti nastavení hry"
+    },
+    {
+        "id": "RTplayCurrentBetLinesTo10",
+        "text": "Můžete hrát 1 až 10 sázkových řad s rozdílnými sázkovými úrovněmi a hodnotami mincí."
+    },
+    {
+        "id": "RTMGplay10FixedBetLines",
+        "text": "Můžete hrát na 10 pevných sázkových řadách s rozdílnou výší sázky a hodnotou mince."
+    },
+    {
+        "id": "RTMGAutoplaySpins",
+        "text": "Na tlačítku je uveden zvolený počet roztočení."
+    },
+    {
+        "id": "RTMGnoAutoplayLeft",
+        "text": "Na tlačítku se zobrazí počet zbývajících roztočení."
+    },
+    {
+        "id": "RTMGquickSettings",
+        "text": "Nabídka rychlých nastavení"
+    },
+    {
+        "id": "RTreferWebSite",
+        "text": "Následující herní funkce a nastavení mohou podléhat podmínkám herní stránky. Více informací k následující tematice naleznete na herní stránce:"
+    },
+    {
+        "id": "RTMGreferWebSite",
+        "text": "Následující herní funkce a nastavení mohou podléhat podmínkám herního webu. Více informací k následující tématice naleznete na herním webu:"
+    },
+    {
+        "id": "RTMGgameSettings",
+        "text": "Nastavení hry a Informace o hře"
+    },
+    {
+        "id": "RTMGspinSettingsRev",
+        "text": "Nastavení roztočení"
+    },
+    {
+        "id": "RTMGsoundSettings",
+        "text": "Nastavení zvuku"
+    },
+    {
+        "id": "RTadjustQualityRev",
+        "text": "Nastavuje kvalitu grafiky pro optimální výkon."
+    },
+    {
+        "id": "ReSpinsAtActivatingRound",
+        "text": "Otočení navíc se hrají za stejnou sázkou jako kolo, které otočení navíc aktivovalo."
+    },
+    {
+        "id": "RTMGselectCoinValueRev",
+        "text": "Otočte kolo nastavení a vyberte hodnotu mincí."
+    },
+    {
+        "id": "RTMGselectBetLevelRev",
+        "text": "Otočte kolo nastavení a vyberte počet mincí, které budou vsazeny na řádek."
+    },
+    {
+        "id": "RTMGselectSpinsRev",
+        "text": "Otočte kolo nastavení a vyberte počet roztočení automatické hry."
+    },
+    {
+        "id": "RTMGnumberSpins",
+        "text": "Počet roztočení"
+    },
+    {
+        "id": "advancedAutoplayOptionsHeading",
+        "text": "Pokročilá nastavení automatické hry"
+    },
+    {
+        "id": "RTstarBurstAddReSpinsRev",
+        "text": "Pokud se během opětovného roztočení objeví nový symbol Starburst™ Wild, roztáhne se a zůstane na příští opětovné roztočení zablokovaný na svém místě společně s ostatními symboly Starburst™ Wild, které se roztáhly dříve."
+    },
+    {
+        "id": "RTautoplayPlays",
+        "text": "Pomocí možnosti \u003cb\u003eAUTOM. HRA\u003c/b\u003e lze automaticky odehrát vybraný počet kol (alternativně lze použít tlačítko \u003cb\u003eAUTO\u003c/b\u003e)."
+    },
+    {
+        "id": "RTautoplayPlaysJimi",
+        "text": "Pomocí možnosti \u003cb\u003eAUTOM. HRA\u003c/b\u003e lze automaticky odehrát vybraný počet kol (alternativně lze použít tlačítko \u003cb\u003eAUTO\u003c/b\u003e)."
+    },
+    {
+        "id": "RTMGunfinishedGameSession2",
+        "text": "Postupy používané pro správu nedokončených herních kol."
+    },
+    {
+        "id": "RTunfinishedGameSession2",
+        "text": "Postupy používané pro správu nedokončených herních kol."
+    },
+    {
+        "id": "RTMGgameRules",
+        "text": "Pravidla hry"
+    },
+    {
+        "id": "RTMGstarburstTouchRulesHeading",
+        "text": "Pravidla hry Starburst Touch™"
+    },
+    {
+        "id": "RTstarBurstRulesHeading",
+        "text": "Pravidla hry Starburst™"
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Překlady herní terminologie"
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Přeložený výraz"
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRevNew",
+        "text": "Přetažením posuvníku nebo klepnutím na něj spustíte Automatickou hru a nastavíte požadovaný počet kol. V rámci Automatické hry bude proveden zvolený počet roztočení."
+    },
+    {
+        "id": "RTMGselectCoinValueRevNew",
+        "text": "Přetažením posuvníku nebo klepnutím na něj vyberete hodnotu mince."
+    },
+    {
+        "id": "RTviewMiniPaytable",
+        "text": "Případně můžete kliknout na libovolný symbol na válcích během hlavní hry, a zobrazí se minitabulka výher pro příslušný symbol."
+    },
+    {
+        "id": "RTMGtouchMainGame",
+        "text": "Pro skrytí tlačítka Roztočit se dotkněte herní oblasti."
+    },
+    {
+        "id": "RTMGleftHandMode",
+        "text": "Režim pro leváky"
+    },
+    {
+        "id": "RTMGquickSpin",
+        "text": "Rychlé roztočení"
+    },
+    {
+        "id": "RTMGquickSpinGameSetting",
+        "text": "Rychlé roztočení"
+    },
+    {
+        "id": "RTMGquickStop",
+        "text": "Rychlé zastavení"
+    },
+    {
+        "id": "RTMGbetInCash",
+        "text": "Sázka v hotovosti"
+    },
+    {
+        "id": "RTMGbetInCoins",
+        "text": "Sázka v mincích"
+    },
+    {
+        "id": "simultaneousWinsAdded",
+        "text": "Současné výhry v různých sázkových řadách se sčítají."
+    },
+    {
+        "id": "RTMGstarburstTouchIntro",
+        "text": "Starburst Touch™ je 5válcový, 3řádkový video automat s funkcí Starburst™ Wild s opětovným roztočením a výhrou v obou směrech."
+    },
+    {
+        "id": "RTstarBurstIntro",
+        "text": "Starburst™ je 5válcový, 3liniový video automat vyznačující se zástupnými symboly Starburst™ Wild s opakovaným otočením o obousměrnými výhrami."
+    },
+    {
+        "id": "RTstarBurstWildHeading",
+        "text": "Starburst™ Wilds"
+    },
+    {
+        "id": "RTtableDescribes",
+        "text": "Stůl uvádí rozdílná tlačítka, která se ve hře nachází a popisuje jejich funkce."
+    },
+    {
+        "id": "RTstarBurstWildSymbAppear",
+        "text": "Symboly Starburst™ Wild se mohou objevit pouze na válcích 2, 3 a 4."
+    },
+    {
+        "id": "termPaytable",
+        "text": "Tabulka výplat"
+    },
+    {
+        "id": "RTMGpaytable",
+        "text": "Tabulka výplat"
+    },
+    {
+        "id": "RTMGpaytableJimi",
+        "text": "Tabulka výplat"
+    },
+    {
+        "id": "RTtheoreticalReturn",
+        "text": "Teoretická návratnost hráči v této hře je"
+    },
+    {
+        "id": "RTMGtheoreticalReturn",
+        "text": "Teoretická návratnost hráči v této hře je"
+    },
+    {
+        "id": "RTspinPlayRev",
+        "text": "Tlačítkem pro otočení se zahájí hra s aktuálními sázkovými řadami, sázkovou úrovní a hodnotou mincí (případně stiskněte mezerník)."
+    },
+    {
+        "id": "RTbuttonTableHead",
+        "text": "Tlačítko"
+    },
+    {
+        "id": "RTMGspinButton",
+        "text": "Tlačítko Roztočit"
+    },
+    {
+        "id": "RTMGbetlevel",
+        "text": "Úroveň sázky"
+    },
+    {
+        "id": "RTMGmalfunction",
+        "text": "V případě chybné funkce herního hardwaru/softwaru jsou všechny ovlivněné sázky a výplaty považovány za neplatné a všechny ovlivněné sázky budou vráceny."
+    },
+    {
+        "id": "RTmalfunction",
+        "text": "V případě chybné funkce herního hardwaru/softwaru jsou všechny ovlivněné sázky a výplaty považovány za neplatné a všechny ovlivněné sázky budou vráceny."
+    },
+    {
+        "id": "RTautoplaySelectSpins",
+        "text": "Vyberte počet roztočení pro Automatická hra nebo otevřete Pokročilá nastavení a nastavte možnost zastavení Automatická hra."
+    },
+    {
+        "id": "RTrulesGenerated",
+        "text": "Vygenerovaná pravidla hry:"
+    },
+    {
+        "id": "RTwinCombinationPaytablenoBold",
+        "text": "Výherní kombinace a příslušné výhry jsou uvedené v Tabulce Výplat."
+    },
+    {
+        "id": "RTwinCombinationPaytable",
+        "text": "Výherní kombinace a výplaty stanoví \u003cb\u003eTABULKA VÝPLAT\u003c/b\u003e."
+    },
+    {
+        "id": "RTMGwinCombinations",
+        "text": "Výherní kombinace a výplaty stanoví Tabulka výplat."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoMultiplierTrans",
+        "text": "Výhra za sázkové řady v mincích se rovná hodnotě uvedené v \u003cb\u003eTABULKA VÝPLAT\u003c/b\u003e znásobené výší sázky."
+    },
+    {
+        "id": "RTwinCalcBetLinesNoMultiplier",
+        "text": "Výhra za sázkové řady v mincích se rovná hodnotě zobrazené v  Tabulce výplat znásobené výší sázky."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoBold",
+        "text": "Výhra za sázkové řady v mincích se rovná hodnotě zobrazené v  Tabulce výplat znásobené výší sázky. Tato částka se rovněž znásobí platnými násobiteli."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCurrency",
+        "text": "Výhra za sázkovou řadu v měně se rovná výhře v mincích znásobené hodnotou mince."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCurrency",
+        "text": "Výhra za sázkovou řadu v měně se rovná výhře v mincích znásobené hodnotou mince."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "Výhra za sázkovou řadu v mincích se rovná hodnotě zobrazené v \u003cb\u003eTABULKA VÝPLAT\u003c/b\u003e  znásobené výší sázky."
+    },
+    {
+        "id": "RTMGjimiwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "Výhra za sázkovou řadu v mincích se rovná hodnotě zobrazené v \u003cb\u003eTABULKA VÝPLAT\u003c/b\u003e  znásobené výší sázky."
+    },
+    {
+        "id": "RTCalcBetLineCoinNoMultiplierTransNew",
+        "text": "Výhra ze sázkové řady v mincích se rovná hodnotě uvedené v tabulce výplat znásobené úrovní sázky."
+    },
+    {
+        "id": "RTHighWinSymCompleteActLineRev",
+        "text": "Vyplácí se nejvyšší výherní kombinace na válcích zleva doprava a/nebo zprava doleva na aktivním sázkovém řádku."
+    },
+    {
+        "id": "RTpaytableHighestRev",
+        "text": "Vyplácí se pouze nejvyšší výhra v aktivní sázkové řadě z obou směrů."
+    },
+    {
+        "id": "RTgameSoundDesc",
+        "text": "Vypne nebo zapne zvuk hry."
+    },
+    {
+        "id": "RTbetLevel",
+        "text": "Výše sázky je počet mincí na sázkovou řadu."
+    },
+    {
+        "id": "RTMGbetLevelInstruction",
+        "text": "Výše sázky se nastavuje pomocí možnosti \u003cb\u003eÚroveň sázky\u003c/b\u003e."
+    },
+    {
+        "id": "RTquickSpinDescRev",
+        "text": "Zapíná a vypíná možnost rychlého roztočení"
+    },
+    {
+        "id": "RTspacebarspin",
+        "text": "Zapíná nebo vypíná funkci mezerníku."
+    },
+    {
+        "id": "RTambienceDescRev",
+        "text": "Zapíná nebo vypíná hudbu na pozadí."
+    },
+    {
+        "id": "RTintroOffRev",
+        "text": "Zapíná nebo vypíná úvodní obrazovku."
+    },
+    {
+        "id": "RTanimationsOff",
+        "text": "Zapnout nebo vypnout animace."
+    },
+    {
+        "id": "RTMGstopIfFreeSpins",
+        "text": "Zastaví se v případě výhry Free Spins"
+    },
+    {
+        "id": "RTMGstopAutoplayOnOff",
+        "text": "Zastavit Automatickou hru"
+    },
+    {
+        "id": "anyWinDesc",
+        "text": "Zastavit automatickou hru při výhře."
+    },
+    {
+        "id": "cashDecreasesDesc",
+        "text": "Zastavit automatickou hru, když se stav účtu sníží o zadanou částku."
+    },
+    {
+        "id": "cashIncreasesDesc",
+        "text": "Zastavit automatickou hru, když se stav účtu zvýší o zadanou částku."
+    },
+    {
+        "id": "singleWinDesc",
+        "text": "Zastavit automatickou hru, když vyhraná částka překročí zadanou částku nebo když se jí bude rovnat."
+    },
+    {
+        "id": "RTsingleWinDescRev",
+        "text": "Zastavuje automatickou hru, když vyhraná částka překročí zadanou částku nebo když se jí bude rovnat."
+    },
+    {
+        "id": "RTstarBurstWildSubstitute",
+        "text": "Zástupné symboly Starburst™ Wild nahrazují všechny ostatní symboly."
+    },
+    {
+        "id": "termWild",
+        "text": "Zástupný symbol"
+    },
+    {
+        "id": "RTMGshowsBetCoins",
+        "text": "Zobrazí výši sázky v mincích."
+    },
+    {
+        "id": "RTMGshowsBetCurrency",
+        "text": "Zobrazí výši sázky ve vybrané měně."
+    },
+    {
+        "id": "RTMGback",
+        "text": "Zpět"
+    },
+    {
+        "id": "RTreturnToPlayer",
+        "text": "Zpět k hráči"
+    },
+    {
+        "id": "RTMGsounds",
+        "text": "Zvuky hry"
+    },
+    {
+        "id": "RTMGsoundsOff",
+        "text": "Zvuky vždy vypnout"
+    },
+    {
+        "id": "RTautoplayDuringGameRev",
+        "text": "\u003cb\u003ePoznámka:\u003c/b\u003e  při změně nastavení Autoplay během herního kola budou nastavení platná jakmile bude herní  kolo nebo funkce dokončená."
+    },
+    {
+        "id": "RTopenAutoplayMenu",
+        "text": "Kliknutím otevřete nastavení Automatické hry a hru odehrajte automaticky."
+    },
+    {
+        "id": "RTwinCalculationWinMatchCurrency",
+        "text": "Výhra za sázkovou řadu v měně se rovná výhře v mincích znásobené hodnotou mince."
+    },
+    {
+        "id": "RTMGautoOptions",
+        "text": "Aktivujete-li automatickou hru přetažením posuvníku nebo klepnutím na něj, nastavíte možnosti tohoto režimu a příslušný počet kol. Automatická hra provede zvolený počet roztočení."
+    },
+    {
+        "id": "RTsliderCoinValue",
+        "text": "K nastavení hodnoty mince slouží posuvník Hodnota mince."
+    },
+    {
+        "id": "RTeachStar1AddRespinUpTo3respin",
+        "text": "Poté, co Starburst™ Wild aktivuje opětovné roztočení, se mohou objevit až 2 další symboly Starburst™ Wild, jež spustí další opětovné roztočení, maximálně mohou proběhnout 3 opětovná roztočení."
+    },
+    {
+        "id": "RTexCloneWildOverlay",
+        "text": "Symboly Expanding Cloning Wild se zobrazují jako nehybná horní vrstva nad rotujícími válci. Naklonované symboly jsou také součástí horní vrstvy nad válci."
+    },
+    {
+        "id": "RTsliderBetLevel",
+        "text": "Úroveň sázky lze nastavit pomocí posuvníku Úroveň sázky."
+    },
+    {
+        "id": "onlyHighWinComb",
+        "text": "V sázkových řadách se vyplácí pouze nejvyšší získaná vítězná kombinace bráno zleva doprava i zprava doleva."
+    },
+    {
+        "id": "RTcashIncreasesDescRev",
+        "text": "Zastaví automatickou hru, pokud se hotovost navýší o stanovenou částku."
+    },
+    {
+        "id": "RTcashDecreasesDescRev",
+        "text": "Zastaví automatickou hru, pokud se hotovost sníží o stanovenou částku."
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003ePoznámka:\u003c/b\u003e Některá nastavení automatické hry jsou ve vybraných jurisdikcích povinná."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003ePoznámka\u003c/b\u003e: Následující tabulka platí pouze pokud hrajete v jiném jazyce než je angličtina."
+    },
+    {
+        "id": "termEnglish",
+        "text": "Anglický výraz"
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "Další informace"
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Překlady herní terminologie"
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Přeložený výraz"
+    },
+    {
+        "id": "featuresNotAvailablePFF",
+        "text": "V režimu \u003cb\u003eHRA PRO ZÁBAVU\u003c/b\u003e nemusí být některé funkce k dispozici."
+    },
+    {
+        "id": "RTsingleWinDescRevNew",
+        "text": "Zastavit autom. hru, pokud vyhraná částka překročí určenou výši."
+    }
+]

@@ -1,0 +1,738 @@
+﻿[
+    {
+        "id": "RTGameHistNoPlayForFun",
+        "text": "(\u003cb\u003eEĞLENCESİNE OYUN\u003c/b\u003e modunda kullanılamaz)."
+    },
+    {
+        "id": "RTquickSpinDisclaimer",
+        "text": "(Tüm casinolarda bulunmuyor)."
+    },
+    {
+        "id": "RTgHistoryNotAvailableForFun",
+        "text": "\u003cb\u003eEĞLENCESİNE OYUN\u003c/b\u003e modunda Oyun Geçmişi mevcut değildir."
+    },
+    {
+        "id": "RTcoinsDisplayValues",
+        "text": "\u003cb\u003eJETON\u003c/b\u003e oyuncunun bahis için kullanabileceği jeton sayısını gösterir."
+    },
+    {
+        "id": "RTMGcoinsDisplayValues",
+        "text": "\u003cb\u003eJetonlar\u003c/b\u003e oyuncunun bahis için kullanabileceği jetonların sayısını gösterir."
+    },
+    {
+        "id": "RTmaxbetPlays",
+        "text": "\u003cb\u003eMAKS. BAHİS\u003c/b\u003e oyunu maksimum fazla bahis çizgisiyle, en yüksek bahis seviyesinden ve geçerli jeton değerinden oynatır."
+    },
+    {
+        "id": "RTsettingsDisclaimer",
+        "text": "\u003cb\u003eNot:\u003c/b\u003e Bazı casino\u0027larda, belirtilen oyun ayarlarının hepsi olmayabilir."
+    },
+    {
+        "id": "RTMGsettingsDisclaimer",
+        "text": "\u003cb\u003eNot:\u003c/b\u003e Bazı operatörler, verilen tüm oyun ayarlarını desteklemeyebilir."
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003eNot:\u003c/b\u003e Bazı otomatik oyun seçenekleri, bazı bölgelerde yerel kanunlar nedeniyle zorunludur."
+    },
+    {
+        "id": "RTAutoplayDisconnect",
+        "text": "\u003cb\u003eNot:\u003c/b\u003e Eğer oyun sırasında bağlantınız kesilirse, oyunu yeniden başlattığınızda bütün Otomatik Oyun ayarları varsayılan ayarlara döner."
+    },
+    {
+        "id": "RTMGautoplayDisconnect",
+        "text": "\u003cb\u003eNot:\u003c/b\u003e Eğer oyun sırasında bağlantınız kesilirse, oyunu yeniden çalıştırdığınızda bütün otomatik oyun ayarları varsayılan değerlere geri döner."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003eNot\u003c/b\u003e: Takip eden tablo, sadece İngilizce dışında başka bir dilde oynuyorsanız geçerlidir."
+    },
+    {
+        "id": "RTinformationIconButtonDesc",
+        "text": "\u003cb\u003eÖDEME TABLOSU\u003c/b\u003e\u0027nu görmek için tıklayın."
+    },
+    {
+        "id": "RTinformationIconButtonDescJimi",
+        "text": "\u003cb\u003eÖDEME TABLOSU\u003c/b\u003e\u0027nu görmek için tıklayın."
+    },
+    {
+        "id": "RTpaytableButtonsDescRev",
+        "text": "\u003cb\u003eÖDEME TABLOSU\u003c/b\u003e\u0027nun sayfalarını gezmek için, sağı veya solu gösteren okları tıklatın. Oyuna geri dönmek için merkezdeki butonu tıklatın."
+    },
+    {
+        "id": "RTautoplayPlays",
+        "text": "\u003cb\u003eOTOM. OYNA\u003c/b\u003e oyunu, seçilen tur sayısı kadar otomatik olarak oynar (alternatif olarak, \u003cb\u003eAUTO\u003c/b\u003e butonunu tıklayın)."
+    },
+    {
+        "id": "RTautoplayPlaysJimi",
+        "text": "\u003cb\u003eOTOMATIK OYUN\u003c/b\u003e oyunu, seçilen tur sayısı kadar otomatik olarak oynar (alternatif olarak, \u003cb\u003eAUTO\u003c/b\u003e butonunu tıklayın)."
+    },
+    {
+        "id": "RTMGreturnToPlayer",
+        "text": "\u003cb\u003eOyuncuya Geri Dönüş\u003c/b\u003e"
+    },
+    {
+        "id": "RTsoundButton",
+        "text": "\u003cb\u003eSes\u003c/b\u003e"
+    },
+    {
+        "id": "RTstarburstWildFeatureActive",
+        "text": "2, 3 veya 4. çarkların herhangi bir yerinde beliren Starburst™ Wild\u0027ları, Starburst™ Wild özelliğini etkinleştirir."
+    },
+    {
+        "id": "RTHighWinSymCompleteActLineRev",
+        "text": "Aktif bir bahis çizgisinde, en soldaki çarktan sağa doğru ve/veya en sağdaki çarktan sola doğru olan en yüksek kazanç kombinasyonları ödenir."
+    },
+    {
+        "id": "RTMGgameSessions2",
+        "text": "Aktif olmayan oturumların otomatik olarak sonlandırıldığı süre."
+    },
+    {
+        "id": "RTgameSessions2",
+        "text": "Aktif olmayan oturumların otomatik olarak sonlandırıldığı süre."
+    },
+    {
+        "id": "RTviewMiniPaytable",
+        "text": "Alternatif olarak, ana oyun esnasında çarklardaki herhangi bir sembolü tıklayarak, o sembol ile ilgili bir mini ödeme tablosu görüntüleyebilirsiniz."
+    },
+    {
+        "id": "RTMGreferWebSite",
+        "text": "Alttaki oyun özellikleri ve ayarları, oyun sitesinin şart ve koşullarına tabi olabilirler. Alttaki konular ile ilgili ayrıntılı bilgi için oyun web sitesine bakın:"
+    },
+    {
+        "id": "RTtableDescribes",
+        "text": "Alttaki tablo, oyunda bulunan farklı butonarı ve bu butonların fonksiyonlarını gösterir."
+    },
+    {
+        "id": "RTMGbuttonsMainGame",
+        "text": "Ana Oyun"
+    },
+    {
+        "id": "RTMGbackMainGame",
+        "text": "Ana oyuna geri dönmek için dokunun."
+    },
+    {
+        "id": "RTanimationsOff",
+        "text": "Animasyonları açar ya da kapatır."
+    },
+    {
+        "id": "RTambienceDescRev",
+        "text": "Arka plandaki müziğini açar veya kapatır."
+    },
+    {
+        "id": "RTMGdisableAutoplayIfBonusGame",
+        "text": "Ayarlı otomatik dönüşlerin sayısı dolmadan Bonus Oyun kazanıldığında Otomatik Oyun\u0027u durdurmak için dokunun."
+    },
+    {
+        "id": "simultaneousWinsAdded",
+        "text": "Aynı turda farklı bahis çizgilerinde elde edilen kazançlar toplanır."
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "Ayrıntılı Bilgi"
+    },
+    {
+        "id": "RTMGselectBetLevelRev",
+        "text": "Bahis çizgisi başına oynamak istediğiniz jeton miktarını seçmek için ayar çarkına dokunun veya çarkı kaydırın."
+    },
+    {
+        "id": "RTMGselectBetLevelRevNew",
+        "text": "Bahis çizgisi başına oynamak istediğiniz jeton miktarını seçmek için ayar kaydıracını kaydırın veya ona dokunun."
+    },
+    {
+        "id": "RTMGshowsBetCoins",
+        "text": "Bahis miktarını, jeton cinsinden gösterir"
+    },
+    {
+        "id": "RTMGshowsBetCurrency",
+        "text": "Bahis miktarını, seçili olan para cinsinden gösterir."
+    },
+    {
+        "id": "RTMGbetlevel",
+        "text": "Bahis seviyesi"
+    },
+    {
+        "id": "RTMGbetLevelInstruction",
+        "text": "Bahis seviyesi, \u003cb\u003eSeviye\u003c/b\u003e seçeneği ile ayarlanır."
+    },
+    {
+        "id": "RTbetLevel",
+        "text": "Bahis seviyesi, bahis çizgisi başına oynanan jeton sayısıdır."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "Bir bahis çizgisi kazancı jeton cinsinden, \u003cb\u003eÖDEME TABLOSU\u003c/b\u003e\u0027nda verilen değer ie bahis seviyesinin çarpımı kadardır."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoMultiplierTrans",
+        "text": "Bir bahis çizgisi kazancı jeton cinsinden, \u003cb\u003eÖDEME TABLOSU\u003c/b\u003e\u0027nda verilen değer ie bahis seviyesinin çarpımı kadardır."
+    },
+    {
+        "id": "RTMGjimiwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "Bir bahis çizgisi kazancı jeton cinsinden, \u003cb\u003eÖDEME TABLOSU\u003c/b\u003e\u0027nda verilen değer ie bahis seviyesinin çarpımı kadardır."
+    },
+    {
+        "id": "anyWinDesc",
+        "text": "Bir tur kazandığınızda Otomatik Oyunu durdurur."
+    },
+    {
+        "id": "RTMGunfinishedGameSession2",
+        "text": "Bitirilmemiş oyun turlarının yönetiminde kullanılan prosedürler."
+    },
+    {
+        "id": "RTunfinishedGameSession2",
+        "text": "Bitirilmemiş oyun turlarının yönetiminde kullanılan prosedürler."
+    },
+    {
+        "id": "RTspacebarspin",
+        "text": "Boşluk tuşu fonksiyonunu açar veya kapatır."
+    },
+    {
+        "id": "RTMGtheoreticalReturn",
+        "text": "Bu oyun için oyuncuya teorik geri dönüş"
+    },
+    {
+        "id": "RTtheoreticalReturn",
+        "text": "Bu oyun için, oyuncuya teorik dönüş:"
+    },
+    {
+        "id": "RTMGsoundsDisabledRev",
+        "text": "Bundan sonraki oyun seanslarında sesi etkisizleştirmek için şaltere dokunun."
+    },
+    {
+        "id": "RTreferWebSite",
+        "text": "Buradaki oyun özellikleri ve ayarları kumar sitesinin şart ve koşullarına tabi olabilir. Ayrıntılı bilgiyi şans oyunları web sitesinde bulabilirsiniz:"
+    },
+    {
+        "id": "RTbuttonTableHead",
+        "text": "Buton"
+    },
+    {
+        "id": "RTMGtapDuringSpin",
+        "text": "Çarkları durdurmak için dönüş sırasında oyun alanına dokunun."
+    },
+    {
+        "id": "RTMGtapOnOffRev",
+        "text": "Çarkların hızla dönmesi özelliğini açıp kapatmak için şaltere dokunun."
+    },
+    {
+        "id": "RTMGexit",
+        "text": "Çıkış"
+    },
+    {
+        "id": "RTMGspinButton",
+        "text": "Döndür Butonu"
+    },
+    {
+        "id": "RTMGtouchMainGame",
+        "text": "Döndür butonunu gizlemek için oyun alanına dokunun."
+    },
+    {
+        "id": "RTspinPlayRev",
+        "text": "Döndür düğmesi, oyunu geçerli bahis çizgileri, bahis seviyesi ve jeton değerinde oynar (alternatif olarak boşluk tuşuna da basabilirsiniz)."
+    },
+    {
+        "id": "RTMGspinSettingsRev",
+        "text": "Dönüş Ayarları"
+    },
+    {
+        "id": "RTMGnumberSpins",
+        "text": "Dönüş sayısı"
+    },
+    {
+        "id": "RTMGgameHistoryDesc",
+        "text": "En son oyununuzun geçmişini görmek için dokunun."
+    },
+    {
+        "id": "RTgameHistoryDesc",
+        "text": "En son oyununuzun geçmişini görmek için tıklatın"
+    },
+    {
+        "id": "RTMGplay10FixedBetLines",
+        "text": "Farklı bahis seviyeleri ve jeton değerleri ile 10 sabit bahis çizgisine oynayabilirsiniz."
+    },
+    {
+        "id": "RTplayCurrentBetLinesTo10",
+        "text": "Farklı bahis seviyeleri ve jeton değerlerinde 1-20 bahis çizgisine oynayabilirsiniz."
+    },
+    {
+        "id": "RTfunctionTableHead",
+        "text": "Fonksiyon"
+    },
+    {
+        "id": "RTMGstopIfFreeSpins",
+        "text": "Free Spins kazanıldığında dur"
+    },
+    {
+        "id": "advancedAutoplayOptionsHeading",
+        "text": "Gelişmiş Otomatik Oyun Seçenekleri"
+    },
+    {
+        "id": "RTAutoplayButton",
+        "text": "Gelişmiş otomatik oyun seçeneklerini ayarlamak için mini klavyede \u003cb\u003eOTOM. OYNA\u003c/b\u003e\u0027u veya oyun panelinde \u003cb\u003eAUTO\u003c/b\u003e\u0027yu ve ardından \u003cb\u003eGelişmiş ayarlar\u003c/b\u003e\u0027ı tıklayın."
+    },
+    {
+        "id": "RTMGback",
+        "text": "Geri"
+    },
+    {
+        "id": "RTintroOffRev",
+        "text": "Giriş ekranını açar veya kapatır."
+    },
+    {
+        "id": "RTMGquickSettings",
+        "text": "Hızlı ayarlar menüsü"
+    },
+    {
+        "id": "RTMGquickSettingsMenu",
+        "text": "Hızlı ayarlar menüsüne erişmek için artı işaretine dokunun."
+    },
+    {
+        "id": "RTMGquickSpin",
+        "text": "Hızlı Döndür"
+    },
+    {
+        "id": "RTquickSpinDescRev",
+        "text": "Hızlı döndürme opsiyonunu açar veya kapatır"
+    },
+    {
+        "id": "RTMGstartQuickSpin",
+        "text": "Hızlı Döndürmeyi başlatmak için dokunun."
+    },
+    {
+        "id": "RTMGquickSpinGameSetting",
+        "text": "Hızlı Dönüş"
+    },
+    {
+        "id": "RTMGquickSpinUI",
+        "text": "Hızlı dönüş özelliğini ayarlar menüsüne girmeden açıp kapatmak için dokunun."
+    },
+    {
+        "id": "RTMGquickStop",
+        "text": "Hızlı Durdur"
+    },
+    {
+        "id": "RTMGadditionalInformation",
+        "text": "İlave Bilgiler"
+    },
+    {
+        "id": "termEnglish",
+        "text": "İngilizce Terim"
+    },
+    {
+        "id": "RTCalcBetLineCoinNoMultiplierTransNew",
+        "text": "Jeton cinsinden bahis çizgisi kazançları, ödeme tablosunda belirtilen miktarın bahis seviyesi ile çarpımı kadardır."
+    },
+    {
+        "id": "RTwinCalcBetLinesNoMultiplier",
+        "text": "Jeton cinsinden bir bahis çizgisi kazancı, Ödemetablosunda gösterilen değerin o bahis seviyesiyle çarpımına eşittir."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoBold",
+        "text": "Jeton cinsinden bir bahis çizgisi kazancı, Ödemetablosunda gösterilen değerin o bahis seviyesiyle çarpımına eşittir. Bu tutar ayrıca geçerliliği olan herhangi bir çarpanla da çarpılmaktadır."
+    },
+    {
+        "id": "RTMGcoinvalue",
+        "text": "Jeton değeri"
+    },
+    {
+        "id": "RTMGcoinValueInstruction",
+        "text": "Jeton değeri, JETON DEĞERİ seçeneği ile ayarlanır."
+    },
+    {
+        "id": "RTMGselectCoinValueRev",
+        "text": "Jeton değerini seçmek için ayar çarkına dokunun veya çarkı kaydırın."
+    },
+    {
+        "id": "RTMGselectCoinValueRevNew",
+        "text": "Jeton değerini seçmek için kaydırıcıyı kaydırın veya ona dokunun."
+    },
+    {
+        "id": "RTMGbetInCoins",
+        "text": "Jeton ile bahis"
+    },
+    {
+        "id": "termWild",
+        "text": "Joker"
+    },
+    {
+        "id": "RTMGnoAutoplayLeft",
+        "text": "Kalan dönüşlerin sayısı butonun üstünde görüntülenir."
+    },
+    {
+        "id": "RTwinCombinationPaytable",
+        "text": "Kazanan kombinasyonlar ve ödemeler \u003cb\u003eÖDEME TABLOSU\u003c/b\u003e\u0027na göre hesaplanır."
+    },
+    {
+        "id": "RTwinCombinationPaytablenoBold",
+        "text": "Kazanan kombinasyonlar ve ödemeler, ödeme Tablosuna göre gerçekleşir."
+    },
+    {
+        "id": "RTMGwinCombinations",
+        "text": "Kazanan kombinasyonlar ve yapılan ödemeler, Ödeme Tablosuna göredir."
+    },
+    {
+        "id": "RTMGwinComb",
+        "text": "Kazanan kombinasyonları ve kazanılabilen miktarları görüntülemek için dokunun."
+    },
+    {
+        "id": "RTsingleWinDescRev",
+        "text": "Kazanılan tutar belirttiğiniz miktarı geçtiğinde veya bu miktara eşit olduğunda, Otomatik oyunu durdurur."
+    },
+    {
+        "id": "singleWinDesc",
+        "text": "Kazanılan tutar belirttiğiniz miktarı geçtiğinde ya da eşit olduğunda Otomatik Oyunu durdurur."
+    },
+    {
+        "id": "RTmaxBetAtHighBetLevel",
+        "text": "MAKS. BAHİS, oyunu en yüksek bahis seviyesinde ve mevcut jeton değeriyle oynatır."
+    },
+    {
+        "id": "RTMGmenu",
+        "text": "Menü"
+    },
+    {
+        "id": "RTMGtapSpinButtonRev",
+        "text": "Mevcut bahis çizgileri, bahis seviyesi ve jeton değerinden oynamak için dokunun."
+    },
+    {
+        "id": "RTstartGameRound",
+        "text": "Mevcut bahis seviyesi ve jeton değeriyle yeni bir oyun turu başlatmak için tıklayın (veya boşluk tuşuna basın)."
+    },
+    {
+        "id": "RTMGbetInCash",
+        "text": "Nakit ile bahis"
+    },
+    {
+        "id": "cashIncreasesDesc",
+        "text": "Nakit, belirttiğiniz miktar kadar artarsa Otomatik Oyunu durdurur."
+    },
+    {
+        "id": "cashDecreasesDesc",
+        "text": "Nakit, belirttiğiniz miktar kadar azalırsa Otomatik Oyunu durdurur."
+    },
+    {
+        "id": "RTMGpaytable",
+        "text": "Ödeme Tablosu"
+    },
+    {
+        "id": "termPaytable",
+        "text": "Ödeme Tablosu"
+    },
+    {
+        "id": "RTMGpaytableJimi",
+        "text": "Ödeme Tablosu"
+    },
+    {
+        "id": "RTinformationIconButtonNoBold",
+        "text": "Ödeme tablosunu görüntülemek için tıklayın."
+    },
+    {
+        "id": "RTpaytableButtonsDescNoBold",
+        "text": "Ödeme tablosunun sayfaları arasında gezinmek için sola veya sağa bakan oklara tıklayın. Oyuna dönmek için ortadaki düğmeye basın."
+    },
+    {
+        "id": "RTrulesGenerated",
+        "text": "Oluşturulan oyun kuralları:"
+    },
+    {
+        "id": "RTadjustQualityRev",
+        "text": "Optimal performans için görüntü kalitesini ayarlar."
+    },
+    {
+        "id": "RTMGselectSpinsRev",
+        "text": "Otomatik dönüşlerin sayısını seçmek için ayar çarkına dokunun veya çarkı kaydırın."
+    },
+    {
+        "id": "RTMGautoplayPanelLabel",
+        "text": "Otomatik Oyun"
+    },
+    {
+        "id": "RTMGdisableAutoplay",
+        "text": "Otomatik oyun için belirlenen dönüş sayısı tamamlanmadan Free Spins kazanılması durumunda Otomatik Oyun\u0027u devre dışı bırakmak için dokunun."
+    },
+    {
+        "id": "RTMGdisableAutoplayPickClick",
+        "text": "Otomatik oyun için belirlenen dönüş sayısı tamamlanmadan Pick and Click  kazanılması durumunda Otomatik Oyun\u0027u devre dışı bırakmak için dokunun."
+    },
+    {
+        "id": "RTautoplaySelectSpins",
+        "text": "Otomatik Oyun için dönüş sayısını seçin veya Otomatik Oyun\u0027i durdurma seçeneklerini yapılandırmak için Gelişmiş Ayarlar\u0027ı açın."
+    },
+    {
+        "id": "RTMGautoplayQuickSpinHeading",
+        "text": "Otomatik Oyun ve Hızlı Döndürme"
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRev",
+        "text": "Otomatik Oyunu açıp kapatmak için şaltere dokunun. Otomatik Oyun, oyunu seçilen dönüş sayısı boyunca oynar."
+    },
+    {
+        "id": "RTMGautoplayUI",
+        "text": "Otomatik Oyun\u0027u ayarlar menüsüne girmeden açıp kapatmak için dokunun. 50 tur, varsayılan olarak ayarlanır."
+    },
+    {
+        "id": "RTMGstartAutoplay",
+        "text": "Otomatik Oyunu başlatmak için dokunun."
+    },
+    {
+        "id": "RTMGstopAutoplayOnOff",
+        "text": "Otomatik Oyunu durdur"
+    },
+    {
+        "id": "RTMGstopAutoplay",
+        "text": "Otomatik Oyunu durdurmak için dokunun."
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRevNew",
+        "text": "Otomatik Oyun\u0027u etkinleştirmek ve tur sayısını ayarlamak için kaydırıcıyı kaydırın veya ona dokunun."
+    },
+    {
+        "id": "RTopenSettingsMenu",
+        "text": "Oyun ayarları menüsünü açmak için tıklatın ve oyun seçeneklerini seçin. Oyun Ayararı bölümü altta bulunuyor."
+    },
+    {
+        "id": "gameSettingOptionsHeading",
+        "text": "Oyun Ayarları Seçenekleri"
+    },
+    {
+        "id": "RTMGgameSettings",
+        "text": "Oyun Ayarları ve Oyun Bilgileri"
+    },
+    {
+        "id": "gameSettingIntro",
+        "text": "Oyun ayarlarına erişmek için oyun panelindeki anahtar simgesini tıklatın."
+    },
+    {
+        "id": "RTMGgameSettingIntroDev",
+        "text": "Oyun ayarlarına ve oyun bilgilerine erişmek için dokunun. Alternatif olarak Nakit ve Jeton ekranlarına da dokunabilirsiniz."
+    },
+    {
+        "id": "RTMGgameSettingIntroDevNew",
+        "text": "Oyun ayarlarına ve oyun hakkında bilgilere erişmek için dokunun."
+    },
+    {
+        "id": "RTmalfunction",
+        "text": "Oyun donanımının/yazılımının arızalanması halinde, etkilenen tüm oyun bahisleri ve ödemeleri geçersiz sayılır ve etkilenen tüm bahisler iade edilir."
+    },
+    {
+        "id": "RTMGmalfunction",
+        "text": "Oyun donanımının/yazılımının arızalanması halinde, etkilenen tüm oyun bahisleri ve ödemeleri geçersiz sayılır ve etkilenen tüm bahisler iade edilir."
+    },
+    {
+        "id": "RTgameFunctionsHeading",
+        "text": "Oyun Fonksiyonları"
+    },
+    {
+        "id": "RTMGgameHistoryHeading",
+        "text": "Oyun Geçmişi"
+    },
+    {
+        "id": "RTMGhistoryNotAvailable",
+        "text": "Oyun geçmişi, yalnızca para karşılığında oynadığınızda mevcuttur."
+    },
+    {
+        "id": "RTMGgameRules",
+        "text": "Oyun Kuralları"
+    },
+    {
+        "id": "RTopenGameRules",
+        "text": "Oyun kurallarını açmak için tıklatın."
+    },
+    {
+        "id": "RTMGviewGamesRules",
+        "text": "Oyun kurallarını görmek için dokunun."
+    },
+    {
+        "id": "RTMGsounds",
+        "text": "Oyun Sesleri"
+    },
+    {
+        "id": "RTgameSoundDesc",
+        "text": "Oyun seslerini açar veya kapatır."
+    },
+    {
+        "id": "RTmuteSoundSliderRev",
+        "text": "Oyun seslerini kapatmak için tıklatın veya kaydırıcı ile ses düzeyini ayarlayın."
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Oyun Terminolojisinin Tercümeleri"
+    },
+    {
+        "id": "RTreturnToPlayer",
+        "text": "Oyuncuya geri dön"
+    },
+    {
+        "id": "RTMGleaveGame",
+        "text": "Oyundan çıkmak için dokunun."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCurrency",
+        "text": "Para cinsinden bahis çizgisi kazancı, jeton kazancı ile jeton değerinin çarpımı kadardır."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCurrency",
+        "text": "Para cinsinden bahis çizgisi kazancı, jeton kazancı ile jeton değerinin çarpımı kadardır."
+    },
+    {
+        "id": "RTpaytableHighestRev",
+        "text": "Sadece aktif bahis çizgisinin iki yönündeki en yüksek kazanç ödenir."
+    },
+    {
+        "id": "RTMGspinButtonLeft",
+        "text": "Sağ el modunu açıp kapatmak için dokunun."
+    },
+    {
+        "id": "RTMGAutoplaySpins",
+        "text": "Seçilen dönüş sayısı düğmenin üstünde gösterilir."
+    },
+    {
+        "id": "RTMGsoundSettings",
+        "text": "Ses Ayarları"
+    },
+    {
+        "id": "RTMGsoundOnOffRev",
+        "text": "Sesi açıp kapatmak için şaltere dokunun."
+    },
+    {
+        "id": "RTMGsoundSettingsUI",
+        "text": "Sesi ayarlar menüsüne girmeden açıp kapatmak için dokunun."
+    },
+    {
+        "id": "RTMGsoundsOff",
+        "text": "Sesi her zaman kapat"
+    },
+    {
+        "id": "RTMGleftHandMode",
+        "text": "Sol El Modu"
+    },
+    {
+        "id": "RTMGstarburstTouchIntro",
+        "text": "Starburst Touch™ 5 çarklı, 3 satırlı bir video slot oyunudur ve yeniden dönüşleri olan Starburst™ Wild ile çift yönlü kazanç özelliklerini sunar."
+    },
+    {
+        "id": "RTMGstarburstTouchRulesHeading",
+        "text": "Starburst Touch™ Oyun Kuralları"
+    },
+    {
+        "id": "RTstarBurstWildSubstitute",
+        "text": "Starburst™ Çılgın sembolü herhangi bir sembolün yerini alabilir."
+    },
+    {
+        "id": "RTstarBurstRulesHeading",
+        "text": "Starburst™ Oyun Kuralları"
+    },
+    {
+        "id": "RTstarBurststickyWExpandsReSpinsRev",
+        "text": "Starburst™ Wild özelliği sırasında, Starburst™ Wild\u0027ler bütün çarkı kaplayacak şekilde genişler ve diğer çarklar yeniden dönerken yerlerinde sabit kalır."
+    },
+    {
+        "id": "RTstarBurstWildSymbAppear",
+        "text": "Starburst™ Wild sembolleri yalnızca 2’nci, 3’üncü ve 4’üncü makaralarda görülebilir."
+    },
+    {
+        "id": "RTstarBurstWildHeading",
+        "text": "Starburst™ Wilds"
+    },
+    {
+        "id": "RTstarBurstIntro",
+        "text": "Starburst™, 5 çarklı, 3 satırlı bir oyun makinesidir ve ilave dönüşle İki Yönde Kazan özelliği olan Starburst™ Çılgınını sunar."
+    },
+    {
+        "id": "ReSpinsAtActivatingRound",
+        "text": "Tekrar dönüşler, tekrar dönüşü etkinleştiren turdaki bahisle aynı bahis tutarında oynanır."
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Tercüme edilmiş terim"
+    },
+    {
+        "id": "RTMGtouchMainGameNew",
+        "text": "Yatay görüntü modunda Döndürme düğmesini gizlemek için oyun alanına dokunun."
+    },
+    {
+        "id": "RTstarBurstAddReSpinsRev",
+        "text": "Yeniden dönüş sırasında yeni bir Starburst™ Wild sembolü belirirse, bu sembol genişler ve hem kendisi hem de önceden genişlemiş Starburst™ Wild sembolleri ile birlikte bir sonraki yeniden dönüş için bulunduğu yere sabitlenir."
+    },
+    {
+        "id": "RTstarburstWildEnds",
+        "text": "Yeniden dönüşlerden birinde artık Starburst™ Wild belirmezse Starburst™ Wild özelliği sona erer."
+    },
+    {
+        "id": "RTautoplayDuringGameRev",
+        "text": "\u003cb\u003eNot:\u003c/b\u003e Bir oyun turu sırasında Autoplay ayarlarını değiştirirken, tüm ayarlar oyun turu veya özellik tamamlandığında aktif hale gelecektir."
+    },
+    {
+        "id": "RTopenAutoplayMenu",
+        "text": "Otomatik oyun ayarlarını açmak ve oyunu otomatik olarak oynatmak için tıklatın."
+    },
+    {
+        "id": "RTwinCalculationWinMatchCurrency",
+        "text": "Para cinsinden bahis çizgisi kazancı, jeton kazancı ile jeton değerinin çarpımı kadardır."
+    },
+    {
+        "id": "RTsliderBetLevel",
+        "text": "Bahis seviyesi, Bahis seviyesi kaydıracı kullanılarak belirlenir."
+    },
+    {
+        "id": "RTeachStar1AddRespinUpTo3respin",
+        "text": "Bir Starburst™ Wild sembolünden sonra belirebilen 2\u0027ye kadar  Starburst™ Wild, bir yeniden dönüş tetikler, ekstradan bir yeniden dönüş daha tetikleyebilir ve en fazla 3 yeniden dönüş kazandırabilir."
+    },
+    {
+        "id": "onlyHighWinComb",
+        "text": "En soldan sağa doğru ve/veya en sağdan sola doğru oluşan bahis çizgilerinin sadece en yüksek kazandıran kombinasyonu ödenir."
+    },
+    {
+        "id": "RTexCloneWildOverlay",
+        "text": "Expanding Cloning Wild sembolleri, dönen çarkların üstünde bir katman olarak görüntülenir. Klonlanan semboller de çarkların üstünde bir katman olarak görüntülenir."
+    },
+    {
+        "id": "RTsliderCoinValue",
+        "text": "Jeton değeri, Jeton değeri kaydıracı kullanılarak belirlenir."
+    },
+    {
+        "id": "RTcashIncreasesDescRev",
+        "text": "Nakit belirlediğiniz miktarda artarsa Otomatik Oyun\u0027u durdurur."
+    },
+    {
+        "id": "RTcashDecreasesDescRev",
+        "text": "Nakit belirlediğiniz miktarda azalırsa Otomatik Oyun\u0027u durdurur."
+    },
+    {
+        "id": "RTMGautoOptions",
+        "text": "Otomatik oyun seçeneklerini ve turların sayısını ayarlamak için kaydırıcıya dokunun veya onu sürükleyin. Otomatik oyun, oyunu seçilen dönüş sayısı kadar oynatır."
+    },
+    {
+        "id": "featuresNotAvailablePFF",
+        "text": "\u003cb\u003eEĞLENCESİNE OYUN\u003c/b\u003e modunda bazı özellikler kullanılamayabilir."
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003eNot:\u003c/b\u003e Bazı otomatik oyun seçenekleri, bazı bölgelerde yerel kanunlar nedeniyle zorunludur."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003eNot\u003c/b\u003e: Takip eden tablo, sadece İngilizce dışında başka bir dilde oynuyorsanız geçerlidir."
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "Ayrıntılı Bilgi"
+    },
+    {
+        "id": "termEnglish",
+        "text": "İngilizce Terim"
+    },
+    {
+        "id": "RTsingleWinDescRevNew",
+        "text": "Kazandığınız miktar, belirttiğiniz miktar ile aynı veya bu miktardan fazla ise Otomatik Oyun\u0027u durdurur."
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Oyun Terminolojisinin Tercümeleri"
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Tercüme edilmiş terim"
+    }
+]

@@ -1,0 +1,463 @@
+﻿<defaults xml:lang="ro">
+  <!-- Romanian locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 03:06:44 GMT on Sunday 8 April 2018.
+
+ -->
+  <ds Jurisdiction="*" name="freeRoundsFinished" id="freeRoundsFinished"></ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpinsNoSpan" id="MGvarRetriggerFreeSpinsNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTvarRetriggerFSNoSpan" id="OCTvarRetriggerFSNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpins" id="MGvarRetriggerFreeSpins">&lt;span class='NetEnt_plusSign'&gt;+&lt;/span&gt;&lt;span class='NetEnt_numberFreeSpins'&gt;{0}&lt;/span&gt; Free Spins</ds>
+  <ds Jurisdiction="*" name="NeProduction" id="NeProduction">A NET ENTERTAINMENT PRODUCTION</ds>
+  <ds Jurisdiction="*" name="MGoptionAvailable" id="MGoptionAvailable">Această opţiune este disponibilă doar după o rundă de joc terminată.</ds>
+  <ds Jurisdiction="*" name="optimisedForVersion" id="optimisedForVersion">Acest joc este optimizat pentru: {0}</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsLeft" id="MGfreeRoundsLeft">Ai {0} runde gratuite rămase!</ds>
+  <ds Jurisdiction="*" name="MGyouWonCoins" id="MGyouWonCoins">Ai câştigat {0} fise</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoins" id="OCTyouWonCoins">Ai câştigat {0} fise</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoinsUC" id="OCTyouWonCoinsUC">Ai câştigat {0} fise</ds>
+  <ds Jurisdiction="*" name="MGyouWon" id="MGyouWon">Ai câştigat:{0}</ds>
+  <ds Jurisdiction="*" name="OCTyouWinUCNoExclamation" id="OCTyouWinUCNoExclamation">AȚI CÂȘTIGAT</ds>
+  <ds Jurisdiction="*" name="animationsGameSetting" id="animationsGameSetting">Animaţii</ds>
+  <ds Jurisdiction="*" name="appearsOnReels" id="appearsOnReels">APARE PE ROLELE {0}, {1} ŞI {2}.</ds>
+  <ds Jurisdiction="*" name="MGappearsOnReelsLC" id="MGappearsOnReelsLC">Apare pe rolele {0}, {1} şi {2}.</ds>
+  <ds Jurisdiction="*" name="OCTspaceSpin" id="OCTspaceSpin">Apasă Spațiu pt învârtire</ds>
+  <ds Jurisdiction="*" name="spaceSpin" id="spaceSpin">Apasă Spațiu pt învârtire</ds>
+  <ds Jurisdiction="*" name="MG11" id="MG11">Aţi atins limita dvs. de joc. Sunteţi rugat să reveniţi mai târziu!</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinWon" id="MGadditonalFreeSpinWon">Aţi câştigat {0} Free Spin (Învârtiri gratuite) suplimentare</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinsWon" id="MGadditonalFreeSpinsWon">Aţi câştigat {0} Free Spins (Învârtiri gratuite) suplimentare</ds>
+  <ds Jurisdiction="*" name="OCTadditonalFreeSpinsWon" id="OCTadditonalFreeSpinsWon">Aţi câştigat {0} Free Spins (Învârtiri gratuite) suplimentare</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRoundsRev" id="MGhaveFreeRoundsRev">Aveţi {0} runde gratuite!</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRounds" id="MGhaveFreeRounds">Aveţi {0} runde gratuite.</ds>
+  <ds Jurisdiction="*" name="OCTqualityHeading" id="OCTqualityHeading">Calitatea grafică</ds>
+  <ds Jurisdiction="*" name="qualityHeading" id="qualityHeading">Calitatea grafică</ds>
+  <ds Jurisdiction="Spain" name="OCTmachinetext_win" id="OCTmachinetext_win">CÂŞTIG</ds>
+  <ds Jurisdiction="*" name="OCTwin" id="OCTwin">Câştig</ds>
+  <ds Jurisdiction="*" name="MGwinPay" id="MGwinPay">Câştig</ds>
+  <ds Jurisdiction="*" name="winBothWaysRev" id="winBothWaysRev">CÂŞTIG ÎN AMBELE DIRECŢII</ds>
+  <ds Jurisdiction="*" name="OCTbigWin" id="OCTbigWin">CÂŞTIG MARE!</ds>
+  <ds Jurisdiction="*" name="bigWin" id="bigWin">CÂŞTIG MARE!</ds>
+  <ds Jurisdiction="*" name="MGbigWin" id="MGbigWin">CÂŞTIG MARE!</ds>
+  <ds Jurisdiction="*" name="WinUpTodup" id="WinUpTodup">CÂŞTIG PÂNĂ LA</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinWithColon" id="OCTtotalWinWithColon">Câştig total:</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinColonVar" id="OCTtotalWinColonVar">Câştig total: {0}</ds>
+  <ds Jurisdiction="*" name="MGtotalWin" id="MGtotalWin">Câştig total: {0}</ds>
+  <ds Jurisdiction="*" name="OCTwinColonVar" id="OCTwinColonVar">Câştig: {0}</ds>
+  <ds Jurisdiction="*" name="MGwin" id="MGwin">Câştig: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinCapitals" id="MGwinCapitals">CÂŞTIG: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinUpTo" id="MGwinUpTo">Câştigaţi până la {0} fise</ds>
+  <ds Jurisdiction="*" name="OCTwinUpTo" id="OCTwinUpTo">Câştigaţi până la {0} fise</ds>
+  <ds Jurisdiction="*" name="MGwinIncoins" id="MGwinIncoins">Câştigul tău în fise: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinMultiplierVar" id="MGwinMultiplierVar">Câştigurile de fise sunt înmulțite cu {0}</ds>
+  <ds Jurisdiction="*" name="OCTbetLineWinsLeftToRightOnly" id="OCTbetLineWinsLeftToRightOnly">Câştigurile pe linia de miză se plătesc dacă sunt în succesiune de la rola cea mai din stânga spre cea mai din dreapta.</ds>
+  <ds Jurisdiction="*" name="winBothWaysPaysRev" id="winBothWaysPaysRev">Câştigurile pe linie de miză se plătesc în succesiune, fie de la cea mai din stânga spre dreapta, fie de la cea mai din dreapta spre stânga.</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinUCnoVar" id="OCTtotalWinUCnoVar">CÂȘTIG TOTAL:</ds>
+  <ds Jurisdiction="*" name="OCTwinColonUC" id="OCTwinColonUC">CÂȘTIG:</ds>
+  <ds Jurisdiction="*" name="FSplashWinBothWays" id="FSplashWinBothWays">CÂȘTIG&lt;br&gt;ÎN AMBELE DIRECȚII</ds>
+  <ds Jurisdiction="*" name="MGminOSReq" id="MGminOSReq">Cerinţa minimă este:</ds>
+  <ds Jurisdiction="*" name="MGwinningCombinations" id="MGwinningCombinations">Combinaţii câştigătoare şi nivelul plăţilor</ds>
+  <ds Jurisdiction="*" name="specialWinCombo" id="specialWinCombo">COMBO</ds>
+  <ds Jurisdiction="*" name="MGconnectionLost" id="MGconnectionLost">Conexiune pierdută</ds>
+  <ds Jurisdiction="*" name="OCTconnectionLost" id="OCTconnectionLost">Conexiune pierdută</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Conexiune: Slabă</ds>
+  <ds Jurisdiction="*" name="connectionQualityPoor" id="connectionQualityPoor">Conexiune: Slabă</ds>
+  <ds Jurisdiction="*" name="MGslowConnection" id="MGslowConnection">Conexiunea curentă la internet este înceată.</ds>
+  <ds Jurisdiction="*" name="OCTslowConnection" id="OCTslowConnection">Conexiunea curentă la internet este înceată.</ds>
+  <ds Jurisdiction="*" name="OCTaccountUnavailable" id="OCTaccountUnavailable">Cont indisponibil</ds>
+  <ds Jurisdiction="*" name="MGaccountUnavailable" id="MGaccountUnavailable">Cont indisponibil</ds>
+  <ds Jurisdiction="*" name="MGcontinue" id="MGcontinue">Continuare</ds>
+  <ds Jurisdiction="*" name="OCTbutton_CONTINUE" id="OCTbutton_CONTINUE">CONTINUARE</ds>
+  <ds Jurisdiction="*" name="OCTContinue" id="OCTContinue">Continuare</ds>
+  <ds Jurisdiction="*" name="OCTcontinuePlaying" id="OCTcontinuePlaying">Continuare joc din momentul în care a fost lăsat.</ds>
+  <ds Jurisdiction="*" name="MGcontinuePlaying" id="MGcontinuePlaying">Continuare joc din momentul în care a fost lăsat.</ds>
+  <ds Jurisdiction="*" name="MGright" id="MGright">D</ds>
+  <ds Jurisdiction="*" name="MGbutton_yes" id="MGbutton_yes">Da</ds>
+  <ds Jurisdiction="*" name="OCTbtnYes" id="OCTbtnYes">Da</ds>
+  <ds Jurisdiction="*" name="MGyes" id="MGyes">Da*</ds>
+  <ds Jurisdiction="Spain" name="OCTifFBonusIsStarted" id="OCTifFBonusIsStarted">Dacă s-a câştigat jocul bonus</ds>
+  <ds Jurisdiction="*" name="OCTifFreeSpinsIsStarted" id="OCTifFreeSpinsIsStarted">Dacă sunt câştigate Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTifCashDecreasesBy" id="OCTifCashDecreasesBy">Dacă totalul de bani scade cu</ds>
+  <ds Jurisdiction="*" name="OCTifWinExeeds" id="OCTifWinExeeds">Dacă un singur câştig depăşeşte</ds>
+  <ds Jurisdiction="*" name="ifWinExeeds" id="ifWinExeeds">Dacă un singur câştig depăşeşte</ds>
+  <ds Jurisdiction="*" name="OCTdepositPlay" id="OCTdepositPlay">Depuneți mai mulți bani pentru a continua să jucați.</ds>
+  <ds Jurisdiction="*" name="OCTdeposit_btn" id="OCTdeposit_btn">Depunere</ds>
+  <ds Jurisdiction="*" name="MGdeposit_btn" id="MGdeposit_btn">Depunere</ds>
+  <ds Jurisdiction="*" name="MGdeposit" id="MGdeposit">Depuneţi mai mulţi bani sau reduceţi miza.</ds>
+  <ds Jurisdiction="*" name="OCTdeposit" id="OCTdeposit">Depuneţi mai mulţi bani sau reduceţi miza.</ds>
+  <ds Jurisdiction="*" name="MGnoBrowserSupport" id="MGnoBrowserSupport">Din nefericire, nu este oferit suport pentru acest browser.</ds>
+  <ds Jurisdiction="*" name="MGdeviceNoSupport" id="MGdeviceNoSupport">Din nefericire, nu este oferit suport pentru acest dispozitiv.</ds>
+  <ds Jurisdiction="*" name="MGnoOSSupport" id="MGnoOSSupport">Din nefericire, nu este oferit suport pentru acest sistem de operare.</ds>
+  <ds Jurisdiction="*" name="paytableHighestRev" id="paytableHighestRev">Doar câştigul cel mare pe o linie de miză activă din ambele direcţii este plătit.</ds>
+  <ds Jurisdiction="*" name="updateBrowserQuestion" id="updateBrowserQuestion">Doriți să faceți actualizarea?</ds>
+  <ds Jurisdiction="*" name="MGcontinueYesNo" id="MGcontinueYesNo">Doriţi să continuaţi?</ds>
+  <ds Jurisdiction="*" name="OCTcontinueYesNo" id="OCTcontinueYesNo">Doriţi să continuaţi?</ds>
+  <ds Jurisdiction="*" name="OCTintroScreeGameSetting" id="OCTintroScreeGameSetting">Ecran intro</ds>
+  <ds Jurisdiction="*" name="introScreeGameSetting" id="introScreeGameSetting">Ecran intro</ds>
+  <ds Jurisdiction="*" name="sound" id="sound">Efecte sonore</ds>
+  <ds Jurisdiction="*" name="MGerror" id="MGerror">Eroare tehnică</ds>
+  <ds Jurisdiction="*" name="OCTerror" id="OCTerror">Eroare tehnică</ds>
+  <ds Jurisdiction="*" name="OCTpaytableHighestWinMatch" id="OCTpaytableHighestWinMatch">Este achitat doar cel mai mare câștig de la o partidă câștigată.</ds>
+  <ds Jurisdiction="*" name="upgradeDevice" id="upgradeDevice">Faceți un upgrade la dispozitivul dvs.</ds>
+  <ds Jurisdiction="*" name="OCToutOfMoney" id="OCToutOfMoney">Fără bani</ds>
+  <ds Jurisdiction="*" name="MGoutOfMoney" id="MGoutOfMoney">Fără bani</ds>
+  <ds Jurisdiction="*" name="MGcongrats" id="MGcongrats">Felicitări!</ds>
+  <ds Jurisdiction="*" name="OCTcongratsLC" id="OCTcongratsLC">Felicitări!</ds>
+  <ds Jurisdiction="*" name="OCTintroGameSetting" id="OCTintroGameSetting">Film intro</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coins" id="OCTmachinetext_coins">FISE</ds>
+  <ds Jurisdiction="*" name="coins" id="coins">Fise</ds>
+  <ds Jurisdiction="*" name="coinsWonColon" id="coinsWonColon">Fise câştigate:</ds>
+  <ds Jurisdiction="*" name="OCTcoinsWonColon" id="OCTcoinsWonColon">Fise câştigate:</ds>
+  <ds Jurisdiction="*" name="OCTcoinsColonVar" id="OCTcoinsColonVar">Fise: {0}</ds>
+  <ds Jurisdiction="*" name="MGcoins" id="MGcoins">Fise: {0}</ds>
+  <ds Jurisdiction="*" name="MGuseDefaultBrowser" id="MGuseDefaultBrowser">Folosiţi browser-ul implicit pentru dispozitiv sau faceţi upgrade la sistemul dvs.</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsUC" id="OCTfreeSpinsUC">FREE SPINS</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsLeftColonVar" id="OCTfreeSpinsLeftColonVar">Free Spins rămase: {0}</ds>
+  <ds Jurisdiction="*" name="MGfreeSpinsLeftColonVar" id="MGfreeSpinsLeftColonVar">Free Spins rămase: {0}</ds>
+  <ds Jurisdiction="*" name="InAssociation" id="InAssociation">În asociere cu</ds>
+  <ds Jurisdiction="*" name="highQuality" id="highQuality">Înaltă</ds>
+  <ds Jurisdiction="*" name="OCThighQuality" id="OCThighQuality">Înaltă</ds>
+  <ds Jurisdiction="*" name="OCTloadingTakesLonger" id="OCTloadingTakesLonger">Încărcarea jocului durează mai mult decât de obicei.</ds>
+  <ds Jurisdiction="*" name="loadingTakesLonger" id="loadingTakesLonger">Încărcarea jocului durează mai mult decât de obicei.</ds>
+  <ds Jurisdiction="*" name="MGplayingForMoney" id="MGplayingForMoney">Începeţi să jucaţi pe bani?</ds>
+  <ds Jurisdiction="*" name="MGclose_btn" id="MGclose_btn">Închidere</ds>
+  <ds Jurisdiction="*" name="OCTclose_btn" id="OCTclose_btn">Închidere</ds>
+  <ds Jurisdiction="*" name="MGsubAllSymbolsLC" id="MGsubAllSymbolsLC">Înlocuitor pentru toate simbolurile.</ds>
+  <ds Jurisdiction="*" name="subAllSymbols" id="subAllSymbols">ÎNLOCUITOR PENTRU TOATE SIMBOLURILE.</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeading" id="MGgameHistoryHeading">Istoric joc</ds>
+  <ds Jurisdiction="*" name="gameHistory" id="gameHistory">Istoric jocuri</ds>
+  <ds Jurisdiction="*" name="OCTgameHistory" id="OCTgameHistory">Istoric jocuri</ds>
+  <ds Jurisdiction="*" name="OCTgameHistoryHeadingUC" id="OCTgameHistoryHeadingUC">ISTORICUL JOCULUI</ds>
+  <ds Jurisdiction="*" name="OCThistoryNotAvailable" id="OCThistoryNotAvailable">Istoricul jocului este disponibil doar când joci pe bani.</ds>
+  <ds Jurisdiction="*" name="MGhistoryNotAvailable" id="MGhistoryNotAvailable">Istoricul jocului este disponibil doar când joci pe bani.</ds>
+  <ds Jurisdiction="*" name="MGnewHistoryWindow" id="MGnewHistoryWindow">Istoricul jocului se va deschide într-o fereastră nouă. Închideţi pagina pentru a reveni la joc.</ds>
+  <ds Jurisdiction="Algeria" name="OCTnewHistoryWindow" id="OCTnewHistoryWindow">Istoricul jocului se va deschide într-o fereastră nouă. Închideţi pagina pentru a reveni la joc.</ds>
+  <ds Jurisdiction="*" name="OCTautoplayButton" id="OCTautoplayButton">JOC AUTOMAT</ds>
+  <ds Jurisdiction="*" name="OCTautoplayPanelLabel" id="OCTautoplayPanelLabel">Joc automat</ds>
+  <ds Jurisdiction="*" name="MGautoplayPanelLabel" id="MGautoplayPanelLabel">Joc automat</ds>
+  <ds Jurisdiction="*" name="MGautoplayCancelled" id="MGautoplayCancelled">Joc automat anulat</ds>
+  <ds Jurisdiction="*" name="MGplayingForFun" id="MGplayingForFun">JOC DE AMUZAMENT</ds>
+  <ds Jurisdiction="*" name="OCTplayingForFun" id="OCTplayingForFun">JOC DE AMUZAMENT</ds>
+  <ds Jurisdiction="*" name="OCTgameUnavailable" id="OCTgameUnavailable">Joc Indisponibil</ds>
+  <ds Jurisdiction="*" name="MGgameUnavailable" id="MGgameUnavailable">Joc Indisponibil</ds>
+  <ds Jurisdiction="*" name="MGrestoredGameHeader" id="MGrestoredGameHeader">Joc restabilit</ds>
+  <ds Jurisdiction="*" name="OCTrestoredGameHeader" id="OCTrestoredGameHeader">Joc restabilit</ds>
+  <ds Jurisdiction="*" name="autoplayButtonTwoLine" id="autoplayButtonTwoLine">JOC&lt;br&gt;AUTOMAT</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingWon" id="MGRCheckPlayingWon">Joci de {0} ore şi ai câştigat {1}.</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingWon" id="OCTRCheckPlayingWon">Joci de {0} ore şi ai câştigat {1}.</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingLost" id="OCTRCheckPlayingLost">Joci de {0} ore şi ai pierdut {1}.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingLost" id="MGRCheckPlayingLost">Joci de {0} ore şi ai pierdut {1}.</ds>
+  <ds Jurisdiction="*" name="MGyouPlayingFun" id="MGyouPlayingFun">Joci pentru distracţie</ds>
+  <ds Jurisdiction="*" name="OCTyouPlayingFun" id="OCTyouPlayingFun">Joci pentru distracţie</ds>
+  <ds Jurisdiction="*" name="OCTlostConnectInactivity" id="OCTlostConnectInactivity">Jocul a pierdut conexiunea datorită inactivităţii.</ds>
+  <ds Jurisdiction="*" name="MGlostConnectionInactivity" id="MGlostConnectionInactivity">Jocul a pierdut conexiunea datorită inactivităţii.</ds>
+  <ds Jurisdiction="*" name="gameOptimisedFor" id="gameOptimisedFor">Jocul este optimizat pentru {0} pe {1}.</ds>
+  <ds Jurisdiction="*" name="gameOptimisedVersion" id="gameOptimisedVersion">Jocul este optimizat pentru: {0}</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Jocul folosește cookie-uri pentru a îmbunătăți experiența dvs. și pentru statistică. Vă rugăm să confirmați că acceptați</ds>
+  <ds Jurisdiction="*" name="gameNotLoaded" id="gameNotLoaded">Jocul nu s-a putut încărca.</ds>
+  <ds Jurisdiction="*" name="onAnyWin" id="onAnyWin">La orice câştig</ds>
+  <ds Jurisdiction="*" name="MGplayLimit" id="MGplayLimit">Limita de joc</ds>
+  <ds Jurisdiction="*" name="OCTplayLimit" id="OCTplayLimit">Limita de joc</ds>
+  <ds Jurisdiction="*" name="OCTwinningBetLinesHeading" id="OCTwinningBetLinesHeading">Linii de miză câștigătoare</ds>
+  <ds Jurisdiction="*" name="MGwinningLinesHeading" id="MGwinningLinesHeading">Linii de miză câștigătoare</ds>
+  <ds Jurisdiction="*" name="MGbetLineWinsLeftRight" id="MGbetLineWinsLeftRight">Liniile de miză câştigă dacă simbolurile câştigătoare sunt în succesiune de la rola cea mai din stânga spre dreapta.</ds>
+  <ds Jurisdiction="*" name="MGcasino_btn" id="MGcasino_btn">Lobby</ds>
+  <ds Jurisdiction="*" name="OCTcasino_btn" id="OCTcasino_btn">Lobby</ds>
+  <ds Jurisdiction="*" name="OCTlogin_btn" id="OCTlogin_btn">Login</ds>
+  <ds Jurisdiction="*" name="MGlogin_btn" id="MGlogin_btn">Login</ds>
+  <ds Jurisdiction="*" name="RCheckMonths" id="RCheckMonths">luni</ds>
+  <ds Jurisdiction="*" name="mediumQuality" id="mediumQuality">Medie</ds>
+  <ds Jurisdiction="*" name="OCTmediumQuality" id="OCTmediumQuality">Medie</ds>
+  <ds Jurisdiction="*" name="OCTmegaWin" id="OCTmegaWin">MEGA CÂŞTIG!</ds>
+  <ds Jurisdiction="*" name="megaWin" id="megaWin">MEGA CÂŞTIG!</ds>
+  <ds Jurisdiction="*" name="specialWinMegaCombo" id="specialWinMegaCombo">MEGA COMBO</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Mesaj</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_bet" id="OCTmachinetext_bet">MIZĂ</ds>
+  <ds Jurisdiction="*" name="OCTtotalbet" id="OCTtotalbet">Miză</ds>
+  <ds Jurisdiction="*" name="OCTbetInCoins" id="OCTbetInCoins">Miză în fise</ds>
+  <ds Jurisdiction="*" name="MGbetInCoins" id="MGbetInCoins">Miză în fise</ds>
+  <ds Jurisdiction="*" name="MGbetInCoinsRev" id="MGbetInCoinsRev">Miză în fise</ds>
+  <ds Jurisdiction="*" name="MGbetInCash" id="MGbetInCash">Miză în numerar</ds>
+  <ds Jurisdiction="*" name="MGbetCashCoins" id="MGbetCashCoins">Miza în numerar/fise</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbutton" id="OCTmaxbetbutton">MIZĂ MAX</ds>
+  <ds Jurisdiction="*" name="OCTbetColonVar" id="OCTbetColonVar">Miză: {0}</ds>
+  <ds Jurisdiction="*" name="MGbet" id="MGbet">Miză: {0}</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbuttonTwoLine" id="OCTmaxbetbuttonTwoLine">MIZĂ&lt;br&gt;MAX</ds>
+  <ds Jurisdiction="*" name="OCTbetInCash" id="OCTbetInCash">Mizare cu bani</ds>
+  <ds Jurisdiction="*" name="MGbetInCashRev" id="MGbetInCashRev">Mizare cu bani</ds>
+  <ds Jurisdiction="*" name="MGleftHandMode" id="MGleftHandMode">Modul pentru stângaci</ds>
+  <ds Jurisdiction="*" name="OCTleftHandMode" id="OCTleftHandMode">Modul pentru stângaci</ds>
+  <ds Jurisdiction="*" name="multiplierUC" id="multiplierUC">MULTIPLICATOR</ds>
+  <ds Jurisdiction="*" name="MGcolHeadBetMulti" id="MGcolHeadBetMulti">Multiplicator miză</ds>
+  <ds Jurisdiction="*" name="multiplierFLC" id="multiplierFLC">Multiplier</ds>
+  <ds Jurisdiction="*" name="MGnoWin" id="MGnoWin">Nici un câştig</ds>
+  <ds Jurisdiction="*" name="OCTlevel" id="OCTlevel">NIVEL</ds>
+  <ds Jurisdiction="Spain" name="OCTbetlevel" id="OCTbetlevel">Nivel miză</ds>
+  <ds Jurisdiction="*" name="MGbetlevel" id="MGbetlevel">Nivel miză</ds>
+  <ds Jurisdiction="*" name="MGbutton_no" id="MGbutton_no">Nu</ds>
+  <ds Jurisdiction="*" name="OCTbtnNo" id="OCTbtnNo">Nu</ds>
+  <ds Jurisdiction="*" name="dontShowNextTime" id="dontShowNextTime">Nu afişa data viitoare</ds>
+  <ds Jurisdiction="*" name="deviceNotSupported" id="deviceNotSupported">Nu este oferit suport pentru dispozitivul dvs.</ds>
+  <ds Jurisdiction="*" name="operatingSystemNoSupport" id="operatingSystemNoSupport">Nu este oferit suport pentru sistemul dvs. de operare.</ds>
+  <ds Jurisdiction="*" name="couldNotConnectServer" id="couldNotConnectServer">Nu s-a putut realiza conectarea la server.</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Număr de {0}</ds>
+  <ds Jurisdiction="*" name="OCTspinsLeftText" id="OCTspinsLeftText">Număr de {0} rămase</ds>
+  <ds Jurisdiction="*" name="OCTnumberSpins" id="OCTnumberSpins">Numărul de învârtiri</ds>
+  <ds Jurisdiction="*" name="MGnumberSpins" id="MGnumberSpins">Numărul de învârtiri</ds>
+  <ds Jurisdiction="*" name="MGmaxNumberReSpinsLC" id="MGmaxNumberReSpinsLC">Numărul maxim de re-învârtiri este {0}.</ds>
+  <ds Jurisdiction="*" name="maxNumberReSpins" id="maxNumberReSpins">NUMĂRUL MAXIM DE RE-ÎNVÂRTIRI ESTE {0}.</ds>
+  <ds Jurisdiction="*" name="MGRCcheckReminder" id="MGRCcheckReminder">O reamintire subtilă</ds>
+  <ds Jurisdiction="*" name="OCTRCcheckReminder" id="OCTRCcheckReminder">O reamintire subtilă</ds>
+  <ds Jurisdiction="*" name="OCTbtnOK" id="OCTbtnOK">OK</ds>
+  <ds Jurisdiction="*" name="MGok_btn" id="MGok_btn">OK</ds>
+  <ds Jurisdiction="*" name="OCTskipIntro" id="OCTskipIntro">Omitere introducere</ds>
+  <ds Jurisdiction="*" name="autoBonusGame" id="autoBonusGame">Oprește Jocul automat dacă se câștigă Bonus Game înaintea încheierii numărului setat de runde de joc automat.</ds>
+  <ds Jurisdiction="*" name="autoplayFeatureSpins" id="autoplayFeatureSpins">Oprește Jocul automat dacă se câștigă Feature Spins înaintea încheierii numărului setat de runde de joc automat.</ds>
+  <ds Jurisdiction="*" name="MGstopIfBonusGame" id="MGstopIfBonusGame">Oprire dacă se câştigă Bonus Game</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinscrosstowntraffic" id="OCTstopIfFreeSpinscrosstowntraffic">Oprire dacă se câştigă Crosstown Traffic Free Spins</ds>
+  <ds Jurisdiction="*" name="stopIfFeatureSpins" id="stopIfFeatureSpins">Oprire dacă se câştigă Feature Spin</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpins" id="OCTstopIfFreeSpins">Oprire dacă se câştigă Free Spins</ds>
+  <ds Jurisdiction="*" name="MGstopIfFreeSpins" id="MGstopIfFreeSpins">Oprire dacă se câştigă Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinslittlewing" id="OCTstopIfFreeSpinslittlewing">Oprire dacă se câştigă Little Wing Free Spins</ds>
+  <ds Jurisdiction="*" name="stopIfPickAndClick" id="stopIfPickAndClick">Oprire dacă se câştigă Pick and Click</ds>
+  <ds Jurisdiction="*" name="stopIfPoliceSpins" id="stopIfPoliceSpins">Oprire dacă se câştigă Police Spins</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinspurplehaze" id="OCTstopIfFreeSpinspurplehaze">Oprire dacă se câştigă Purple Haze Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlay" id="OCTstopAutoPlay">Oprire joc automat</ds>
+  <ds Jurisdiction="*" name="OCTsoundsNo" id="OCTsoundsNo">Oprire sunet</ds>
+  <ds Jurisdiction="*" name="MGsoundsNo" id="MGsoundsNo">Oprire sunet</ds>
+  <ds Jurisdiction="*" name="MGoff" id="MGoff">Oprit</ds>
+  <ds Jurisdiction="*" name="MGoptionUnavailable" id="MGoptionUnavailable">Opţiune indisponibilă</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Pentru a juca jocul trebuie să vă actualizați browser-ul.</ds>
+  <ds Jurisdiction="*" name="extraInfo" id="extraInfo">Pentru mai multe informaţii, consultaţi Regulile Jocului.</ds>
+  <ds Jurisdiction="*" name="OCTextraInfo" id="OCTextraInfo">Pentru mai multe informaţii, consultaţi Regulile Jocului.</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">politica noastră.</ds>
+  <ds Jurisdiction="*" name="MGdownloadSounds" id="MGdownloadSounds">Pornesc sunetele?</ds>
+  <ds Jurisdiction="*" name="OCTstartFreeSpins" id="OCTstartFreeSpins">PORNEȘTE FREE SPINS</ds>
+  <ds Jurisdiction="*" name="OCTsoundsOn" id="OCTsoundsOn">Pornire sunet</ds>
+  <ds Jurisdiction="*" name="MGsoundsOn" id="MGsoundsOn">Pornire sunet</ds>
+  <ds Jurisdiction="*" name="MGspinButtonPosition" id="MGspinButtonPosition">Poziția butonului Rotire</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Probabil nu este rezultatul pe care îl așteptați. Aveți alte {0} Runde gratuite din partea noastră.</ds>
+  <ds Jurisdiction="Antigua and Barbuda" name="OCTreduceBet_btn" id="OCTreduceBet_btn">Reduce miza</ds>
+  <ds Jurisdiction="*" name="MGreduceBet_btn" id="MGreduceBet_btn">Reduce miza</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheading" id="MGgameRulesheading">Reguli joc</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheadingCaps" id="MGgameRulesheadingCaps">REGULILE JOCULUI</ds>
+  <ds Jurisdiction="*" name="OCTgameRulesUC" id="OCTgameRulesUC">REGULILE JOCULUI</ds>
+  <ds Jurisdiction="*" name="OCTreload_btn" id="OCTreload_btn">Reîncărc.</ds>
+  <ds Jurisdiction="*" name="MGreload_btn" id="MGreload_btn">Reîncărc.</ds>
+  <ds Jurisdiction="*" name="MGreload_btnRev" id="MGreload_btnRev">Reîncărcare</ds>
+  <ds Jurisdiction="*" name="OCTreset" id="OCTreset">Reiniţializare</ds>
+  <ds Jurisdiction="*" name="OCTquickSpin" id="OCTquickSpin">Rotire rapidă</ds>
+  <ds Jurisdiction="*" name="OCTquickSpinGameSetting" id="OCTquickSpinGameSetting">Rotire rapidă</ds>
+  <ds Jurisdiction="*" name="MGquickSpinGameSetting" id="MGquickSpinGameSetting">Rotire rapidă</ds>
+  <ds Jurisdiction="*" name="quickSpinGameSetting" id="quickSpinGameSetting">Rotire rapidă</ds>
+  <ds Jurisdiction="*" name="OCTautoSpins" id="OCTautoSpins">rotiri</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsTitle" id="OCTfreeRoundsTitle">Runde gratuite</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsTitle" id="MGfreeRoundsTitle">Runde gratuite</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsVar" id="MGfreeRoundsVar">Runde gratuite: {0}</ds>
+  <ds Jurisdiction="*" name="OCTFreeRoundsLeftwithColon" id="OCTFreeRoundsLeftwithColon">Runde gratuite: {0}</ds>
+  <ds Jurisdiction="*" name="OCTfreerounds" id="OCTfreerounds">Rundele gratuite au expirat</ds>
+  <ds Jurisdiction="*" name="MGfreerounds" id="MGfreerounds">Rundele gratuite au expirat</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsFinished" id="MGfreeRoundsFinished">Rundele gratuite s-au terminat</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinished" id="OCTfreeRoundsFinished">Rundele gratuite s-au terminat</ds>
+  <ds Jurisdiction="*" name="OCTroundsUseAcctMoney" id="OCTroundsUseAcctMoney">Rundele următoare vor folosi banii din contul dvs. Succes!</ds>
+  <ds Jurisdiction="*" name="MGroundsUseAccountMoney" id="MGroundsUseAccountMoney">Rundele următoare vor folosi banii din contul dvs. Succes!</ds>
+  <ds Jurisdiction="*" name="MGleft" id="MGleft">S</ds>
+  <ds Jurisdiction="*" name="lowQuality" id="lowQuality">Scăzută</ds>
+  <ds Jurisdiction="*" name="OCTlowQuality" id="OCTlowQuality">Scăzută</ds>
+  <ds Jurisdiction="Spain" name="OCTpaytableHighest" id="OCTpaytableHighest">Se acordă numai câştigul cel mai mare de pe o linie de miză.</ds>
+  <ds Jurisdiction="Spain" name="paytableHighestNoActive" id="paytableHighestNoActive">Se acordă numai câştigul cel mai mare de pe o linie de miză.</ds>
+  <ds Jurisdiction="*" name="MGsoundsOff" id="MGsoundsOff">Se dezactivează mereu sunetul</ds>
+  <ds Jurisdiction="*" name="MGexpandReelTriggerLC" id="MGexpandReelTriggerLC">Se extinde pe toată rola şi generează o re-rotire.</ds>
+  <ds Jurisdiction="*" name="expandReelTrigger" id="expandReelTrigger">SE EXTINDE PE TOATĂ ROLA ŞI GENEREAZĂ O RE-ROTIRE.</ds>
+  <ds Jurisdiction="*" name="OCTloadingText" id="OCTloadingText">Se încarcă</ds>
+  <ds Jurisdiction="*" name="OCTloading" id="OCTloading">Se încarcă...</ds>
+  <ds Jurisdiction="*" name="MGpaytableHighestPaid" id="MGpaytableHighestPaid">Se plăteşte doar cea mai mare combinaţie câştigătoare pe linia de miză.</ds>
+  <ds Jurisdiction="Spain" name="OCTautoplayPanelStartText" id="OCTautoplayPanelStartText">Selectaţi pentru pornire</ds>
+  <ds Jurisdiction="*" name="scatterSelect" id="scatterSelect">SELECTAŢI UN SCATTER</ds>
+  <ds Jurisdiction="*" name="OCTsessionTimeOut" id="OCTsessionTimeOut">Sesiune expirată</ds>
+  <ds Jurisdiction="*" name="MGsessionTimeOut" id="MGsessionTimeOut">Sesiune expirată</ds>
+  <ds Jurisdiction="*" name="OCTadvancedSettings" id="OCTadvancedSettings">Setări complexe</ds>
+  <ds Jurisdiction="*" name="OCTsoundSettingsCaps" id="OCTsoundSettingsCaps">SETĂRI DE SUNET</ds>
+  <ds Jurisdiction="*" name="OCTslidePanelLabel" id="OCTslidePanelLabel">Setări joc</ds>
+  <ds Jurisdiction="*" name="OCTbetSettingsCaps" id="OCTbetSettingsCaps">SETĂRI MIZĂ</ds>
+  <ds Jurisdiction="*" name="MGbetOptions" id="MGbetOptions">Setări miză</ds>
+  <ds Jurisdiction="*" name="MGbetSettings" id="MGbetSettings">Setări miză</ds>
+  <ds Jurisdiction="*" name="MGspinSettings" id="MGspinSettings">Setări rotire</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRev" id="MGspinSettingsRev">Setări rotire</ds>
+  <ds Jurisdiction="*" name="OCTspinSettingsCaps" id="OCTspinSettingsCaps">SETĂRI ROTIRE</ds>
+  <ds Jurisdiction="*" name="MGsoundSettings" id="MGsoundSettings">Setări sunet</ds>
+  <ds Jurisdiction="*" name="MGcolHeadFSpinSyms" id="MGcolHeadFSpinSyms">Simboluri Free Spin</ds>
+  <ds Jurisdiction="*" name="MGsoftNotTest" id="MGsoftNotTest">Software-ul nu este testat pe dispozitivul dvs.</ds>
+  <ds Jurisdiction="*" name="OCTcash" id="OCTcash">Sold</ds>
+  <ds Jurisdiction="*" name="OCTcashColon" id="OCTcashColon">Sold:</ds>
+  <ds Jurisdiction="*" name="MGcash" id="MGcash">Sold:  {0}</ds>
+  <ds Jurisdiction="*" name="OCTcashColonVar" id="OCTcashColonVar">Sold: {0}</ds>
+  <ds Jurisdiction="*" name="starburstNameOfWild" id="starburstNameOfWild">Starburst™ Wild</ds>
+  <ds Jurisdiction="*" name="startFreeSpins" id="startFreeSpins">Start Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTautoplayStopText" id="OCTautoplayStopText">STOP</ds>
+  <ds Jurisdiction="*" name="ambience" id="ambience">Sunet ambiental</ds>
+  <ds Jurisdiction="*" name="MGsounds" id="MGsounds">Sunete joc</ds>
+  <ds Jurisdiction="*" name="MGgameSound" id="MGgameSound">Sunete joc</ds>
+  <ds Jurisdiction="*" name="OCTgameSound" id="OCTgameSound">Sunete joc</ds>
+  <ds Jurisdiction="*" name="specialWinSuperCombo" id="specialWinSuperCombo">SUPER COMBO</ds>
+  <ds Jurisdiction="*" name="superMegaWin" id="superMegaWin">SUPER MEGA CÂŞTIG!</ds>
+  <ds Jurisdiction="*" name="OCTsuperMegaWin" id="OCTsuperMegaWin">SUPER MEGA CÂŞTIG!</ds>
+  <ds Jurisdiction="*" name="OCTpaytable" id="OCTpaytable">Tabelul de plăţi</ds>
+  <ds Jurisdiction="*" name="OCTbutton_paytableUC" id="OCTbutton_paytableUC">TABELUL DE PLĂŢI</ds>
+  <ds Jurisdiction="*" name="MGpaytable" id="MGpaytable">Tabelul de plăţi</ds>
+  <ds Jurisdiction="*" name="MGdepositPlay" id="MGdepositPlay">Te rog să depui mai mulţi bani pentru a continua jocul.</ds>
+  <ds Jurisdiction="*" name="MGreduce" id="MGreduce">Te rog să reduci miza pentru a continua jocul.</ds>
+  <ds Jurisdiction="*" name="OCTreduce" id="OCTreduce">Te rog să reduci miza pentru a continua jocul.</ds>
+  <ds Jurisdiction="*" name="MGswipeToActivate" id="MGswipeToActivate">Trageți pentru a activa jocul.</ds>
+  <ds Jurisdiction="*" name="updateBrowserReq" id="updateBrowserReq">Trebuie să vă actualizați browser-ul pentru a vă putea juca. Cerința minimă este: {0}</ds>
+  <ds Jurisdiction="*" name="MGlandscapeMode" id="MGlandscapeMode">Treceţi dispozitivul dvs. în modul vedere!</ds>
+  <ds Jurisdiction="*" name="OCTlandscapeMode" id="OCTlandscapeMode">Treceţi dispozitivul dvs. în modul vedere.</ds>
+  <ds Jurisdiction="*" name="OCTreload" id="OCTreload">Vă rugăm să reîncărcaţi jocul.</ds>
+  <ds Jurisdiction="*" name="MGreload" id="MGreload">Vă rugăm să reîncărcaţi jocul.</ds>
+  <ds Jurisdiction="*" name="MGreturnCasino" id="MGreturnCasino">Vă rugăm să reporniți jocul.</ds>
+  <ds Jurisdiction="*" name="OCTreturnCasino" id="OCTreturnCasino">Vă rugăm să reporniți jocul.</ds>
+  <ds Jurisdiction="*" name="OCTreturnToLobby" id="OCTreturnToLobby">Vă rugăm să reveniți în lobby.</ds>
+  <ds Jurisdiction="*" name="MGreturnToLobby" id="MGreturnToLobby">Vă rugăm să reveniți în lobby.</ds>
+  <ds Jurisdiction="*" name="MGcoinvalue" id="MGcoinvalue">Valoare fisă</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coinvalue" id="OCTmachinetext_coinvalue">VALOARE FISĂ</ds>
+  <ds Jurisdiction="*" name="OCTcoinValue" id="OCTcoinValue">Valoare fisă</ds>
+  <ds Jurisdiction="*" name="paytableInfoBetLevel1" id="paytableInfoBetLevel1">Valorile de plată ale fisei se bazează pe nivelul 1 al mizei.</ds>
+  <ds Jurisdiction="*" name="MGpaytableInfoBetLevel1" id="MGpaytableInfoBetLevel1">Valorile de plată ale fisei se bazează pe nivelul de miză 1.</ds>
+  <ds Jurisdiction="Afghanistan" name="MGsymbolPayout" id="MGsymbolPayout">Valorile de plată ale simbolului</ds>
+  <ds Jurisdiction="*" name="OCTsymbolPayout" id="OCTsymbolPayout">Valorile de plată ale simbolului</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Acest joc folosește cookie-uri pentru a îmbunătăți experiența utilizatorului și pentru a gestiona reclamele. Vă rugăm să confirmați că acceptați</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">Actualizați-vă browser-ul pentru o experiență de joc ideală.</ds>
+  <ds Jurisdiction="*" name="ifCashIncreasesBy" id="ifCashIncreasesBy">Dacă totalul de bani crește cu</ds>
+  <ds Jurisdiction="*" name="OCTifCashIncreasesBy" id="OCTifCashIncreasesBy">Dacă totalul de bani crește cu</ds>
+  <ds Jurisdiction="*" name="ifCashDecreasesBy" id="ifCashDecreasesBy">Dacă totalul de bani scade cu</ds>
+  <ds Jurisdiction="*" name="OCTvoidAllPays" id="OCTvoidAllPays">Funcționarea incorectă anulează toate plățile și jocurile.</ds>
+  <ds Jurisdiction="*" name="voidAllPays" id="voidAllPays">Funcționarea incorectă anulează toate plățile și jocurile.</ds>
+  <ds Jurisdiction="*" name="MGvoidAllPays" id="MGvoidAllPays">Funcționarea incorectă anulează toate plățile și jocurile.</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeadingCaps" id="MGgameHistoryHeadingCaps">ISTORIC JOC</ds>
+  <ds Jurisdiction="*" name="autoplayFS" id="autoplayFS">Oprește Jocul automat dacă se câștigă Free Spins înaintea încheierii numărului setat de runde de joc automat.</ds>
+  <ds Jurisdiction="*" name="autoplayPS" id="autoplayPS">Oprește jocul automat dacă se câștigă Jocul Bonus sau Police Spins înainte de terminarea numărului ales de runde de joc automat.</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">Optimizat pentru {0} pe {1}{2}</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">Pentru a juca jocul trebuie să vă actualizați sistemul de operare.</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">Pentru cea mai bună experiență de joc, actualizați-vă sistemul de operare.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Runde gratuite suplimentare</ds>
+  <ds Jurisdiction="*" name="MGsoundSettingsCaps" id="MGsoundSettingsCaps">SETĂRI DE SUNET</ds>
+  <ds Jurisdiction="*" name="MGbetSettingsCaps" id="MGbetSettingsCaps">SETĂRI MIZĂ</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRevCaps" id="MGspinSettingsRevCaps">SETĂRI ROTIRE</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Trebuie să folosiți {0} pentru a juca jocul.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="120" id="120">Această opţiune este disponibilă doar după ce ai terminat runda de joc.</ds>
+  <ds Jurisdiction="*" name="40" id="40">Acest turneu nu a început încă, încearcă mai târziu.</ds>
+  <ds Jurisdiction="*" name="60" id="60">Acest turneu s-a terminat, ultima rundă jucată nu va face parte din statistica turneului.</ds>
+  <ds Jurisdiction="*" name="50" id="50">Acest turneu s-a terminat.</ds>
+  <ds Jurisdiction="*" name="addValue" id="addValue">Adăugare valoare</ds>
+  <ds Jurisdiction="*" name="11" id="11">Ai atins limita de joc. Eşti binevenit să te întorci mai târziu.</ds>
+  <ds Jurisdiction="*" name="RCheckYear" id="RCheckYear">an</ds>
+  <ds Jurisdiction="*" name="RCheckYears" id="RCheckYears">ani</ds>
+  <ds Jurisdiction="*" name="RCheckPlayingFor" id="RCheckPlayingFor">Aţi jucat timp de</ds>
+  <ds Jurisdiction="*" name="OCThaveFreeRounds" id="OCThaveFreeRounds">Aveţi {0} runde gratuite!</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered_header" id="gameWalletMssgWagered_header">Bonus convertit</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired_header" id="gameWalletMssgExpired_header">Bonus expirat</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited_header" id="gameWalletMssgForfeited_header">Bonus retras</ds>
+  <ds Jurisdiction="*" name="mandatoryField" id="mandatoryField">Câmp obligatoriu</ds>
+  <ds Jurisdiction="*" name="OCTTotalWinwithColonUC" id="OCTTotalWinwithColonUC">CÂŞTIG TOTAL: {0}</ds>
+  <ds Jurisdiction="*" name="TotalWinwithColonVar" id="TotalWinwithColonVar">Câştig total: {0}</ds>
+  <ds Jurisdiction="*" name="OBfreeRoundsGamePanel" id="OBfreeRoundsGamePanel">Câștig total:{0}</ds>
+  <ds Jurisdiction="*" name="59" id="59">Clientul este deja autentificat. Încearcă din nou mai târziu.</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Conexiune: Slabă</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfo" id="OCTlossLimitInfo">Confirmați sau setați valoarea mizei înainte de a seta limita  **dacă totalul de bani scade cu**.</ds>
+  <ds Jurisdiction="*" name="button_CONTINUE" id="button_CONTINUE">CONTINUARE</ds>
+  <ds Jurisdiction="*" name="Continue" id="Continue">Continuare</ds>
+  <ds Jurisdiction="*" name="browserVersionNotSupported" id="browserVersionNotSupported">Din nefericire, nu este oferit suport pentru această versiune de browser.</ds>
+  <ds Jurisdiction="*" name="RCheckEndCont" id="RCheckEndCont">Doriţi să terminaţi sau să continuaţi jocul?</ds>
+  <ds Jurisdiction="*" name="upgradeIn" id="upgradeIn">Faceți upgrade de la {0} la {1}.</ds>
+  <ds Jurisdiction="*" name="OCTcongratsUC" id="OCTcongratsUC">FELICITĂRI!</ds>
+  <ds Jurisdiction="*" name="freeRoundsInitiatedDialogText" id="freeRoundsInitiatedDialogText">Felicitări!  Aveţi {0} runde gratuite. Succes!</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered" id="gameWalletMssgWagered">Felicitări! Cei {0} bonus au devenit credit. Pentru a-i utiliza, conectează-te din nou.</ds>
+  <ds Jurisdiction="*" name="122" id="122">Filmul cursei nu s-a putut reda.</ds>
+  <ds Jurisdiction="*" name="RCheckWon" id="RCheckWon">În această perioadă aţi câştigat</ds>
+  <ds Jurisdiction="*" name="RCheckLost" id="RCheckLost">În această perioadă aţi pierdut</ds>
+  <ds Jurisdiction="*" name="close_btn" id="close_btn">Închidere</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitTouch" id="OCTlossLimitTouch">Introduceți dacă soldul scade cu</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitWarning" id="OCTlossLimitWarning">Introduceți valoarea pentru **dacă soldul scade cu**.</ds>
+  <ds Jurisdiction="*" name="53" id="53">Jocul este momentan indisponibil. Încearcă din nou mai târziu.</ds>
+  <ds Jurisdiction="*" name="56" id="56">Jocul este momentan indisponibil. Încearcă din nou mai târziu.</ds>
+  <ds Jurisdiction="*" name="58" id="58">Jocul este momentan indisponibil. Încearcă din nou mai târziu.</ds>
+  <ds Jurisdiction="*" name="0" id="0">Jocul este momentan indisponibil. Încearcă din nou mai târziu.</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Jocul folosește cookie-uri pentru a îmbunătăți experiența dvs. și pentru statistică. Vă rugăm să confirmați că acceptați</ds>
+  <ds Jurisdiction="*" name="110" id="110">Jocul nu poate fi pornit. Încearcă din nou mai târziu.</ds>
+  <ds Jurisdiction="*" name="102" id="102">Jocul tău automat a fost anulat.</ds>
+  <ds Jurisdiction="*" name="RCheckPlaying" id="RCheckPlaying">Jucaţi de {0} {1}. {2} {3}. {4}</ds>
+  <ds Jurisdiction="*" name="OCTonAnyWin" id="OCTonAnyWin">La orice câştig</ds>
+  <ds Jurisdiction="*" name="OCTlossLimit" id="OCTlossLimit">Limita la pierderi</ds>
+  <ds Jurisdiction="*" name="RCheckMonth" id="RCheckMonth">lună</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Mesaj</ds>
+  <ds Jurisdiction="*" name="messagecaption" id="messagecaption">Mesaj</ds>
+  <ds Jurisdiction="*" name="performanceNotification" id="performanceNotification">Micşoraţi calitatea grafică din setările jocului pentru a îmbunătăţii performanţa jocului.</ds>
+  <ds Jurisdiction="*" name="RCheckMinute" id="RCheckMinute">minut</ds>
+  <ds Jurisdiction="*" name="RCheckMinutes" id="RCheckMinutes">minute</ds>
+  <ds Jurisdiction="*" name="12" id="12">Miza curentă nu s-a putut realiza datorită expirării unui bonus.</ds>
+  <ds Jurisdiction="*" name="betExceedCDB" id="betExceedCDB">Miza dvs. a depășit limita de la dacă soldul scade cu. Vă rugăm să creșteți limita.</ds>
+  <ds Jurisdiction="*" name="13" id="13">Miza dvs. a depășit limita mizei maxime setate pentru acest joc.</ds>
+  <ds Jurisdiction="*" name="70" id="70">Momentan nu putem accesa contul tău. Te rog încearcă din nou mai târziu.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired" id="gameWalletMssgExpired">Ne pare rău. Cei {0} bonus au expirat şi nu mai sunt disponibili.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited" id="gameWalletMssgForfeited">Ne pare rău. Cei {0} bonus au fost retraşi.</ds>
+  <ds Jurisdiction="*" name="notSupportedBrowser" id="notSupportedBrowser">Nu este oferit suport pentru browser-ul dvs.</ds>
+  <ds Jurisdiction="*" name="15" id="15">Nu există suficienţi bani în contul tău. Adaugă mai mulţi bani sau micşorează miza ta.</ds>
+  <ds Jurisdiction="*" name="101" id="101">Nu există suficienţi bani pe contul tău Casino.</ds>
+  <ds Jurisdiction="*" name="10" id="10">Nu există suficienţi bani pe contul tău.</ds>
+  <ds Jurisdiction="*" name="100" id="100">Nu există suficienţi bani pe contul tău.</ds>
+  <ds Jurisdiction="*" name="51" id="51">Nu există suficienţi bani pe contul tău.</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Număr de {0}</ds>
+  <ds Jurisdiction="*" name="RCheckReminder" id="RCheckReminder">O REAMINTIRE SUBTILĂ</ds>
+  <ds Jurisdiction="*" name="ok_btn" id="ok_btn">OK</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlayColon" id="OCTstopAutoPlayColon">Oprire joc automat:</ds>
+  <ds Jurisdiction="*" name="RCheckHour" id="RCheckHour">oră</ds>
+  <ds Jurisdiction="*" name="RCheckHours" id="RCheckHours">ore</ds>
+  <ds Jurisdiction="*" name="OBperformanceNotification" id="OBperformanceNotification">Pentru a crește performanța, reduceți calitatea grafică din meniul cu opțiunile jocului.</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Pentru a juca jocul trebuie să vă actualizați browser-ul.</ds>
+  <ds Jurisdiction="*" name="121" id="121">Pentru a porni jocul automat trebuie să plasezi un pariu.</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">politica noastră.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Probabil nu este rezultatul pe care îl așteptați. Aveți alte {0} Runde gratuite din partea noastră.</ds>
+  <ds Jurisdiction="*" name="14" id="14">Reîncărcați pentru a actualiza soldul din joc.</ds>
+  <ds Jurisdiction="*" name="reset" id="reset">Reiniţializare</ds>
+  <ds Jurisdiction="*" name="autoRounds" id="autoRounds">runde</ds>
+  <ds Jurisdiction="*" name="OCTroundsLeft" id="OCTroundsLeft">Runde gratuite</ds>
+  <ds Jurisdiction="*" name="roundsLeft" id="roundsLeft">Runde gratuite</ds>
+  <ds Jurisdiction="*" name="FreeRoundsLeftwithColonVar" id="FreeRoundsLeftwithColonVar">Runde gratuite: {0}</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinishedRev" id="OCTfreeRoundsFinishedRev">Rundele gratuite s-au terminat</ds>
+  <ds Jurisdiction="*" name="freeRoundsCompleteDialogText" id="freeRoundsCompleteDialogText">Rundele gratuite s-au terminat. Rundele următoare folosesc banii din contul dvs. Succes!</ds>
+  <ds Jurisdiction="*" name="RCheckWeek" id="RCheckWeek">săptămână</ds>
+  <ds Jurisdiction="*" name="RCheckWeeks" id="RCheckWeeks">săptămâni</ds>
+  <ds Jurisdiction="*" name="RCheckSecond" id="RCheckSecond">secundă</ds>
+  <ds Jurisdiction="*" name="RCheckSeconds" id="RCheckSeconds">secunde</ds>
+  <ds Jurisdiction="*" name="20" id="20">Sesiunea ta a depăşit timpul alocat. Reporneşte jocul.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfoTouch" id="OCTlossLimitInfoTouch">Setați valoarea mizei înainte de a seta limita pentru a opri jocul automat.</ds>
+  <ds Jurisdiction="*" name="RCheckEndButton" id="RCheckEndButton">Sfârşit</ds>
+  <ds Jurisdiction="*" name="OCTCheckEndButton" id="OCTCheckEndButton">Sfârşit</ds>
+  <ds Jurisdiction="*" name="cashUC" id="cashUC">SOLD</ds>
+  <ds Jurisdiction="*" name="greaterCDB" id="greaterCDB">Suma trebuie să fie mai mare decât valoarea mizei.</ds>
+  <ds Jurisdiction="*" name="25" id="25">Toate jocurile au fost dezactivate.</ds>
+  <ds Jurisdiction="*" name="OBOCTTotalWinwithColonVar" id="OBOCTTotalWinwithColonVar">Total plătit: {0}</ds>
+  <ds Jurisdiction="*" name="RCheckDay" id="RCheckDay">zi</ds>
+  <ds Jurisdiction="*" name="RCheckDays" id="RCheckDays">zile</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Acest joc folosește cookie-uri pentru a îmbunătăți experiența utilizatorului și pentru a gestiona reclamele. Vă rugăm să confirmați că acceptați</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">Actualizați-vă browser-ul pentru o experiență de joc ideală.</ds>
+  <ds Jurisdiction="*" name="bonusAwardedTitle" id="bonusAwardedTitle">Bonus acordat</ds>
+  <ds Jurisdiction="*" name="bonusAwardedCongrats" id="bonusAwardedCongrats">Felicitări! Ați primit {0} sub formă de bonus.</ds>
+  <ds Jurisdiction="*" name="16" id="16">Ne pare rău. Oferta Runde gratuite a fost folosită deja.</ds>
+  <ds Jurisdiction="*" name="nothanks" id="nothanks">Nu, mulțumesc</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">Optimizat pentru {0} pe {1}{2}</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">Pentru a juca jocul trebuie să vă actualizați sistemul de operare.</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">Pentru cea mai bună experiență de joc, actualizați-vă sistemul de operare.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Runde gratuite suplimentare</ds>
+  <ds Jurisdiction="*" name="stopWhenJackpotIsWon" id="stopWhenJackpotIsWon">Stop când s-a câştigat jackpot-ul</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashIncreasesBy" id="OCTstopIfCashIncreasesBy">Stop dacă soldul crește cu</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashDecreasesBy" id="OCTstopIfCashDecreasesBy">Stop dacă soldul scade cu</ds>
+  <ds Jurisdiction="*" name="OCTstopIfWinExeeds" id="OCTstopIfWinExeeds">Stop dacă un singur câştig depășește</ds>
+  <ds Jurisdiction="*" name="iagree" id="iagree">Sunt de acord</ds>
+  <ds Jurisdiction="*" name="OBTotalWinwithColonVar" id="OBTotalWinwithColonVar">Total plătit: {0}</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Trebuie să folosiți {0} pentru a juca jocul.</ds>
+</defaults>

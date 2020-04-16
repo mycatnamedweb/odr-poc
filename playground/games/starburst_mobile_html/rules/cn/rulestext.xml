@@ -1,0 +1,197 @@
+<defaults xml:lang="cn">
+  <!-- Chinese (Simplified) locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 16:41:58 GMT on Tuesday 16 May 2017.
+
+ -->
+  <ds Jurisdiction="*" name="RTGameHistNoPlayForFun" id="RTGameHistNoPlayForFun">（&lt;b&gt;小赌怡情&lt;/b&gt;模式下不提供）。</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDisclaimer" id="RTquickSpinDisclaimer">（并非所有赌局都提供此功能）。</ds>
+  <ds Jurisdiction="*" name="RTmaxbetPlays" id="RTmaxbetPlays">&lt;b&gt;最高赌注&lt;/b&gt;以最高赌注线、最高赌注等级、目前游戏币值玩游戏。</ds>
+  <ds Jurisdiction="*" name="RTMGsettingsDisclaimer" id="RTMGsettingsDisclaimer">&lt;b&gt;注：&lt;/b&gt; 一些运营商可能不提供所有列出的游戏设置。</ds>
+  <ds Jurisdiction="*" name="RTsettingsDisclaimer" id="RTsettingsDisclaimer">&lt;b&gt;注:&lt;/b&gt; 有些赌场的运作可能不使用所有列出的游戏设定。</ds>
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;注：&lt;/b&gt;一些自动游戏选项在某些地区是必选的。</ds>
+  <ds Jurisdiction="*" name="RTAutoplayDisconnect" id="RTAutoplayDisconnect">&lt;b&gt;注：&lt;/b&gt;如果游戏过程中失去连接，重新载入游戏时所有自动游戏设置将恢复默认设置。</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;注&lt;/b&gt;: 如果您使用英文以外的语言进行游戏，那么以下的列表就适用。</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayDisconnect" id="RTMGautoplayDisconnect">&lt;b&gt;注意:&lt;/b&gt;如果游戏过程中中断连接，重新载入游戏时所有 自动游戏 设置将恢复默认设置。</ds>
+  <ds Jurisdiction="*" name="RTcoinsDisplayValues" id="RTcoinsDisplayValues">&lt;b&gt;游戏币&lt;/b&gt;显示玩家拥有的可下注游戏币数量。</ds>
+  <ds Jurisdiction="*" name="RTMGcoinsDisplayValues" id="RTMGcoinsDisplayValues">&lt;b&gt;游戏币&lt;/b&gt;显示玩家拥有的可下注游戏币数量。</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlays" id="RTautoplayPlays">&lt;b&gt;自动游戏&lt;/b&gt; 会自动就所选择的回合次数进行游戏（或者，您也可以单击&lt;b&gt;AUTO&lt;/b&gt;按钮）。</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlaysJimi" id="RTautoplayPlaysJimi">&lt;b&gt;自动游戏&lt;/b&gt; 会自动就所选择的回合次数进行游戏（或者，您也可以单击&lt;b&gt;AUTO&lt;/b&gt;按钮）。</ds>
+  <ds Jurisdiction="*" name="RTMGreturnToPlayer" id="RTMGreturnToPlayer">&lt;b&gt;返回玩家&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTsoundButton" id="RTsoundButton">&lt;b&gt;音效&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchIntro" id="RTMGstarburstTouchIntro">Starburst Touch™ 是一款 5 卷轴、3 行的视频老虎机游戏，拥有带重新旋转的 Starburst™ Wild，还可以双向赢奖。</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchRulesHeading" id="RTMGstarburstTouchRulesHeading">Starburst Touch™ 游戏规则</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildHeading" id="RTstarBurstWildHeading">Starburst™ Wild</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSymbAppear" id="RTstarBurstWildSymbAppear">Starburst™ Wild 符号只在卷轴 2、3 和 4 上出现。</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSubstitute" id="RTstarBurstWildSubstitute">Starburst™ Wild 符号可代替所有符号。</ds>
+  <ds Jurisdiction="*" name="RTstarBurstIntro" id="RTstarBurstIntro">Starburst™ 是一款 5 卷轴、3 行的视频老虎机游戏，拥有带重新旋转的 Starburst™ Wild，还可以双向赢奖。</ds>
+  <ds Jurisdiction="*" name="RTstarBurstRulesHeading" id="RTstarBurstRulesHeading">Starburst™ 游戏规则</ds>
+  <ds Jurisdiction="Italy" name="RTreferWebSite" id="RTreferWebSite">下列游戏功能和设置可能受游戏网站的条款和条件约束。 欲知以下问题的更多相关信息，请参阅游戏网站：</ds>
+  <ds Jurisdiction="*" name="RTtableDescribes" id="RTtableDescribes">下表列出了游戏中的各种按钮，并说明了它们的功能。</ds>
+  <ds Jurisdiction="*" name="RTMGgameSessions2" id="RTMGgameSessions2">不活动的游戏会话在此时间后自动结束。</ds>
+  <ds Jurisdiction="*" name="RTMGbuttonsMainGame" id="RTMGbuttonsMainGame">主游戏</ds>
+  <ds Jurisdiction="*" name="RTpaytableHighestRev" id="RTpaytableHighestRev">仅支付每条赔付线上的双向最高赢奖。</ds>
+  <ds Jurisdiction="*" name="RTMGreferWebSite" id="RTMGreferWebSite">以下游戏功能和设置以博彩网站的条款和条件为准。关于以下内容的更多信息，请参阅博彩网站：</ds>
+  <ds Jurisdiction="*" name="RTplayCurrentBetLinesTo10" id="RTplayCurrentBetLinesTo10">以不同的赌注等级和硬币值玩 1 到 10 条赔付线。</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoMultiplierTrans" id="RTwinCalculationBetLinesCoinsNoMultiplierTrans">以游戏币计算的赌注线赢奖等于&lt;b&gt;赔率表&lt;/b&gt;上显示的值乘以赌注等级。</ds>
+  <ds Jurisdiction="*" name="RTCalcBetLineCoinNoMultiplierTransNew" id="RTCalcBetLineCoinNoMultiplierTransNew">以游戏币计算的赌注线赢奖等于赔率表上显示的值乘以赌注等级。</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCash" id="RTMGbetInCash">以现金下注</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCoins" id="RTMGbetInCoins">以硬币下注</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCoins" id="RTMGshowsBetCoins">以硬币显示您的下注金额。</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCoinsNoMultiplier" id="RTMGwinCalculationBetLinesCoinsNoMultiplier">以硬币计算的赔付线赢奖等于&lt;b&gt;赔率表&lt;/b&gt;中显示的值乘以赌注等级。</ds>
+  <ds Jurisdiction="*" name="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier" id="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier">以硬币计算的赔付线赢奖等于&lt;b&gt;赔率表&lt;/b&gt;中显示的值乘以赌注等级。</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoBold" id="RTwinCalculationBetLinesCoinsNoBold">以硬币计算的赔付线赢奖等于赔率表中显示的值乘以赌注等级。此金额也与任何适用的乘数相乘。</ds>
+  <ds Jurisdiction="*" name="RTwinCalcBetLinesNoMultiplier" id="RTwinCalcBetLinesNoMultiplier">以硬币计算的赔付线赢奖等于赔率表中显示的值乘以赌注等级。此金额也与任何适用的乘数相乘。</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCurrency" id="RTwinCalculationBetLinesCurrency">以货币计算的赌注线赢奖等于赢得的游戏币乘以游戏币值。</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCurrency" id="RTMGwinCalculationBetLinesCurrency">以货币计算的赔付线赢奖等于赢得的游戏币乘以游戏币值。</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCurrency" id="RTMGshowsBetCurrency">以选定货币显示您的下注金额。</ds>
+  <ds Jurisdiction="*" name="RTMGbetLevelInstruction" id="RTMGbetLevelInstruction">使用&lt;b&gt;赌注等级&lt;/b&gt;选择器设置赌注等级。</ds>
+  <ds Jurisdiction="*" name="RTMGcoinValueInstruction" id="RTMGcoinValueInstruction">使用游戏币值选择器设置游戏币值。</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplayOnOff" id="RTMGstopAutoplayOnOff">停止 自动游戏</ds>
+  <ds Jurisdiction="*" name="RTfunctionTableHead" id="RTfunctionTableHead">功能</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildFeatureActive" id="RTstarburstWildFeatureActive">卷轴 2、3 或 4 上任意位置出现一个或多个 Starburst™ Wild 可激活 Starburst™ Wild 功能。</ds>
+  <ds Jurisdiction="*" name="RTHighWinSymCompleteActLineRev" id="RTHighWinSymCompleteActLineRev">只有从最左至右边和/或从最右至左边的激活赔付线上的最高赢奖组合得到赔付。</ds>
+  <ds Jurisdiction="*" name="RTMGhistoryNotAvailable" id="RTMGhistoryNotAvailable">只有玩真钱游戏时才能使用游戏历史。</ds>
+  <ds Jurisdiction="*" name="RTstarBurststickyWExpandsReSpinsRev" id="RTstarBurststickyWExpandsReSpinsRev">在 Starburst™ Wild 功能期间，Starburst™ Wild 扩展以覆盖整个卷轴，并在其他卷轴重新旋转时留在原位。</ds>
+  <ds Jurisdiction="*" name="simultaneousWinsAdded" id="simultaneousWinsAdded">在不同的赌注线同时赢奖，奖金会添加。</ds>
+  <ds Jurisdiction="*" name="RTMGtapDuringSpin" id="RTMGtapDuringSpin">在旋转中轻按游戏区以停止卷轴。</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGameNew" id="RTMGtouchMainGameNew">在横向模式下，触摸游戏区以把旋转按钮隐藏起来。</ds>
+  <ds Jurisdiction="Italy" name="RTgameSessions2" id="RTgameSessions2">处于非活动状态的游戏会话在该时间后将自动终止。</ds>
+  <ds Jurisdiction="*" name="RTstarBurstAddReSpinsRev" id="RTstarBurstAddReSpinsRev">如果新的 Starburst™ Wild 在重新旋转期间出现，它会扩展并与任何先前扩展过的 Starburst™ Wild 一起留在原位准备又一次重新旋转。</ds>
+  <ds Jurisdiction="Italy" name="RTmalfunction" id="RTmalfunction">如果游戏硬件/软件发生故障，所有受影响的游戏赌注和赔付将作废，所有受影响的赌注将退还。</ds>
+  <ds Jurisdiction="*" name="RTMGmalfunction" id="RTMGmalfunction">如果游戏硬件/软件发生故障，所有受影响的游戏赌注和赔付将作废，所有受影响的赌注将退还。</ds>
+  <ds Jurisdiction="*" name="RTMGstopIfFreeSpins" id="RTMGstopIfFreeSpins">如果赢得 Free Spin 就停止</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplay" id="RTMGdisableAutoplay">如果还未完成所选的自动游戏回合，却已赢得 Free Spins，请轻按以禁用自动游戏。</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayPickClick" id="RTMGdisableAutoplayPickClick">如果还未完成所选的自动游戏回合，却已赢得 Pick and Click ，请轻按以禁用自动游戏。</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsOff" id="RTMGsoundsOff">始终禁用音效</ds>
+  <ds Jurisdiction="*" name="RTMGleftHandMode" id="RTMGleftHandMode">左手模式</ds>
+  <ds Jurisdiction="Spain" name="cashDecreasesDesc" id="cashDecreasesDesc">当现金减少了您指定的金额时，停止自动游戏。</ds>
+  <ds Jurisdiction="*" name="cashIncreasesDesc" id="cashIncreasesDesc">当现金增加了您指定的金额时，停止自动游戏。</ds>
+  <ds Jurisdiction="*" name="RTMGquickStop" id="RTMGquickStop">快速停止</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpin" id="RTMGquickSpin">快速旋转</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinGameSetting" id="RTMGquickSpinGameSetting">快速旋转</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettings" id="RTMGquickSettings">快速设置菜单</ds>
+  <ds Jurisdiction="*" name="RTviewMiniPaytable" id="RTviewMiniPaytable">您也可以在进行主要游戏时单击任何在卷轴上的符号以查看该符号的迷你支付表。</ds>
+  <ds Jurisdiction="*" name="RTMGplay10FixedBetLines" id="RTMGplay10FixedBetLines">您可以不同的赌注等级和硬币值玩 10 条固定赔付线。</ds>
+  <ds Jurisdiction="*" name="RTintroOffRev" id="RTintroOffRev">打开或关闭介绍屏幕。</ds>
+  <ds Jurisdiction="*" name="RTanimationsOff" id="RTanimationsOff">打开或关闭动画。</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDescRev" id="RTquickSpinDescRev">打开或关闭快速旋转选项</ds>
+  <ds Jurisdiction="*" name="RTgameSoundDesc" id="RTgameSoundDesc">打开或关闭游戏音效。</ds>
+  <ds Jurisdiction="*" name="RTspacebarspin" id="RTspacebarspin">打开或关闭空格键功能。</ds>
+  <ds Jurisdiction="*" name="RTambienceDescRev" id="RTambienceDescRev">打开或关闭背景音效。</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRevNew" id="RTMGautoplayPutOnOffRevNew">拖动或点击滑块以启动自动游戏并设置游戏回合数。自动游戏使用所选的游戏回合数来进行游戏。</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRevNew" id="RTMGselectBetLevelRevNew">拖动或点击滑块以选择每条赔付线上的投注硬币数。</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRevNew" id="RTMGselectCoinValueRevNew">拖动或轻点滑块以选择筹码面值。</ds>
+  <ds Jurisdiction="*" name="RTbuttonTableHead" id="RTbuttonTableHead">按钮</ds>
+  <ds Jurisdiction="*" name="RTMGnoAutoplayLeft" id="RTMGnoAutoplayLeft">按钮上显示了剩余的旋转数量。</ds>
+  <ds Jurisdiction="*" name="RTMGspinButton" id="RTMGspinButton">旋转按钮</ds>
+  <ds Jurisdiction="*" name="RTspinPlayRev" id="RTspinPlayRev">旋转按钮会采用当前赌注线，赌注大小，和钱币值（或者，按空白键）。</ds>
+  <ds Jurisdiction="*" name="RTMGnumberSpins" id="RTMGnumberSpins">旋转数量</ds>
+  <ds Jurisdiction="*" name="RTMGspinSettingsRev" id="RTMGspinSettingsRev">旋转设置</ds>
+  <ds Jurisdiction="*" name="RTmaxBetAtHighBetLevel" id="RTmaxBetAtHighBetLevel">最高赌注以最高赌注等级和当前硬币值玩游戏。</ds>
+  <ds Jurisdiction="Italy" name="RTtheoreticalReturn" id="RTtheoreticalReturn">本游戏的理论玩家回报率为</ds>
+  <ds Jurisdiction="*" name="RTgameFunctionsHeading" id="RTgameFunctionsHeading">游戏功能</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryHeading" id="RTMGgameHistoryHeading">游戏历史</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">游戏术语的翻译</ds>
+  <ds Jurisdiction="*" name="RTMGtheoreticalReturn" id="RTMGtheoreticalReturn">游戏玩家的理论回报是</ds>
+  <ds Jurisdiction="*" name="RTMGgameRules" id="RTMGgameRules">游戏规则</ds>
+  <ds Jurisdiction="*" name="RTrulesGenerated" id="RTrulesGenerated">游戏规则制定日期：</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettings" id="RTMGgameSettings">游戏设置与游戏信息</ds>
+  <ds Jurisdiction="*" name="gameSettingOptionsHeading" id="gameSettingOptionsHeading">游戏设置选项</ds>
+  <ds Jurisdiction="*" name="RTMGsounds" id="RTMGsounds">游戏音效</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDesc" id="RTinformationIconButtonDesc">点击以查看&lt;b&gt;赔率表&lt;/b&gt;。</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDescJimi" id="RTinformationIconButtonDescJimi">点击以查看&lt;b&gt;赔率表&lt;/b&gt;。</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonNoBold" id="RTinformationIconButtonNoBold">点击以查看赔率表。</ds>
+  <ds Jurisdiction="*" name="RTstartGameRound" id="RTstartGameRound">点击以目前赌注等级和游戏币值开始一轮游戏（或者按空格键）。</ds>
+  <ds Jurisdiction="*" name="RTmuteSoundSliderRev" id="RTmuteSoundSliderRev">点击关闭游戏音效，或用滑块调整音量。</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescRev" id="RTpaytableButtonsDescRev">点击向左或向右箭头，移动&lt;b&gt;赔率表&lt;/b&gt;页面。 点击中心按钮返回游戏。</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescNoBold" id="RTpaytableButtonsDescNoBold">点击向左或向右箭头，移动赔率表页面。 点击中心按钮返回游戏。</ds>
+  <ds Jurisdiction="*" name="RTopenGameRules" id="RTopenGameRules">点击打开游戏规则。</ds>
+  <ds Jurisdiction="*" name="RTopenSettingsMenu" id="RTopenSettingsMenu">点击打开游戏设置菜单，选择游戏选项。 参阅下文的"游戏设置"部分。</ds>
+  <ds Jurisdiction="*" name="RTgameHistoryDesc" id="RTgameHistoryDesc">点击查看最新游戏历史记录</ds>
+  <ds Jurisdiction="*" name="gameSettingIntro" id="gameSettingIntro">点击游戏面板上的扳手图标，进入游戏设置。</ds>
+  <ds Jurisdiction="*" name="RTreturnToPlayer" id="RTreturnToPlayer">玩家回报率</ds>
+  <ds Jurisdiction="*" name="RTMGunfinishedGameSession2" id="RTMGunfinishedGameSession2">用于管理未完成游戏回合的程序。</ds>
+  <ds Jurisdiction="Italy" name="RTunfinishedGameSession2" id="RTunfinishedGameSession2">用于管理未完游戏回合的程序。</ds>
+  <ds Jurisdiction="*" name="RTMGcoinvalue" id="RTMGcoinvalue">硬币价值</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPanelLabel" id="RTMGautoplayPanelLabel">自动游戏</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayQuickSpinHeading" id="RTMGautoplayQuickSpinHeading">自动游戏 和快速旋转</ds>
+  <ds Jurisdiction="*" name="advancedAutoplayOptionsHeading" id="advancedAutoplayOptionsHeading">自动游戏高级选项</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">英文术语</ds>
+  <ds Jurisdiction="*" name="RTMGmenu" id="RTMGmenu">菜单</ds>
+  <ds Jurisdiction="*" name="RTMGadditionalInformation" id="RTMGadditionalInformation">补充信息</ds>
+  <ds Jurisdiction="Spain" name="RTAutoplayButton" id="RTAutoplayButton">要高级自动游戏选项，单击在键盘上的&lt;b&gt;自动游戏&lt;/b&gt;或游戏面板上的&lt;b&gt;AUTO&lt;/b&gt;，然后单击&lt;b&gt;高级设定&lt;/b&gt;。</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGame" id="RTMGtouchMainGame">触摸游戏区以隐藏旋转按钮。</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">译成术语</ds>
+  <ds Jurisdiction="*" name="RTadjustQualityRev" id="RTadjustQualityRev">调整画质，获得最佳画质表现。</ds>
+  <ds Jurisdiction="*" name="RTMGbetlevel" id="RTMGbetlevel">赌注等级</ds>
+  <ds Jurisdiction="*" name="RTbetLevel" id="RTbetLevel">赌注等级为每条赌注线的游戏币赌注数量。</ds>
+  <ds Jurisdiction="*" name="termPaytable" id="termPaytable">赔率表</ds>
+  <ds Jurisdiction="*" name="RTMGpaytable" id="RTMGpaytable">赔率表</ds>
+  <ds Jurisdiction="*" name="RTMGpaytableJimi" id="RTMGpaytableJimi">赔率表</ds>
+  <ds Jurisdiction="*" name="RTMGwinCombinations" id="RTMGwinCombinations">赢奖组合和赔付率根据&lt;b&gt;赔率表&lt;/b&gt;确定。</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytable" id="RTwinCombinationPaytable">赢奖组合和赔付率根据&lt;b&gt;赔率表&lt;/b&gt;确定。</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytablenoBold" id="RTwinCombinationPaytablenoBold">赢奖组合和赔付率根据赔率表确定。</ds>
+  <ds Jurisdiction="*" name="anyWinDesc" id="anyWinDesc">赢得一轮后停止自动游戏。</ds>
+  <ds Jurisdiction="*" name="singleWinDesc" id="singleWinDesc">赢得的金额超过或等于您的指定金额时停止自动游戏 。</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRev" id="RTsingleWinDescRev">赢得的金额超过或等于指定金额时停止自动游戏。</ds>
+  <ds Jurisdiction="*" name="RTMGselectSpinsRev" id="RTMGselectSpinsRev">轻扫或轻按设置转盘以选择 自动游戏 旋转次数。</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRev" id="RTMGselectBetLevelRev">轻扫或轻按设置转盘以选择每条赔付线上的投注硬币数。</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRev" id="RTMGselectCoinValueRev">轻扫或轻按设置转盘以选择硬币价值。</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRev" id="RTMGautoplayPutOnOffRev">轻按“切换”以开启或关闭 自动游戏。 自动游戏 在选定的轮数进行游戏。</ds>
+  <ds Jurisdiction="*" name="RTMGtapOnOffRev" id="RTMGtapOnOffRev">轻按“切换”以开启或关闭“快速旋转”。</ds>
+  <ds Jurisdiction="*" name="RTMGsoundOnOffRev" id="RTMGsoundOnOffRev">轻按“切换”以开启或关闭音效。</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsDisabledRev" id="RTMGsoundsDisabledRev">轻按“切换”以禁用未来游戏会话的音效。</ds>
+  <ds Jurisdiction="*" name="RTMGtapSpinButtonRev" id="RTMGtapSpinButtonRev">轻按以使用当前赔付线、赌注等级和硬币值开始游戏。</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplay" id="RTMGstopAutoplay">轻按以停止 自动游戏。</ds>
+  <ds Jurisdiction="*" name="RTMGspinButtonLeft" id="RTMGspinButtonLeft">轻按以启动或关闭左手模式。</ds>
+  <ds Jurisdiction="*" name="RTMGstartAutoplay" id="RTMGstartAutoplay">轻按以开始 自动游戏。</ds>
+  <ds Jurisdiction="*" name="RTMGstartQuickSpin" id="RTMGstartQuickSpin">轻按以开始快速旋转。</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryDesc" id="RTMGgameHistoryDesc">轻按以查看您的最新游戏历史记录</ds>
+  <ds Jurisdiction="*" name="RTMGviewGamesRules" id="RTMGviewGamesRules">轻按以查看游戏规则。</ds>
+  <ds Jurisdiction="*" name="RTMGwinComb" id="RTMGwinComb">轻按以查看赢奖组合和派彩。</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayIfBonusGame" id="RTMGdisableAutoplayIfBonusGame">轻按以禁用自动游戏（只适用于在自动游戏回合完成前赢得奖金游戏的情况）。</ds>
+  <ds Jurisdiction="*" name="RTMGleaveGame" id="RTMGleaveGame">轻按以离开游戏。</ds>
+  <ds Jurisdiction="*" name="RTMGbackMainGame" id="RTMGbackMainGame">轻按以返回主游戏。</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDevNew" id="RTMGgameSettingIntroDevNew">轻按以进入游戏设置和取得游戏信息。</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDev" id="RTMGgameSettingIntroDev">轻按以进入游戏设置和游戏信息，交替轻按现金显示和硬币显示。</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettingsMenu" id="RTMGquickSettingsMenu">轻按加号以进入快速设置菜单。</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayUI" id="RTMGautoplayUI">轻按即可启动或关闭停止游戏，而不需要通过设置菜单。设默认值为 50 个回合。</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinUI" id="RTMGquickSpinUI">轻按即可启动或关闭快速旋转，而不需要通过设置菜单。</ds>
+  <ds Jurisdiction="Anguilla" name="RTMGsoundSettingsUI" id="RTMGsoundSettingsUI">轻按即可启动或关闭音效，而不需要通过设置菜单。</ds>
+  <ds Jurisdiction="*" name="RTMGback" id="RTMGback">返回</ds>
+  <ds Jurisdiction="*" name="RTgHistoryNotAvailableForFun" id="RTgHistoryNotAvailableForFun">进行 &lt;b&gt;玩玩就好&lt;/b&gt;时无法提供游戏历史。</ds>
+  <ds Jurisdiction="*" name="RTMGexit" id="RTMGexit">退出</ds>
+  <ds Jurisdiction="*" name="RTMGAutoplaySpins" id="RTMGAutoplaySpins">选定的旋转数量会被显示在按钮上。</ds>
+  <ds Jurisdiction="*" name="RTautoplaySelectSpins" id="RTautoplaySelectSpins">选择自动游戏的轮数，或打开高级设置，配置停止自动游戏选项。</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildEnds" id="RTstarburstWildEnds">重新旋转期间不再出现新的 Starburst™ Wild 时，Starburst™ Wild 功能结束。</ds>
+  <ds Jurisdiction="*" name="ReSpinsAtActivatingRound" id="ReSpinsAtActivatingRound">重新旋转的赌注与激活重新旋转那一轮游戏的相同。</ds>
+  <ds Jurisdiction="*" name="RTMGsoundSettings" id="RTMGsoundSettings">音效设置</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">额外信息</ds>
+  <ds Jurisdiction="*" name="termWild" id="termWild">鬼牌</ds>
+  <ds Jurisdiction="*" name="RTautoplayDuringGameRev" id="RTautoplayDuringGameRev">&lt;b&gt;注意：&lt;/b&gt;如果在一轮游戏过程中更改 自动游戏 设置，所有设置将在游戏回合或功能完成时生效。</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationWinMatchCurrency" id="RTwinCalculationWinMatchCurrency">以货币计算的赌注线赢奖等于赢得的游戏币乘以游戏币值。</ds>
+  <ds Jurisdiction="*" name="RTopenAutoplayMenu" id="RTopenAutoplayMenu">点击打开自动游戏设置菜单，自动玩游戏。</ds>
+  <ds Jurisdiction="*" name="RTexCloneWildOverlay" id="RTexCloneWildOverlay">Expanding Cloning Wild 符号会以重叠的方式出现在旋转的卷轴上。拷贝的符号也会以重叠的方式出现在卷轴上。</ds>
+  <ds Jurisdiction="*" name="RTeachStar1AddRespinUpTo3respin" id="RTeachStar1AddRespinUpTo3respin">Starburst™ Wild 激活一次再旋转后最多有 2 个额外 Starburst™ Wild 符号出现，触发 1 次额外的再旋转或最多有 3 次再旋转。</ds>
+  <ds Jurisdiction="*" name="RTsliderBetLevel" id="RTsliderBetLevel">使用投注等级滑动块设置投注等级。</ds>
+  <ds Jurisdiction="*" name="RTsliderCoinValue" id="RTsliderCoinValue">使用硬币值滑动块设置硬币值。</ds>
+  <ds Jurisdiction="*" name="RTcashDecreasesDescRev" id="RTcashDecreasesDescRev">当现金减少了您指定的金额时，停止自动游戏。</ds>
+  <ds Jurisdiction="*" name="RTcashIncreasesDescRev" id="RTcashIncreasesDescRev">当现金增加了您指定的金额时，停止自动游戏。</ds>
+  <ds Jurisdiction="*" name="onlyHighWinComb" id="onlyHighWinComb">投注线上只赔付从最左边到右边和/或从最右边到左边排列的最高赢奖组合。</ds>
+  <ds Jurisdiction="*" name="RTMGautoOptions" id="RTMGautoOptions">拖动或点击滑动来启用自动游戏并设置自动游戏选项和局数，从而自动进行选定次数的旋转。</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;注：&lt;/b&gt;一些自动游戏选项在某些地区是必选的。</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;注&lt;/b&gt;: 如果您使用英文以外的语言进行游戏，那么以下的列表就适用。</ds>
+  <ds Jurisdiction="*" name="featuresNotAvailablePFF" id="featuresNotAvailablePFF">一些功能在&lt;b&gt;玩玩就好&lt;/b&gt;模式时也许不可用 。</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">游戏术语的翻译</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">英文术语</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">译成术语</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRevNew" id="RTsingleWinDescRevNew">赢得的金额超过或等于指定金额时停止自动游戏。</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">额外信息</ds>
+</defaults>

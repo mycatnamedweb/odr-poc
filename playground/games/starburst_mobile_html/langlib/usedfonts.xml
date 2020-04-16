@@ -1,0 +1,473 @@
+<!--
+| This file stipulates which fonts are used when building font SWF for use with NetEnt games made in Flash 9 or later.
+| Each entry in the XML list will result in a seperate font SWF for each of the language stated in the languages.jsfl-file.
+| Description of entry:
+| sourcettf    - The relative (or absolute if necessary) path to the font resource file (usually a TTF file).
+| fontName   - The name of the font as known by the font system in the Flash 9 code base. Font names are created by taking the name of the font as listed in 
+|                       the Flash IDE, stripping any whitespace and then adding the weight (normal or bold) to the name. So "Arial Unicode MS" with normal weight 
+|                       should be named "ArialUnicodeMSRegular".
+| fontFamily - Optional entry for the family of the font, default is "NetEntFonts".
+| weight        - The weight of the font (normal or bold).  Must match the content of the TTF.
+| substitutes - Optional entry if some languages should use a different font resource file instead of the one listed in sourcettf.
+| substitute   - Child entry to the substitutes entry. Each substitute element should have an attribute named "lang" that lists the langauge codes for languages
+|                       that should use the substitute. Multiple language codes may be stated by using a comma seperated list of codes (like in "iw,bg" for hebrew 
+|                       and bulgarian). It is possible to specify the weight of the substitute (normal or bold) by setting the weight-attribute.
+|
+| Example of simple entry:
+| <font>
+|       <sourcettf>ARIALUNI.TTF</sourcettf>
+|       <fontName>ArialUnicodeMSRegular</fontName>
+|       <fontFamily>NetEntFonts</fontFamily>
+|       <weight>normal</weight>
+| </font>
+| Example of complex entry:
+| <font>
+|       <sourcettf>GOTHIC.TTF</sourcettf>
+|       <fontName>CenturyGothicRegular</fontName>
+|       <fontFamily>NetEntFonts</fontFamily>
+|       <weight>normal</weight>
+|       <substitutes>
+|               <substitute lang='iw" weight="normal">../../../resources/fonts/ARIALUNI.TTF</substitute>
+|               <substitute lang='bg,ru">../../../resources/fonts/NETENT_MyriadPro-Regular.ttf</substitute>
+|       </substitutes>
+| </font>
+|-->
+<fonts>
+    <font>
+        <sourcettf>NETENT_MyriadPro-Regular.ttf</sourcettf>
+        <fontName>NETENT_MyriadProRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>NETENT_MyriadPro-Bold.ttf</sourcettf>
+        <fontName>NETENT_MyriadProBold</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>bold</weight>
+    </font>
+    <font>
+        <sourcettf>NETENT_Utah-WGL_condensed_regular.ttf</sourcettf>
+        <fontName>NETENT_UtahWGLCondensedRegular</fontName>
+        <substitutes>
+            <substitute lang="tr">NETENT_MyriadPro-Regular.TTF</substitute>
+        </substitutes>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>NETENT_Utah-WGL_condensed_bold.ttf</sourcettf>
+        <fontName>NETENT_UtahWGLCondensedBold</fontName>
+        <substitutes>
+            <substitute lang="tr">NETENT_MyriadPro-Regular.TTF</substitute>
+        </substitutes>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>bold</weight>
+    </font>
+    <font>
+        <sourcettf>Allstar4.ttf</sourcettf>
+        <substitutes>
+            <substitute weight="bold" lang="bg,cs,da,de,el,et,fr,hr,hu,iw,ja,ko,pe,pl,pt,ro,ru,sr,sv,th,tr,tw,zh,zz">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>Allstar4Regular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>ARIALUNI.TTF</sourcettf>
+        <fontName>ArialUnicodeMSRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>ARIALUNI.TTF</sourcettf>
+        <fontName>ArialUnicodeMSBold</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+
+    <font>
+        <sourcettf>HANDGOTN.TTF</sourcettf>
+        <fontName>HandelGothicBTRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+   <!--font>
+        <sourcettf>CALISTB.TTF</sourcettf>
+        <fontName>CalistoMTBold</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>bold</weight>
+    </font>
+    <font>
+        <sourcettf>CALIST.TTF</sourcettf>
+        <fontName>CalistoMTRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>GOTHICB.TTF</sourcettf>
+        <fontName>CenturyGothicBold</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>bold</weight>
+        <substitutes>
+            <substitute lang="bg,hr,cs,el,iw,hu,pl,ro,ru,sk,tr">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+    </font>
+    <font>
+        <sourcettf>GOTHIC.TTF</sourcettf>
+        <fontName>CenturyGothicRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+        <substitutes>
+            <substitute lang="bg,hr,cs,el,iw,hu,pl,ro,ru,sk,tr">NETENT_MyriadPro-Regular.ttf</substitute>
+        </substitutes>
+    </font>
+    <font>
+        <sourcettf>NeutraText-BookSC.otf</sourcettf>
+        <fontName>NeutraTextSCRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>NeutraText-BoldSC.ttf</sourcettf>
+        <fontName>NeutraTextSCBold</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>bold</weight>
+    </font>
+    <font>
+        <sourcettf>NeutraText-LightSC.otf</sourcettf>
+        <fontName>NeutraTextLightSCRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>CloisterBlack.ttf</sourcettf>
+        <fontName>CloisterBlackRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>CloisterBlack.ttf</sourcettf>
+        <fontName>CloisterBlackBold</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>Cheboyga.ttf</sourcettf>
+        <fontName>CheboygaRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>AndersonFourFeatherFalls.ttf</sourcettf>
+        <fontName>AndersonFourFeatherFallsRegular</fontName>
+        <substitutes>
+            <substitute lang="iw,bg,ru,el,fr,de,da,pl,ro,cs,es,et,hr,hu,tr">ARIALUNI.TTF</substitute>
+        </substitutes>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>AndersonFourFeatherFalls.ttf</sourcettf>
+        <fontName>AndersonFourFeatherFallsBold</fontName>
+        <substitutes>
+            <substitute lang="iw,bg,ru,el,fr,de,da,pl,ro,cs,es,et,hr,hu,tr">ARIALUNI.TTF</substitute>
+        </substitutes>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>TrajanPro-Regular.otf</sourcettf>
+        <substitutes>
+            <substitute lang="iw,bg,ru,el">ARIALUNI.TTF</substitute>
+        </substitutes>
+        <fontName>TrajanProRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>TrajanPro-Bold.otf</sourcettf>
+        <substitutes>
+            <substitute lang="iw,bg,ru,el" weight="normal">ARIALUNI.TTF</substitute>
+        </substitutes>
+        <fontName>TrajanProBold</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>bold</weight>
+    </font>
+    <font>
+        <sourcettf>MinionPro-Bold.otf</sourcettf>
+        <fontName>MinionProBold</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>bold</weight>
+    </font>
+    <font>
+        <sourcettf>Allstar4.ttf</sourcettf>
+        <substitutes>
+            <substitute weight="bold" lang="bg,cs,da,de,el,et,fr,hr,hu,iw,ja,ko,pe,pl,pt,ro,ru,sr,sv,th,tr,tw,zh,zz">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>Allstar4Regular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    -->
+    <font>
+        <sourcettf>Forever_Black.ttf</sourcettf>
+        <substitutes>
+            <substitute weight="bold" lang="bg,cs,da,de,el,et,fr,hr,hu,iw,ja,ko,pe,pl,pt,ro,ru,sr,sv,th,tr,tw,zh,zz">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>ForeverBlackRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    
+    <font>
+        <sourcettf>Truegothcyr.ttf</sourcettf>
+        <fontName>TrueGothicCyrRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <!--font>
+        <sourcettf>Laffayette_Comic_Pro.ttf</sourcettf>
+        <fontName>LaffayetteComicProRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>Koch_Fraktur.ttf</sourcettf>
+        <fontName>KochFetteDeutscheSchriftRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>MagicalMysteryTourRegular.ttf</sourcettf>
+        <fontName>MagicalMysteryTourRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>impact.ttf</sourcettf>
+        <substitutes>
+            <substitute weight="normal" lang="iw">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>ImpactRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>SCHLBKB.TTF</sourcettf>
+        <substitutes>
+            <substitute weight="bold" lang="iw">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>CenturySchoolbookBold</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>bold</weight>
+    </font>
+    <font>
+        <sourcettf>FEASFBI.TTF</sourcettf>
+        <substitutes>
+            <substitute weight="bold" lang="iw">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>FeastofFleshBBItalic</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>FEASFBRG.TTF</sourcettf>
+        <substitutes>
+            <substitute weight="bold" lang="iw">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>FeastofFleshBBRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>MonsterFonts-Voodoohouse.otf</sourcettf>
+        <substitutes>
+            <substitute weight="bold" lang="iw">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>MonsterFontsVoodoohouseRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>MIDDST.TTF</sourcettf>
+        <fontName>MiddleSaxonyText</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>BAUHS93.TTF</sourcettf>
+        <substitutes>
+            <substitute weight="bold" lang="bg,el,iw,ru,tr,ro,sk,et,pl,hr,cs">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>Bauhaus93Regular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>PFDinDisplayPro-Med.otf</sourcettf>
+        <substitutes>
+            <substitute weight="bold" lang="bg,el,iw,ru,tr,ro,sk,et,pl">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>PFDinDisplayProRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>HelveticaNeueLTStd-Blk.otf</sourcettf>
+        <substitutes>
+            <substitute weight="bold" style="normal" lang="bg,el,iw,ru,tr,ro,sk,et">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>HelveticaNeueLTStdBlkRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>ContemporaryBruURW-Bol.otf</sourcettf>
+        <substitutes>
+            <substitute weight="bold" style="normal" lang="iw">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>ContemporaryBruURWBolRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>ContemporaryBruURW-ExtBol.otf</sourcettf>
+        <substitutes>
+            <substitute weight="bold" style="normal" lang="iw">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>ContemporaryBruURWExtBolRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>ContemporaryBruURW-Reg.otf</sourcettf>
+        <substitutes>
+            <substitute weight="bold" style="normal" lang="iw">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>ContemporaryBruURWRegRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>BROADW.TTF</sourcettf>
+        <substitutes>
+            <substitute weight="bold" style="normal" lang="iw">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>Broadway</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>COPRGTB.ttf</sourcettf>
+        <substitutes>
+            <substitute weight="bold" style="normal" lang="iw,bg,cs,el,et,hr,pl,ro,ru,sk,tr">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>CopperplateGothicBoldRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>KOMTITA.ttf</sourcettf>
+        <substitutes>
+            <substitute weight="bold" style="normal" lang="iw,bg,el,ru">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>KomikaTitleAxisRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>KautivaPro.otf</sourcettf>
+        <substitutes>
+            <substitute lang="iw">NETENT_MyriadPro-Regular.ttf</substitute>
+        </substitutes>
+        <fontName>KautivaProRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>KautivaProBlack.otf</sourcettf>
+        <substitutes>
+            <substitute weight="normal" lang="iw">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>KautivaProBlackRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>KautivaProBold.otf</sourcettf>
+        <substitutes>
+            <substitute weight="normal" lang="iw">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>KautivaProBold</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>FuturaCom-Medium.ttf</sourcettf>
+        <substitutes>
+            <substitute lang="iw,bg,ru,el">NETENT_MyriadPro-Regular.ttf</substitute>            
+        </substitutes>
+        <fontName>FuturaComMediumRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>FuturaCom-MediumCondensed.ttf</sourcettf>
+        <substitutes>
+            <substitute lang="iw,bg,ru,el">NETENT_MyriadPro-Regular.ttf</substitute>            
+        </substitutes>
+        <fontName>FuturaComMediumCondensedRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>FuturaCom-ExtraBoldCond.ttf</sourcettf>
+        <substitutes>            
+            <substitute weight="normal" lang="iw,bg,ru,el">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>FuturaComExtraBoldCondRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>bold</weight>
+    </font>
+    <font>
+        <sourcettf>ReliqStd-BoldCalm.otf</sourcettf>
+        <substitutes>
+            <substitute weight="normal" lang="iw,bg,ru,el">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>ReliqStdBoldCalmRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>numbers_elements.ttf</sourcettf>
+        <fontName>numberselementsRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    <font>
+        <sourcettf>PFOnlineTwoPro-Double.ttf</sourcettf>
+        <substitutes>
+            <substitute weight="normal" lang="iw">NETENT_MyriadPro-Bold.ttf</substitute>
+        </substitutes>
+        <fontName>PFOnlineTwoProDoubleRegular</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font>
+    -->
+    <font>
+        <sourcettf>EUROSTIB.TTF</sourcettf>
+        <fontName>EurostileBold</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>bold</weight>
+    </font>
+    <!--font>
+        <sourcettf>southpark.ttf</sourcettf>
+        <substitutes>
+            <substitute lang="iw,bg,ru,el">NETENT_MyriadPro-Regular.ttf</substitute>            
+        </substitutes>
+        <fontName>SouthPark</fontName>
+        <fontFamily>NetEntFonts</fontFamily>
+        <weight>normal</weight>
+    </font-->
+
+</fonts>

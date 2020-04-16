@@ -1,0 +1,11 @@
+<moneyformats>
+   <moneyformat>
+      <dividers thousands="," decimal="."/>
+      <strings>
+         <curchar after="false">ILS</curchar>
+         <centchar usecent="false" after="false">?</centchar>
+      </strings>
+      <iso>ILS</iso>
+      <decimals>2</decimals>
+   </moneyformat>
+</moneyformats>

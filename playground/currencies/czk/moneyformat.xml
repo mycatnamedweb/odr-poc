@@ -1,0 +1,11 @@
+<moneyformats>
+   <moneyformat>
+      <dividers thousands="." decimal=","/>
+      <strings>
+         <curchar after="false">CZK</curchar>
+         <centchar usecent="false" after="false">?</centchar>
+      </strings>
+      <iso>CZK</iso>
+      <decimals>2</decimals>
+   </moneyformat>
+</moneyformats>

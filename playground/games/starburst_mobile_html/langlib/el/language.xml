@@ -1,0 +1,462 @@
+﻿<defaults xml:lang="el">
+  <!-- Greek locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 08:40:42 GMT on Tuesday 10 October 2017.
+
+ -->
+  <ds Jurisdiction="*" name="freeRoundsFinished" id="freeRoundsFinished"></ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpinsNoSpan" id="MGvarRetriggerFreeSpinsNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTvarRetriggerFSNoSpan" id="OCTvarRetriggerFSNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpins" id="MGvarRetriggerFreeSpins">&lt;span class='NetEnt_plusSign'&gt;+&lt;/span&gt;&lt;span class='NetEnt_numberFreeSpins'&gt;{0}&lt;/span&gt; Free Spin</ds>
+  <ds Jurisdiction="*" name="NeProduction" id="NeProduction">A NET ENTERTAINMENT PRODUCTION</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsUC" id="OCTfreeSpinsUC">FREE SPINS</ds>
+  <ds Jurisdiction="*" name="MGfreeSpinsLeftColonVar" id="MGfreeSpinsLeftColonVar">Free Spins που απομένουν: {0}</ds>
+  <ds Jurisdiction="Spain" name="OCTmachinetext_win" id="OCTmachinetext_win">KΕΡΔΟΣ</ds>
+  <ds Jurisdiction="*" name="multiplierFLC" id="multiplierFLC">Multiplier</ds>
+  <ds Jurisdiction="*" name="MGcolHeadBetMulti" id="MGcolHeadBetMulti">Multiplier πονταρίσματος</ds>
+  <ds Jurisdiction="*" name="OCTbtnOK" id="OCTbtnOK">OK</ds>
+  <ds Jurisdiction="*" name="starburstNameOfWild" id="starburstNameOfWild">Starburst™ Wild</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Tο παιχνίδι χρησιμοποιεί cookies για στατιστικά και για τη βελτίωση της εμπειρίας του χρήστη. Επιβεβαιώστε ότι</ds>
+  <ds Jurisdiction="*" name="MGleft" id="MGleft">Α</ds>
+  <ds Jurisdiction="*" name="couldNotConnectServer" id="couldNotConnectServer">Αδυναμία σύνδεσης στον διακομιστή.</ds>
+  <ds Jurisdiction="*" name="MGautoplayCancelled" id="MGautoplayCancelled">Ακύρωση αυτόματου παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="OCTsuperMegaWin" id="OCTsuperMegaWin">ΑΜΥΘΗΤΟ ΚΕΡΔΟΣ!</ds>
+  <ds Jurisdiction="*" name="superMegaWin" id="superMegaWin">ΑΜΥΘΗΤΟ ΚΕΡΔΟΣ!</ds>
+  <ds Jurisdiction="*" name="OCTifFreeSpinsIsStarted" id="OCTifFreeSpinsIsStarted">Αν κερδίσατε Free Spins</ds>
+  <ds Jurisdiction="Spain" name="OCTifFBonusIsStarted" id="OCTifFBonusIsStarted">Αν κερδίσετε ένα bonus game</ds>
+  <ds Jurisdiction="*" name="OCTifWinExeeds" id="OCTifWinExeeds">Αν μία μόνο νίκη ξεπερνά τα</ds>
+  <ds Jurisdiction="*" name="ifWinExeeds" id="ifWinExeeds">Αν μία μόνο νίκη ξεπερνά τα</ds>
+  <ds Jurisdiction="*" name="OCTifCashDecreasesBy" id="OCTifCashDecreasesBy">Αν τα μετρητά μειωθούν κατά</ds>
+  <ds Jurisdiction="*" name="upgradeDevice" id="upgradeDevice">Αναβαθμίστε τη συσκευή σας.</ds>
+  <ds Jurisdiction="*" name="MGdownloadSounds" id="MGdownloadSounds">Άνοιγμα ήχων;</ds>
+  <ds Jurisdiction="*" name="MGsoundsOn" id="MGsoundsOn">Ανοιχτός ήχος</ds>
+  <ds Jurisdiction="*" name="OCTsoundsOn" id="OCTsoundsOn">Ανοιχτός ήχος</ds>
+  <ds Jurisdiction="*" name="MGsubAllSymbolsLC" id="MGsubAllSymbolsLC">Αντικαθιστουν ολα τα συμβολα.</ds>
+  <ds Jurisdiction="*" name="subAllSymbols" id="subAllSymbols">ΑΝΤΙΚΑΘΙΣΤΟΥΝ ΟΛΑ ΤΑ ΣΥΜΒΟΛΑ.</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coinvalue" id="OCTmachinetext_coinvalue">ΑΞΙΑ ΝΟΜΙΣΜ</ds>
+  <ds Jurisdiction="*" name="OCTcoinValue" id="OCTcoinValue">Αξία νομίσματος</ds>
+  <ds Jurisdiction="*" name="MGcoinvalue" id="MGcoinvalue">Αξία νομίσματος</ds>
+  <ds Jurisdiction="*" name="MGbetInCash" id="MGbetInCash">Αξία στοιχήματος</ds>
+  <ds Jurisdiction="*" name="MGoff" id="MGoff">Απενεργοποίηση</ds>
+  <ds Jurisdiction="*" name="gameNotLoaded" id="gameNotLoaded">Αποτυχία φόρτωσης του παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Αριθμός από {0}</ds>
+  <ds Jurisdiction="*" name="OCTspinsLeftText" id="OCTspinsLeftText">Αριθμός από {0} που υπολείπονται</ds>
+  <ds Jurisdiction="*" name="OCTnumberSpins" id="OCTnumberSpins">Αριθμός περιστροφών</ds>
+  <ds Jurisdiction="*" name="MGnumberSpins" id="MGnumberSpins">Αριθμός περιστροφών</ds>
+  <ds Jurisdiction="*" name="OCTcasino_btn" id="OCTcasino_btn">Αρχική</ds>
+  <ds Jurisdiction="*" name="MGoptionAvailable" id="MGoptionAvailable">Αυτή η επιλογή είναι διαθέσιμη μόνο μετά από ολοκληρωμένο γύρο παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="MGdeviceNoSupport" id="MGdeviceNoSupport">Αυτή η συσκευή, δυστυχώς δεν υποστηρίζεται.</ds>
+  <ds Jurisdiction="*" name="MGnoOSSupport" id="MGnoOSSupport">Αυτό το λειτουργικό σύστημα, δυστυχώς δεν υποστηρίζεται.</ds>
+  <ds Jurisdiction="*" name="OCTautoplayButton" id="OCTautoplayButton">ΑΥΤΟΜ. ΠΑΙΧΝΙΔΙ</ds>
+  <ds Jurisdiction="*" name="autoplayButtonTwoLine" id="autoplayButtonTwoLine">ΑΥΤΟΜ.&lt;br&gt;ΠΑΙΧΝΙΔΙ</ds>
+  <ds Jurisdiction="*" name="MGautoplayPanelLabel" id="MGautoplayPanelLabel">Αυτόματο παιχνίδι</ds>
+  <ds Jurisdiction="*" name="OCTautoplayPanelLabel" id="OCTautoplayPanelLabel">Αυτόματο παιχνίδι</ds>
+  <ds Jurisdiction="*" name="MGnoBrowserSupport" id="MGnoBrowserSupport">Αυτός ο περιηγητής, δυστυχώς δεν υποστηρίζεται.</ds>
+  <ds Jurisdiction="*" name="extraInfo" id="extraInfo">Για περισσότερες πληροφορίες δείτε τους Κανόνες παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="OCTextraInfo" id="OCTextraInfo">Για περισσότερες πληροφορίες δείτε τους Κανόνες παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="OCTquickSpinGameSetting" id="OCTquickSpinGameSetting">Γρηγ.Περιστροφή</ds>
+  <ds Jurisdiction="*" name="quickSpinGameSetting" id="quickSpinGameSetting">Γρηγ.Περιστροφή</ds>
+  <ds Jurisdiction="*" name="OCTquickSpin" id="OCTquickSpin">Γρήγορη περιστροφή</ds>
+  <ds Jurisdiction="*" name="MGquickSpinGameSetting" id="MGquickSpinGameSetting">Γρήγορη περιστροφή</ds>
+  <ds Jurisdiction="*" name="OCTautoSpins" id="OCTautoSpins">γυρίσματα</ds>
+  <ds Jurisdiction="*" name="MGright" id="MGright">Δ</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">δέχεστε τα cookies.</ds>
+  <ds Jurisdiction="*" name="MGstopIfBonusGame" id="MGstopIfBonusGame">Διακοπή αν κερδίζετε Bonus Game</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinscrosstowntraffic" id="OCTstopIfFreeSpinscrosstowntraffic">Διακοπή αν κερδίζετε Crosstown Traffic Free Spins</ds>
+  <ds Jurisdiction="*" name="stopIfFeatureSpins" id="stopIfFeatureSpins">Διακοπή αν κερδίζετε Feature Spin</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpins" id="OCTstopIfFreeSpins">Διακοπή αν κερδίζετε Free Spins</ds>
+  <ds Jurisdiction="*" name="MGstopIfFreeSpins" id="MGstopIfFreeSpins">Διακοπή αν κερδίζετε Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinslittlewing" id="OCTstopIfFreeSpinslittlewing">Διακοπή αν κερδίζετε Little Wing Free Spins</ds>
+  <ds Jurisdiction="*" name="stopIfPickAndClick" id="stopIfPickAndClick">Διακοπή αν κερδίζετε Pick and Click</ds>
+  <ds Jurisdiction="*" name="stopIfPoliceSpins" id="stopIfPoliceSpins">Διακοπή αν κερδίζετε Police Spins</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinspurplehaze" id="OCTstopIfFreeSpinspurplehaze">Διακοπή αν κερδίζετε Purple Haze Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlay" id="OCTstopAutoPlay">Διακοπή αυτόμ. παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="OCTconnectionLost" id="OCTconnectionLost">Διακοπή σύνδεσης</ds>
+  <ds Jurisdiction="*" name="MGconnectionLost" id="MGconnectionLost">Διακοπή σύνδεσης</ds>
+  <ds Jurisdiction="*" name="autoBonusGame" id="autoBonusGame">Διακόπτει το Αυτόματο παιχνίδι εάν προκύψει το Παιχνίδι Μπόνους πριν ολοκληρωθεί ο καθορισμένος αριθμός γύρων αυτόματου παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="autoplayFeatureSpins" id="autoplayFeatureSpins">Διακόπτει το Αυτόματο παιχνίδι εάν προκύψουν Δωρεάν Περιστροφές πριν ολοκληρωθεί ο καθορισμένος αριθμός γύρων αυτόματου παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsTitle" id="MGfreeRoundsTitle">Δωρεάν γύροι</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsTitle" id="OCTfreeRoundsTitle">Δωρεάν γύροι</ds>
+  <ds Jurisdiction="*" name="OCTFreeRoundsLeftwithColon" id="OCTFreeRoundsLeftwithColon">Δωρεάν γύροι παιχ: {0}</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsVar" id="MGfreeRoundsVar">Δωρεάν γύροι παιχνιδιού: {0}</ds>
+  <ds Jurisdiction="*" name="OCTplayingForFun" id="OCTplayingForFun">ΕΙΚΟΝΙΚΟ ΠΑΙΧΝ.</ds>
+  <ds Jurisdiction="*" name="MGplayingForFun" id="MGplayingForFun">ΕΙΚΟΝΙΚΟ ΠΑΙΧΝΙΔΙ</ds>
+  <ds Jurisdiction="*" name="OCTintroGameSetting" id="OCTintroGameSetting">Εισαγωγή</ds>
+  <ds Jurisdiction="*" name="appearsOnReels" id="appearsOnReels">ΕΜΦΑΝΙΖΟΝΤΑΙ ΣΤΟΥΣ ΚΥΛΙΝΔΡΟΥΣ {0}, {1}, {2}.</ds>
+  <ds Jurisdiction="*" name="MGappearsOnReelsLC" id="MGappearsOnReelsLC">Εμφανιζονται στουσ κυλινδρουσ {0}, {1}, {2}.</ds>
+  <ds Jurisdiction="*" name="OCTstartFreeSpins" id="OCTstartFreeSpins">ΕΝΑΡΞΗ FREE SPINS</ds>
+  <ds Jurisdiction="*" name="startFreeSpins" id="startFreeSpins">Έναρξη Free Spins</ds>
+  <ds Jurisdiction="*" name="MGok_btn" id="MGok_btn">Εντάξει</ds>
+  <ds Jurisdiction="Spain" name="OCTbetlevel" id="OCTbetlevel">Επ. Ποντ.</ds>
+  <ds Jurisdiction="*" name="OCTreset" id="OCTreset">Επαναφ.</ds>
+  <ds Jurisdiction="*" name="OCTreload_btn" id="OCTreload_btn">Επαναφόρτ.</ds>
+  <ds Jurisdiction="*" name="MGreload_btn" id="MGreload_btn">Επαναφόρτ.</ds>
+  <ds Jurisdiction="*" name="MGreload_btnRev" id="MGreload_btnRev">Επανεκκίνηση</ds>
+  <ds Jurisdiction="*" name="MGexpandReelTriggerLC" id="MGexpandReelTriggerLC">Επεκτεινονται στον κυλινδρο και προκαλουν νεο γυρο.</ds>
+  <ds Jurisdiction="*" name="expandReelTrigger" id="expandReelTrigger">ΕΠΕΚΤΕΙΝΟΝΤΑΙ ΣΤΟΝ ΚΥΛΙΝΔΡΟ ΚΑΙ ΠΡΟΚΑΛΟΥΝ ΝΕΟ ΓΥΡΟ.</ds>
+  <ds Jurisdiction="*" name="MGcontinueYesNo" id="MGcontinueYesNo">Επιθυμείτε να συνεχίσετε;</ds>
+  <ds Jurisdiction="*" name="OCTcontinueYesNo" id="OCTcontinueYesNo">Επιθυμείτε να συνεχίσετε;</ds>
+  <ds Jurisdiction="*" name="updateBrowserQuestion" id="updateBrowserQuestion">Επιθυμείτε την αναβάθμιση;</ds>
+  <ds Jurisdiction="*" name="scatterSelect" id="scatterSelect">ΕΠΙΛΕΞΤΕ SCATTER</ds>
+  <ds Jurisdiction="Spain" name="OCTautoplayPanelStartText" id="OCTautoplayPanelStartText">Επιλογή για έναρξη</ds>
+  <ds Jurisdiction="*" name="OCTlevel" id="OCTlevel">ΕΠΙΠΕΔΟ</ds>
+  <ds Jurisdiction="*" name="MGbetlevel" id="MGbetlevel">Επίπεδο πονταρίσματος</ds>
+  <ds Jurisdiction="*" name="MGRCcheckReminder" id="MGRCcheckReminder">Ευγενική υπενθύμιση</ds>
+  <ds Jurisdiction="*" name="OCTRCcheckReminder" id="OCTRCcheckReminder">Ευγενική υπενθύμιση</ds>
+  <ds Jurisdiction="*" name="sound" id="sound">Εφέ ήχου</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRoundsRev" id="MGhaveFreeRoundsRev">Έχετε {0} δωρεάν γύρους!</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRounds" id="MGhaveFreeRounds">Έχετε {0} δωρεάν γύρους.</ds>
+  <ds Jurisdiction="*" name="OCTvoidAllPays" id="OCTvoidAllPays">Η δυσλειτουργία ακυρώνει όλες τις πληρωμές και όλα τα παιχνίδια.</ds>
+  <ds Jurisdiction="*" name="OCTslowConnection" id="OCTslowConnection">Η σύνδεση σας στο διαδίκτυο είναι αργή.</ds>
+  <ds Jurisdiction="*" name="MGslowConnection" id="MGslowConnection">Η σύνδεση σας στο διαδίκτυο είναι αργή.</ds>
+  <ds Jurisdiction="*" name="deviceNotSupported" id="deviceNotSupported">Η συσκευή σας δεν υποστηρίζεται.</ds>
+  <ds Jurisdiction="*" name="loadingTakesLonger" id="loadingTakesLonger">Η φόρτωση του παιχνιδιού διαρκεί περισσότερο από το συνηθισμένο.</ds>
+  <ds Jurisdiction="*" name="OCTloadingTakesLonger" id="OCTloadingTakesLonger">Η φόρτωση του παιχνιδιού διαρκεί περισσότερο από το συνηθισμένο.</ds>
+  <ds Jurisdiction="*" name="OCTgameSound" id="OCTgameSound">Ήχοι παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="MGsounds" id="MGsounds">Ήχοι παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="MGgameSound" id="MGgameSound">Ήχοι παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="ambience" id="ambience">Ήχος περιβάλλοντος</ds>
+  <ds Jurisdiction="*" name="MGspinButtonPosition" id="MGspinButtonPosition">Θέση κουμπιού περιστροφής</ds>
+  <ds Jurisdiction="*" name="OCTgameHistoryHeadingUC" id="OCTgameHistoryHeadingUC">ΙΣΤΟΡΙΚΟ ΠΑΙΧΝΙΔΙΟΥ</ds>
+  <ds Jurisdiction="*" name="OCTgameHistory" id="OCTgameHistory">Ιστορικό παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeading" id="MGgameHistoryHeading">Ιστορικό παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="gameHistory" id="gameHistory">Ιστορικό παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="MGnoWin" id="MGnoWin">Κανένα κέρδος</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheadingCaps" id="MGgameRulesheadingCaps">ΚΑΝΟΝΕΣ ΠΑΙΧΝΙΔΙΟΥ</ds>
+  <ds Jurisdiction="*" name="OCTgameRulesUC" id="OCTgameRulesUC">ΚΑΝΟΝΕΣ ΠΑΙΧΝΙΔΙΟΥ</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheading" id="MGgameRulesheading">Κανόνες Παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="OCTpaytableHighestWinMatch" id="OCTpaytableHighestWinMatch">Καταβάλλεται μόνο το μεγαλύτερο κέρδος ανά αντιστοίχιση κέρδους.</ds>
+  <ds Jurisdiction="*" name="OCTdeposit_btn" id="OCTdeposit_btn">Κατάθεση</ds>
+  <ds Jurisdiction="*" name="MGdeposit_btn" id="MGdeposit_btn">Κατάθεση</ds>
+  <ds Jurisdiction="*" name="OCTdepositPlay" id="OCTdepositPlay">Καταθέστε και άλλα χρήματα για να συνεχίσετε το παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="OCTdeposit" id="OCTdeposit">Καταθέστε περισσότερα χρήματα ή μειώστε το στοίχημα σας.</ds>
+  <ds Jurisdiction="*" name="MGdeposit" id="MGdeposit">Καταθέστε περισσότερα χρήματα ή μειώστε το στοίχημα σας.</ds>
+  <ds Jurisdiction="*" name="FSplashWinBothWays" id="FSplashWinBothWays">ΚΕΡΔΗ &lt;br&gt; ΜΕ ΔΥΟ ΤΡΟΠΟΥΣ</ds>
+  <ds Jurisdiction="*" name="winBothWaysRev" id="winBothWaysRev">ΚΕΡΔΗ ΑΠΟ ΔΥΟ ΜΕΡΙΕΣ</ds>
+  <ds Jurisdiction="*" name="MGwinMultiplierVar" id="MGwinMultiplierVar">Κέρδη σε νομίσματα πολλαπλασιάζονται επί {0}</ds>
+  <ds Jurisdiction="*" name="OCTyouWinUCNoExclamation" id="OCTyouWinUCNoExclamation">ΚΕΡΔΙΣΑΤΕ</ds>
+  <ds Jurisdiction="*" name="OCTadditonalFreeSpinsWon" id="OCTadditonalFreeSpinsWon">Κερδίσατε {0} έξτρα Free Spin</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinsWon" id="MGadditonalFreeSpinsWon">Κερδίσατε {0} έξτρα Free Spin</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinWon" id="MGadditonalFreeSpinWon">Κερδίσατε {0} έξτρα Free Spin</ds>
+  <ds Jurisdiction="*" name="MGyouWonCoins" id="MGyouWonCoins">Κερδίσατε {0} νομίσματα</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoins" id="OCTyouWonCoins">Κερδίσατε {0} νομίσματα</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoinsUC" id="OCTyouWonCoinsUC">Κερδίσατε {0} νομίσματα</ds>
+  <ds Jurisdiction="*" name="MGyouWon" id="MGyouWon">Κερδίσατε:{0}</ds>
+  <ds Jurisdiction="*" name="WinUpTodup" id="WinUpTodup">ΚΕΡΔΙΣΤΕ ΕΩΣ ΚΑΙ</ds>
+  <ds Jurisdiction="*" name="OCTwinUpTo" id="OCTwinUpTo">Κερδίστε έως και {0} νομίσματα</ds>
+  <ds Jurisdiction="*" name="MGwinUpTo" id="MGwinUpTo">Κερδίστε έως και {0} νομίσματα</ds>
+  <ds Jurisdiction="*" name="MGwinPay" id="MGwinPay">Κέρδος</ds>
+  <ds Jurisdiction="*" name="OCTwin" id="OCTwin">Κέρδος</ds>
+  <ds Jurisdiction="*" name="OCTcoinsWonColon" id="OCTcoinsWonColon">Κέρδος σε νομίσματα:</ds>
+  <ds Jurisdiction="*" name="coinsWonColon" id="coinsWonColon">Κέρδος σε νομίσματα:</ds>
+  <ds Jurisdiction="*" name="MGwinIncoins" id="MGwinIncoins">Κέρδος σε νομίσματα: {0}</ds>
+  <ds Jurisdiction="*" name="OCTwinColonUC" id="OCTwinColonUC">ΚΕΡΔΟΣ:</ds>
+  <ds Jurisdiction="*" name="MGwinCapitals" id="MGwinCapitals">ΚΕΡΔΟΣ: {0}</ds>
+  <ds Jurisdiction="*" name="MGwin" id="MGwin">Κέρδος: {0}</ds>
+  <ds Jurisdiction="*" name="OCTwinColonVar" id="OCTwinColonVar">Κέρδος: {0}</ds>
+  <ds Jurisdiction="*" name="OCTwinningBetLinesHeading" id="OCTwinningBetLinesHeading">Κερδοφόρες γραμ. πονταρ.</ds>
+  <ds Jurisdiction="*" name="MGwinningLinesHeading" id="MGwinningLinesHeading">Κερδοφόρες γραμ. πονταρ.</ds>
+  <ds Jurisdiction="*" name="animationsGameSetting" id="animationsGameSetting">Κινούμενες εικόνες</ds>
+  <ds Jurisdiction="*" name="MGclose_btn" id="MGclose_btn">Κλείσιμο</ds>
+  <ds Jurisdiction="*" name="OCTclose_btn" id="OCTclose_btn">Κλείσιμο</ds>
+  <ds Jurisdiction="*" name="OCTleftHandMode" id="OCTleftHandMode">Λειτουργία αριστερού χεριού</ds>
+  <ds Jurisdiction="*" name="MGleftHandMode" id="MGleftHandMode">Λειτουργία αριστερού χεριού</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Μάλλον δεν είναι το αποτέλεσμα που περιμένατε. Σας χαρίζουμε επιπλέον {0} Δωρεάν Γύρους.</ds>
+  <ds Jurisdiction="*" name="specialWinMegaCombo" id="specialWinMegaCombo">ΜΕΓΑ ΣΥΝΔΥΑΣΜΟΣ</ds>
+  <ds Jurisdiction="*" name="bigWin" id="bigWin">ΜΕΓΑΛΟ ΚΕΡΔΟΣ</ds>
+  <ds Jurisdiction="*" name="MGbigWin" id="MGbigWin">ΜΕΓΑΛΟ ΚΕΡΔΟΣ!</ds>
+  <ds Jurisdiction="*" name="OCTbigWin" id="OCTbigWin">ΜΕΓΑΛΟ ΚΕΡΔΟΣ!</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbutton" id="OCTmaxbetbutton">ΜΕΓΙΣΤΟ ΣΤΟΙΧΗΜΑ</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbuttonTwoLine" id="OCTmaxbetbuttonTwoLine">ΜΕΓΙΣΤΟ&lt;br&gt;ΣΤΟΙΧΗΜΑ</ds>
+  <ds Jurisdiction="Antigua and Barbuda" name="OCTreduceBet_btn" id="OCTreduceBet_btn">Μείωση στοιχήματος</ds>
+  <ds Jurisdiction="*" name="MGreduceBet_btn" id="MGreduceBet_btn">Μείωση στοιχήματος</ds>
+  <ds Jurisdiction="*" name="mediumQuality" id="mediumQuality">Μεσαίο</ds>
+  <ds Jurisdiction="*" name="OCTmediumQuality" id="OCTmediumQuality">Μεσαίο</ds>
+  <ds Jurisdiction="*" name="OCTcash" id="OCTcash">Μετρητά</ds>
+  <ds Jurisdiction="*" name="OCTcashColon" id="OCTcashColon">Μετρητά:</ds>
+  <ds Jurisdiction="*" name="MGcash" id="MGcash">Μετρητά:  {0}</ds>
+  <ds Jurisdiction="*" name="OCTcashColonVar" id="OCTcashColonVar">Μετρητά: {0}</ds>
+  <ds Jurisdiction="*" name="MGoptionUnavailable" id="MGoptionUnavailable">Μη διαθέσιμη επιλογή</ds>
+  <ds Jurisdiction="*" name="MGgameUnavailable" id="MGgameUnavailable">Μη διαθέσιμο παιχνίδι</ds>
+  <ds Jurisdiction="*" name="OCTgameUnavailable" id="OCTgameUnavailable">Μη διαθέσιμο παιχνίδι</ds>
+  <ds Jurisdiction="*" name="OCTaccountUnavailable" id="OCTaccountUnavailable">Μη διαθέσιμος λογαριασμός</ds>
+  <ds Jurisdiction="*" name="MGaccountUnavailable" id="MGaccountUnavailable">Μη διαθέσιμος λογαριασμός</ds>
+  <ds Jurisdiction="*" name="RCheckMonths" id="RCheckMonths">μήνες</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Μήνυμα</ds>
+  <ds Jurisdiction="*" name="paytableHighestRev" id="paytableHighestRev">Μόνο το μεγ κέρδ στοιχ από δύο μεριές πληρώνεται.</ds>
+  <ds Jurisdiction="*" name="MGpaytableHighestPaid" id="MGpaytableHighestPaid">Μόνο το υψηλότερο κέρδος ανά γραμμή πονταρίσματος πληρώνεται.</ds>
+  <ds Jurisdiction="*" name="dontShowNextTime" id="dontShowNextTime">Να μην εμφανιστεί ξανά</ds>
+  <ds Jurisdiction="*" name="MGbutton_yes" id="MGbutton_yes">Ναι</ds>
+  <ds Jurisdiction="*" name="OCTbtnYes" id="OCTbtnYes">Ναι</ds>
+  <ds Jurisdiction="*" name="MGyes" id="MGyes">Ναι*</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coins" id="OCTmachinetext_coins">ΝΟΜΙΣΜΑΤΑ</ds>
+  <ds Jurisdiction="*" name="coins" id="coins">Νομίσματα</ds>
+  <ds Jurisdiction="*" name="MGcoins" id="MGcoins">Νομίσματα: {0}</ds>
+  <ds Jurisdiction="*" name="OCTcoinsColonVar" id="OCTcoinsColonVar">Νομίσματα: {0}</ds>
+  <ds Jurisdiction="*" name="MGplayingForMoney" id="MGplayingForMoney">Ξεκινάτε το παιχνίδι με χρήματα;</ds>
+  <ds Jurisdiction="*" name="MGmaxNumberReSpinsLC" id="MGmaxNumberReSpinsLC">Ο μεγιστοσ αριθμοσ επαναληπτικων γυρων ειναι {0}.</ds>
+  <ds Jurisdiction="*" name="maxNumberReSpins" id="maxNumberReSpins">Ο ΜΕΓΙΣΤΟΣ ΑΡΙΘΜΟΣ ΕΠΑΝΑΛΗΠΤΙΚΩΝ ΓΥΡΩΝ ΕΙΝΑΙ {0}.</ds>
+  <ds Jurisdiction="*" name="introScreeGameSetting" id="introScreeGameSetting">Οθόνη εισαγωγής</ds>
+  <ds Jurisdiction="*" name="OCTintroScreeGameSetting" id="OCTintroScreeGameSetting">Οθόνη εισαγωγής</ds>
+  <ds Jurisdiction="*" name="MGpaytableInfoBetLevel1" id="MGpaytableInfoBetLevel1">Οι αξίες απόδοσης νομισμάτων βασίζονται στο επίπεδο πονταρίσματος 1.</ds>
+  <ds Jurisdiction="*" name="paytableInfoBetLevel1" id="paytableInfoBetLevel1">Οι αξίες πληρωμής νομισμάτων βασίζονται στο επίπεδο πονταρίσματος 1.</ds>
+  <ds Jurisdiction="*" name="MGbetLineWinsLeftRight" id="MGbetLineWinsLeftRight">Οι γραμμές πονταρίσματος κερδίζουν αν τα σύμβολα που κερδίζουν είναι συνεχόμενα από τον τέρμα αριστερά κύλινδρο προς τα δεξιά.</ds>
+  <ds Jurisdiction="*" name="MGfreerounds" id="MGfreerounds">Οι δωρεάν γύροι έληξαν</ds>
+  <ds Jurisdiction="*" name="OCTfreerounds" id="OCTfreerounds">Οι δωρεάν γύροι έληξαν</ds>
+  <ds Jurisdiction="*" name="MGminOSReq" id="MGminOSReq">Οι ελάχιστες απαιτήσεις, είναι:</ds>
+  <ds Jurisdiction="*" name="winBothWaysPaysRev" id="winBothWaysPaysRev">Οι επιτυχίες γραμμής πονταρ. πληρώνουν αν είναι συνεχείς από τέρμα αριστερά προς τα δεξιά ή από τέρμα δεξιά προς αριστερά.</ds>
+  <ds Jurisdiction="*" name="MGroundsUseAccountMoney" id="MGroundsUseAccountMoney">Οι επόμενοι γύροι χρησιμοποιούν χρήματα του λογαριασμού σας. Καλή τύχη!</ds>
+  <ds Jurisdiction="*" name="OCTroundsUseAcctMoney" id="OCTroundsUseAcctMoney">Οι επόμενοι γύροι χρησιμοποιούν χρήματα του λογαριασμού σας. Καλή τύχη!</ds>
+  <ds Jurisdiction="*" name="OCTplayLimit" id="OCTplayLimit">Όριο παιχν.</ds>
+  <ds Jurisdiction="*" name="MGplayLimit" id="MGplayLimit">Όριο παιχν.</ds>
+  <ds Jurisdiction="*" name="MGbutton_no" id="MGbutton_no">Όχι</ds>
+  <ds Jurisdiction="*" name="OCTbtnNo" id="OCTbtnNo">Όχι</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingWon" id="OCTRCheckPlayingWon">Παίζετε επί {0} ώρες και κερδίσατε {1}.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingWon" id="MGRCheckPlayingWon">Παίζετε επί {0} ώρες και κερδίσατε {1}.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingLost" id="MGRCheckPlayingLost">Παίζετε επί {0} ώρες και χάσατε {1}.</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingLost" id="OCTRCheckPlayingLost">Παίζετε επί {0} ώρες και χάσατε {1}.</ds>
+  <ds Jurisdiction="*" name="MGyouPlayingFun" id="MGyouPlayingFun">Παίζετε με εικονικά χρήματα</ds>
+  <ds Jurisdiction="*" name="OCTyouPlayingFun" id="OCTyouPlayingFun">Παίζετε με εικονικά χρήματα</ds>
+  <ds Jurisdiction="*" name="MGsoundsOff" id="MGsoundsOff">Πάντα σίγαση ήχου</ds>
+  <ds Jurisdiction="*" name="OCTskipIntro" id="OCTskipIntro">Παράβλ. εισαγ.</ds>
+  <ds Jurisdiction="*" name="MGreturnToLobby" id="MGreturnToLobby">Παρακαλούμε επιστρέψτε στην υποδοχή</ds>
+  <ds Jurisdiction="*" name="OCTreturnToLobby" id="OCTreturnToLobby">Παρακαλούμε επιστρέψτε στην υποδοχή.</ds>
+  <ds Jurisdiction="*" name="MGlandscapeMode" id="MGlandscapeMode">Παρακαλώ βάλτε την συσκευή σας σε λειτουργία τοπίου!</ds>
+  <ds Jurisdiction="*" name="OCTlandscapeMode" id="OCTlandscapeMode">Παρακαλώ βάλτε την συσκευή σας σε οριζόντια θέση!</ds>
+  <ds Jurisdiction="*" name="OCTreturnCasino" id="OCTreturnCasino">Παρακαλώ επανεκκινήστε το παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="MGreturnCasino" id="MGreturnCasino">Παρακαλώ επιστρέψτε στην υποδοχή.</ds>
+  <ds Jurisdiction="*" name="MGdepositPlay" id="MGdepositPlay">Παρακαλώ καταθέστε περισσότερα χρήματα για να συνεχίσετε.</ds>
+  <ds Jurisdiction="*" name="MGreduce" id="MGreduce">Παρακαλώ μειώστε το στοίχημα σας για να συνεχίσετε το παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="OCTreduce" id="OCTreduce">Παρακαλώ μειώστε το στοίχημα σας για να συνεχίσετε το παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="OCTreload" id="OCTreload">Παρακαλώ φορτώστε ξανά το παιχν.</ds>
+  <ds Jurisdiction="*" name="MGreload" id="MGreload">Παρακαλώ φορτώστε ξανά το παιχν.</ds>
+  <ds Jurisdiction="*" name="OCTspaceSpin" id="OCTspaceSpin">Πατήστε κενό για περιστροφή</ds>
+  <ds Jurisdiction="*" name="spaceSpin" id="spaceSpin">Πατήστε κενό για περιστροφή</ds>
+  <ds Jurisdiction="*" name="OCTbutton_paytableUC" id="OCTbutton_paytableUC">ΠΙΝΑΚΑΣ ΠΛΗΡΩΜΩΝ</ds>
+  <ds Jurisdiction="*" name="OCTpaytable" id="OCTpaytable">Πίνακας πληρωμών</ds>
+  <ds Jurisdiction="*" name="MGpaytable" id="MGpaytable">Πίνακας πληρωμών</ds>
+  <ds Jurisdiction="Spain" name="OCTpaytableHighest" id="OCTpaytableHighest">Πληρώνεται μόνο το υψηλότερο κέρδος ανά γραμμή πονταρίσματος.</ds>
+  <ds Jurisdiction="Spain" name="paytableHighestNoActive" id="paytableHighestNoActive">Πληρώνεται μόνο το υψηλότερο κέρδος ανά γραμμή πονταρίσματος.</ds>
+  <ds Jurisdiction="*" name="qualityHeading" id="qualityHeading">Ποιότητα γραφικών</ds>
+  <ds Jurisdiction="*" name="OCTqualityHeading" id="OCTqualityHeading">Ποιότητα γραφικών</ds>
+  <ds Jurisdiction="*" name="multiplierUC" id="multiplierUC">ΠΟΛΛΑΠΛΑΣΙΑΣΤΗΣ</ds>
+  <ds Jurisdiction="*" name="OCTbetInCash" id="OCTbetInCash">Ποντάρισμα σε μετρητά</ds>
+  <ds Jurisdiction="*" name="MGbetInCashRev" id="MGbetInCashRev">Ποντάρισμα σε μετρητά</ds>
+  <ds Jurisdiction="*" name="updateBrowserReq" id="updateBrowserReq">Πρέπει να ενημερώσετε τον περιηγητή σας για να μπορέσετε να παίξετε. Ελάχιστη απαίτηση: {0}</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Πρέπει να ενημερώσετε τον περιηγητή σας για να παίξετε το παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="OCTslidePanelLabel" id="OCTslidePanelLabel">Ρυθμ. παιχ.</ds>
+  <ds Jurisdiction="*" name="MGspinSettings" id="MGspinSettings">Ρυθμ. περιστροφής</ds>
+  <ds Jurisdiction="*" name="MGbetOptions" id="MGbetOptions">Ρυθμ. στοιχήματος</ds>
+  <ds Jurisdiction="*" name="OCTadvancedSettings" id="OCTadvancedSettings">Ρυθμίσεις για προχωρημένους</ds>
+  <ds Jurisdiction="*" name="OCTsoundSettingsCaps" id="OCTsoundSettingsCaps">ΡΥΘΜΙΣΕΙΣ ΗΧΟΥ</ds>
+  <ds Jurisdiction="*" name="MGsoundSettings" id="MGsoundSettings">Ρυθμίσεις ήχου</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRev" id="MGspinSettingsRev">Ρυθμίσεις περιστροφής</ds>
+  <ds Jurisdiction="*" name="OCTspinSettingsCaps" id="OCTspinSettingsCaps">ΡΥΘΜΙΣΕΙΣ ΠΕΡΙΣΤΡΟΦΩΝ</ds>
+  <ds Jurisdiction="*" name="OCTbetSettingsCaps" id="OCTbetSettingsCaps">ΡΥΘΜΙΣΕΙΣ ΠΟΝΤΑΡΙΣΜΑΤΟΣ</ds>
+  <ds Jurisdiction="*" name="MGbetSettings" id="MGbetSettings">Ρυθμίσεις στοιχήματος</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsLeft" id="MGfreeRoundsLeft">Σας απομένουν {0} δωρεάν γύροι.</ds>
+  <ds Jurisdiction="*" name="onAnyWin" id="onAnyWin">Σε οποιαδήποτε νίκη</ds>
+  <ds Jurisdiction="*" name="InAssociation" id="InAssociation">σε συνεργασία με</ds>
+  <ds Jurisdiction="*" name="MGsoundsNo" id="MGsoundsNo">Σίγαση</ds>
+  <ds Jurisdiction="*" name="OCTsoundsNo" id="OCTsoundsNo">Σίγαση</ds>
+  <ds Jurisdiction="*" name="specialWinSuperCombo" id="specialWinSuperCombo">ΣΟΥΠΕΡ ΣΥΝΔΥΑΣΜΟΣ</ds>
+  <ds Jurisdiction="*" name="MGbetInCoins" id="MGbetInCoins">Στοιχ. σε νομίσμ.</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_bet" id="OCTmachinetext_bet">ΣΤΟΙΧΗΜΑ</ds>
+  <ds Jurisdiction="*" name="OCTtotalbet" id="OCTtotalbet">Στοίχημα</ds>
+  <ds Jurisdiction="*" name="MGbetCashCoins" id="MGbetCashCoins">Στοίχημα σε μετρ./νομίσ.</ds>
+  <ds Jurisdiction="*" name="MGbetInCoinsRev" id="MGbetInCoinsRev">Στοίχημα σε νομίσματα</ds>
+  <ds Jurisdiction="*" name="OCTbetInCoins" id="OCTbetInCoins">Στοίχημα σε νομίσματα</ds>
+  <ds Jurisdiction="*" name="OCTbetColonVar" id="OCTbetColonVar">Στοίχημα: {0}</ds>
+  <ds Jurisdiction="*" name="MGbet" id="MGbet">Στοίχημα: {0}</ds>
+  <ds Jurisdiction="*" name="OCTautoplayStopText" id="OCTautoplayStopText">ΣΤΟΠ</ds>
+  <ds Jurisdiction="*" name="OCTcongratsLC" id="OCTcongratsLC">Συγχαρητήρια!</ds>
+  <ds Jurisdiction="*" name="MGcongrats" id="MGcongrats">Συγχαρητήρια!</ds>
+  <ds Jurisdiction="*" name="MGcolHeadFSpinSyms" id="MGcolHeadFSpinSyms">Σύμβολα Free Spin</ds>
+  <ds Jurisdiction="*" name="MG11" id="MG11">Συμπληρώσατε το όριο παιχνιδιού σας. Σας περιμένουμε να επιστρέψετε αργότερα!</ds>
+  <ds Jurisdiction="*" name="MGlogin_btn" id="MGlogin_btn">Σύνδεση</ds>
+  <ds Jurisdiction="*" name="OCTlogin_btn" id="OCTlogin_btn">Σύνδεση</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Σύνδεση: Μέτρια</ds>
+  <ds Jurisdiction="*" name="connectionQualityPoor" id="connectionQualityPoor">Σύνδεση: Μέτρια</ds>
+  <ds Jurisdiction="*" name="MGwinningCombinations" id="MGwinningCombinations">Συνδυασμοί που κερδίζουν και αποδόσεις</ds>
+  <ds Jurisdiction="*" name="specialWinCombo" id="specialWinCombo">ΣΥΝΔΥΑΣΜΟΣ</ds>
+  <ds Jurisdiction="*" name="OCTbutton_CONTINUE" id="OCTbutton_CONTINUE">ΣΥΝΕΧΕΙΑ</ds>
+  <ds Jurisdiction="*" name="OCTContinue" id="OCTContinue">Συνέχεια</ds>
+  <ds Jurisdiction="*" name="MGcontinue" id="MGcontinue">Συνέχεια</ds>
+  <ds Jurisdiction="*" name="MGcontinuePlaying" id="MGcontinuePlaying">Συνεχίστε το παιχνίδι από το σημείο που σταματήσατε.</ds>
+  <ds Jurisdiction="*" name="OCTcontinuePlaying" id="OCTcontinuePlaying">Συνεχίστε το παιχνίδι από το σημείο που σταματήσατε.</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinUCnoVar" id="OCTtotalWinUCnoVar">ΣΥΝΟΛΙΚΟ ΚΕΡΔΟΣ:</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinWithColon" id="OCTtotalWinWithColon">Συνολικό κέρδος:</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinColonVar" id="OCTtotalWinColonVar">Συνολικό κέρδος: {0}</ds>
+  <ds Jurisdiction="*" name="MGtotalWin" id="MGtotalWin">Συνολικό κέρδος: {0}</ds>
+  <ds Jurisdiction="*" name="MGswipeToActivate" id="MGswipeToActivate">Σύρετε προς τα επάνω για ενεργοποίηση.</ds>
+  <ds Jurisdiction="*" name="OCTbetLineWinsLeftToRightOnly" id="OCTbetLineWinsLeftToRightOnly">Τα κέρδη γραμμής πονταρίσματος πληρώνουν αν είναι συνεχόμενα από τον τέρμα αριστερά κύλινδρο στον τέρμα δεξιά.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinished" id="OCTfreeRoundsFinished">Τέλος δωρεάν γύρων</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsFinished" id="MGfreeRoundsFinished">Τέλος δωρεάν γύρων</ds>
+  <ds Jurisdiction="*" name="MGsessionTimeOut" id="MGsessionTimeOut">Τέλος ορίου συνεδρίας</ds>
+  <ds Jurisdiction="*" name="OCTsessionTimeOut" id="OCTsessionTimeOut">Τέλος ορίου συνεδρίας</ds>
+  <ds Jurisdiction="*" name="OCTmegaWin" id="OCTmegaWin">ΤΕΡΑΣΤΙΟ ΚΕΡΔΟΣ!</ds>
+  <ds Jurisdiction="*" name="megaWin" id="megaWin">ΤΕΡΑΣΤΙΟ ΚΕΡΔΟΣ!</ds>
+  <ds Jurisdiction="*" name="MGerror" id="MGerror">Τεχνικό σφάλμα</ds>
+  <ds Jurisdiction="*" name="OCTerror" id="OCTerror">Τεχνικό σφάλμα</ds>
+  <ds Jurisdiction="*" name="OCTsymbolPayout" id="OCTsymbolPayout">Τιμές απόδοσης συμβόλων</ds>
+  <ds Jurisdiction="Afghanistan" name="MGsymbolPayout" id="MGsymbolPayout">Τιμές απόδοσης συμβόλων</ds>
+  <ds Jurisdiction="*" name="MGhistoryNotAvailable" id="MGhistoryNotAvailable">Το ιστορικό παιχνιδιού είναι διαθέσιμο μόνο σε παιχνίδι με χρήματα.</ds>
+  <ds Jurisdiction="*" name="OCThistoryNotAvailable" id="OCThistoryNotAvailable">Το ιστορικό παιχνιδιού είναι διαθέσιμο μόνο σε παιχνίδι με χρήματα.</ds>
+  <ds Jurisdiction="*" name="MGnewHistoryWindow" id="MGnewHistoryWindow">Το ιστορικό του παιχνιδιού θ' ανοίξει σε νέα σελίδα. Κλείστε την σελίδα για να επιστρέψετε στο παιχνίδι.</ds>
+  <ds Jurisdiction="Algeria" name="OCTnewHistoryWindow" id="OCTnewHistoryWindow">Το ιστορικό του παιχνιδιού θα ανοίξει σε νέα σελίδα. Κλείστε την σελίδα για να επιστρέψετε στο παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="operatingSystemNoSupport" id="operatingSystemNoSupport">Το λειτουργικό σας σύστημα δεν υποστηρίζεται.</ds>
+  <ds Jurisdiction="*" name="MGsoftNotTest" id="MGsoftNotTest">Το λογισμικό δεν έχει δοκιμαστεί στην συσκευή σας.</ds>
+  <ds Jurisdiction="*" name="MGrestoredGameHeader" id="MGrestoredGameHeader">Το παιχνίδι απεκαταστάθη</ds>
+  <ds Jurisdiction="*" name="OCTrestoredGameHeader" id="OCTrestoredGameHeader">Το παιχνίδι απεκαταστάθη</ds>
+  <ds Jurisdiction="*" name="gameOptimisedFor" id="gameOptimisedFor">Το παιχνίδι είναι βελτιστοποιημένο για {0} σε {1}.</ds>
+  <ds Jurisdiction="*" name="gameOptimisedVersion" id="gameOptimisedVersion">Το παιχνίδι είναι βελτιστοποιημένο για: {0}</ds>
+  <ds Jurisdiction="*" name="optimisedForVersion" id="optimisedForVersion">Το παιχνίδι εμφανίζεται καλύτερα με: {0}</ds>
+  <ds Jurisdiction="*" name="MGcasino_btn" id="MGcasino_btn">Υποδοχή</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsLeftColonVar" id="OCTfreeSpinsLeftColonVar">Υπολοιπα Free Spins: {0}</ds>
+  <ds Jurisdiction="*" name="OCThighQuality" id="OCThighQuality">Υψηλό</ds>
+  <ds Jurisdiction="*" name="highQuality" id="highQuality">Υψηλό</ds>
+  <ds Jurisdiction="*" name="OCTloadingText" id="OCTloadingText">Φόρτωση</ds>
+  <ds Jurisdiction="*" name="OCTloading" id="OCTloading">Φόρτωση...</ds>
+  <ds Jurisdiction="*" name="OCTlostConnectInactivity" id="OCTlostConnectInactivity">Χάθηκε η σύνδεση για το παιχνίδι λόγω αδράνειας.</ds>
+  <ds Jurisdiction="*" name="MGlostConnectionInactivity" id="MGlostConnectionInactivity">Χάθηκε η σύνδεση για το παιχνίδι λόγω αδράνειας.</ds>
+  <ds Jurisdiction="*" name="lowQuality" id="lowQuality">Χαμηλό</ds>
+  <ds Jurisdiction="*" name="OCTlowQuality" id="OCTlowQuality">Χαμηλό</ds>
+  <ds Jurisdiction="*" name="OCToutOfMoney" id="OCToutOfMoney">Χρήματα, τέλος.</ds>
+  <ds Jurisdiction="*" name="MGoutOfMoney" id="MGoutOfMoney">Χρήματα, τέλος.</ds>
+  <ds Jurisdiction="*" name="MGuseDefaultBrowser" id="MGuseDefaultBrowser">Χρησιμοποιήστε τον προκαθορισμένο περιηγητή της συσκευής ή αναβαθμίστε το σύστημα σας.</ds>
+  <ds Jurisdiction="*" name="ifCashIncreasesBy" id="ifCashIncreasesBy">Αν τα μετρητά αυξηθούν κατά</ds>
+  <ds Jurisdiction="*" name="OCTifCashIncreasesBy" id="OCTifCashIncreasesBy">Αν τα μετρητά αυξηθούν κατά</ds>
+  <ds Jurisdiction="*" name="ifCashDecreasesBy" id="ifCashDecreasesBy">Αν τα μετρητά μειωθούν κατά</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Αυτό το παιχνίδι χρησιμοποιεί ηλεκτρονικά μπισκότα (cookie) για να βελτιώσει την εμπειρία των χρηστών και για διαφημιστικούς σκοπούς. Παρακαλούμε επιβεβαιώστε ότι αποδέχεστε την</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">Βελτιστοποιημένο για {0} σε {1} {2}</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">Για καλύτερη εμπειρία παιχνιδιού, αναβαθμίστε το λειτουργικό σας σύστημα.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">Για καλύτερη εμπειρία παιχνιδιού, ενημερώστε τον περιηγητή σας.</ds>
+  <ds Jurisdiction="*" name="autoplayPS" id="autoplayPS">Διακόπτει το αυτόματο παιχνίδι αν κερδίσετε το παιχνίδι μπόνους ή τα Police Spins πριν από τον ορισμένο αριθμό γύρων αυτόματου παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="autoplayFS" id="autoplayFS">Διακόπτει το Αυτόματο παιχνίδι εάν προκύψουν Δωρεάν Περιστροφές πριν ολοκληρωθεί ο καθορισμένος αριθμός γύρων αυτόματου παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Επιπλέον Δωρεάν Γύροι</ds>
+  <ds Jurisdiction="*" name="MGvoidAllPays" id="MGvoidAllPays">Η δυσλειτουργία ακυρώνει όλες τις πληρωμές και όλα τα παιχνίδια.</ds>
+  <ds Jurisdiction="*" name="voidAllPays" id="voidAllPays">Η δυσλειτουργία ακυρώνει όλες τις πληρωμές και όλα τα παιχνίδια.</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeadingCaps" id="MGgameHistoryHeadingCaps">ΙΣΤΟΡΙΚΟ ΠΑΙΧΝΙΔΙΟΥ</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">Πρέπει να ενημερώσετε το λειτουργικό σας σύστημα για να παίξετε το παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Πρέπει να χρησιμοποιήσετε {0} για να παίξετε το παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="MGsoundSettingsCaps" id="MGsoundSettingsCaps">ΡΥΘΜΙΣΕΙΣ ΗΧΟΥ</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRevCaps" id="MGspinSettingsRevCaps">ΡΥΘΜΙΣΕΙΣ ΠΕΡΙΣΤΡΟΦΩΝ</ds>
+  <ds Jurisdiction="*" name="MGbetSettingsCaps" id="MGbetSettingsCaps">ΡΥΘΜΙΣΕΙΣ ΠΟΝΤΑΡΙΣΜΑΤΟΣ</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="60" id="60">"Αυτό το τουρνουά έληξε, ο τελευταίος γύρος που παίξατε δεν θα συμπεριληφθεί στα στατιστικά στοιχεία του τουρνουά.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired_header" id="gameWalletMssgExpired_header">Bonus που έληξε</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered_header" id="gameWalletMssgWagered_header">Bonus που μετατράπηκε</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited_header" id="gameWalletMssgForfeited_header">Bonus που χάθηκε</ds>
+  <ds Jurisdiction="*" name="ok_btn" id="ok_btn">OK</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Tο παιχνίδι χρησιμοποιεί cookies για στατιστικά και για τη βελτίωση της εμπειρίας του χρήστη. Επιβεβαιώστε ότι</ds>
+  <ds Jurisdiction="*" name="upgradeIn" id="upgradeIn">Αναβαθμίστε το  {0} σε {1}.</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Αριθμός από {0}</ds>
+  <ds Jurisdiction="*" name="browserVersionNotSupported" id="browserVersionNotSupported">Αυτή η έκδοση του περιηγητή, δυστυχώς δεν υποστηρίζεται.</ds>
+  <ds Jurisdiction="*" name="120" id="120">Αυτή η επιλογή είναι διαθέσιμη μόνο αφού τελειώσετε τον γύρο παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="0" id="0">Αυτό το παιχνίδι δεν είναι διαθέσιμο. Δοκιμάστε ξανά αργότερα</ds>
+  <ds Jurisdiction="*" name="53" id="53">Αυτό το παιχνίδι δεν είναι διαθέσιμο. Δοκιμάστε ξανά αργότερα.</ds>
+  <ds Jurisdiction="*" name="56" id="56">Αυτό το παιχνίδι δεν είναι διαθέσιμο. Δοκιμάστε ξανά αργότερα.</ds>
+  <ds Jurisdiction="*" name="58" id="58">Αυτό το παιχνίδι δεν είναι διαθέσιμο. Δοκιμάστε ξανά αργότερα.</ds>
+  <ds Jurisdiction="*" name="40" id="40">Αυτό το τουρνουά δεν ξεκίνησε ακόμα, δοκιμάστε ξανά αργότερα.</ds>
+  <ds Jurisdiction="*" name="50" id="50">Αυτό το τουρνουά έληξε.</ds>
+  <ds Jurisdiction="*" name="performanceNotification" id="performanceNotification">Για να αυξήσετε την ταχύτητα, χαμηλώστε την ποιότητα των γραφικών χρησιμοποιώντας τις ρυθμίσεις του παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="OBperformanceNotification" id="OBperformanceNotification">Για να αυξήσετε τις επιδόσεις, χαμηλώστε την ποιότητα γραφικών στο μενού επιλογών παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="121" id="121">Για να ξεκινήσετε το αυτόματο παιχνίδι πρέπει να τοποθετήσετε στοίχημα.</ds>
+  <ds Jurisdiction="*" name="autoRounds" id="autoRounds">γύρους</ds>
+  <ds Jurisdiction="*" name="122" id="122">Δεν ήταν δυνατή η αναπαραγωγή της ταινίας κούρσας.</ds>
+  <ds Jurisdiction="*" name="70" id="70">Δεν μπορούμε να πραγματοποιήσουμε πρόσβαση στο λογαριασμό σας αυτή τη στιγμή. Δοκιμάστε ξανά αργότερα</ds>
+  <ds Jurisdiction="*" name="101" id="101">Δεν υπάρχουν αρκετά χρήματα στο λογαριασμό Casino που διαθέτετε.</ds>
+  <ds Jurisdiction="*" name="10" id="10">Δεν υπάρχουν αρκετά χρήματα στο λογαριασμό σας.</ds>
+  <ds Jurisdiction="*" name="100" id="100">Δεν υπάρχουν αρκετά χρήματα στο λογαριασμό σας.</ds>
+  <ds Jurisdiction="*" name="51" id="51">Δεν υπάρχουν αρκετά χρήματα στο λογαριασμό σας.</ds>
+  <ds Jurisdiction="*" name="15" id="15">Δεν υπάρχουν αρκετά χρήματα στο λογαριασμό σας. Προσθέστε περισσότερα χρήματα ή μειώστε το ποντάρισμά σας.</ds>
+  <ds Jurisdiction="*" name="RCheckSeconds" id="RCheckSeconds">δευτερόλεπτα</ds>
+  <ds Jurisdiction="*" name="RCheckSecond" id="RCheckSecond">δευτερόλεπτο</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">δέχεστε τα cookies.</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlayColon" id="OCTstopAutoPlayColon">Διακοπή αυτόμ. παιχνιδιού:</ds>
+  <ds Jurisdiction="*" name="OCTroundsLeft" id="OCTroundsLeft">Δωρεάν γύροι</ds>
+  <ds Jurisdiction="*" name="roundsLeft" id="roundsLeft">Δωρεάν γύροι παιχ</ds>
+  <ds Jurisdiction="*" name="FreeRoundsLeftwithColonVar" id="FreeRoundsLeftwithColonVar">Δωρεάν γύροι παιχ: {0}</ds>
+  <ds Jurisdiction="*" name="RCheckWeek" id="RCheckWeek">εβδομάδα</ds>
+  <ds Jurisdiction="*" name="RCheckWeeks" id="RCheckWeeks">εβδομάδες</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitTouch" id="OCTlossLimitTouch">Εισαγάγετε αν τα μετρητά μειωθούν κατά ποσό</ds>
+  <ds Jurisdiction="*" name="reset" id="reset">Επαναφ.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfo" id="OCTlossLimitInfo">Επιβεβαιώστε ή ορίστε το ποσό πονταρίσματος πριν ορίσετε το όριο **αν τα μετρητά μειωθούν κατά**.</ds>
+  <ds Jurisdiction="*" name="RCheckYears" id="RCheckYears">έτη</ds>
+  <ds Jurisdiction="*" name="RCheckYear" id="RCheckYear">έτος</ds>
+  <ds Jurisdiction="*" name="RCheckReminder" id="RCheckReminder">ΕΥΓΕΝΙΚΗ ΥΠΕΝΘΥΜΙΣΗ</ds>
+  <ds Jurisdiction="*" name="OCThaveFreeRounds" id="OCThaveFreeRounds">Έχετε {0} δωρεάν γύρους!</ds>
+  <ds Jurisdiction="*" name="20" id="20">Η περίοδος λειτουργίας σας έληξε. Επανεκκινήστε το παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="RCheckEndCont" id="RCheckEndCont">Θέλετε να σταματήσετε ή να συνεχίσετε να παίζετε;</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfoTouch" id="OCTlossLimitInfoTouch">Καθορίζει το ποσό πονταρίσματος πριν τον καθορισμό του ορίου, για τη διακοπή του αυτόματου παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="close_btn" id="close_btn">Κλείσιμο</ds>
+  <ds Jurisdiction="*" name="RCheckMinutes" id="RCheckMinutes">λεπτά</ds>
+  <ds Jurisdiction="*" name="RCheckMinute" id="RCheckMinute">λεπτό</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired" id="gameWalletMssgExpired">Λυπούμαστε. Το bonus {0} έληξε και δεν είναι διαθέσιμο πλέον.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited" id="gameWalletMssgForfeited">Λυπούμαστε. Το bonus {0} χάθηκε.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Μάλλον δεν είναι το αποτέλεσμα που περιμένατε. Σας χαρίζουμε επιπλέον {0} Δωρεάν Γύρους.</ds>
+  <ds Jurisdiction="*" name="RCheckDay" id="RCheckDay">μέρα</ds>
+  <ds Jurisdiction="*" name="RCheckDays" id="RCheckDays">μέρες</ds>
+  <ds Jurisdiction="*" name="RCheckMonth" id="RCheckMonth">μήνας</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Μήνυμα</ds>
+  <ds Jurisdiction="*" name="messagecaption" id="messagecaption">Μήνυμα</ds>
+  <ds Jurisdiction="*" name="59" id="59">Ο πελάτης είναι ήδη συνδεδεμένος. Δοκιμάστε ξανά αργότερα.</ds>
+  <ds Jurisdiction="*" name="notSupportedBrowser" id="notSupportedBrowser">Ο περιηγητής σας δεν υποστηρίζεται.</ds>
+  <ds Jurisdiction="*" name="25" id="25">Όλα τα παιχνίδια απενεργοποιήθηκαν.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimit" id="OCTlossLimit">Όριο απώλειας</ds>
+  <ds Jurisdiction="*" name="RCheckPlayingFor" id="RCheckPlayingFor">Παίζετε</ds>
+  <ds Jurisdiction="*" name="RCheckPlaying" id="RCheckPlaying">Παίζετε για {0} {1}. {2} {3}. {4}</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitWarning" id="OCTlossLimitWarning">Πληκτρολογήστε το ποσό **αν τα μετρητά μειωθούν κατά**.</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Πρέπει να ενημερώσετε τον περιηγητή σας για να παίξετε το παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="addValue" id="addValue">Προσθήκη αξίας</ds>
+  <ds Jurisdiction="*" name="RCheckWon" id="RCheckWon">Σε αυτό το διάστημα κερδίσατε</ds>
+  <ds Jurisdiction="*" name="RCheckLost" id="RCheckLost">Σε αυτό το διάστημα χάσατε</ds>
+  <ds Jurisdiction="*" name="OCTonAnyWin" id="OCTonAnyWin">Σε οποιαδήποτε νίκη</ds>
+  <ds Jurisdiction="*" name="OCTcongratsUC" id="OCTcongratsUC">ΣΥΓΧΑΡΗΤΗΡΙΑ!</ds>
+  <ds Jurisdiction="*" name="freeRoundsInitiatedDialogText" id="freeRoundsInitiatedDialogText">Συγχαρητήρια!  Κερδίσατε {0} δωρεάν γύρους παιχνιδιού. Καλή τύχη!</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered" id="gameWalletMssgWagered">Συγχαρητήρια! Το bonus {0} έχει μετατραπεί σε πίστωση. Για να το χρησιμοποιήσετε, συνδεθείτε ξανά.</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Σύνδεση: Μέτρια</ds>
+  <ds Jurisdiction="*" name="button_CONTINUE" id="button_CONTINUE">ΣΥΝΕΧΕΙΑ</ds>
+  <ds Jurisdiction="*" name="Continue" id="Continue">Συνέχεια</ds>
+  <ds Jurisdiction="*" name="OCTTotalWinwithColonUC" id="OCTTotalWinwithColonUC">ΣΥΝΟΛΙΚΑ ΚΕΡΔΙΣΑΤΕ: {0}</ds>
+  <ds Jurisdiction="*" name="OBfreeRoundsGamePanel" id="OBfreeRoundsGamePanel">Συνολικό κέρδος: {0}</ds>
+  <ds Jurisdiction="*" name="TotalWinwithColonVar" id="TotalWinwithColonVar">Συνολικό κέρδος: {0}</ds>
+  <ds Jurisdiction="*" name="OBOCTTotalWinwithColonVar" id="OBOCTTotalWinwithColonVar">Σύνολο πληρωμής: {0}</ds>
+  <ds Jurisdiction="*" name="OCTCheckEndButton" id="OCTCheckEndButton">Τέλος</ds>
+  <ds Jurisdiction="*" name="RCheckEndButton" id="RCheckEndButton">Τέλος</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinishedRev" id="OCTfreeRoundsFinishedRev">Τέλος δωρεάν γύρων</ds>
+  <ds Jurisdiction="*" name="freeRoundsCompleteDialogText" id="freeRoundsCompleteDialogText">Τέλος δωρεάν γύρων παιχνιδιού. Στο εξής τα χρήματα είναι από το λογασιασμό σας. Καλή τύχη!</ds>
+  <ds Jurisdiction="*" name="102" id="102">Το αυτόματο παιχνίδι ακυρώθηκε.</ds>
+  <ds Jurisdiction="*" name="110" id="110">Το παιχνίδι δεν μπορεί να ξεκινήσει. Δοκιμάστε ξανά αργότερα.</ds>
+  <ds Jurisdiction="*" name="betExceedCDB" id="betExceedCDB">Το ποντάρισμά σας ξεπέρασε το όριο "Αν τα μετρητά μειωθούν κατά". Αυξήστε το όριο.</ds>
+  <ds Jurisdiction="*" name="greaterCDB" id="greaterCDB">Το ποσό πρέπει να είναι μεγαλύτερο από το ποσό πονταρίσματος.</ds>
+  <ds Jurisdiction="*" name="13" id="13">Το στοίχημα σας ξεπερνά το μέγιστο όριο που ορίστηκε για το παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="12" id="12">Το τρέχον ποντάρισμα δεν ήταν δυνατόν να πραγματοποιηθεί εξαιτίας λήξης του μπόνους.</ds>
+  <ds Jurisdiction="*" name="mandatoryField" id="mandatoryField">Υποχρεωτικό πεδίο</ds>
+  <ds Jurisdiction="*" name="14" id="14">Φορτώστε ξανά για να ανανεώσετε το υπόλοιπο στο παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="11" id="11">Φτάσατε στο όριο του παιχνιδιού σας. Παίξτε ξανά αργότερα.</ds>
+  <ds Jurisdiction="*" name="RCheckHour" id="RCheckHour">ώρα</ds>
+  <ds Jurisdiction="*" name="RCheckHours" id="RCheckHours">ώρες</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Αυτό το παιχνίδι χρησιμοποιεί ηλεκτρονικά μπισκότα (cookie) για να βελτιώσει την εμπειρία των χρηστών και για διαφημιστικούς σκοπούς. Παρακαλούμε επιβεβαιώστε ότι αποδέχεστε την</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">Βελτιστοποιημένο για {0} σε {1} {2}</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">Για καλύτερη εμπειρία παιχνιδιού, αναβαθμίστε το λειτουργικό σας σύστημα.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">Για καλύτερη εμπειρία παιχνιδιού, ενημερώστε τον περιηγητή σας.</ds>
+  <ds Jurisdiction="*" name="16" id="16">Δυστυχώς, η προσφορά για τους Δωρεάν Γύρους έχει ήδη χρησιμοποιηθεί.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Επιπλέον Δωρεάν Γύροι</ds>
+  <ds Jurisdiction="*" name="nothanks" id="nothanks">Όχι, ευχαριστώ</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">Πρέπει να ενημερώσετε το λειτουργικό σας σύστημα για να παίξετε το παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Πρέπει να χρησιμοποιήσετε {0} για να παίξετε το παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="bonusAwardedTitle" id="bonusAwardedTitle">Σας δόθηκε το μπόνους</ds>
+  <ds Jurisdiction="*" name="bonusAwardedCongrats" id="bonusAwardedCongrats">Συγχαρητήρια! Σας δόθηκε μπόνους {0}.</ds>
+  <ds Jurisdiction="*" name="iagree" id="iagree">Συμφωνώ</ds>
+  <ds Jurisdiction="*" name="OBTotalWinwithColonVar" id="OBTotalWinwithColonVar">Σύνολο πληρωμής: {0}</ds>
+  <ds Jurisdiction="*" name="OCTstopIfWinExeeds" id="OCTstopIfWinExeeds">Τερματισμός αν μία μόνο νίκη ξεπερνά τα</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashIncreasesBy" id="OCTstopIfCashIncreasesBy">Τερματισμός αν τα μετρητά αυξηθούν κατά</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashDecreasesBy" id="OCTstopIfCashDecreasesBy">Τερματισμός αν τα μετρητά μειωθούν κατά</ds>
+  <ds Jurisdiction="*" name="stopWhenJackpotIsWon" id="stopWhenJackpotIsWon">Τερματισμός με νίκη στο jackpot</ds>
+</defaults>

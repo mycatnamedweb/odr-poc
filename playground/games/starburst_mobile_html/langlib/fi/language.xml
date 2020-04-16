@@ -1,0 +1,462 @@
+﻿<defaults xml:lang="fi">
+  <!-- Finnish locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 08:40:42 GMT on Tuesday 10 October 2017.
+
+ -->
+  <ds Jurisdiction="*" name="freeRoundsFinished" id="freeRoundsFinished"></ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpinsNoSpan" id="MGvarRetriggerFreeSpinsNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTvarRetriggerFSNoSpan" id="OCTvarRetriggerFSNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpins" id="MGvarRetriggerFreeSpins">&lt;span class='NetEnt_plusSign'&gt;+&lt;/span&gt;&lt;span class='NetEnt_numberFreeSpins'&gt;{0}&lt;/span&gt; Free Spins</ds>
+  <ds Jurisdiction="*" name="NeProduction" id="NeProduction">A NET ENTERTAINMENT PRODUCTION</ds>
+  <ds Jurisdiction="*" name="OCTsoundsOn" id="OCTsoundsOn">Äänet päällä</ds>
+  <ds Jurisdiction="*" name="MGsoundsOn" id="MGsoundsOn">Äänet päällä</ds>
+  <ds Jurisdiction="*" name="MGsoundsNo" id="MGsoundsNo">Äänetön</ds>
+  <ds Jurisdiction="*" name="OCTsoundsNo" id="OCTsoundsNo">Äänetön</ds>
+  <ds Jurisdiction="*" name="OCTsoundSettingsCaps" id="OCTsoundSettingsCaps">ÄÄNIASETUKSET</ds>
+  <ds Jurisdiction="*" name="MGsoundSettings" id="MGsoundSettings">Ääniasetukset</ds>
+  <ds Jurisdiction="*" name="sound" id="sound">Äänitehosteet</ds>
+  <ds Jurisdiction="*" name="paytableHighestRev" id="paytableHighestRev">Akt. suurin panoslinja- ja tapavoitto maksetaan.</ds>
+  <ds Jurisdiction="*" name="dontShowNextTime" id="dontShowNextTime">Älä näytä ensi kerralla</ds>
+  <ds Jurisdiction="*" name="OCTstartFreeSpins" id="OCTstartFreeSpins">ALOITA FREE SPINS</ds>
+  <ds Jurisdiction="Spain" name="OCTautoplayPanelStartText" id="OCTautoplayPanelStartText">Aloita valitsemalla</ds>
+  <ds Jurisdiction="*" name="animationsGameSetting" id="animationsGameSetting">Animaatiot</ds>
+  <ds Jurisdiction="*" name="autoplayButtonTwoLine" id="autoplayButtonTwoLine">AUTOMAATTI&lt;br&gt;PELI</ds>
+  <ds Jurisdiction="*" name="MGautoplayPanelLabel" id="MGautoplayPanelLabel">Automaattipeli</ds>
+  <ds Jurisdiction="*" name="OCTautoplayButton" id="OCTautoplayButton">AUTOMAATTIPELI</ds>
+  <ds Jurisdiction="*" name="OCTautoplayPanelLabel" id="OCTautoplayPanelLabel">Automaattipeli</ds>
+  <ds Jurisdiction="*" name="MGautoplayCancelled" id="MGautoplayCancelled">Automaattipeli on peruutettu</ds>
+  <ds Jurisdiction="*" name="MGbutton_no" id="MGbutton_no">Ei</ds>
+  <ds Jurisdiction="*" name="OCTbtnNo" id="OCTbtnNo">Ei</ds>
+  <ds Jurisdiction="*" name="MGnoWin" id="MGnoWin">Ei voittoa</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">evästekäytäntömme.</ds>
+  <ds Jurisdiction="*" name="MGcolHeadFSpinSyms" id="MGcolHeadFSpinSyms">Free Spin -merkit</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsUC" id="OCTfreeSpinsUC">FREE SPINS</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsLeftColonVar" id="OCTfreeSpinsLeftColonVar">Free Spins jäljellä: {0}</ds>
+  <ds Jurisdiction="*" name="MGfreeSpinsLeftColonVar" id="MGfreeSpinsLeftColonVar">Free Spinsejä jäljellä: {0}</ds>
+  <ds Jurisdiction="*" name="OCTqualityHeading" id="OCTqualityHeading">Grafiikan laatu</ds>
+  <ds Jurisdiction="*" name="qualityHeading" id="qualityHeading">Grafiikan laatu</ds>
+  <ds Jurisdiction="*" name="OCTcontinueYesNo" id="OCTcontinueYesNo">Haluatko jatkaa?</ds>
+  <ds Jurisdiction="*" name="MGcontinueYesNo" id="MGcontinueYesNo">Haluatko jatkaa?</ds>
+  <ds Jurisdiction="*" name="updateBrowserQuestion" id="updateBrowserQuestion">Haluatko päivittää?</ds>
+  <ds Jurisdiction="*" name="MGplayingForMoney" id="MGplayingForMoney">Haluatko pelata rahasta?</ds>
+  <ds Jurisdiction="*" name="lowQuality" id="lowQuality">Heikko</ds>
+  <ds Jurisdiction="*" name="highQuality" id="highQuality">Hyvä</ds>
+  <ds Jurisdiction="*" name="OCThighQuality" id="OCThighQuality">Hyvä</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsTitle" id="OCTfreeRoundsTitle">Ilm. kierrokset</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsTitle" id="MGfreeRoundsTitle">Ilm. kierrokset</ds>
+  <ds Jurisdiction="*" name="MGfreerounds" id="MGfreerounds">Ilmaiset kierrokset on käytetty</ds>
+  <ds Jurisdiction="*" name="OCTfreerounds" id="OCTfreerounds">Ilmaiset kierrokset on käytetty</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinished" id="OCTfreeRoundsFinished">Ilmaiskierrokset ovat ohi</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsFinished" id="MGfreeRoundsFinished">Ilmaiskierrokset ovat ohi</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsVar" id="MGfreeRoundsVar">Ilmaiskierroksia: {0}</ds>
+  <ds Jurisdiction="*" name="OCTFreeRoundsLeftwithColon" id="OCTFreeRoundsLeftwithColon">Ilmaiskierroksia: {0}</ds>
+  <ds Jurisdiction="*" name="OCTslowConnection" id="OCTslowConnection">Internetyhteytesi on tällä hetkellä hidas.</ds>
+  <ds Jurisdiction="*" name="MGslowConnection" id="MGslowConnection">Internetyhteytesi on tällä hetkellä hidas.</ds>
+  <ds Jurisdiction="*" name="MGbigWin" id="MGbigWin">ISO VOITTO!</ds>
+  <ds Jurisdiction="*" name="MGsessionTimeOut" id="MGsessionTimeOut">Istunnon aikakatkaisu</ds>
+  <ds Jurisdiction="*" name="OCTsessionTimeOut" id="OCTsessionTimeOut">Istunnon aikakatkaisu</ds>
+  <ds Jurisdiction="*" name="OCTContinue" id="OCTContinue">Jatka</ds>
+  <ds Jurisdiction="*" name="OCTbutton_CONTINUE" id="OCTbutton_CONTINUE">JATKA</ds>
+  <ds Jurisdiction="*" name="MGcontinue" id="MGcontinue">Jatka</ds>
+  <ds Jurisdiction="*" name="MGcontinuePlaying" id="MGcontinuePlaying">Jatka peliä tilanteesta, johon jäit.</ds>
+  <ds Jurisdiction="*" name="OCTcontinuePlaying" id="OCTcontinuePlaying">Jatka peliä tilanteesta, johon jäit.</ds>
+  <ds Jurisdiction="*" name="OCTintroGameSetting" id="OCTintroGameSetting">Johdanto</ds>
+  <ds Jurisdiction="*" name="OCTintroScreeGameSetting" id="OCTintroScreeGameSetting">Johdantonäyttö</ds>
+  <ds Jurisdiction="*" name="introScreeGameSetting" id="introScreeGameSetting">Johdantonäyttö</ds>
+  <ds Jurisdiction="*" name="OCTifCashDecreasesBy" id="OCTifCashDecreasesBy">Jos käteinen pienenee summalla</ds>
+  <ds Jurisdiction="*" name="OCTifFreeSpinsIsStarted" id="OCTifFreeSpinsIsStarted">Jos voitetaan Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTifWinExeeds" id="OCTifWinExeeds">Jos yksi voitto ylittää</ds>
+  <ds Jurisdiction="*" name="ifWinExeeds" id="ifWinExeeds">Jos yksi voitto ylittää</ds>
+  <ds Jurisdiction="*" name="MGlandscapeMode" id="MGlandscapeMode">Käännä laitteesi vaakasuuntaan!</ds>
+  <ds Jurisdiction="*" name="OCTlandscapeMode" id="OCTlandscapeMode">Käännä laitteesi vaakasuuntaan!</ds>
+  <ds Jurisdiction="*" name="OCTbetInCash" id="OCTbetInCash">Käteispanos</ds>
+  <ds Jurisdiction="*" name="MGbetInCash" id="MGbetInCash">Käteispanos</ds>
+  <ds Jurisdiction="*" name="MGbetInCashRev" id="MGbetInCashRev">Käteispanos</ds>
+  <ds Jurisdiction="*" name="extraInfo" id="extraInfo">Katso lisätietoja Pelisäännöistä.</ds>
+  <ds Jurisdiction="*" name="OCTextraInfo" id="OCTextraInfo">Katso lisätietoja Pelisäännöistä.</ds>
+  <ds Jurisdiction="*" name="startFreeSpins" id="startFreeSpins">Käynnistä Free Spins</ds>
+  <ds Jurisdiction="*" name="MGswipeToActivate" id="MGswipeToActivate">Käynnistä peli pyyhkäisemällä ylös.</ds>
+  <ds Jurisdiction="*" name="MGreturnCasino" id="MGreturnCasino">Käynnistä peli uudelleen.</ds>
+  <ds Jurisdiction="*" name="OCTreturnCasino" id="OCTreturnCasino">Käynnistä peli uudelleen.</ds>
+  <ds Jurisdiction="*" name="MGuseDefaultBrowser" id="MGuseDefaultBrowser">Käytä laitteen oletusselainta tai päivitä järjestelmäsi.</ds>
+  <ds Jurisdiction="*" name="operatingSystemNoSupport" id="operatingSystemNoSupport">Käyttöjärjestelmääsi ei tueta.</ds>
+  <ds Jurisdiction="*" name="multiplierUC" id="multiplierUC">KERROIN</ds>
+  <ds Jurisdiction="*" name="OCTmediumQuality" id="OCTmediumQuality">Keskitasoinen</ds>
+  <ds Jurisdiction="*" name="mediumQuality" id="mediumQuality">Keskitasoinen</ds>
+  <ds Jurisdiction="*" name="MGspinSettings" id="MGspinSettings">Kierrosasetukset</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRev" id="MGspinSettingsRev">Kierrosasetukset</ds>
+  <ds Jurisdiction="*" name="OCTspinSettingsCaps" id="OCTspinSettingsCaps">KIERROSASETUKSET</ds>
+  <ds Jurisdiction="*" name="OCTnumberSpins" id="OCTnumberSpins">Kierrosten lukumäärä</ds>
+  <ds Jurisdiction="*" name="MGnumberSpins" id="MGnumberSpins">Kierrosten lukumäärä</ds>
+  <ds Jurisdiction="*" name="MGlogin_btn" id="MGlogin_btn">Kirjaudu</ds>
+  <ds Jurisdiction="*" name="OCTlogin_btn" id="OCTlogin_btn">Kirjaudu</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinWithColon" id="OCTtotalWinWithColon">Kokonaisvoitto:</ds>
+  <ds Jurisdiction="*" name="MGtotalWin" id="MGtotalWin">Kokonaisvoitto: {0}</ds>
+  <ds Jurisdiction="*" name="MGcoinvalue" id="MGcoinvalue">Kolikkoarvo</ds>
+  <ds Jurisdiction="*" name="OCTcoinValue" id="OCTcoinValue">Kolikkoarvo</ds>
+  <ds Jurisdiction="*" name="MGbetInCoins" id="MGbetInCoins">Kolikkopanos</ds>
+  <ds Jurisdiction="*" name="MGwinMultiplierVar" id="MGwinMultiplierVar">Kolikkovoitot kerrotaan kertoimella {0}</ds>
+  <ds Jurisdiction="*" name="paytableInfoBetLevel1" id="paytableInfoBetLevel1">Kolikkovoittojen arvot perustuvat panostasoon 1.</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coins" id="OCTmachinetext_coins">KOLIKOITA</ds>
+  <ds Jurisdiction="*" name="coins" id="coins">Kolikoita</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coinvalue" id="OCTmachinetext_coinvalue">KOLIKON ARVO</ds>
+  <ds Jurisdiction="*" name="MGpaytableInfoBetLevel1" id="MGpaytableInfoBetLevel1">Kolikon voittoarvot perustuvat panostasoon 1.</ds>
+  <ds Jurisdiction="*" name="MGcoins" id="MGcoins">Kolikot: {0}</ds>
+  <ds Jurisdiction="*" name="OCTcoinsColonVar" id="OCTcoinsColonVar">Kolikot: {0}</ds>
+  <ds Jurisdiction="*" name="OCTcasino_btn" id="OCTcasino_btn">Koti</ds>
+  <ds Jurisdiction="*" name="MGcasino_btn" id="MGcasino_btn">Koti</ds>
+  <ds Jurisdiction="Spain" name="OCTifFBonusIsStarted" id="OCTifFBonusIsStarted">Kun Bonus Game on voitettu</ds>
+  <ds Jurisdiction="*" name="RCheckMonths" id="RCheckMonths">kuukautta</ds>
+  <ds Jurisdiction="*" name="OCTbtnYes" id="OCTbtnYes">Kyllä</ds>
+  <ds Jurisdiction="*" name="MGbutton_yes" id="MGbutton_yes">Kyllä</ds>
+  <ds Jurisdiction="*" name="MGyes" id="MGyes">Kyllä*</ds>
+  <ds Jurisdiction="*" name="OCTloadingText" id="OCTloadingText">Ladataan</ds>
+  <ds Jurisdiction="*" name="OCTloading" id="OCTloading">Ladataan...</ds>
+  <ds Jurisdiction="*" name="MGdownloadSounds" id="MGdownloadSounds">Laitetaanko äänet päälle?</ds>
+  <ds Jurisdiction="*" name="deviceNotSupported" id="deviceNotSupported">Laitettasi ei tueta.</ds>
+  <ds Jurisdiction="*" name="MGreload_btn" id="MGreload_btn">Lataa</ds>
+  <ds Jurisdiction="*" name="OCTreload_btn" id="OCTreload_btn">Lataa</ds>
+  <ds Jurisdiction="*" name="OCTreload" id="OCTreload">Lataa peli uudelleen.</ds>
+  <ds Jurisdiction="*" name="MGreload" id="MGreload">Lataa peli uudelleen.</ds>
+  <ds Jurisdiction="*" name="MGreload_btnRev" id="MGreload_btnRev">Lataa uudelleen</ds>
+  <ds Jurisdiction="*" name="MGexpandReelTriggerLC" id="MGexpandReelTriggerLC">Lisääntyvät kiekolla ja laukaisevat lisäpyöräytyksen.</ds>
+  <ds Jurisdiction="*" name="expandReelTrigger" id="expandReelTrigger">LISÄÄNTYVÄT KIEKOLLA JA LAUKAISEVAT LISÄPYÖRÄYTYKSEN.</ds>
+  <ds Jurisdiction="*" name="OCTadvancedSettings" id="OCTadvancedSettings">Lisäasetukset</ds>
+  <ds Jurisdiction="*" name="maxNumberReSpins" id="maxNumberReSpins">LISÄPYÖRÄYTYKSIÄ VOI OLLA ENINTÄÄN {0}.</ds>
+  <ds Jurisdiction="*" name="MGmaxNumberReSpinsLC" id="MGmaxNumberReSpinsLC">Lisäpyöräytyksiä voi olla enintään {0}.</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlay" id="OCTstopAutoPlay">Lopeta automaattipeli</ds>
+  <ds Jurisdiction="*" name="autoBonusGame" id="autoBonusGame">Lopeta Autopelaa, jos Bonus Game -toiminto voitetaan ennen asetettua Autopelaa kierrosten määrää.</ds>
+  <ds Jurisdiction="*" name="autoplayFeatureSpins" id="autoplayFeatureSpins">Lopettaa Autopelaa-toiminnon, jos Feature Spins -toiminto voitetaan ennen asetettua Autopelaa kierrosten määrää.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Luultavasti ei toivomasi tulos. Saat meiltä {0} Ilm. kierrokset lisää.</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Määrä {0}</ds>
+  <ds Jurisdiction="*" name="OCTspinsLeftText" id="OCTspinsLeftText">Määrä {0} jäljellä</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbuttonTwoLine" id="OCTmaxbetbuttonTwoLine">MAKSIMI&lt;br&gt;PANOS</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbutton" id="OCTmaxbetbutton">MAKSIMIPANOS</ds>
+  <ds Jurisdiction="*" name="OCTlowQuality" id="OCTlowQuality">Matala</ds>
+  <ds Jurisdiction="*" name="specialWinMegaCombo" id="specialWinMegaCombo">MEGA YHDISTELMÄ</ds>
+  <ds Jurisdiction="*" name="OCTmegaWin" id="OCTmegaWin">MEGAVOITTO!</ds>
+  <ds Jurisdiction="*" name="megaWin" id="megaWin">MEGAVOITTO!</ds>
+  <ds Jurisdiction="Afghanistan" name="MGsymbolPayout" id="MGsymbolPayout">Merkin voittoarvot</ds>
+  <ds Jurisdiction="*" name="OCTsymbolPayout" id="OCTsymbolPayout">Merkin voittoarvot</ds>
+  <ds Jurisdiction="*" name="OCTRCcheckReminder" id="OCTRCcheckReminder">Muistutus</ds>
+  <ds Jurisdiction="*" name="MGRCcheckReminder" id="MGRCcheckReminder">Muistutus</ds>
+  <ds Jurisdiction="*" name="multiplierFLC" id="multiplierFLC">Multiplier</ds>
+  <ds Jurisdiction="*" name="MGappearsOnReelsLC" id="MGappearsOnReelsLC">Näkyvät kiekoilla {0}, {1} jad {2}.</ds>
+  <ds Jurisdiction="*" name="appearsOnReels" id="appearsOnReels">NÄKYVÄT KIEKOILLA {0}, {1} JAD {2}.</ds>
+  <ds Jurisdiction="*" name="MGright" id="MGright">O</ds>
+  <ds Jurisdiction="*" name="OCTskipIntro" id="OCTskipIntro">Ohita intro</ds>
+  <ds Jurisdiction="*" name="MGsoftNotTest" id="MGsoftNotTest">Ohjelmaa ei ole testattu laitteellasi.</ds>
+  <ds Jurisdiction="*" name="MGok_btn" id="MGok_btn">OK</ds>
+  <ds Jurisdiction="*" name="OCTbtnOK" id="OCTbtnOK">OK</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingLost" id="OCTRCheckPlayingLost">Olet pelannut {0} tuntia ja hävinnyt {1}.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingLost" id="MGRCheckPlayingLost">Olet pelannut {0} tuntia ja hävinnyt {1}.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingWon" id="MGRCheckPlayingWon">Olet pelannut {0} tuntia ja voittanut {1}.</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingWon" id="OCTRCheckPlayingWon">Olet pelannut {0} tuntia ja voittanut {1}.</ds>
+  <ds Jurisdiction="*" name="MG11" id="MG11">Olet saavuttanut pelirajasi. Tervetuloa takaisin myöhemmin!</ds>
+  <ds Jurisdiction="*" name="MGcongrats" id="MGcongrats">Onneksi olkoon!</ds>
+  <ds Jurisdiction="*" name="OCTcongratsLC" id="OCTcongratsLC">Onneksi olkoon!</ds>
+  <ds Jurisdiction="*" name="upgradeDevice" id="upgradeDevice">Päivitä laitteesi.</ds>
+  <ds Jurisdiction="*" name="OCTreset" id="OCTreset">Palauta</ds>
+  <ds Jurisdiction="*" name="couldNotConnectServer" id="couldNotConnectServer">Palvelimeen ei voitu muodostaa yhteyttä.</ds>
+  <ds Jurisdiction="*" name="OCTtotalbet" id="OCTtotalbet">Panos</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_bet" id="OCTmachinetext_bet">PANOS</ds>
+  <ds Jurisdiction="*" name="MGbetCashCoins" id="MGbetCashCoins">Panos kät./kolik.</ds>
+  <ds Jurisdiction="*" name="MGbetInCoinsRev" id="MGbetInCoinsRev">Panos kolikkoina</ds>
+  <ds Jurisdiction="*" name="OCTbetInCoins" id="OCTbetInCoins">Panos kolikkoina</ds>
+  <ds Jurisdiction="*" name="OCTbetColonVar" id="OCTbetColonVar">Panos: {0}</ds>
+  <ds Jurisdiction="*" name="MGbet" id="MGbet">Panos: {0}</ds>
+  <ds Jurisdiction="*" name="MGbetOptions" id="MGbetOptions">Panosasetukset</ds>
+  <ds Jurisdiction="*" name="MGbetSettings" id="MGbetSettings">Panosasetukset</ds>
+  <ds Jurisdiction="*" name="OCTbetSettingsCaps" id="OCTbetSettingsCaps">PANOSASETUKSET</ds>
+  <ds Jurisdiction="*" name="MGcolHeadBetMulti" id="MGcolHeadBetMulti">Panoskerroin</ds>
+  <ds Jurisdiction="*" name="MGbetLineWinsLeftRight" id="MGbetLineWinsLeftRight">Panoslinja voittaa, jos voittomerkit ovat kiekoissa järjestyksessä vasemmalta oikealle.</ds>
+  <ds Jurisdiction="*" name="OCTbetLineWinsLeftToRightOnly" id="OCTbetLineWinsLeftToRightOnly">Panoslinjavoitot maksetaan, jos ne ovat järjestyksessä vasemmanpuoleisimmasta kiekosta oikeanpuoleisimpaan.</ds>
+  <ds Jurisdiction="*" name="winBothWaysPaysRev" id="winBothWaysPaysRev">Panoslinjavoitot maksetaan, kun voittoyhdistelmä muodostetaan vasemmalta oikealle tai oikealta vasemmalle.</ds>
+  <ds Jurisdiction="Spain" name="OCTbetlevel" id="OCTbetlevel">Panostaso</ds>
+  <ds Jurisdiction="*" name="MGbetlevel" id="MGbetlevel">Panostaso</ds>
+  <ds Jurisdiction="*" name="MGplayingForFun" id="MGplayingForFun">PELAA LEIKISTI</ds>
+  <ds Jurisdiction="*" name="OCTplayingForFun" id="OCTplayingForFun">PELAA LEIKISTI</ds>
+  <ds Jurisdiction="*" name="MGyouPlayingFun" id="MGyouPlayingFun">Pelaat leikisti</ds>
+  <ds Jurisdiction="*" name="OCTyouPlayingFun" id="OCTyouPlayingFun">Pelaat leikisti</ds>
+  <ds Jurisdiction="*" name="OCTgameUnavailable" id="OCTgameUnavailable">Peli ei ole saatavilla</ds>
+  <ds Jurisdiction="*" name="MGgameUnavailable" id="MGgameUnavailable">Peli ei ole saatavilla</ds>
+  <ds Jurisdiction="*" name="gameOptimisedVersion" id="gameOptimisedVersion">Peli on optimoitu seuraavalle: {0}</ds>
+  <ds Jurisdiction="*" name="gameOptimisedFor" id="gameOptimisedFor">Peli on optimoitu seuraavalle: {0} - {1}</ds>
+  <ds Jurisdiction="*" name="MGrestoredGameHeader" id="MGrestoredGameHeader">Peli palautettu</ds>
+  <ds Jurisdiction="*" name="OCTrestoredGameHeader" id="OCTrestoredGameHeader">Peli palautettu</ds>
+  <ds Jurisdiction="*" name="OCTgameSound" id="OCTgameSound">Peliäänet</ds>
+  <ds Jurisdiction="*" name="MGsounds" id="MGsounds">Peliäänet</ds>
+  <ds Jurisdiction="*" name="MGgameSound" id="MGgameSound">Peliäänet</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeading" id="MGgameHistoryHeading">Pelihistoria</ds>
+  <ds Jurisdiction="*" name="gameHistory" id="gameHistory">Pelihistoria</ds>
+  <ds Jurisdiction="*" name="OCTgameHistory" id="OCTgameHistory">Pelihistoria</ds>
+  <ds Jurisdiction="*" name="OCTgameHistoryHeadingUC" id="OCTgameHistoryHeadingUC">PELIHISTORIA</ds>
+  <ds Jurisdiction="Algeria" name="OCTnewHistoryWindow" id="OCTnewHistoryWindow">Pelihistoria avautuu uudella sivulla. Sulje sivu palataksesi peliin.</ds>
+  <ds Jurisdiction="*" name="MGnewHistoryWindow" id="MGnewHistoryWindow">Pelihistoria avautuu uudella sivulla. Sulje sivu palataksesi peliin.</ds>
+  <ds Jurisdiction="*" name="MGhistoryNotAvailable" id="MGhistoryNotAvailable">Pelihistoria on saatavilla vain rahasta pelattaessa.</ds>
+  <ds Jurisdiction="*" name="OCThistoryNotAvailable" id="OCThistoryNotAvailable">Pelihistoria on saatavilla vain rahasta pelattaessa.</ds>
+  <ds Jurisdiction="*" name="OCTslidePanelLabel" id="OCTslidePanelLabel">Pelin asetukset</ds>
+  <ds Jurisdiction="*" name="gameNotLoaded" id="gameNotLoaded">Pelin lataaminen ei onnistunut.</ds>
+  <ds Jurisdiction="*" name="loadingTakesLonger" id="loadingTakesLonger">Pelin lataaminen kestää tavallista kauemmin.</ds>
+  <ds Jurisdiction="*" name="OCTloadingTakesLonger" id="OCTloadingTakesLonger">Pelin lataaminen kestää tavallista kauemmin.</ds>
+  <ds Jurisdiction="*" name="OCTplayLimit" id="OCTplayLimit">Peliraja</ds>
+  <ds Jurisdiction="*" name="MGplayLimit" id="MGplayLimit">Peliraja</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheading" id="MGgameRulesheading">Pelisäännöt</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheadingCaps" id="MGgameRulesheadingCaps">PELISÄÄNNÖT</ds>
+  <ds Jurisdiction="*" name="OCTgameRulesUC" id="OCTgameRulesUC">PELISÄÄNNÖT</ds>
+  <ds Jurisdiction="*" name="OCTquickSpin" id="OCTquickSpin">Pikapyöräytys</ds>
+  <ds Jurisdiction="*" name="MGquickSpinGameSetting" id="MGquickSpinGameSetting">Pikapyöräytys</ds>
+  <ds Jurisdiction="*" name="OCTquickSpinGameSetting" id="OCTquickSpinGameSetting">Pikapyöritys</ds>
+  <ds Jurisdiction="*" name="quickSpinGameSetting" id="quickSpinGameSetting">Pikapyöritys</ds>
+  <ds Jurisdiction="*" name="MGoff" id="MGoff">Pois päältä</ds>
+  <ds Jurisdiction="*" name="MGsoundsOff" id="MGsoundsOff">Poista ääni aina käytöstä</ds>
+  <ds Jurisdiction="*" name="OCTspaceSpin" id="OCTspaceSpin">Pyöräytys välilyönnillä</ds>
+  <ds Jurisdiction="*" name="spaceSpin" id="spaceSpin">Pyöräytys välilyönnillä</ds>
+  <ds Jurisdiction="*" name="MGspinButtonPosition" id="MGspinButtonPosition">Pyöräytyspainikkeen asento</ds>
+  <ds Jurisdiction="*" name="OCTautoSpins" id="OCTautoSpins">Pyöräytysten</ds>
+  <ds Jurisdiction="*" name="OCTautoplayStopText" id="OCTautoplayStopText">PYSÄYTÄ</ds>
+  <ds Jurisdiction="*" name="MGstopIfBonusGame" id="MGstopIfBonusGame">Pysäytä, jos voitat Bonus Game -kierroksia</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinscrosstowntraffic" id="OCTstopIfFreeSpinscrosstowntraffic">Pysäytä, jos voitat Crosstown Traffic Free Spins -kierroksia</ds>
+  <ds Jurisdiction="*" name="stopIfFeatureSpins" id="stopIfFeatureSpins">Pysäytä, jos voitat Feature Spin -kierroksia</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpins" id="OCTstopIfFreeSpins">Pysäytä, jos voitat Free Spins -kierroksia</ds>
+  <ds Jurisdiction="*" name="MGstopIfFreeSpins" id="MGstopIfFreeSpins">Pysäytä, jos voitat Free Spins -kierroksia</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinslittlewing" id="OCTstopIfFreeSpinslittlewing">Pysäytä, jos voitat Little Wing Free Spins -kierroksia</ds>
+  <ds Jurisdiction="*" name="stopIfPickAndClick" id="stopIfPickAndClick">Pysäytä, jos voitat Pick and Click -kierroksia</ds>
+  <ds Jurisdiction="*" name="stopIfPoliceSpins" id="stopIfPoliceSpins">Pysäytä, jos voitat Police Spins -kierroksia</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinspurplehaze" id="OCTstopIfFreeSpinspurplehaze">Pysäytä, jos voitat Purple Haze Free Spins -kierroksia</ds>
+  <ds Jurisdiction="*" name="OCToutOfMoney" id="OCToutOfMoney">Raha lopussa</ds>
+  <ds Jurisdiction="*" name="MGoutOfMoney" id="MGoutOfMoney">Raha lopussa</ds>
+  <ds Jurisdiction="*" name="OCTcash" id="OCTcash">Rahaa</ds>
+  <ds Jurisdiction="*" name="OCTcashColon" id="OCTcashColon">Rahaa:</ds>
+  <ds Jurisdiction="*" name="MGcash" id="MGcash">Rahaa:  {0}</ds>
+  <ds Jurisdiction="*" name="OCTcashColonVar" id="OCTcashColonVar">Rahaa: {0}</ds>
+  <ds Jurisdiction="*" name="OCTreturnToLobby" id="OCTreturnToLobby">Siirry takaisin aulaan.</ds>
+  <ds Jurisdiction="*" name="MGreturnToLobby" id="MGreturnToLobby">Siirry takaisin aulaan.</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsLeft" id="MGfreeRoundsLeft">Sinulla on {0} ilmaiskierrosta jäljellä!</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRounds" id="MGhaveFreeRounds">Sinulla on {0} ilmaiskierrosta.</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRoundsRev" id="MGhaveFreeRoundsRev">Sinulla on {0} ilmaista kierrosta!</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Sinun on päivitettävä selaimesi pelataksesi peliä.</ds>
+  <ds Jurisdiction="*" name="updateBrowserReq" id="updateBrowserReq">Sinun täytyy päivittää selaimesi, jotta voit pelata. Vähimmäisvaatimus: {0}</ds>
+  <ds Jurisdiction="*" name="starburstNameOfWild" id="starburstNameOfWild">Starburst™ Wild</ds>
+  <ds Jurisdiction="*" name="MGclose_btn" id="MGclose_btn">Sulje</ds>
+  <ds Jurisdiction="*" name="OCTclose_btn" id="OCTclose_btn">Sulje</ds>
+  <ds Jurisdiction="*" name="OCTsuperMegaWin" id="OCTsuperMegaWin">SUPERMEGAVOITTO!</ds>
+  <ds Jurisdiction="*" name="superMegaWin" id="superMegaWin">SUPERMEGAVOITTO!</ds>
+  <ds Jurisdiction="*" name="specialWinSuperCombo" id="specialWinSuperCombo">SUPERYHDISTELMÄ</ds>
+  <ds Jurisdiction="*" name="OCTbigWin" id="OCTbigWin">SUURI VOITTO!</ds>
+  <ds Jurisdiction="*" name="bigWin" id="bigWin">SUURI VOITTO!</ds>
+  <ds Jurisdiction="*" name="OCTdepositPlay" id="OCTdepositPlay">Talleta lisää rahaa jatkaaksesi pelaamista.</ds>
+  <ds Jurisdiction="*" name="OCTdeposit" id="OCTdeposit">Talleta lisää rahaa tai pienennä panostasi.</ds>
+  <ds Jurisdiction="*" name="MGdeposit" id="MGdeposit">Talleta lisää rahaa tai pienennä panostasi.</ds>
+  <ds Jurisdiction="*" name="MGdeposit_btn" id="MGdeposit_btn">Talletus</ds>
+  <ds Jurisdiction="*" name="OCTdeposit_btn" id="OCTdeposit_btn">Talletus</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Tämä peli käyttää evästeitä tilastoihin ja pelikokemuksen parantamiseen. Vahvista hyväksyväsi meidän</ds>
+  <ds Jurisdiction="*" name="optimisedForVersion" id="optimisedForVersion">Tämä peli on optimoitu versiolle: {0}</ds>
+  <ds Jurisdiction="*" name="OCTlevel" id="OCTlevel">TASO</ds>
+  <ds Jurisdiction="*" name="MGnoOSSupport" id="MGnoOSSupport">Tätä käyttöjärjestelmää ei valitettavasti tueta.</ds>
+  <ds Jurisdiction="*" name="MGdeviceNoSupport" id="MGdeviceNoSupport">Tätä laitetta ei valitettavasti tueta.</ds>
+  <ds Jurisdiction="*" name="MGnoBrowserSupport" id="MGnoBrowserSupport">Tätä selainta ei valitettavasti tueta.</ds>
+  <ds Jurisdiction="*" name="ambience" id="ambience">Taustaäänet</ds>
+  <ds Jurisdiction="*" name="MGerror" id="MGerror">Tekninen virhe</ds>
+  <ds Jurisdiction="*" name="OCTerror" id="OCTerror">Tekninen virhe</ds>
+  <ds Jurisdiction="*" name="OCTaccountUnavailable" id="OCTaccountUnavailable">Tili ei ole käytettävissä</ds>
+  <ds Jurisdiction="*" name="MGaccountUnavailable" id="MGaccountUnavailable">Tili ei ole käytettävissä</ds>
+  <ds Jurisdiction="*" name="OCTvoidAllPays" id="OCTvoidAllPays">Toimintahäiriö mitätöi kaikki maksut ja pelit.</ds>
+  <ds Jurisdiction="*" name="OCTroundsUseAcctMoney" id="OCTroundsUseAcctMoney">Tulevilla kierroksilla käytetään tilisi rahaa. Onnea!</ds>
+  <ds Jurisdiction="*" name="MGroundsUseAccountMoney" id="MGroundsUseAccountMoney">Tulevilla kierroksilla käytetään tilisi rahaa. Onnea!</ds>
+  <ds Jurisdiction="*" name="MGleft" id="MGleft">V</ds>
+  <ds Jurisdiction="*" name="MGreduceBet_btn" id="MGreduceBet_btn">Vähennä panosta</ds>
+  <ds Jurisdiction="Antigua and Barbuda" name="OCTreduceBet_btn" id="OCTreduceBet_btn">Vähennä panosta</ds>
+  <ds Jurisdiction="*" name="MGminOSReq" id="MGminOSReq">Vähimmäisvaatimus:</ds>
+  <ds Jurisdiction="*" name="MGoptionAvailable" id="MGoptionAvailable">Vaihtoehto on käytettävissä loppuun pelatun pelikierroksen jälkeen.</ds>
+  <ds Jurisdiction="*" name="OCTpaytableHighestWinMatch" id="OCTpaytableHighestWinMatch">Vain kunkin voittolinjan korkein voitto maksetaan.</ds>
+  <ds Jurisdiction="*" name="MGpaytableHighestPaid" id="MGpaytableHighestPaid">Vain panoslinjan suurimmasta voittoyhdistelmästä maksetaan.</ds>
+  <ds Jurisdiction="Spain" name="OCTpaytableHighest" id="OCTpaytableHighest">Vain panoslinjan suurin voitto maksetaan.</ds>
+  <ds Jurisdiction="Spain" name="paytableHighestNoActive" id="paytableHighestNoActive">Vain panoslinjan suurin voitto maksetaan.</ds>
+  <ds Jurisdiction="*" name="MGoptionUnavailable" id="MGoptionUnavailable">Valinta ei käytettävissä</ds>
+  <ds Jurisdiction="*" name="scatterSelect" id="scatterSelect">VALITSE SCATTER</ds>
+  <ds Jurisdiction="*" name="MGleftHandMode" id="MGleftHandMode">Vasenkätinen tila</ds>
+  <ds Jurisdiction="*" name="OCTleftHandMode" id="OCTleftHandMode">Vasenkätinen tila</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Viesti</ds>
+  <ds Jurisdiction="*" name="MGsubAllSymbolsLC" id="MGsubAllSymbolsLC">Voi korvata minkä tahansa merkin.</ds>
+  <ds Jurisdiction="*" name="subAllSymbols" id="subAllSymbols">VOI KORVATA MINKÄ TAHANSA MERKIN.</ds>
+  <ds Jurisdiction="*" name="MGdepositPlay" id="MGdepositPlay">Voit jatkaa pelaamista tallettamalla enemmän rahaa.</ds>
+  <ds Jurisdiction="*" name="MGreduce" id="MGreduce">Voit jatkaa pelaamista vähentämällä panostasi.</ds>
+  <ds Jurisdiction="*" name="OCTreduce" id="OCTreduce">Voit jatkaa pelaamista vähentämällä panostasi.</ds>
+  <ds Jurisdiction="*" name="FSplashWinBothWays" id="FSplashWinBothWays">VOITA  &lt;br&gt; MOLEMPIIN SUUNTIIN</ds>
+  <ds Jurisdiction="*" name="WinUpTodup" id="WinUpTodup">VOITA JOPA</ds>
+  <ds Jurisdiction="*" name="OCTwinUpTo" id="OCTwinUpTo">Voita jopa {0} kolikkoa</ds>
+  <ds Jurisdiction="*" name="MGwinUpTo" id="MGwinUpTo">Voita jopa {0} kolikkoa</ds>
+  <ds Jurisdiction="*" name="winBothWaysRev" id="winBothWaysRev">VOITA KAKSIN TAVOIN</ds>
+  <ds Jurisdiction="*" name="OCTcoinsWonColon" id="OCTcoinsWonColon">Voitetut kolikot:</ds>
+  <ds Jurisdiction="*" name="coinsWonColon" id="coinsWonColon">Voitetut kolikot:</ds>
+  <ds Jurisdiction="*" name="OCTyouWinUCNoExclamation" id="OCTyouWinUCNoExclamation">VOITIT</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoins" id="OCTyouWonCoins">Voitit {0} kolikkoa</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoinsUC" id="OCTyouWonCoinsUC">Voitit {0} kolikkoa</ds>
+  <ds Jurisdiction="*" name="MGyouWonCoins" id="MGyouWonCoins">Voitit {0} kolikkoa</ds>
+  <ds Jurisdiction="*" name="OCTadditonalFreeSpinsWon" id="OCTadditonalFreeSpinsWon">Voitit {0} ylimääräistä Free Spin -kierrosta</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinsWon" id="MGadditonalFreeSpinsWon">Voitit {0} ylimääräistä Free Spin -kierrosta</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinWon" id="MGadditonalFreeSpinWon">Voitit {0} ylimääräistä Free Spin -kierrosta</ds>
+  <ds Jurisdiction="*" name="MGyouWon" id="MGyouWon">Voitit:{0}</ds>
+  <ds Jurisdiction="*" name="OCTbutton_paytableUC" id="OCTbutton_paytableUC">VOITOT</ds>
+  <ds Jurisdiction="*" name="OCTpaytable" id="OCTpaytable">Voitot</ds>
+  <ds Jurisdiction="*" name="MGpaytable" id="MGpaytable">Voitot</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinColonVar" id="OCTtotalWinColonVar">Voitot yhteensä: {0}</ds>
+  <ds Jurisdiction="*" name="onAnyWin" id="onAnyWin">Voittaessa</ds>
+  <ds Jurisdiction="*" name="OCTwin" id="OCTwin">Voitto</ds>
+  <ds Jurisdiction="Spain" name="OCTmachinetext_win" id="OCTmachinetext_win">VOITTO</ds>
+  <ds Jurisdiction="*" name="MGwinPay" id="MGwinPay">Voitto</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinUCnoVar" id="OCTtotalWinUCnoVar">VOITTO YHTEENSÄ:</ds>
+  <ds Jurisdiction="*" name="OCTwinColonUC" id="OCTwinColonUC">VOITTO:</ds>
+  <ds Jurisdiction="*" name="OCTwinColonVar" id="OCTwinColonVar">Voitto: {0}</ds>
+  <ds Jurisdiction="*" name="MGwin" id="MGwin">Voitto: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinCapitals" id="MGwinCapitals">VOITTO: {0}</ds>
+  <ds Jurisdiction="*" name="OCTwinningBetLinesHeading" id="OCTwinningBetLinesHeading">Voittolinjat</ds>
+  <ds Jurisdiction="*" name="MGwinningLinesHeading" id="MGwinningLinesHeading">Voittolinjat</ds>
+  <ds Jurisdiction="*" name="MGwinIncoins" id="MGwinIncoins">Voittosi kolikkoina: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinningCombinations" id="MGwinningCombinations">Voittoyhdistelmät ja voittosummat</ds>
+  <ds Jurisdiction="*" name="specialWinCombo" id="specialWinCombo">YHDISTELMÄ</ds>
+  <ds Jurisdiction="*" name="InAssociation" id="InAssociation">Yhteistyökumppanina</ds>
+  <ds Jurisdiction="*" name="MGconnectionLost" id="MGconnectionLost">Yhteys on menetetty</ds>
+  <ds Jurisdiction="*" name="OCTconnectionLost" id="OCTconnectionLost">Yhteys on menetetty</ds>
+  <ds Jurisdiction="*" name="OCTlostConnectInactivity" id="OCTlostConnectInactivity">Yhteys peliin on katkennut käyttämättömyyden vuoksi.</ds>
+  <ds Jurisdiction="*" name="MGlostConnectionInactivity" id="MGlostConnectionInactivity">Yhteys peliin on katkennut käyttämättömyyden vuoksi.</ds>
+  <ds Jurisdiction="*" name="connectionQualityPoor" id="connectionQualityPoor">Yhteys: Välttävä</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Yhteys: Välttävä</ds>
+  <ds Jurisdiction="*" name="MGsoundSettingsCaps" id="MGsoundSettingsCaps">ÄÄNIASETUKSET</ds>
+  <ds Jurisdiction="*" name="ifCashIncreasesBy" id="ifCashIncreasesBy">Jos käteinen kasvaa summalla</ds>
+  <ds Jurisdiction="*" name="OCTifCashIncreasesBy" id="OCTifCashIncreasesBy">Jos käteinen kasvaa summalla</ds>
+  <ds Jurisdiction="*" name="ifCashDecreasesBy" id="ifCashDecreasesBy">Jos käteinen pienenee summalla</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Lisä Ilm. kierrokset</ds>
+  <ds Jurisdiction="*" name="autoplayPS" id="autoplayPS">Lopettaa Autopelaa-toiminnon, jos Bonus-peli tai Police Spins -pyöritykset voitetaan ennen asetettua määrää Autopelaa-kierroksia.</ds>
+  <ds Jurisdiction="*" name="autoplayFS" id="autoplayFS">Lopettaa Autopelaa-toiminnon, jos Free Spins -toiminto voitetaan ennen asetettua Autopelaa kierrosten määrää.</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">Optimoitu selaimelle {0} käyttöjärjestelmässä {1} {2}</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">Päivitä käyttöjärjestelmäsi saadaksesi parhaan pelikokemuksen.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">Päivitä selaimesi saadaksesi parhaan pelikokemuksen.</ds>
+  <ds Jurisdiction="*" name="MGbetSettingsCaps" id="MGbetSettingsCaps">PANOSASETUKSET</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeadingCaps" id="MGgameHistoryHeadingCaps">PELIHISTORIA</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRevCaps" id="MGspinSettingsRevCaps">PYÖRÄYTYSASETUKSET</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Sinun on käytettävä selainta {0} pelataksesi peliä.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">Sinun on päivitettävä käyttöjärjestelmäsi pelataksesi peliä.</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Tämä peli käyttää evästeitä käyttäjäkokemuksen parantamiseen ja mainonnan hallintaan. Vahvista hyväksyväsi meidän</ds>
+  <ds Jurisdiction="*" name="MGvoidAllPays" id="MGvoidAllPays">Toimintahäiriö mitätöi kaikki maksut ja pelit.</ds>
+  <ds Jurisdiction="*" name="voidAllPays" id="voidAllPays">Toimintahäiriö mitätöi kaikki maksut ja pelit.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="OCTlossLimitWarning" id="OCTlossLimitWarning">Anna **jos varat vähenevät -summalle** -summa.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfoTouch" id="OCTlossLimitInfoTouch">Aseta panossumma ennen Autopelaa-toiminnon lopetusrajan asetusta.</ds>
+  <ds Jurisdiction="*" name="59" id="59">Asiakas on jo kirjautunut sisään. Yritä myöhemmin uudelleen.</ds>
+  <ds Jurisdiction="*" name="102" id="102">Automaattipelisi on peruutettu.</ds>
+  <ds Jurisdiction="*" name="101" id="101">Casino-tililläsi ei ole riittävästi rahaa.</ds>
+  <ds Jurisdiction="*" name="70" id="70">Emme tällä hetkellä tavoita tiliäsi. Yritä myöhemmin uudelleen.</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">evästekäytäntömme.</ds>
+  <ds Jurisdiction="*" name="RCheckEndCont" id="RCheckEndCont">Haluatko lopettaa vai jatkaa pelaamista?</ds>
+  <ds Jurisdiction="*" name="OCTlossLimit" id="OCTlossLimit">Häviöraja</ds>
+  <ds Jurisdiction="*" name="RCheckLost" id="RCheckLost">Hävisit tällä kertaa</ds>
+  <ds Jurisdiction="*" name="OCTroundsLeft" id="OCTroundsLeft">Ilmaiskierrokset</ds>
+  <ds Jurisdiction="*" name="freeRoundsCompleteDialogText" id="freeRoundsCompleteDialogText">Ilmaiskierrokset lopussa. Uudet kierrokset veloitetaan pelitililtäsi. Onnea!</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinishedRev" id="OCTfreeRoundsFinishedRev">Ilmaiskierrokset ovat ohi</ds>
+  <ds Jurisdiction="*" name="roundsLeft" id="roundsLeft">Ilmaiskierroksia</ds>
+  <ds Jurisdiction="*" name="FreeRoundsLeftwithColonVar" id="FreeRoundsLeftwithColonVar">Ilmaiskierroksia: {0}</ds>
+  <ds Jurisdiction="*" name="20" id="20">Istuntosi aika loppui. Käynnistä peli uudelleen.</ds>
+  <ds Jurisdiction="*" name="Continue" id="Continue">Jatka</ds>
+  <ds Jurisdiction="*" name="button_CONTINUE" id="button_CONTINUE">JATKA</ds>
+  <ds Jurisdiction="*" name="25" id="25">Kaikki pelaaminen on keskeytetty.</ds>
+  <ds Jurisdiction="*" name="autoRounds" id="autoRounds">kierrosta</ds>
+  <ds Jurisdiction="*" name="122" id="122">Kilpailuelokuvaa ei voitu toistaa.</ds>
+  <ds Jurisdiction="*" name="RCheckMonth" id="RCheckMonth">kuukausi</ds>
+  <ds Jurisdiction="*" name="14" id="14">Lataa peli uudelleen päivittääksesi pelisaldon.</ds>
+  <ds Jurisdiction="*" name="addValue" id="addValue">Lisää arvo</ds>
+  <ds Jurisdiction="*" name="OBperformanceNotification" id="OBperformanceNotification">Lisätäksesi suorituskykyä alenna grafiikan laatua pelin asetusvalikossa.</ds>
+  <ds Jurisdiction="*" name="OCTCheckEndButton" id="OCTCheckEndButton">Lopeta</ds>
+  <ds Jurisdiction="*" name="RCheckEndButton" id="RCheckEndButton">Lopeta</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlayColon" id="OCTstopAutoPlayColon">Lopeta automaattipeli:</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Luultavasti ei toivomasi tulos. Saat meiltä {0} Ilm. kierrokset lisää.</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Määrä {0}</ds>
+  <ds Jurisdiction="*" name="greaterCDB" id="greaterCDB">Määrän on oltava panosmäärää suuempi.</ds>
+  <ds Jurisdiction="*" name="OBOCTTotalWinwithColonVar" id="OBOCTTotalWinwithColonVar">Maksettu yhteensä: {0}</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited_header" id="gameWalletMssgForfeited_header">Menetetyt bonukset</ds>
+  <ds Jurisdiction="*" name="RCheckMinute" id="RCheckMinute">minuutti</ds>
+  <ds Jurisdiction="*" name="RCheckMinutes" id="RCheckMinutes">minuuttia</ds>
+  <ds Jurisdiction="*" name="RCheckReminder" id="RCheckReminder">MUISTUTUS</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered_header" id="gameWalletMssgWagered_header">Muunnetut bonukset</ds>
+  <ds Jurisdiction="*" name="12" id="12">Nykyistä panosta ei voitu tehdä bonuksen vanhenemisen vuoksi.</ds>
+  <ds Jurisdiction="*" name="ok_btn" id="ok_btn">OK</ds>
+  <ds Jurisdiction="*" name="RCheckPlaying" id="RCheckPlaying">Olet pelannut {0} {1}. {2} {3}. {4}</ds>
+  <ds Jurisdiction="*" name="11" id="11">Olet saavuttanut pelirajasi. Tervetuloa takaisin uudelleen.</ds>
+  <ds Jurisdiction="*" name="OCTcongratsUC" id="OCTcongratsUC">ONNEKSI OLKOON!</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered" id="gameWalletMssgWagered">Onneksi olkoon! {0} bonustasi on muuttunut kolikoiksi. Voit käyttää niitä kirjautumalla uudelleen.</ds>
+  <ds Jurisdiction="*" name="freeRoundsInitiatedDialogText" id="freeRoundsInitiatedDialogText">Onneksi olkoon! Sinulla on {0} ilmaista kierrosta. Onnea peliin!</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired" id="gameWalletMssgExpired">Pahoittelemme. {0} bonustasi ovat vanhentuneet, eivätkä ne ole enää käytettävissä.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited" id="gameWalletMssgForfeited">Pahoittelemme. Olet menettänyt {0} bonustasi.</ds>
+  <ds Jurisdiction="*" name="RCheckDay" id="RCheckDay">päivä</ds>
+  <ds Jurisdiction="*" name="RCheckDays" id="RCheckDays">päivää</ds>
+  <ds Jurisdiction="*" name="upgradeIn" id="upgradeIn">Päivitä {0} kohteessa {1}.</ds>
+  <ds Jurisdiction="*" name="mandatoryField" id="mandatoryField">Pakollinen kenttä</ds>
+  <ds Jurisdiction="*" name="reset" id="reset">Palauta</ds>
+  <ds Jurisdiction="*" name="betExceedCDB" id="betExceedCDB">Panoksesi on ylittänyt Jos varat vähenevät summalla -rajan. Korota rajaa.</ds>
+  <ds Jurisdiction="*" name="13" id="13">Panoksesi ylittää tälle pelille asetetun maksimipanosrajan.</ds>
+  <ds Jurisdiction="*" name="RCheckPlayingFor" id="RCheckPlayingFor">Pelasit</ds>
+  <ds Jurisdiction="*" name="0" id="0">Peli ei tällä hetkellä ole saatavilla. Yritä myöhemmin uudelleen.</ds>
+  <ds Jurisdiction="*" name="53" id="53">Peli ei tällä hetkellä ole saatavilla. Yritä myöhemmin uudelleen.</ds>
+  <ds Jurisdiction="*" name="56" id="56">Peli ei tällä hetkellä ole saatavilla. Yritä myöhemmin uudelleen.</ds>
+  <ds Jurisdiction="*" name="58" id="58">Peli ei tällä hetkellä ole saatavilla. Yritä myöhemmin uudelleen.</ds>
+  <ds Jurisdiction="*" name="110" id="110">Peliä ei voi käynnistää. Yritä myöhemmin uudelleen.</ds>
+  <ds Jurisdiction="*" name="RCheckSecond" id="RCheckSecond">sekunti</ds>
+  <ds Jurisdiction="*" name="RCheckSeconds" id="RCheckSeconds">sekuntia</ds>
+  <ds Jurisdiction="*" name="notSupportedBrowser" id="notSupportedBrowser">Selaintasi ei tueta.</ds>
+  <ds Jurisdiction="*" name="OCThaveFreeRounds" id="OCThaveFreeRounds">Sinulla on {0} ilmaista kierrosta!</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Sinun on päivitettävä selaimesi pelataksesi peliä.</ds>
+  <ds Jurisdiction="*" name="close_btn" id="close_btn">Sulje</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitTouch" id="OCTlossLimitTouch">Syötä, jos rahat vähenevät määrällä</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Tämä peli käyttää evästeitä tilastoihin ja pelikokemuksen parantamiseen. Vahvista hyväksyväsi meidän</ds>
+  <ds Jurisdiction="*" name="40" id="40">Tämä turnaus ei ole vielä alkanut. Yritä myöhemmin uudelleen.</ds>
+  <ds Jurisdiction="*" name="50" id="50">Tämä turnaus on päättynyt.</ds>
+  <ds Jurisdiction="*" name="60" id="60">Tämä turnaus on päättynyt. Viimeistä pelikierrosta ei lasketa turnaustilastoissa.</ds>
+  <ds Jurisdiction="*" name="51" id="51">Tililläsi ei ole riittävästi rahaa.</ds>
+  <ds Jurisdiction="*" name="10" id="10">Tililläsi ei ole riittävästi rahaa.</ds>
+  <ds Jurisdiction="*" name="100" id="100">Tililläsi ei ole riittävästi rahaa.</ds>
+  <ds Jurisdiction="*" name="15" id="15">Tililläsi ei ole riittävästi rahaa. Lisää rahaa tai pienennä panostasi.</ds>
+  <ds Jurisdiction="*" name="RCheckHour" id="RCheckHour">tunti</ds>
+  <ds Jurisdiction="*" name="RCheckHours" id="RCheckHours">tuntia</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfo" id="OCTlossLimitInfo">Vahvista tai aseta panossumma ennen kuin asetat rajan **jos varat vähenevät -summalle**.</ds>
+  <ds Jurisdiction="*" name="120" id="120">Vaihtoehto on käytettävissä vain, jos olet pelannut pelikierroksen loppuun.</ds>
+  <ds Jurisdiction="*" name="browserVersionNotSupported" id="browserVersionNotSupported">Valitettavasti tätä selainversiota ei tueta.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired_header" id="gameWalletMssgExpired_header">Vanhentuneet bonukset</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Viesti</ds>
+  <ds Jurisdiction="*" name="messagecaption" id="messagecaption">Viesti</ds>
+  <ds Jurisdiction="*" name="RCheckWeek" id="RCheckWeek">viikko</ds>
+  <ds Jurisdiction="*" name="RCheckWeeks" id="RCheckWeeks">viikkoa</ds>
+  <ds Jurisdiction="*" name="121" id="121">Voit käynnistää automaattipelin tekemällä panoksen.</ds>
+  <ds Jurisdiction="*" name="performanceNotification" id="performanceNotification">Voit lisätä suorituskykyä valitsemalla peliasetuksista alemmat grafiikan laatuasetukset.</ds>
+  <ds Jurisdiction="*" name="RCheckWon" id="RCheckWon">Voitit tällä kertaa</ds>
+  <ds Jurisdiction="*" name="TotalWinwithColonVar" id="TotalWinwithColonVar">Voitot yhteensä: {0}</ds>
+  <ds Jurisdiction="*" name="OCTTotalWinwithColonUC" id="OCTTotalWinwithColonUC">VOITOT YHTEENSÄ: {0}</ds>
+  <ds Jurisdiction="*" name="OBfreeRoundsGamePanel" id="OBfreeRoundsGamePanel">Voitot yhteensä: {0}</ds>
+  <ds Jurisdiction="*" name="OCTonAnyWin" id="OCTonAnyWin">Voittaessa</ds>
+  <ds Jurisdiction="*" name="RCheckYear" id="RCheckYear">vuosi</ds>
+  <ds Jurisdiction="*" name="RCheckYears" id="RCheckYears">vuotta</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Yhteys: Välttävä</ds>
+  <ds Jurisdiction="*" name="bonusAwardedTitle" id="bonusAwardedTitle">Bonus voitettu</ds>
+  <ds Jurisdiction="*" name="nothanks" id="nothanks">Ei kiitos</ds>
+  <ds Jurisdiction="*" name="iagree" id="iagree">Hyväksyn</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Lisä Ilm. kierrokset</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashIncreasesBy" id="OCTstopIfCashIncreasesBy">Lopeta Autopelaa, jos käteisvarat kasvavat</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashDecreasesBy" id="OCTstopIfCashDecreasesBy">Lopeta Autopelaa, jos käteisvarat vähenevät</ds>
+  <ds Jurisdiction="*" name="OCTstopIfWinExeeds" id="OCTstopIfWinExeeds">Lopeta Autopelaa, jos yksittäinen voitto on yli</ds>
+  <ds Jurisdiction="*" name="stopWhenJackpotIsWon" id="stopWhenJackpotIsWon">Lopeta, jos voitetaan jättipotti</ds>
+  <ds Jurisdiction="*" name="OBTotalWinwithColonVar" id="OBTotalWinwithColonVar">Maksettu yhteensä: {0}</ds>
+  <ds Jurisdiction="*" name="bonusAwardedCongrats" id="bonusAwardedCongrats">Onnittelut! Voitit {0} bonuksen.</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">Optimoitu selaimelle {0} käyttöjärjestelmässä {1} {2}</ds>
+  <ds Jurisdiction="*" name="16" id="16">Pahoittelemme, ilmaiskierrosten tarjous on jo käytetty.</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">Päivitä käyttöjärjestelmäsi saadaksesi parhaan pelikokemuksen.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">Päivitä selaimesi saadaksesi parhaan pelikokemuksen.</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Sinun on käytettävä selainta {0} pelataksesi peliä.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">Sinun on päivitettävä käyttöjärjestelmäsi pelataksesi peliä.</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Tämä peli käyttää evästeitä käyttäjäkokemuksen parantamiseen ja mainonnan hallintaan. Vahvista hyväksyväsi meidän</ds>
+</defaults>

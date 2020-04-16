@@ -1,0 +1,738 @@
+﻿[
+    {
+        "id": "RTGameHistNoPlayForFun",
+        "text": "(Non disponibile in \u003cb\u003ePROVA IL GIOCO\u003c/b\u003e)."
+    },
+    {
+        "id": "RTquickSpinDisclaimer",
+        "text": "(Non disponibile in tutti i casinò)."
+    },
+    {
+        "id": "RTsoundButton",
+        "text": "\u003cb\u003eAudio\u003c/b\u003e"
+    },
+    {
+        "id": "RTcoinsDisplayValues",
+        "text": "\u003cb\u003eGETTONI\u003c/b\u003e visualizza il numero di gettoni che il giocatore ha a disposizione per le puntate."
+    },
+    {
+        "id": "RTMGcoinsDisplayValues",
+        "text": "\u003cb\u003eGettoni\u003c/b\u003e visualizza il numero di gettoni disponibili per la puntata."
+    },
+    {
+        "id": "RTautoplayPlays",
+        "text": "\u003cb\u003eGIOCO AUTOM.\u003c/b\u003e consente di giocare automaticamente la partita per il numero di giri selezionato (puoi anche cliccare sul pulsante \u003cb\u003eAUTO\u003c/b\u003e)."
+    },
+    {
+        "id": "RTautoplayPlaysJimi",
+        "text": "\u003cb\u003eGIOCO AUTOM.\u003c/b\u003e consente di giocare automaticamente la partita per il numero di giri selezionato (puoi anche cliccare sul pulsante \u003cb\u003eAUTO\u003c/b\u003e)."
+    },
+    {
+        "id": "RTsettingsDisclaimer",
+        "text": "\u003cb\u003eNota:\u003c/b\u003e alcuni casinò potrebbero non proporre tutte le impostazioni indicate."
+    },
+    {
+        "id": "RTAutoplayDisconnect",
+        "text": "\u003cb\u003eNota:\u003c/b\u003e In caso di disconnessione durante il gioco, tutte le impostazioni di Gioco autom. vengono ripristinate sui valori predefiniti quando ricarichi il gioco."
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003eNota:\u003c/b\u003e in determinate giurisdizioni, alcune opzioni del gioco automatico sono obbligatorie."
+    },
+    {
+        "id": "RTMGautoplayDisconnect",
+        "text": "\u003cb\u003eNota:\u003c/b\u003e Se vieni disconnesso durante il gioco, tutte le impostazioni di Gioco autom. vengono riportate sui valori predefiniti quando ricarichi il gioco."
+    },
+    {
+        "id": "RTMGsettingsDisclaimer",
+        "text": "\u003cb\u003eNota\u003c/b\u003e: Alcuni operatori potrebbero non offrire tutte le impostazioni di gioco indicate."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003eNota\u003c/b\u003e: la tabella che segue si applica solo se si gioca in una lingua diversa dall\u0027inglese."
+    },
+    {
+        "id": "RTmaxbetPlays",
+        "text": "\u003cb\u003ePUNTATA MAX \u003c/b\u003e consente di giocare la partita con il numero massimo di linee di puntata, il livello di puntata massimo e il valore dei gettoni corrente."
+    },
+    {
+        "id": "RTMGreturnToPlayer",
+        "text": "\u003cb\u003eRitorno al giocatore\u003c/b\u003e"
+    },
+    {
+        "id": "RTMGadditionalInformation",
+        "text": "Altre informazioni"
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "Altre informazioni"
+    },
+    {
+        "id": "RTMGquickStop",
+        "text": "Arresto rapido"
+    },
+    {
+        "id": "RTambienceDescRev",
+        "text": "Attiva o disattiva i suoni di sottofondo."
+    },
+    {
+        "id": "RTintroOffRev",
+        "text": "Attiva o disattiva il filmato introduttivo."
+    },
+    {
+        "id": "RTspacebarspin",
+        "text": "Attiva o disattiva la funzione barra spaziatrice."
+    },
+    {
+        "id": "RTanimationsOff",
+        "text": "Attiva o disattiva le animazioni."
+    },
+    {
+        "id": "RTquickSpinDescRev",
+        "text": "Attiva o disattiva l\u0027opzione del giro veloce"
+    },
+    {
+        "id": "RTMGsounds",
+        "text": "Audio"
+    },
+    {
+        "id": "RTMGsoundsOff",
+        "text": "Audio sempre disabilitato"
+    },
+    {
+        "id": "RTopenSettingsMenu",
+        "text": "Clicca per accedere al menu delle impostazioni di gioco e selezionare le opzioni di gioco. Leggi la sezione delle imp. gioco di seguito."
+    },
+    {
+        "id": "RTopenGameRules",
+        "text": "Clicca per accedere alle regole del gioco."
+    },
+    {
+        "id": "RTstartGameRound",
+        "text": "Clicca per avviare il round di gioco con il Liv. puntata e il Val. gettoni correnti (altrimenti premi la barra spaziatrice)."
+    },
+    {
+        "id": "RTinformationIconButtonDesc",
+        "text": "Clicca per visualizzare la \u003cb\u003eTABELLA PAGAMENTI\u003c/b\u003e."
+    },
+    {
+        "id": "RTinformationIconButtonDescJimi",
+        "text": "Clicca per visualizzare la \u003cb\u003eTABELLA PAGAMENTI\u003c/b\u003e."
+    },
+    {
+        "id": "RTgameSoundDesc",
+        "text": "Consente di attivare o disattivare l\u0027audio del gioco."
+    },
+    {
+        "id": "RTMGshowsBetCoins",
+        "text": "Consente di visualizzare l\u0027importo della puntata in gettoni."
+    },
+    {
+        "id": "RTMGshowsBetCurrency",
+        "text": "Consente di visualizzare l\u0027importo della puntata nella valuta selezionata."
+    },
+    {
+        "id": "RTMGgameHistoryHeading",
+        "text": "Cronologia del gioco"
+    },
+    {
+        "id": "RTstarBurststickyWExpandsReSpinsRev",
+        "text": "Durante la giocata Wild Starburst™, i simboli Wild Starburst™ si espandono fino a coprire l\u0027intero rullo e rimangono in posizione mentre gli altri rulli girano di nuovo."
+    },
+    {
+        "id": "RTMGexit",
+        "text": "Esci"
+    },
+    {
+        "id": "RTmuteSoundSliderRev",
+        "text": "Fai clic per disattivare l\u0027audio del gioco o utilizza il cursore per regolare il volume."
+    },
+    {
+        "id": "RTinformationIconButtonNoBold",
+        "text": "Fai clic per visualizzare la tabella dei pagamenti."
+    },
+    {
+        "id": "RTgameHistoryDesc",
+        "text": "Fai clic per visualizzare lo storico delle partite precedenti"
+    },
+    {
+        "id": "RTpaytableButtonsDescNoBold",
+        "text": "Fai clic sulle frecce sinistra e destra per scorrere le pagine della tabella dei pagamenti. Fai clic sul pulsante centrale per tornare al gioco."
+    },
+    {
+        "id": "RTpaytableButtonsDescRev",
+        "text": "Fai clic sulle frecce verso destra o verso sinistra per scorrere le pagine della \u003cb\u003eTABELLA PAGAMENTI\u003c/b\u003e. Fai clic sul pulsante centrale per tornare al gioco."
+    },
+    {
+        "id": "RTgameFunctionsHeading",
+        "text": "Funzionalità del gioco"
+    },
+    {
+        "id": "RTfunctionTableHead",
+        "text": "Funzione"
+    },
+    {
+        "id": "RTMGautoplayPanelLabel",
+        "text": "Gioco autom."
+    },
+    {
+        "id": "RTMGautoplayQuickSpinHeading",
+        "text": "Gioco autom. e Giro veloce"
+    },
+    {
+        "id": "RTMGbuttonsMainGame",
+        "text": "Gioco principale"
+    },
+    {
+        "id": "RTMGquickSpin",
+        "text": "Giro veloce"
+    },
+    {
+        "id": "RTMGquickSpinGameSetting",
+        "text": "Giro veloce"
+    },
+    {
+        "id": "ReSpinsAtActivatingRound",
+        "text": "I giri ripetuti vengono eseguiti con la stessa puntata della mano che li attiva."
+    },
+    {
+        "id": "RTstarBurstWildSubstitute",
+        "text": "I simboli Starburst™ Wild rimpiazzano qualunque simbolo."
+    },
+    {
+        "id": "RTstarBurstWildSymbAppear",
+        "text": "I simboli Wild Starburst™ possono comparire solo sui rulli 2, 3 e 4."
+    },
+    {
+        "id": "RTbetLevel",
+        "text": "Il livello di puntata corrisponde al numero di gettoni puntati per linea di puntata."
+    },
+    {
+        "id": "RTMGnoAutoplayLeft",
+        "text": "Il numero di giri rimanenti viene visualizzato sul pulsante."
+    },
+    {
+        "id": "RTMGAutoplaySpins",
+        "text": "Il numero di giri selezionato viene visualizzato sul pulsante."
+    },
+    {
+        "id": "RTspinPlayRev",
+        "text": "Il pulsante Gira consente di disputare la partita secondo le linee ed il livello di puntata e il valore gettone attuali (alternativamente, premere la barra spaziatrice)."
+    },
+    {
+        "id": "RTMGtheoreticalReturn",
+        "text": "Il ritorno teorico per il giocatore per questo gioco è"
+    },
+    {
+        "id": "RTtheoreticalReturn",
+        "text": "Il ritorno teorico per il giocatore per questo gioco è del"
+    },
+    {
+        "id": "RTMGsoundSettings",
+        "text": "Impostazioni audio"
+    },
+    {
+        "id": "RTMGgameSettings",
+        "text": "Impostazioni del gioco e Informazioni del gioco"
+    },
+    {
+        "id": "RTMGspinSettingsRev",
+        "text": "Impostazioni giro"
+    },
+    {
+        "id": "RTviewMiniPaytable",
+        "text": "In alternativa, fai clic su qualunque simbolo sui rulli durante il gioco principale per visualizzare una mini tabella pagamenti per quel simbolo."
+    },
+    {
+        "id": "RTMGmalfunction",
+        "text": "In caso di funzionamento non corretto dell\u0027hardware e del software del gioco, tutte le puntate e i pagamenti vengono annullati e le puntate piazzate rimborsate."
+    },
+    {
+        "id": "RTmalfunction",
+        "text": "In caso di funzionamento non corretto dell\u0027hardware o del software del gioco, tutte le puntate e i pagamenti vengono annullati e le puntate piazzate rimborsate."
+    },
+    {
+        "id": "RTMGtouchMainGameNew",
+        "text": "In modalità orizzontale, tocca l\u0027area di gioco per nascondere il pulsante Gira."
+    },
+    {
+        "id": "RTMGback",
+        "text": "Indietro"
+    },
+    {
+        "id": "RTsingleWinDescRev",
+        "text": "Interrompe il Gioco autom. quando l\u0027importo vinto supera o è pari a un importo da te indicato."
+    },
+    {
+        "id": "singleWinDesc",
+        "text": "Interrompe il Gioco autom. quando l\u0027importo vinto supera o è pari a un importo indicato."
+    },
+    {
+        "id": "anyWinDesc",
+        "text": "Interrompe il Gioco autom. quando vinci una mano."
+    },
+    {
+        "id": "cashIncreasesDesc",
+        "text": "Interrompe il Gioco autom. se il contante aumenta dell\u0027importo impostato."
+    },
+    {
+        "id": "cashDecreasesDesc",
+        "text": "Interrompe il Gioco autom. se il contante diminuisce dell\u0027importo impostato."
+    },
+    {
+        "id": "RTMGstopIfFreeSpins",
+        "text": "Interrompi se vengono vinti dei Free Spins"
+    },
+    {
+        "id": "RTgameSessions2",
+        "text": "Intervallo dopo il quale sessioni di gioco inattive terminano automaticamente."
+    },
+    {
+        "id": "RTMGgameSessions2",
+        "text": "Intervallo dopo il quale sessioni di gioco inattive terminano automaticamente."
+    },
+    {
+        "id": "termWild",
+        "text": "Jolly"
+    },
+    {
+        "id": "RTMGhistoryNotAvailable",
+        "text": "La cronologia del gioco è disponibile solo nella modalità di gioco con denaro."
+    },
+    {
+        "id": "RTgHistoryNotAvailableForFun",
+        "text": "La Cronologia del gioco non è disponibile quando si gioca in modalità \u003cb\u003ePROVA IL GIOCO\u003c/b\u003e."
+    },
+    {
+        "id": "RTstarburstWildEnds",
+        "text": "La giocata Starburst™ Wild termina quando non compaiono più Starburst™ Wilds durante un nuovo giro."
+    },
+    {
+        "id": "RTtableDescribes",
+        "text": "La tabella che segue elenca i diversi pulsanti del gioco e ne descrive le funzioni."
+    },
+    {
+        "id": "RTwinCalcBetLinesNoMultiplier",
+        "text": "La vincita della linea di puntata in gettoni è pari al valore visualizzato nella Tabella pagamenti moltiplicato il livello della puntata."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoBold",
+        "text": "La vincita della linea di puntata in gettoni è pari al valore visualizzato nella Tabella pagamenti moltiplicato il livello della puntata. L\u0027importo è moltiplicato per qualsiasi moltiplicatore applicabile."
+    },
+    {
+        "id": "RTwinCombinationPaytable",
+        "text": "Le combinazioni vincenti e i pagamenti sono realizzati in base alla \u003cb\u003eTABELLA PAGAMENTI\u003c/b\u003e."
+    },
+    {
+        "id": "RTwinCombinationPaytablenoBold",
+        "text": "Le combinazioni vincenti e i pagamenti sono realizzati in base alla Tabella Pagamenti."
+    },
+    {
+        "id": "RTMGwinCombinations",
+        "text": "Le combinazioni vincenti e i pagamenti vengono determinati sulla base della \u003cb\u003eTabella dei pagamenti\u003c/b\u003e."
+    },
+    {
+        "id": "RTreferWebSite",
+        "text": "Le seguenti funzioni e impostazioni di gioco possono essere soggette ai termini e alle condizioni del sito di gioco. Per ulteriori informazioni su quanto segue, ti invitiamo a fare riferimento al sito di gioco:"
+    },
+    {
+        "id": "RTMGreferWebSite",
+        "text": "Le seguenti funzioni e impostazioni possono essere soggette ai termini e condizioni del sito di gioco. Per ulteriori informazioni, fai riferimento al sito Web:"
+    },
+    {
+        "id": "RTMGbetlevel",
+        "text": "Livello puntata"
+    },
+    {
+        "id": "RTMGmenu",
+        "text": "Menu"
+    },
+    {
+        "id": "RTMGquickSettings",
+        "text": "Menu Impostazioni rapide"
+    },
+    {
+        "id": "RTMGleftHandMode",
+        "text": "Modalità mano sinistra"
+    },
+    {
+        "id": "RTadjustQualityRev",
+        "text": "Modifica la qualità della grafica per una prestazione ottimale."
+    },
+    {
+        "id": "RTMGnumberSpins",
+        "text": "Numero di Spins"
+    },
+    {
+        "id": "advancedAutoplayOptionsHeading",
+        "text": "Opzioni di Gioco autom. avanzate"
+    },
+    {
+        "id": "gameSettingOptionsHeading",
+        "text": "Opzioni impostazioni gioco"
+    },
+    {
+        "id": "gameSettingIntro",
+        "text": "Per accedere alle impostazioni di gioco, fai clic sull\u0027icona della chiave inglese nel pannello di gioco."
+    },
+    {
+        "id": "RTMGbetLevelInstruction",
+        "text": "Per impostare il livello di puntata, utilizza il selettore \u003cb\u003eLivello puntata\u003c/b\u003e."
+    },
+    {
+        "id": "RTMGcoinValueInstruction",
+        "text": "Per impostare il valore dei gettoni, utilizza il selettore \u003cb\u003eVALORE DEI GETTONI\u003c/b\u003e."
+    },
+    {
+        "id": "RTAutoplayButton",
+        "text": "Per impostare le opzioni di Gioco autom. avanzate, fai clic su \u003cb\u003eGIOCO AUTOM.\u003c/b\u003e sul tastierino o su \u003cb\u003eAUTO\u003c/b\u003e nel riquadro di gioco, quindi fai clic su \u003cb\u003eImpostazioni avanzate\u003c/b\u003e."
+    },
+    {
+        "id": "RTunfinishedGameSession2",
+        "text": "Procedure in vigore per la gestione delle partite sospese."
+    },
+    {
+        "id": "RTMGunfinishedGameSession2",
+        "text": "Procedure in vigore per la gestione delle partite sospese."
+    },
+    {
+        "id": "RTbuttonTableHead",
+        "text": "Pulsante"
+    },
+    {
+        "id": "RTMGspinButton",
+        "text": "Pulsante Gira"
+    },
+    {
+        "id": "RTMGbetInCash",
+        "text": "Puntata in denaro"
+    },
+    {
+        "id": "RTMGbetInCoins",
+        "text": "Puntata in gettoni"
+    },
+    {
+        "id": "RTmaxBetAtHighBetLevel",
+        "text": "PUNTATA MAX consente di giocare con il livello di puntata massimo e il valore dei gettoni corrente."
+    },
+    {
+        "id": "RTMGplay10FixedBetLines",
+        "text": "Puoi giocare con 10 linee di puntata fisse con livelli di puntata e valori dei gettoni diversi."
+    },
+    {
+        "id": "RTstarBurstRulesHeading",
+        "text": "Regolamento di Starburst™"
+    },
+    {
+        "id": "RTMGgameRules",
+        "text": "Regole del gioco"
+    },
+    {
+        "id": "RTMGstarburstTouchRulesHeading",
+        "text": "Regole di Starburst Touch™"
+    },
+    {
+        "id": "RTrulesGenerated",
+        "text": "Regole generate:"
+    },
+    {
+        "id": "RTreturnToPlayer",
+        "text": "Ritorno per il giocatore"
+    },
+    {
+        "id": "RTstarBurstAddReSpinsRev",
+        "text": "Se durante un nuovo giro viene visualizzato un nuovo simbolo Starburst™ Wild, questo si espande e rimane bloccato con qualsiasi altro simbolo Starburst™ Wild espanso in precedenza per regalare un altro nuovo giro."
+    },
+    {
+        "id": "RTautoplaySelectSpins",
+        "text": "Seleziona il numero di giri in Gioco autom. oppure accedi a Impostazioni avanzate per configurare le opzioni di Gioco autom."
+    },
+    {
+        "id": "RTplayCurrentBetLinesTo10",
+        "text": "Si possono giocare tra 1 e 10 linee di puntata con livelli di puntata e valori gettone differenti."
+    },
+    {
+        "id": "RTMGstarburstTouchIntro",
+        "text": "Starburst Touch™ è una video slot con 5 rulli e 3 righe che presenta lo Starburst™ Wild con nuovi giri e vincite in entrambi i sensi."
+    },
+    {
+        "id": "RTstarBurstIntro",
+        "text": "Starburst™ è una slot video con 5 ruote e 3 file che presenta il  Starburst™ Wild con giri ripetuti e vincite in entrambi i sensi."
+    },
+    {
+        "id": "RTstarBurstWildHeading",
+        "text": "Starburst™ Wilds"
+    },
+    {
+        "id": "RTMGstopAutoplayOnOff",
+        "text": "Stop Gioco autom."
+    },
+    {
+        "id": "termPaytable",
+        "text": "Tabella pagamenti"
+    },
+    {
+        "id": "RTMGpaytable",
+        "text": "Tabella pagamenti"
+    },
+    {
+        "id": "RTMGpaytableJimi",
+        "text": "Tabella pagamenti"
+    },
+    {
+        "id": "termEnglish",
+        "text": "Termine inglese"
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Termine tradotto"
+    },
+    {
+        "id": "RTMGquickSettingsMenu",
+        "text": "Tocca il segno più per accedere al menu delle impostazioni rapide."
+    },
+    {
+        "id": "RTMGselectBetLevelRev",
+        "text": "Tocca la ruota delle impostazioni per selezionare il numero di gettoni da puntare per linea di puntata."
+    },
+    {
+        "id": "RTMGselectSpinsRev",
+        "text": "Tocca la ruota delle impostazioni per selezionare il numero di Spins in Gioco autom."
+    },
+    {
+        "id": "RTMGselectCoinValueRev",
+        "text": "Tocca la ruota delle impostazioni per selezionare il valore dei gettoni."
+    },
+    {
+        "id": "RTMGtapDuringSpin",
+        "text": "Tocca l\u0027area di gioco mentre i rulli girano per fermarli."
+    },
+    {
+        "id": "RTMGtouchMainGame",
+        "text": "Tocca l\u0027area di gioco per nascondere il pulsante Gira."
+    },
+    {
+        "id": "RTMGgameSettingIntroDev",
+        "text": "Tocca per accedere alle impostazioni e alle informazioni del gioco oppure tocca le schermate Contanti e Gettoni."
+    },
+    {
+        "id": "RTMGgameSettingIntroDevNew",
+        "text": "Tocca per accedere alle impostazioni e alle informazioni sul gioco."
+    },
+    {
+        "id": "RTMGautoplayUI",
+        "text": "Tocca per attivare o disattivare Gioco autom. senza accedere al menu delle impostazioni. Per impostazione predefinita, sono impostati 50 turni."
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRev",
+        "text": "Tocca per attivare o disattivare il Gioco autom., dove il sistema gioca automaticamente il numero di giri selezionato."
+    },
+    {
+        "id": "RTMGquickSpinUI",
+        "text": "Tocca per attivare o disattivare il giro rapido senza accedere al menu delle impostazioni."
+    },
+    {
+        "id": "RTMGtapOnOffRev",
+        "text": "Tocca per attivare o disattivare il giro veloce."
+    },
+    {
+        "id": "RTMGspinButtonLeft",
+        "text": "Tocca per attivare o disattivare la modalità mano sinistra."
+    },
+    {
+        "id": "RTMGsoundSettingsUI",
+        "text": "Tocca per attivare o disattivare l\u0027audio senza accedere al menu delle impostazioni."
+    },
+    {
+        "id": "RTMGsoundOnOffRev",
+        "text": "Tocca per attivare o disattivare l\u0027audio."
+    },
+    {
+        "id": "RTMGstartQuickSpin",
+        "text": "Tocca per avviare il giro veloce."
+    },
+    {
+        "id": "RTMGstartAutoplay",
+        "text": "Tocca per avviare la funzione Gioco autom."
+    },
+    {
+        "id": "RTMGdisableAutoplayIfBonusGame",
+        "text": "Tocca per disabilitare il Gioco autom., se vinci la Bonus Game prima di raggiungere il numero fissato di giri automatici."
+    },
+    {
+        "id": "RTMGdisableAutoplay",
+        "text": "Tocca per disabilitare il gioco automatico in caso di vincita dei Free Spins prima del numero impostato di turni in modalità automatica."
+    },
+    {
+        "id": "RTMGdisableAutoplayPickClick",
+        "text": "Tocca per disabilitare il gioco automatico in caso di vincita dei Pick and Click  prima del numero impostato di turni in modalità automatica."
+    },
+    {
+        "id": "RTMGsoundsDisabledRev",
+        "text": "Tocca per disattivare l\u0027audio per le sessioni di gioco successive."
+    },
+    {
+        "id": "RTMGtapSpinButtonRev",
+        "text": "Tocca per iniziare a giocare con le linee di puntata, il livello di puntata e il valore dei gettoni correnti."
+    },
+    {
+        "id": "RTMGstopAutoplay",
+        "text": "Tocca per interrompere la funzione Gioco autom."
+    },
+    {
+        "id": "RTMGbackMainGame",
+        "text": "Tocca per tornare alla giocata principale."
+    },
+    {
+        "id": "RTMGleaveGame",
+        "text": "Tocca per uscire dal gioco."
+    },
+    {
+        "id": "RTMGwinComb",
+        "text": "Tocca per visualizzare le combinazioni vincenti e i pagamenti."
+    },
+    {
+        "id": "RTMGviewGamesRules",
+        "text": "Tocca per visualizzare le regole del gioco."
+    },
+    {
+        "id": "RTMGgameHistoryDesc",
+        "text": "Tocca per visualizzare lo storico del gioco."
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Traduzioni della terminologia di gioco"
+    },
+    {
+        "id": "RTMGselectBetLevelRevNew",
+        "text": "Trascina o tocca il cursose per selezionare il numero di gettoni da puntare per linea di puntata."
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRevNew",
+        "text": "Trascina o tocca il dispositivo di scorrimento per abilitare Gioco autom. e impostare il numero di giri automatici dei rulli."
+    },
+    {
+        "id": "RTMGselectCoinValueRevNew",
+        "text": "Trascina o tocca il dispositivo di scorrimento per selezionare il valore dei gettoni."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoMultiplierTrans",
+        "text": "Una vincita in gettoni su una linea di puntata corrisponde al valore mostrato nella \u003cb\u003eTABELLA PAGAMENTI\u003c/b\u003e moltiplicato per il livello di puntata."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCurrency",
+        "text": "Una vincita su una linea di puntata in denaro è uguale alla vincita in gettoni moltiplicata per il valore dei gettoni."
+    },
+    {
+        "id": "RTCalcBetLineCoinNoMultiplierTransNew",
+        "text": "Una vincita su una linea di puntata in gettoni è uguale al valore mostrato nella Tabella dei Pagamenti moltiplicato per il livello di puntata."
+    },
+    {
+        "id": "RTMGjimiwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "Una vincita sulla linea di puntata in gettoni è uguale al valore visualizzato nella \u003cb\u003eTABELLA PAGAMENTI\u003c/b\u003e moltiplicato per il livello di puntata."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "Una vincita sulla linea di puntata in gettoni è uguale al valore visualizzato nella \u003cb\u003eTABELLA PAGAMENTI\u003c/b\u003e moltiplicato per il livello di puntata."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCurrency",
+        "text": "Una vincita sulla linea di puntata in valuta è uguale alla vincita in gettoni moltiplicata per il valore dei gettoni."
+    },
+    {
+        "id": "RTstarburstWildFeatureActive",
+        "text": "Uno o più Starburst™ Wilds che compaiono in qualunque posizione sui rulli 2, 3 o 4 attivano la giocata Starburst™ Wild."
+    },
+    {
+        "id": "RTMGcoinvalue",
+        "text": "Valore dei gettoni"
+    },
+    {
+        "id": "RTHighWinSymCompleteActLineRev",
+        "text": "Viene pagata la combinazione vincente più alta su una linea di puntata attiva dal rullo più a sinistra verso destra e/o dal rullo più a destra verso sinistra."
+    },
+    {
+        "id": "RTpaytableHighestRev",
+        "text": "Viene pagata solo la vincita più alta per linea di puntata attiva in entrambi i sensi."
+    },
+    {
+        "id": "simultaneousWinsAdded",
+        "text": "Vincite simultanee su più linee di puntata si sommano."
+    },
+    {
+        "id": "RTautoplayDuringGameRev",
+        "text": "\u003cb\u003eNota:\u003c/b\u003e quando le impostazioni di Gioco autom. vengono modificate durante un round di gioco, tutte le impostazioni diventano effettive dopo che il round di gioco o la giocata è completata."
+    },
+    {
+        "id": "RTopenAutoplayMenu",
+        "text": "Fai clic per accedere al menu delle impostazioni di Gioco autom. e lasciare che il sistema giochi automaticamente al posto tuo."
+    },
+    {
+        "id": "RTwinCalculationWinMatchCurrency",
+        "text": "Una vincita su una linea di puntata in denaro è uguale alla vincita in gettoni moltiplicata per il valore dei gettoni."
+    },
+    {
+        "id": "RTeachStar1AddRespinUpTo3respin",
+        "text": "Fino a 2 simboli Starburst™ Wild aggiuntivi possono comparire dopo che uno Starburst™ Wild attiva un nuovo giro, attivando un ulteriore nuovo giro o un massimo di 3 nuovi giri."
+    },
+    {
+        "id": "RTexCloneWildOverlay",
+        "text": "I simboli Expanding Cloning Wild vengono visualizzati sovrapposti sui rulli che girano. Anche i simboli clonati possono apparire sovrapposti sui rulli."
+    },
+    {
+        "id": "RTsliderCoinValue",
+        "text": "Impostare i gettoni con l\u0027apposito dispositivo di scorrimento."
+    },
+    {
+        "id": "RTsliderBetLevel",
+        "text": "Impostare la puntata con l\u0027apposito dispositivo di scorrimento."
+    },
+    {
+        "id": "RTcashIncreasesDescRev",
+        "text": "Interrompi il gioco automatico se il denaro aumenta dell\u0027importo specificato."
+    },
+    {
+        "id": "RTcashDecreasesDescRev",
+        "text": "Interrompi il gioco automatico se il denaro diminuisce dell\u0027importo specificato."
+    },
+    {
+        "id": "onlyHighWinComb",
+        "text": "Sulle linee di puntata viene pagata solo la combinazione vincente più alta, da sinistra a destra e da destra a sinistra."
+    },
+    {
+        "id": "RTMGautoOptions",
+        "text": "Trascina o tocca il cursore per consentire l\u0027impostazione delle opzioni del gioco automatico e indicare il numero di round da effettuare. La funzione consente di disputare il numero di giri indicati."
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003eNota:\u003c/b\u003e in determinate giurisdizioni, alcune opzioni del gioco automatico sono obbligatorie."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003eNota\u003c/b\u003e: la tabella che segue si applica solo se si gioca in una lingua diversa dall\u0027inglese."
+    },
+    {
+        "id": "featuresNotAvailablePFF",
+        "text": "Alcune funzioni potrebbero non essere disponibili nella modalità \u003cb\u003ePROVA IL GIOCO\u003c/b\u003e."
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "Altre informazioni"
+    },
+    {
+        "id": "RTsingleWinDescRevNew",
+        "text": "Interrompe il Gioco autom. quando l\u0027importo vinto è uguale o superiore all\u0027importo specificato."
+    },
+    {
+        "id": "termEnglish",
+        "text": "Termine inglese"
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Termine tradotto"
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Traduzioni della terminologia di gioco"
+    }
+]

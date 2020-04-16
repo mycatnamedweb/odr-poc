@@ -1,0 +1,738 @@
+﻿[
+    {
+        "id": "RTquickSpinDisclaimer",
+        "text": "(nije dostupno u svim kockarnicama)."
+    },
+    {
+        "id": "RTGameHistNoPlayForFun",
+        "text": "(Nije dostupno za \u003cb\u003eIGRU ZA ZABAVU\u003c/b\u003e)."
+    },
+    {
+        "id": "RTautoplayPlays",
+        "text": "\u003cb\u003eAUTO-IGRA\u003c/b\u003e služi za automatsko odvijanje odabranog broja rundi (ili pritisnite gumb \u003cb\u003eAUTO\u003c/b\u003e)."
+    },
+    {
+        "id": "RTautoplayPlaysJimi",
+        "text": "\u003cb\u003eAUTO-IGRA\u003c/b\u003e služi za automatsko odvijanje odabranog broja rundi (ili pritisnite gumb \u003cb\u003eAUTO\u003c/b\u003e)."
+    },
+    {
+        "id": "RTmaxbetPlays",
+        "text": "\u003cb\u003eMAKS. ULOG\u003c/b\u003e koristi se za igranje s maksimalnim brojem linija za klađenje, najvišom razinom uloga i odabranom vrijednošću novčića."
+    },
+    {
+        "id": "RTMGautoplayDisconnect",
+        "text": "\u003cb\u003eNapomena:\u003c/b\u003e Ako se za vrijeme igre veza prekine, sve postavke automatske igre vratit će se na zadane postavke nakon ponovnog učitavanja igre."
+    },
+    {
+        "id": "RTAutoplayDisconnect",
+        "text": "\u003cb\u003eNapomena:\u003c/b\u003e Ako za vrijeme igranja izgubite internetsku vezu, sve postavke Auto-igre vratit će se na izvorno postavljene kada ponovno učitate igru."
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003eNapomena:\u003c/b\u003e Neke opcije automatske igre obvezne su na nekim područjima."
+    },
+    {
+        "id": "RTMGsettingsDisclaimer",
+        "text": "\u003cb\u003eNapomena:\u003c/b\u003e Neki operateri ne nude sve navedene opcije u igri."
+    },
+    {
+        "id": "RTsettingsDisclaimer",
+        "text": "\u003cb\u003eNapomena:\u003c/b\u003e u nekim kockarnicama sve opcije igre možda neće biti dostupne."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003eNapomena\u003c/b\u003e: Sljedeća tablica se odnosi na igranje na jezicima osim engleskog."
+    },
+    {
+        "id": "RTcoinsDisplayValues",
+        "text": "\u003cb\u003eNOVČIĆA\u003c/b\u003e prikazuje količinu novčića na raspolaganju igraču za njegovo/njeno klađenje."
+    },
+    {
+        "id": "RTMGreturnToPlayer",
+        "text": "\u003cb\u003ePovrat\u003c/b\u003e"
+    },
+    {
+        "id": "RTsoundButton",
+        "text": "\u003cb\u003eZvuk\u003c/b\u003e"
+    },
+    {
+        "id": "RTMGautoplayQuickSpinHeading",
+        "text": "Auto-igra i Brza vrtnja"
+    },
+    {
+        "id": "RTMGautoplayPanelLabel",
+        "text": "Automatska igra"
+    },
+    {
+        "id": "cashIncreasesDesc",
+        "text": "Automatsku igru zaustavi ako se iznos vašeg novca poveća za iznos koji odredite."
+    },
+    {
+        "id": "cashDecreasesDesc",
+        "text": "Automatsku igru zaustavi ako se iznos vašeg novca smanji za iznos koji odredite."
+    },
+    {
+        "id": "singleWinDesc",
+        "text": "Automatsku igru zaustavi kada iznos dobitka prekorači ili izjednači iznos koji odredite."
+    },
+    {
+        "id": "anyWinDesc",
+        "text": "Automatsku igru zaustavi kada u rundi postoji dobitak."
+    },
+    {
+        "id": "RTsingleWinDescRev",
+        "text": "Automatsku igru zaustavlja kada iznos dobitka prekorači ili izjednači iznos koji odredite."
+    },
+    {
+        "id": "RTstarburstWildEnds",
+        "text": "Bonus igra Starburst™ Wild završava kada se za vrijeme ponovne vrtnje više ne pojavi ni jedan Starburst™ Wild simbol."
+    },
+    {
+        "id": "RTMGAutoplaySpins",
+        "text": "Broj odabranih vrtnji prikazan je na gumbu."
+    },
+    {
+        "id": "RTMGnoAutoplayLeft",
+        "text": "Broj preostalih vrtnji je prikazan na gumbu."
+    },
+    {
+        "id": "RTMGnumberSpins",
+        "text": "Broj vrtnji"
+    },
+    {
+        "id": "RTMGquickSpinGameSetting",
+        "text": "Brza vrtnja"
+    },
+    {
+        "id": "RTMGquickSpin",
+        "text": "Brza vrtnja"
+    },
+    {
+        "id": "RTMGquickStop",
+        "text": "Brzo zaustavljanje"
+    },
+    {
+        "id": "RTwinCombinationPaytable",
+        "text": "Dobitne kombinacije i isplate obavljaju se prema \u003cb\u003eTABELA ISPLATA\u003c/b\u003e."
+    },
+    {
+        "id": "RTMGwinCombinations",
+        "text": "Dobitne kombinacije i isplate obavljaju se prema are Tabeli isplata."
+    },
+    {
+        "id": "RTwinCombinationPaytablenoBold",
+        "text": "Dobitne kombinacije i isplate prikazane su u Tabeli Isplata."
+    },
+    {
+        "id": "RTMGadditionalInformation",
+        "text": "Dodatne informacije"
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "Dodatne informacije"
+    },
+    {
+        "id": "RTMGdisableAutoplay",
+        "text": "Dodirnite za onemogućavanje auto-igre ako se Free Spins osvoje prije završetka specificiranog broja automatski odigranih rundi."
+    },
+    {
+        "id": "RTMGdisableAutoplayPickClick",
+        "text": "Dodirnite za onemogućavanje auto-igre ako se Pick and Click  osvoje prije završetka specificiranog broja automatski odigranih rundi."
+    },
+    {
+        "id": "RTMGgameSettingIntroDevNew",
+        "text": "Dodirnite za postavke igre i informacije o njoj."
+    },
+    {
+        "id": "RTMGautoplayUI",
+        "text": "Dodirnite za uključivanje/isključivanje auto-igre bez ulaska u izbornik Postavke. Auto-igra je izvorno namještena za 50 automatskih rundi."
+    },
+    {
+        "id": "RTMGquickSpinUI",
+        "text": "Dodirnite za uključivanje/isključivanje brzih vrtnji bez ulaska u izbornik Postavke."
+    },
+    {
+        "id": "RTMGspinButtonLeft",
+        "text": "Dodirnite za uključivanje/isključivanje načina igre za ljevoruke."
+    },
+    {
+        "id": "RTMGsoundSettingsUI",
+        "text": "Dodirnite za uključivanje/isključivanje zvuka bez ulaska u izbornik Postavke."
+    },
+    {
+        "id": "RTMGquickSettingsMenu",
+        "text": "Dodirnite znak \"plus\" za ulaz u izbornik Brze postavke."
+    },
+    {
+        "id": "RTfunctionTableHead",
+        "text": "Funkcija"
+    },
+    {
+        "id": "RTgameFunctionsHeading",
+        "text": "Funkcije u igri"
+    },
+    {
+        "id": "RTrulesGenerated",
+        "text": "Generirana pravila igre:"
+    },
+    {
+        "id": "RTMGbuttonsMainGame",
+        "text": "Glavna igra"
+    },
+    {
+        "id": "RTbuttonTableHead",
+        "text": "Gumb"
+    },
+    {
+        "id": "RTMGspinButton",
+        "text": "Gumb \"Zavrti\""
+    },
+    {
+        "id": "RTMGplay10FixedBetLines",
+        "text": "Igrate na 10 linija za klađenje, uz različite razine uloga i vrijednosti novčića."
+    },
+    {
+        "id": "RTHighWinSymCompleteActLineRev",
+        "text": "Isplaćuje se najbolja dobitna kombinacija (počevši od prve lijeve role nadesno i/ili od prve desne role nalijevo) na svakoj dobitnoj aktivnoj liniji za klađenje."
+    },
+    {
+        "id": "RTpaytableHighestRev",
+        "text": "Isplaćuje se samo najveći dobitak po aktivnoj dvosmjernoj liniji."
+    },
+    {
+        "id": "simultaneousWinsAdded",
+        "text": "Istovremeni dobitci na različitim linijama za klađenje se zbrajaju."
+    },
+    {
+        "id": "RTMGmenu",
+        "text": "Izbornik"
+    },
+    {
+        "id": "RTMGquickSettings",
+        "text": "Izbornik za brze postavke"
+    },
+    {
+        "id": "RTMGexit",
+        "text": "Izlaz"
+    },
+    {
+        "id": "termEnglish",
+        "text": "Izraz na engleskom"
+    },
+    {
+        "id": "RTstarburstWildFeatureActive",
+        "text": "Jedan ili više Starburst™ Wild simbola bilo gdje na rolama 2, 3 ili 4 aktivira bonus igru Starburst™ Wild."
+    },
+    {
+        "id": "RTpaytableButtonsDescRev",
+        "text": "Kliknite na strelice s desne ili lijeve strane kako biste pregledavali stranice \u003cb\u003eTABELA ISPLATA\u003c/b\u003e. Kliknite na središnji gumb za vraćanje u igru."
+    },
+    {
+        "id": "RTmuteSoundSliderRev",
+        "text": "Kliknite za isključenje zvukova u igri, ili kliznikom prilagodite glasnoću."
+    },
+    {
+        "id": "RTopenSettingsMenu",
+        "text": "Kliknite za otvaranje izbornika s opcijama za igranje i odredite željene postavke. Pogledajte Izbornik s opcijama za igranje u nastavku."
+    },
+    {
+        "id": "RTstartGameRound",
+        "text": "Kliknite za početak runde uz trenutnu razinu uloga i trenutnu vrijednost novčića (ili pritisnite razmaknicu)."
+    },
+    {
+        "id": "RTinformationIconButtonNoBold",
+        "text": "Kliknite za pregled tabele isplata."
+    },
+    {
+        "id": "RTinformationIconButtonDesc",
+        "text": "Kliknite za prikaz \u003cb\u003eTABELE ISPLATA\u003c/b\u003e."
+    },
+    {
+        "id": "RTinformationIconButtonDescJimi",
+        "text": "Kliknite za prikaz \u003cb\u003eTABELE ISPLATA\u003c/b\u003e."
+    },
+    {
+        "id": "RTgameHistoryDesc",
+        "text": "Kliknite za prikaz nedavno odigranih rundi"
+    },
+    {
+        "id": "RTopenGameRules",
+        "text": "Kliknite za prikazivanje pravila igre."
+    },
+    {
+        "id": "RTpaytableButtonsDescNoBold",
+        "text": "Kroz stranice tabele isplata krećete se pritiskom na strelice s lijeve i desne strane prozora. Na igru se vraćate pritiskom na gumb u sredini."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoMultiplierTrans",
+        "text": "Linijski dobitak u novčićima jednak je vrijednosti prikazanoj u \u003cb\u003eTABELI ISPLATA\u003c/b\u003e pomnoženoj razinom uloga."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "Linijski dobitak u novčićima jednak je vrijednosti prikazanoj u \u003cb\u003eTABELI ISPLATA\u003c/b\u003e pomnoženoj razinom uloga."
+    },
+    {
+        "id": "RTMGjimiwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "Linijski dobitak u novčićima jednak je vrijednosti prikazanoj u \u003cb\u003eTABELI ISPLATA\u003c/b\u003e pomnoženoj razinom uloga."
+    },
+    {
+        "id": "RTwinCalcBetLinesNoMultiplier",
+        "text": "Linijski dobitak u novčićima jednak je vrijednosti prikazanoj u Tabeli isplata pomnožen razinom uloga."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoBold",
+        "text": "Linijski dobitak u novčićima jednak je vrijednosti prikazanoj u Tabeli isplata pomnožen razinom uloga. Taj se iznos također množi svim pripadajućim množiteljima."
+    },
+    {
+        "id": "RTCalcBetLineCoinNoMultiplierTransNew",
+        "text": "Linijski dobitak u novčićima jednak je vrijednosti prikazanoj u tablici isplata pomnoženoj razinom uloga."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCurrency",
+        "text": "Linijski dobitak u novcu jednak je dobitku u novčićima x vrijednost novčića."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCurrency",
+        "text": "Linijski dobitak u novcu jednak je dobitku u novčićima x vrijednost novčića."
+    },
+    {
+        "id": "RTplayCurrentBetLinesTo10",
+        "text": "Možete igrati 1 do 10 linija s više razina uloga i vrijednosti novčića."
+    },
+    {
+        "id": "advancedAutoplayOptionsHeading",
+        "text": "Napredne postavke auto-igre"
+    },
+    {
+        "id": "RTMGback",
+        "text": "Natrag"
+    },
+    {
+        "id": "RTautoplaySelectSpins",
+        "text": "Odaberite broj Automatska igra ili otvorite Napredne postavke i odaberite željene opcije za Automatska igra."
+    },
+    {
+        "id": "RTMGcoinsDisplayValues",
+        "text": "Opcija \u003cb\u003eNovčići\u003c/b\u003e prikazuje broj novčića koji je na raspolaganju igraču za uloge."
+    },
+    {
+        "id": "RTadjustQualityRev",
+        "text": "Podešava kvalitetu prikaza za optimalne performanse."
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRevNew",
+        "text": "Pomaknite ili dodirnite kliznik za uključivanje automatske igre i određivanje broja rundi. Odabirom automatske igre (auto-igre) automatski se igra željeni broj rundi."
+    },
+    {
+        "id": "RTMGselectSpinsRev",
+        "text": "Pomaknite ili pritisnite gumb za podešavanje za odabir broja automatskih vrtnji."
+    },
+    {
+        "id": "RTMGselectBetLevelRev",
+        "text": "Pomaknite ili pritisnite gumb za podešavanje za odabir broja novčića uloženih po liniji za klađenje."
+    },
+    {
+        "id": "RTMGselectCoinValueRev",
+        "text": "Pomaknite ili pritisnite gumb za podešavanje za odabir vrijednosti novčića."
+    },
+    {
+        "id": "ReSpinsAtActivatingRound",
+        "text": "Ponovne vrtnje se igraju po istom ulogu kao i runda koja ih je aktivirala."
+    },
+    {
+        "id": "gameSettingOptionsHeading",
+        "text": "Postavke"
+    },
+    {
+        "id": "RTMGgameSettings",
+        "text": "Postavke igre i informacije o igri"
+    },
+    {
+        "id": "RTMGspinSettingsRev",
+        "text": "Postavke vrtnje"
+    },
+    {
+        "id": "RTMGsoundSettings",
+        "text": "Postavke zvuka"
+    },
+    {
+        "id": "RTunfinishedGameSession2",
+        "text": "Postupci u slučaju nezavršenih rundi igranja."
+    },
+    {
+        "id": "RTMGunfinishedGameSession2",
+        "text": "Postupci u slučaju nezavršenih rundi igranja."
+    },
+    {
+        "id": "RTMGgameHistoryHeading",
+        "text": "Povijest rundi"
+    },
+    {
+        "id": "RTMGhistoryNotAvailable",
+        "text": "Povijest rundi je dostupna samo kada igrate za novac."
+    },
+    {
+        "id": "RTgHistoryNotAvailableForFun",
+        "text": "Povijest rundi nije dostupna kada se igra \u003cb\u003eZA ZABAVU\u003c/b\u003e (a ne za novac)."
+    },
+    {
+        "id": "RTreturnToPlayer",
+        "text": "Povrat u igri"
+    },
+    {
+        "id": "RTMGselectCoinValueRevNew",
+        "text": "Povucite ili dodirnite klizač za odabir vrijednosti novčića."
+    },
+    {
+        "id": "RTMGselectBetLevelRevNew",
+        "text": "Povucite ili pritisnite kliznik za odabir broja novčića koje želite uložiti po liniji."
+    },
+    {
+        "id": "RTMGgameRules",
+        "text": "Pravila igre"
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Prevedeni izraz"
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Prijevodi izraza u igri"
+    },
+    {
+        "id": "RTMGshowsBetCoins",
+        "text": "Prikazuje iznos uloga/oklade u novčićima."
+    },
+    {
+        "id": "RTMGshowsBetCurrency",
+        "text": "Prikazuje iznos uloga/oklade u odabranoj valuti."
+    },
+    {
+        "id": "RTspinPlayRev",
+        "text": "Pritiskom gumba za vrtnju igrate prema trenutno određenom broju linija, razini uloga i vrijednosti novčića (ili pritisnite razmaknicu)."
+    },
+    {
+        "id": "RTmaxBetAtHighBetLevel",
+        "text": "Pritiskom na MAKS. ULOG igrate na najvišoj razini uloga i s najvećom vrijednošću novčića."
+    },
+    {
+        "id": "RTMGtapDuringSpin",
+        "text": "Pritisnite igraću površinu za vrijeme vrtnje da biste zaustavili role."
+    },
+    {
+        "id": "RTMGtouchMainGame",
+        "text": "Pritisnite na polje za igru da biste sakrili gumb Zavrti."
+    },
+    {
+        "id": "RTMGtapSpinButtonRev",
+        "text": "Pritisnite za igranje na trenutnom broju linija, trenutnoj razini uloga i uz trenutnu vrijednost novčića."
+    },
+    {
+        "id": "RTMGsoundsDisabledRev",
+        "text": "Pritisnite za isključivanje zvukova u budućim ciklusima igre."
+    },
+    {
+        "id": "RTMGleaveGame",
+        "text": "Pritisnite za izlazak iz igre."
+    },
+    {
+        "id": "RTMGstartAutoplay",
+        "text": "Pritisnite za početak Auto-igre."
+    },
+    {
+        "id": "RTMGstartQuickSpin",
+        "text": "Pritisnite za početak Brze vrtnje."
+    },
+    {
+        "id": "RTMGbackMainGame",
+        "text": "Pritisnite za povratak na glavnu igru."
+    },
+    {
+        "id": "RTMGwinComb",
+        "text": "Pritisnite za pregled kombinacija i isplata."
+    },
+    {
+        "id": "RTMGdisableAutoplayIfBonusGame",
+        "text": "Pritisnite za prestanak automatske igre ako se bonus igra osvoji prije odabranog broja rundi auto-igre."
+    },
+    {
+        "id": "RTMGviewGamesRules",
+        "text": "Pritisnite za prikaz pravila igre."
+    },
+    {
+        "id": "RTMGgameHistoryDesc",
+        "text": "Pritisnite za prikaz prethodno odigranih rundi."
+    },
+    {
+        "id": "RTMGgameSettingIntroDev",
+        "text": "Pritisnite za pristup postavkama igre i informacijama o igri, ili pritisnite poveznice za prikaz novca ili novčića."
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRev",
+        "text": "Pritisnite za uključenje/isključenje automatske vrtnje (auto-igre). Auto-igrom se automatski odvija odabrani broj rundi."
+    },
+    {
+        "id": "RTMGtapOnOffRev",
+        "text": "Pritisnite za uključenje/isključenje Brze vrtnje."
+    },
+    {
+        "id": "RTMGsoundOnOffRev",
+        "text": "Pritisnite za uključenje/isključenje zvukova."
+    },
+    {
+        "id": "RTMGstopAutoplay",
+        "text": "Pritisnite za zaustavljanje Auto-igre."
+    },
+    {
+        "id": "RTMGgameSessions2",
+        "text": "Razdoblje nakon kojeg neaktivne igre automatski završavaju."
+    },
+    {
+        "id": "RTgameSessions2",
+        "text": "Razdoblje nakon kojeg neaktivne igre automatski završavaju."
+    },
+    {
+        "id": "RTMGbetlevel",
+        "text": "Razina uloga"
+    },
+    {
+        "id": "RTbetLevel",
+        "text": "Razina uloga je broj novčića uložen po liniji za klađenje."
+    },
+    {
+        "id": "RTMGbetLevelInstruction",
+        "text": "Razina uloga određuje se opcijom \u003cb\u003eRAZINA\u003c/b\u003e."
+    },
+    {
+        "id": "RTreferWebSite",
+        "text": "Sljedeće značajke i postavke igre mogu ovisiti o uvjetima i odredbama internetske kockarnice. Za više informacija pogledajte web stranice internetske kockarnice:"
+    },
+    {
+        "id": "RTMGreferWebSite",
+        "text": "Sljedeće značajke i postavke mogu biti podložne uvjetima i odredbama na web stranicama internetske kockarnice. Za više informacija pogledajte web stranice internetske kockarnice:"
+    },
+    {
+        "id": "RTMGstarburstTouchIntro",
+        "text": "Starburst Touch™ jevideo automat s 5 rola, 3 retka, Starburst™ Wild bonusom s ponovnim vrtnjama te bonusom Win Both Ways."
+    },
+    {
+        "id": "RTMGstarburstTouchRulesHeading",
+        "text": "Starburst Touch™ -Pravila igre"
+    },
+    {
+        "id": "RTstarBurstRulesHeading",
+        "text": "Starburst™ - Pravila igre"
+    },
+    {
+        "id": "RTstarBurstIntro",
+        "text": "Starburst™ je video automat s 5 rola i 3 redaka, Starburst™ zamj. simbolima s besplatnim vrtnjama i dvosmjernim dobitcima."
+    },
+    {
+        "id": "RTstarBurstAddReSpinsRev",
+        "text": "Starburst™ Wild simboli koji se pojave za vrijeme ponovne vrtnje šire se i još jednu ponovnu vrtnju ostaju na rolama zajedno s prethodnim Starburst™ Wild simbolima."
+    },
+    {
+        "id": "RTstarBurstWildSymbAppear",
+        "text": "Starburst™ Wild simboli mogu se pojaviti samo na rolama 2, 3 i 4."
+    },
+    {
+        "id": "RTstarBurstWildHeading",
+        "text": "Starburst™ Wilds"
+    },
+    {
+        "id": "RTstarBurstWildSubstitute",
+        "text": "Starburst™ zamjenski simboli zamjenjuju sve simbole."
+    },
+    {
+        "id": "termPaytable",
+        "text": "Tabela isplata"
+    },
+    {
+        "id": "RTMGpaytable",
+        "text": "Tabela isplata"
+    },
+    {
+        "id": "RTMGpaytableJimi",
+        "text": "Tabela isplata"
+    },
+    {
+        "id": "RTtableDescribes",
+        "text": "Tabela u nastavku prikazuje različite gumbe u igri i opisuje njihove funkcije."
+    },
+    {
+        "id": "RTtheoreticalReturn",
+        "text": "Teoretski povrat u ovoj igri je"
+    },
+    {
+        "id": "RTMGtheoreticalReturn",
+        "text": "Teoretski povrat u ovoj igri je"
+    },
+    {
+        "id": "RTMGtouchMainGameNew",
+        "text": "U položenom prikazu, dodirnite igraći prozor da biste sakili gumb Zavrti."
+    },
+    {
+        "id": "RTMGmalfunction",
+        "text": "U slučaju prestanka rada igraćeg softvera/hardvera, svi ulozi i isplate u trenutno aktivnim igrama smatraju se nevaljanim i svi se ulozi vraćaju."
+    },
+    {
+        "id": "RTmalfunction",
+        "text": "U slučaju prestanka rada igraćeg softvera/hardvera, svi ulozi i isplate u trenutno aktivnim igrama smatraju se nevaljanim i svi se ulozi vraćaju."
+    },
+    {
+        "id": "RTviewMiniPaytable",
+        "text": "U suprotnom, kliknite na bilo koji simbol na rolama za vrijeme glavne igre za prikazivanje mini-tabele isplata za taj simbol."
+    },
+    {
+        "id": "RTanimationsOff",
+        "text": "Uključi ili isključi animacije."
+    },
+    {
+        "id": "RTgameSoundDesc",
+        "text": "Uključuje ili isključuje zvukove u igri."
+    },
+    {
+        "id": "RTquickSpinDescRev",
+        "text": "Uključuje/isključuje opciju brze vrtnje"
+    },
+    {
+        "id": "RTambienceDescRev",
+        "text": "Uključuje/isključuje pozadinsku glazbu."
+    },
+    {
+        "id": "RTspacebarspin",
+        "text": "Uključuje/isključuje razmaknicu."
+    },
+    {
+        "id": "RTintroOffRev",
+        "text": "Uključuje/isključuje uvodnu animaciju."
+    },
+    {
+        "id": "RTMGbetInCash",
+        "text": "Ulog u gotovini"
+    },
+    {
+        "id": "RTMGbetInCoins",
+        "text": "Ulog u novčićima"
+    },
+    {
+        "id": "RTMGleftHandMode",
+        "text": "Upravljanje lijevom rukom"
+    },
+    {
+        "id": "RTMGsoundsOff",
+        "text": "Uvijek isključi zvukove"
+    },
+    {
+        "id": "RTMGcoinvalue",
+        "text": "Vrijednost novčića"
+    },
+    {
+        "id": "RTMGcoinValueInstruction",
+        "text": "Vrijednost novčića se određuje opcijom VRIJ: NOVČIĆA."
+    },
+    {
+        "id": "RTAutoplayButton",
+        "text": "Za napredne postavke automatske igre kliknite na \u003cb\u003eAUTO-IGRA\u003c/b\u003e u prozoru, ili \u003cb\u003eAUTO\u003c/b\u003e u izborniku igre, pa zatim kliknite na \u003cb\u003eNapredne postavke\u003c/b\u003e."
+    },
+    {
+        "id": "gameSettingIntro",
+        "text": "Za ulaz u postavke igre kliknite na ikonu ključa u izborniku igre."
+    },
+    {
+        "id": "RTstarBurststickyWExpandsReSpinsRev",
+        "text": "Za vrijeme bonusa Starburst™ Wild, Starburst™ Wild simboli proširuju se na cijelu rolu i tamo ostaju dok se ostale role ponovno vrte."
+    },
+    {
+        "id": "termWild",
+        "text": "Zamjenski simbol"
+    },
+    {
+        "id": "RTMGstopIfFreeSpins",
+        "text": "Zaustavi ako se osvoje Free Spins"
+    },
+    {
+        "id": "RTMGstopAutoplayOnOff",
+        "text": "Zaustavi Auto-igru"
+    },
+    {
+        "id": "RTMGsounds",
+        "text": "Zvukovi u igri"
+    },
+    {
+        "id": "RTautoplayDuringGameRev",
+        "text": "\u003cb\u003eNapomena:\u003c/b\u003e kada se postavke za auto-igru mijenjaju za vrijeme runde, te će postavke postati aktivne kada ta runda/bonus završi."
+    },
+    {
+        "id": "RTopenAutoplayMenu",
+        "text": "Kliknite za prikazivanje opcija za auto-igru i za automatsko igranje."
+    },
+    {
+        "id": "RTwinCalculationWinMatchCurrency",
+        "text": "Linijski dobitak u novcu jednak je dobitku u novčićima x vrijednost novčića."
+    },
+    {
+        "id": "RTeachStar1AddRespinUpTo3respin",
+        "text": "Do 2 dodatna Starburst™ Wild simbola mogu se pojaviti nakon Starburst™ Wild aktivira ponovnu vrtnju, odnosno od 1 do 3 ponovne vrtnje."
+    },
+    {
+        "id": "RTexCloneWildOverlay",
+        "text": "Expanding Cloning Wild simboli prikazuju se kao \"maska\" na rolama koje se vrte. Klonirani simboli također se prikazuju kao maska na rolama."
+    },
+    {
+        "id": "RTMGautoOptions",
+        "text": "Povucite ili dodirnite kliznik za omogućavanje autoigre, postavljanje opcija autoigre te određivanje broja automatskih vrtnji. Igra će se odabrani broj vrtnji odvijati automatski."
+    },
+    {
+        "id": "RTsliderBetLevel",
+        "text": "Razina uloga određuje se pomicanjem kliznika za razinu uloga."
+    },
+    {
+        "id": "onlyHighWinComb",
+        "text": "U slučaju više dobitnih kombinacija, isplaćuje se samo ona najveća s lijeva nadesno i/ili s desna nalijevo."
+    },
+    {
+        "id": "RTsliderCoinValue",
+        "text": "Vrijednost novčića određuje se pomicanjem kliznika za vrij. novčića."
+    },
+    {
+        "id": "RTcashIncreasesDescRev",
+        "text": "Zaustavlja Autoigru ako se Vaš saldo poveća za iznos koji navedete."
+    },
+    {
+        "id": "RTcashDecreasesDescRev",
+        "text": "Zaustavlja Autoigru ako se Vaš saldo smanji za iznos koji navedete."
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003eNapomena:\u003c/b\u003e Neke opcije automatske igre obvezne su na nekim područjima."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003eNapomena\u003c/b\u003e: Sljedeća tablica se odnosi na igranje na jezicima osim engleskog."
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "Dodatne informacije"
+    },
+    {
+        "id": "termEnglish",
+        "text": "Izraz na engleskom"
+    },
+    {
+        "id": "featuresNotAvailablePFF",
+        "text": "Neke opcije možda neće biti dostupne u modusu \u003cb\u003eIGRA ZA ZABAVU\u003c/b\u003e."
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Prevedeni izraz"
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Prijevodi izraza u igri"
+    },
+    {
+        "id": "RTsingleWinDescRevNew",
+        "text": "Zaustavlja Auto-igru kada iznos dobitka prekorači ili izjednači iznos koji odredite. "
+    }
+]

@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Implementation-Title: Language Library
+Implementation-Version: 3.2.0
+Maven-ArtifactId: starburst-gamerules
+Archiver-Version: Plexus Archiver
+Built-By: jenkins-slave
+Jenkins-BuildNumber: 2
+Implementation-Vendor-Id: com.netent.casino-software.games.videoslots.
+ starburst
+Jenkins-BuildId: 2
+Git-Hash: ad5e481cd816319315f63bd6cd36e449f9faf72c (with local modific
+ ations)
+Implementation-Vendor: Net Entertainment
+Maven-Classifier: 
+Maven-GroupId: com.netent.casino-software.games.videoslots.starburst
+Jenkins-BuildUrl: https://gdp-del-01.netent.com/job/grxij-starburst-ga
+ merules-master/2/
+Git-CommitTime: 2018-10-22T12:16:35.000Z
+Git-Url: https://git.netent.com/scm/grxij/starburst-gamerules.git
+Maven-Name: Language Library
+Maven-Version: 3.2.0
+Jenkins-JobName: grxij-starburst-gamerules-master
+Created-By: Apache Maven 3.0.4
+Build-Jdk: 1.8.0_151
+

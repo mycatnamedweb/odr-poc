@@ -1,0 +1,462 @@
+﻿<defaults xml:lang="bg">
+  <!-- Bulgarian locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 08:40:42 GMT on Tuesday 10 October 2017.
+
+ -->
+  <ds Jurisdiction="*" name="freeRoundsFinished" id="freeRoundsFinished"></ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpinsNoSpan" id="MGvarRetriggerFreeSpinsNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTvarRetriggerFSNoSpan" id="OCTvarRetriggerFSNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpins" id="MGvarRetriggerFreeSpins">&lt;span class='NetEnt_plusSign'&gt;+&lt;/span&gt;&lt;span class='NetEnt_numberFreeSpins'&gt;{0}&lt;/span&gt; Free Spins</ds>
+  <ds Jurisdiction="*" name="NeProduction" id="NeProduction">A NET ENTERTAINMENT PRODUCTION</ds>
+  <ds Jurisdiction="*" name="MGcolHeadFSpinSyms" id="MGcolHeadFSpinSyms">Free Spin символи</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsUC" id="OCTfreeSpinsUC">FREE SPINS</ds>
+  <ds Jurisdiction="*" name="OCTbtnOK" id="OCTbtnOK">OK</ds>
+  <ds Jurisdiction="*" name="starburstNameOfWild" id="starburstNameOfWild">Starburst™ Wild</ds>
+  <ds Jurisdiction="*" name="OCTautoplayButton" id="OCTautoplayButton">АВТОМ. ИГРА</ds>
+  <ds Jurisdiction="*" name="MGautoplayCancelled" id="MGautoplayCancelled">Автом. игра приключи</ds>
+  <ds Jurisdiction="*" name="autoplayButtonTwoLine" id="autoplayButtonTwoLine">АВТОМ.&lt;br&gt;ИГРА</ds>
+  <ds Jurisdiction="*" name="MGautoplayPanelLabel" id="MGautoplayPanelLabel">Автоматична игра</ds>
+  <ds Jurisdiction="*" name="OCTautoplayPanelLabel" id="OCTautoplayPanelLabel">Автоматична игра</ds>
+  <ds Jurisdiction="*" name="autoBonusGame" id="autoBonusGame">Автоматичната игра спира при спечелване на Bonus Game, преди настройване на броя на рундовете на автоматичната игра.</ds>
+  <ds Jurisdiction="*" name="autoplayFeatureSpins" id="autoplayFeatureSpins">Автоматичната игра спира при спечелване на специални завъртания, преди настройване на броя на рундовете на автоматичната игра.</ds>
+  <ds Jurisdiction="*" name="MGaccountUnavailable" id="MGaccountUnavailable">Акаунтът не е наличен</ds>
+  <ds Jurisdiction="*" name="OCTaccountUnavailable" id="OCTaccountUnavailable">Акаунтът не е наличен</ds>
+  <ds Jurisdiction="*" name="OCTifWinExeeds" id="OCTifWinExeeds">Ако една печалба превиши</ds>
+  <ds Jurisdiction="*" name="ifWinExeeds" id="ifWinExeeds">Ако една печалба превиши</ds>
+  <ds Jurisdiction="*" name="OCTifCashDecreasesBy" id="OCTifCashDecreasesBy">Ако парите в брой намалеят с</ds>
+  <ds Jurisdiction="*" name="OCTifFreeSpinsIsStarted" id="OCTifFreeSpinsIsStarted">Ако са спечелени Free Spins</ds>
+  <ds Jurisdiction="*" name="animationsGameSetting" id="animationsGameSetting">Анимации</ds>
+  <ds Jurisdiction="*" name="OCTskipIntro" id="OCTskipIntro">Без представяне</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsTitle" id="OCTfreeRoundsTitle">Бонус игри</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsTitle" id="MGfreeRoundsTitle">Бонус игри</ds>
+  <ds Jurisdiction="*" name="MGfreerounds" id="MGfreerounds">Бонус игри свършиха</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsFinished" id="MGfreeRoundsFinished">Бонус игри свършиха</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinished" id="OCTfreeRoundsFinished">Бонус игри свършиха</ds>
+  <ds Jurisdiction="*" name="OCTfreerounds" id="OCTfreerounds">Бонус игри свършиха</ds>
+  <ds Jurisdiction="*" name="OCTFreeRoundsLeftwithColon" id="OCTFreeRoundsLeftwithColon">Бонус игри: {0}</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsVar" id="MGfreeRoundsVar">Бонус игри: {0}</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Брой {0}</ds>
+  <ds Jurisdiction="*" name="OCTnumberSpins" id="OCTnumberSpins">Брой завъртания</ds>
+  <ds Jurisdiction="*" name="MGnumberSpins" id="MGnumberSpins">Брой завъртания</ds>
+  <ds Jurisdiction="*" name="OCTspinsLeftText" id="OCTspinsLeftText">Брой оставащи {0}</ds>
+  <ds Jurisdiction="*" name="OCTquickSpin" id="OCTquickSpin">Бързо завъртане</ds>
+  <ds Jurisdiction="*" name="OCTquickSpinGameSetting" id="OCTquickSpinGameSetting">Бързо завъртане</ds>
+  <ds Jurisdiction="*" name="MGquickSpinGameSetting" id="MGquickSpinGameSetting">Бързо завъртане</ds>
+  <ds Jurisdiction="*" name="quickSpinGameSetting" id="quickSpinGameSetting">Бързо завъртане</ds>
+  <ds Jurisdiction="*" name="OCTcash" id="OCTcash">В брой</ds>
+  <ds Jurisdiction="*" name="OCTcashColon" id="OCTcashColon">В брой:</ds>
+  <ds Jurisdiction="*" name="MGcash" id="MGcash">В брой:  {0}</ds>
+  <ds Jurisdiction="*" name="OCTcashColonVar" id="OCTcashColonVar">В брой: {0}</ds>
+  <ds Jurisdiction="*" name="expandReelTrigger" id="expandReelTrigger">ВАЖИ ЗА БАРАБАНА И ЗАВЪРТА ОТНОВО.</ds>
+  <ds Jurisdiction="*" name="MGexpandReelTriggerLC" id="MGexpandReelTriggerLC">Важи за барабана и завърта отново.</ds>
+  <ds Jurisdiction="*" name="operatingSystemNoSupport" id="operatingSystemNoSupport">Вашата операционна система не се поддържа.</ds>
+  <ds Jurisdiction="*" name="deviceNotSupported" id="deviceNotSupported">Вашето устройство не се поддържа.</ds>
+  <ds Jurisdiction="*" name="highQuality" id="highQuality">Високо</ds>
+  <ds Jurisdiction="*" name="OCThighQuality" id="OCThighQuality">Високо</ds>
+  <ds Jurisdiction="*" name="OCTsoundsOn" id="OCTsoundsOn">Вкл. звук</ds>
+  <ds Jurisdiction="*" name="MGsoundsOn" id="MGsoundsOn">Вкл. звук</ds>
+  <ds Jurisdiction="*" name="MGdownloadSounds" id="MGdownloadSounds">Включване на звука?</ds>
+  <ds Jurisdiction="*" name="connectionQualityPoor" id="connectionQualityPoor">Връзка: слаба</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Връзка: слаба</ds>
+  <ds Jurisdiction="*" name="OCTconnectionLost" id="OCTconnectionLost">Връзката се разпадна</ds>
+  <ds Jurisdiction="*" name="MGconnectionLost" id="MGconnectionLost">Връзката се разпадна</ds>
+  <ds Jurisdiction="*" name="MGlogin_btn" id="MGlogin_btn">Вход</ds>
+  <ds Jurisdiction="*" name="OCTlogin_btn" id="OCTlogin_btn">Вход</ds>
+  <ds Jurisdiction="*" name="OCTbigWin" id="OCTbigWin">ГОЛЯМА ПЕЧАЛБА!</ds>
+  <ds Jurisdiction="*" name="MGbigWin" id="MGbigWin">ГОЛЯМА ПЕЧАЛБА!</ds>
+  <ds Jurisdiction="*" name="bigWin" id="bigWin">ГОЛЯМА ПЕЧАЛБА!</ds>
+  <ds Jurisdiction="*" name="MGright" id="MGright">Д</ds>
+  <ds Jurisdiction="*" name="MGbutton_yes" id="MGbutton_yes">Да</ds>
+  <ds Jurisdiction="*" name="OCTbtnYes" id="OCTbtnYes">Да</ds>
+  <ds Jurisdiction="*" name="MGyes" id="MGyes">Да*</ds>
+  <ds Jurisdiction="*" name="OCTdeposit_btn" id="OCTdeposit_btn">Депозит</ds>
+  <ds Jurisdiction="*" name="MGdeposit_btn" id="MGdeposit_btn">Депозит</ds>
+  <ds Jurisdiction="*" name="MG11" id="MG11">Достигнехте лимита си. Заповядайте отново по-късно!</ds>
+  <ds Jurisdiction="*" name="coins" id="coins">Жетони</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coins" id="OCTmachinetext_coins">ЖЕТОНИ</ds>
+  <ds Jurisdiction="*" name="OCTcoinsColonVar" id="OCTcoinsColonVar">Жетони: {0}</ds>
+  <ds Jurisdiction="*" name="MGcoins" id="MGcoins">Жетони: {0}</ds>
+  <ds Jurisdiction="*" name="extraInfo" id="extraInfo">За повече информация виж "Правила на играта".</ds>
+  <ds Jurisdiction="*" name="OCTextraInfo" id="OCTextraInfo">За повече информация виж "Правила на играта".</ds>
+  <ds Jurisdiction="*" name="OCTroundsUseAcctMoney" id="OCTroundsUseAcctMoney">За следващите рундове използвайте парите от сметката си. Късмет!</ds>
+  <ds Jurisdiction="*" name="MGroundsUseAccountMoney" id="MGroundsUseAccountMoney">За следващите рундове използвайте парите от сметката си. Късмет!</ds>
+  <ds Jurisdiction="*" name="MGnoOSSupport" id="MGnoOSSupport">За съжаление тази операционна система не се поддържа.</ds>
+  <ds Jurisdiction="*" name="MGdeviceNoSupport" id="MGdeviceNoSupport">За съжаление това устройство не се поддържа.</ds>
+  <ds Jurisdiction="*" name="MGnoBrowserSupport" id="MGnoBrowserSupport">За съжаление този браузър не се поддържа.</ds>
+  <ds Jurisdiction="*" name="OCTautoSpins" id="OCTautoSpins">завъртания</ds>
+  <ds Jurisdiction="*" name="OCTtotalbet" id="OCTtotalbet">Залог</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_bet" id="OCTmachinetext_bet">ЗАЛОГ</ds>
+  <ds Jurisdiction="*" name="OCTbetInCoins" id="OCTbetInCoins">Залог в жетони</ds>
+  <ds Jurisdiction="*" name="MGbetInCoins" id="MGbetInCoins">Залог в жетони</ds>
+  <ds Jurisdiction="*" name="MGbetInCoinsRev" id="MGbetInCoinsRev">Залог в жетони</ds>
+  <ds Jurisdiction="*" name="MGbetInCash" id="MGbetInCash">Залог в кеш</ds>
+  <ds Jurisdiction="*" name="MGbetCashCoins" id="MGbetCashCoins">Залог в кеш/жетони</ds>
+  <ds Jurisdiction="*" name="MGbet" id="MGbet">Залог: {0}</ds>
+  <ds Jurisdiction="*" name="OCTbetColonVar" id="OCTbetColonVar">Залог: {0}</ds>
+  <ds Jurisdiction="*" name="MGsubAllSymbolsLC" id="MGsubAllSymbolsLC">Заменя всчки символи.</ds>
+  <ds Jurisdiction="*" name="subAllSymbols" id="subAllSymbols">ЗАМЕНЯ ВСЧКИ СИМВОЛИ.</ds>
+  <ds Jurisdiction="*" name="MGreload_btn" id="MGreload_btn">Зареждане</ds>
+  <ds Jurisdiction="*" name="OCTloadingText" id="OCTloadingText">Зареждане</ds>
+  <ds Jurisdiction="*" name="OCTreload_btn" id="OCTreload_btn">Зареждане</ds>
+  <ds Jurisdiction="*" name="OCTloading" id="OCTloading">Зареждане...</ds>
+  <ds Jurisdiction="*" name="OCTloadingTakesLonger" id="OCTloadingTakesLonger">Зареждането на играта отнема повече време от обичайното.</ds>
+  <ds Jurisdiction="*" name="loadingTakesLonger" id="loadingTakesLonger">Зареждането на играта отнема повече време от обичайното.</ds>
+  <ds Jurisdiction="*" name="MGclose_btn" id="MGclose_btn">Затваряне</ds>
+  <ds Jurisdiction="*" name="OCTclose_btn" id="OCTclose_btn">Затвори</ds>
+  <ds Jurisdiction="*" name="MGsoundsOff" id="MGsoundsOff">Звук винаги изключен</ds>
+  <ds Jurisdiction="*" name="sound" id="sound">Звукови ефекти</ds>
+  <ds Jurisdiction="*" name="MGsounds" id="MGsounds">Звуци на играта</ds>
+  <ds Jurisdiction="*" name="MGgameSound" id="MGgameSound">Звуци на играта</ds>
+  <ds Jurisdiction="*" name="OCTgameSound" id="OCTgameSound">Звуци на играта</ds>
+  <ds Jurisdiction="*" name="OCTplayingForFun" id="OCTplayingForFun">ИГРА ЗА ЗАБ.</ds>
+  <ds Jurisdiction="*" name="MGplayingForFun" id="MGplayingForFun">ИГРА ЗА ЗАБАВЛЕНИЕ</ds>
+  <ds Jurisdiction="*" name="MGyouPlayingFun" id="MGyouPlayingFun">Играете за забавление</ds>
+  <ds Jurisdiction="*" name="OCTyouPlayingFun" id="OCTyouPlayingFun">Играете за забавление</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingLost" id="OCTRCheckPlayingLost">Играете от {0} часа и загубихте {1}.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingLost" id="MGRCheckPlayingLost">Играете от {0} часа и загубихте {1}.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingWon" id="MGRCheckPlayingWon">Играете от {0} часа и спечелихте {1}.</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingWon" id="OCTRCheckPlayingWon">Играете от {0} часа и спечелихте {1}.</ds>
+  <ds Jurisdiction="*" name="OCTplayLimit" id="OCTplayLimit">Игрален лимит</ds>
+  <ds Jurisdiction="*" name="MGplayLimit" id="MGplayLimit">Игрален лимит</ds>
+  <ds Jurisdiction="*" name="MGrestoredGameHeader" id="MGrestoredGameHeader">Играта е възстановена</ds>
+  <ds Jurisdiction="*" name="OCTrestoredGameHeader" id="OCTrestoredGameHeader">Играта е възстановена</ds>
+  <ds Jurisdiction="*" name="gameOptimisedFor" id="gameOptimisedFor">Играта е оптимизирана за {0} за {1}.</ds>
+  <ds Jurisdiction="*" name="gameOptimisedVersion" id="gameOptimisedVersion">Играта е оптимизирана за: {0}</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Играта използва бисквитки за статистика и подобряване преживяването на потребителя. Моля, приемете</ds>
+  <ds Jurisdiction="*" name="MGgameUnavailable" id="MGgameUnavailable">Играта не е налична</ds>
+  <ds Jurisdiction="*" name="OCTgameUnavailable" id="OCTgameUnavailable">Играта не е налична</ds>
+  <ds Jurisdiction="*" name="gameNotLoaded" id="gameNotLoaded">Играта не може да се зареди.</ds>
+  <ds Jurisdiction="*" name="scatterSelect" id="scatterSelect">ИЗБЕРЕТЕ SCATTER СИМВОЛ</ds>
+  <ds Jurisdiction="Spain" name="OCTautoplayPanelStartText" id="OCTautoplayPanelStartText">Изберете, за да започнете</ds>
+  <ds Jurisdiction="*" name="MGoff" id="MGoff">Изкл.</ds>
+  <ds Jurisdiction="*" name="MGsoundsNo" id="MGsoundsNo">Изкл. звук</ds>
+  <ds Jurisdiction="*" name="OCTsoundsNo" id="OCTsoundsNo">Изкл. звук</ds>
+  <ds Jurisdiction="*" name="paytableHighestRev" id="paytableHighestRev">Изпл. се по-вис. печ. на акт. линия от двата пътя.</ds>
+  <ds Jurisdiction="Spain" name="paytableHighestNoActive" id="paytableHighestNoActive">Изплаща се само най-високата печалба на линия на залагане.</ds>
+  <ds Jurisdiction="Spain" name="OCTpaytableHighest" id="OCTpaytableHighest">Изплаща се само най-високата печалба на линия на залагане.</ds>
+  <ds Jurisdiction="*" name="MGpaytableHighestPaid" id="MGpaytableHighestPaid">Изплаща се само най-високата печеливша комбинация на линия на залагане.</ds>
+  <ds Jurisdiction="*" name="OCTpaytableHighestWinMatch" id="OCTpaytableHighestWinMatch">Изплаща се само най-голямата печалба на печелившо съвпадение.</ds>
+  <ds Jurisdiction="*" name="MGuseDefaultBrowser" id="MGuseDefaultBrowser">Използвайте браузъра по подразбиране за устройството или актуализирайте системата си.</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRounds" id="MGhaveFreeRounds">Имате {0} безплатни завъртания.</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRoundsRev" id="MGhaveFreeRoundsRev">Имате {0} Бонус игри!</ds>
+  <ds Jurisdiction="*" name="MGslowConnection" id="MGslowConnection">Интернет връзката ви е слаба.</ds>
+  <ds Jurisdiction="*" name="OCTslowConnection" id="OCTslowConnection">Интернет връзката ви е слаба.</ds>
+  <ds Jurisdiction="*" name="OCTintroGameSetting" id="OCTintroGameSetting">Интро филм</ds>
+  <ds Jurisdiction="*" name="updateBrowserQuestion" id="updateBrowserQuestion">Искате ли да актуализирате?</ds>
+  <ds Jurisdiction="*" name="OCTcontinueYesNo" id="OCTcontinueYesNo">Искате ли да продължите?</ds>
+  <ds Jurisdiction="*" name="MGcontinueYesNo" id="MGcontinueYesNo">Искате ли да продължите?</ds>
+  <ds Jurisdiction="*" name="OCTqualityHeading" id="OCTqualityHeading">Качество на графиките</ds>
+  <ds Jurisdiction="*" name="qualityHeading" id="qualityHeading">Качество на графиките</ds>
+  <ds Jurisdiction="*" name="OCTbetInCash" id="OCTbetInCash">Кеш залог</ds>
+  <ds Jurisdiction="*" name="MGbetInCashRev" id="MGbetInCashRev">Кеш залог</ds>
+  <ds Jurisdiction="*" name="specialWinCombo" id="specialWinCombo">КОМБИНИРАН</ds>
+  <ds Jurisdiction="*" name="MGleft" id="MGleft">Л</ds>
+  <ds Jurisdiction="*" name="MGbetLineWinsLeftRight" id="MGbetLineWinsLeftRight">Линиите на залагане печелят, ако печелившите символи са подредени последователно от най-левия до най-десния барабан.</ds>
+  <ds Jurisdiction="*" name="winBothWaysPaysRev" id="winBothWaysPaysRev">Линията на залагане печели, когато има последователност отляво надясно или отдясно наляво.</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbutton" id="OCTmaxbetbutton">МАКС. ЗАЛОГ</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbuttonTwoLine" id="OCTmaxbetbuttonTwoLine">МАКС.&lt;br&gt;ЗАЛОГ</ds>
+  <ds Jurisdiction="*" name="maxNumberReSpins" id="maxNumberReSpins">МАКСИМАЛЕН БРОЙ ПОВТОРНИ ЗАВЪРТАНИЯ Е {0}.</ds>
+  <ds Jurisdiction="*" name="MGmaxNumberReSpinsLC" id="MGmaxNumberReSpinsLC">Максимален брой повторни завъртания е {0}.</ds>
+  <ds Jurisdiction="*" name="specialWinMegaCombo" id="specialWinMegaCombo">МЕГА КОМБИНИРАН</ds>
+  <ds Jurisdiction="*" name="megaWin" id="megaWin">МЕГА ПЕЧАЛБА!</ds>
+  <ds Jurisdiction="*" name="OCTmegaWin" id="OCTmegaWin">МЕГА ПЕЧАЛБА!</ds>
+  <ds Jurisdiction="*" name="RCheckMonths" id="RCheckMonths">месеци</ds>
+  <ds Jurisdiction="*" name="MGminOSReq" id="MGminOSReq">Минималните изисквания са:</ds>
+  <ds Jurisdiction="*" name="multiplierFLC" id="multiplierFLC">Множител</ds>
+  <ds Jurisdiction="*" name="MGcolHeadBetMulti" id="MGcolHeadBetMulti">Множител на залога</ds>
+  <ds Jurisdiction="*" name="multiplierUC" id="multiplierUC">Множители</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Може би това не е резултатът, на който сте се надявали. Вземете още {0} Бонус игри за наша сметка.</ds>
+  <ds Jurisdiction="*" name="OCTlandscapeMode" id="OCTlandscapeMode">Моля върнете устройството в режим Портрет!</ds>
+  <ds Jurisdiction="*" name="MGlandscapeMode" id="MGlandscapeMode">Моля върнете устройството в режим Портрет!</ds>
+  <ds Jurisdiction="*" name="MGdeposit" id="MGdeposit">Моля депозирайте повече пари или намалете залога.</ds>
+  <ds Jurisdiction="*" name="OCTdeposit" id="OCTdeposit">Моля депозирайте повече пари или намалете залога.</ds>
+  <ds Jurisdiction="*" name="MGdepositPlay" id="MGdepositPlay">Моля депозирайте повече пари, за да продължите да играете.</ds>
+  <ds Jurisdiction="*" name="MGreload" id="MGreload">Моля заредете играта повторно.</ds>
+  <ds Jurisdiction="*" name="OCTreload" id="OCTreload">Моля заредете играта повторно.</ds>
+  <ds Jurisdiction="*" name="OCTreduce" id="OCTreduce">Моля намалете залога си, за да продължите да играете.</ds>
+  <ds Jurisdiction="*" name="MGreduce" id="MGreduce">Моля намалете залога си, за да продължите да играете.</ds>
+  <ds Jurisdiction="*" name="upgradeDevice" id="upgradeDevice">Моля, актуализирайте вашето устройство.</ds>
+  <ds Jurisdiction="*" name="OCTdepositPlay" id="OCTdepositPlay">Моля, внесете повече пари, за да продължите да играете.</ds>
+  <ds Jurisdiction="*" name="OCTreturnToLobby" id="OCTreturnToLobby">Моля, върнете се в лобито.</ds>
+  <ds Jurisdiction="*" name="MGreturnToLobby" id="MGreturnToLobby">Моля, върнете се в лобито.</ds>
+  <ds Jurisdiction="*" name="MGreturnCasino" id="MGreturnCasino">Моля, рестартирайте играта.</ds>
+  <ds Jurisdiction="*" name="OCTreturnCasino" id="OCTreturnCasino">Моля, рестартирайте играта.</ds>
+  <ds Jurisdiction="Antigua and Barbuda" name="OCTreduceBet_btn" id="OCTreduceBet_btn">Намаляване на залог</ds>
+  <ds Jurisdiction="*" name="MGreduceBet_btn" id="MGreduceBet_btn">Намаляване на залог</ds>
+  <ds Jurisdiction="*" name="MGRCcheckReminder" id="MGRCcheckReminder">Напомняне</ds>
+  <ds Jurisdiction="*" name="OCTRCcheckReminder" id="OCTRCcheckReminder">Напомняне</ds>
+  <ds Jurisdiction="*" name="MGspinSettings" id="MGspinSettings">Настr на завъртането</ds>
+  <ds Jurisdiction="*" name="MGbetOptions" id="MGbetOptions">Настр. на залозите</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRev" id="MGspinSettingsRev">Настройка на завъртането</ds>
+  <ds Jurisdiction="*" name="MGbetSettings" id="MGbetSettings">Настройка на залозите</ds>
+  <ds Jurisdiction="*" name="OCTspinSettingsCaps" id="OCTspinSettingsCaps">НАСТРОЙКИ НА ЗАВЪРТАНЕТО</ds>
+  <ds Jurisdiction="*" name="OCTbetSettingsCaps" id="OCTbetSettingsCaps">НАСТРОЙКИ НА ЗАЛАГАНЕТО</ds>
+  <ds Jurisdiction="*" name="OCTsoundSettingsCaps" id="OCTsoundSettingsCaps">НАСТРОЙКИ НА ЗВУКА</ds>
+  <ds Jurisdiction="*" name="MGsoundSettings" id="MGsoundSettings">Настройки на звука</ds>
+  <ds Jurisdiction="*" name="OCTslidePanelLabel" id="OCTslidePanelLabel">Настройки на играта</ds>
+  <ds Jurisdiction="*" name="OCTspaceSpin" id="OCTspaceSpin">Нат. интерв. за завърт</ds>
+  <ds Jurisdiction="*" name="spaceSpin" id="spaceSpin">Нат. интерв. за завърт</ds>
+  <ds Jurisdiction="*" name="OCTintroScreeGameSetting" id="OCTintroScreeGameSetting">Начален екран</ds>
+  <ds Jurisdiction="*" name="introScreeGameSetting" id="introScreeGameSetting">Начален екран</ds>
+  <ds Jurisdiction="*" name="MGcasino_btn" id="MGcasino_btn">Начало</ds>
+  <ds Jurisdiction="*" name="OCTcasino_btn" id="OCTcasino_btn">Начало</ds>
+  <ds Jurisdiction="*" name="MGplayingForMoney" id="MGplayingForMoney">Начало на игра за пари?</ds>
+  <ds Jurisdiction="*" name="MGbutton_no" id="MGbutton_no">Не</ds>
+  <ds Jurisdiction="*" name="OCTbtnNo" id="OCTbtnNo">Не</ds>
+  <ds Jurisdiction="*" name="dontShowNextTime" id="dontShowNextTime">Не показвай следващия път</ds>
+  <ds Jurisdiction="*" name="OCTvoidAllPays" id="OCTvoidAllPays">Неизправност анулира всички печалби и игри.</ds>
+  <ds Jurisdiction="*" name="OCTlevel" id="OCTlevel">НИВО</ds>
+  <ds Jurisdiction="Spain" name="OCTbetlevel" id="OCTbetlevel">Ниво зал.</ds>
+  <ds Jurisdiction="*" name="MGbetlevel" id="MGbetlevel">Ниво залагане</ds>
+  <ds Jurisdiction="*" name="lowQuality" id="lowQuality">Ниско</ds>
+  <ds Jurisdiction="*" name="OCTlowQuality" id="OCTlowQuality">Ниско</ds>
+  <ds Jurisdiction="*" name="couldNotConnectServer" id="couldNotConnectServer">Няма връзка със сървъра.</ds>
+  <ds Jurisdiction="*" name="MGnoWin" id="MGnoWin">Няма печалба</ds>
+  <ds Jurisdiction="*" name="MGoutOfMoney" id="MGoutOfMoney">Нямате пари</ds>
+  <ds Jurisdiction="*" name="OCToutOfMoney" id="OCToutOfMoney">Нямате пари</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinUCnoVar" id="OCTtotalWinUCnoVar">ОБЩА ПЕЧАЛБА:</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinWithColon" id="OCTtotalWinWithColon">Обща печалба:</ds>
+  <ds Jurisdiction="*" name="MGtotalWin" id="MGtotalWin">Обща печалба: {0}</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinColonVar" id="OCTtotalWinColonVar">Общо печалба: {0}</ds>
+  <ds Jurisdiction="*" name="MGok_btn" id="MGok_btn">ОК</ds>
+  <ds Jurisdiction="*" name="MGoptionUnavailable" id="MGoptionUnavailable">Опцията е невалидна</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsLeft" id="MGfreeRoundsLeft">Остават Ви {0} Бонус игри.</ds>
+  <ds Jurisdiction="*" name="MGfreeSpinsLeftColonVar" id="MGfreeSpinsLeftColonVar">Оставащи Free Spins: {0}</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsLeftColonVar" id="OCTfreeSpinsLeftColonVar">Оставащи Free Spins: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinningLinesHeading" id="MGwinningLinesHeading">Печ. линии на залагане</ds>
+  <ds Jurisdiction="*" name="OCTwinningBetLinesHeading" id="OCTwinningBetLinesHeading">Печ. линии на залагане</ds>
+  <ds Jurisdiction="*" name="MGwinPay" id="MGwinPay">Печалба</ds>
+  <ds Jurisdiction="*" name="OCTwin" id="OCTwin">Печалба</ds>
+  <ds Jurisdiction="Spain" name="OCTmachinetext_win" id="OCTmachinetext_win">ПЕЧАЛБА</ds>
+  <ds Jurisdiction="*" name="FSplashWinBothWays" id="FSplashWinBothWays">ПЕЧАЛБА ПО &lt;br&gt; ДВАТА НАЧИНА</ds>
+  <ds Jurisdiction="*" name="winBothWaysRev" id="winBothWaysRev">ПЕЧАЛБА ПО ДВАТА НАЧИНА</ds>
+  <ds Jurisdiction="*" name="OCTwinColonUC" id="OCTwinColonUC">ПЕЧАЛБА:</ds>
+  <ds Jurisdiction="*" name="OCTwinColonVar" id="OCTwinColonVar">Печалба: {0}</ds>
+  <ds Jurisdiction="*" name="MGwin" id="MGwin">Печалба: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinCapitals" id="MGwinCapitals">ПЕЧАЛБА: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinIncoins" id="MGwinIncoins">Печалбата Ви в жетони: {0}</ds>
+  <ds Jurisdiction="*" name="OCTbetLineWinsLeftToRightOnly" id="OCTbetLineWinsLeftToRightOnly">Печалбите от линия на залагане се изплащат, ако символите са последователни от най-левия към най-десния барабан.</ds>
+  <ds Jurisdiction="*" name="MGwinningCombinations" id="MGwinningCombinations">Печеливши комбинации и награди</ds>
+  <ds Jurisdiction="*" name="MGswipeToActivate" id="MGswipeToActivate">Плъзнете нагоре и активирайте играта.</ds>
+  <ds Jurisdiction="*" name="MGcongrats" id="MGcongrats">Поздравления!</ds>
+  <ds Jurisdiction="*" name="OCTcongratsLC" id="OCTcongratsLC">Поздравления!</ds>
+  <ds Jurisdiction="*" name="MGspinButtonPosition" id="MGspinButtonPosition">Позиция на бутон "Завърти"</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">политиката ни относно бисквитките.</ds>
+  <ds Jurisdiction="*" name="MGlostConnectionInactivity" id="MGlostConnectionInactivity">Поради неактивност връзката с играта е загубена.</ds>
+  <ds Jurisdiction="*" name="OCTlostConnectInactivity" id="OCTlostConnectInactivity">Поради неактивност връзката с играта е загубена.</ds>
+  <ds Jurisdiction="*" name="appearsOnReels" id="appearsOnReels">ПОЯВЯВА СЕ НА БАРАБАНИ {0}, {1} AND {2}.</ds>
+  <ds Jurisdiction="*" name="MGappearsOnReelsLC" id="MGappearsOnReelsLC">Появява се на барабани {0}, {1} and {2}.</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheading" id="MGgameRulesheading">Правила на играта</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheadingCaps" id="MGgameRulesheadingCaps">ПРАВИЛА НА ИГРАТА</ds>
+  <ds Jurisdiction="*" name="OCTgameRulesUC" id="OCTgameRulesUC">ПРАВИЛА НА ИГРАТА</ds>
+  <ds Jurisdiction="*" name="MGreload_btnRev" id="MGreload_btnRev">Презареждане</ds>
+  <ds Jurisdiction="*" name="onAnyWin" id="onAnyWin">При всяка печалба</ds>
+  <ds Jurisdiction="Spain" name="OCTifFBonusIsStarted" id="OCTifFBonusIsStarted">При печалба на Bonus Game</ds>
+  <ds Jurisdiction="*" name="OCTContinue" id="OCTContinue">Продължение</ds>
+  <ds Jurisdiction="*" name="OCTbutton_CONTINUE" id="OCTbutton_CONTINUE">ПРОДЪЛЖЕНИЕ</ds>
+  <ds Jurisdiction="*" name="OCTcontinuePlaying" id="OCTcontinuePlaying">Продължете да играете от там, от където прекъснахте.</ds>
+  <ds Jurisdiction="*" name="MGcontinuePlaying" id="MGcontinuePlaying">Продължете да играете от там, от където прекъснахте.</ds>
+  <ds Jurisdiction="*" name="MGcontinue" id="MGcontinue">Продължи</ds>
+  <ds Jurisdiction="*" name="OCTreset" id="OCTreset">Пър. наст.</ds>
+  <ds Jurisdiction="*" name="OCTadvancedSettings" id="OCTadvancedSettings">Разширени настройки</ds>
+  <ds Jurisdiction="*" name="OCTleftHandMode" id="OCTleftHandMode">Режим "Лява ръка"</ds>
+  <ds Jurisdiction="*" name="MGleftHandMode" id="MGleftHandMode">Режим "Лява ръка"</ds>
+  <ds Jurisdiction="*" name="MGsessionTimeOut" id="MGsessionTimeOut">Сесията изтече</ds>
+  <ds Jurisdiction="*" name="OCTsessionTimeOut" id="OCTsessionTimeOut">Сесията изтече</ds>
+  <ds Jurisdiction="*" name="OCTcoinsWonColon" id="OCTcoinsWonColon">Спечелени жетони:</ds>
+  <ds Jurisdiction="*" name="coinsWonColon" id="coinsWonColon">Спечелени жетони:</ds>
+  <ds Jurisdiction="*" name="MGwinMultiplierVar" id="MGwinMultiplierVar">Спечелените жетони се умножават по {0}</ds>
+  <ds Jurisdiction="*" name="WinUpTodup" id="WinUpTodup">СПЕЧЕЛЕТЕ ДО</ds>
+  <ds Jurisdiction="*" name="OCTwinUpTo" id="OCTwinUpTo">Спечелете до {0} жетона</ds>
+  <ds Jurisdiction="*" name="MGwinUpTo" id="MGwinUpTo">Спечелете до {0} жетона</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinWon" id="MGadditonalFreeSpinWon">Спечелихте {0} допълнителни Free Spin</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinsWon" id="MGadditonalFreeSpinsWon">Спечелихте {0} допълнителни Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTadditonalFreeSpinsWon" id="OCTadditonalFreeSpinsWon">Спечелихте {0} допълнителни Free Spins</ds>
+  <ds Jurisdiction="*" name="MGyouWonCoins" id="MGyouWonCoins">Спечелихте {0} жетона</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoins" id="OCTyouWonCoins">Спечелихте {0} жетона</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoinsUC" id="OCTyouWonCoinsUC">Спечелихте {0} жетона</ds>
+  <ds Jurisdiction="*" name="MGyouWon" id="MGyouWon">Спечелихте:{0}</ds>
+  <ds Jurisdiction="*" name="MGstopIfBonusGame" id="MGstopIfBonusGame">Спрете, ако спечелихте Bonus Game</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinscrosstowntraffic" id="OCTstopIfFreeSpinscrosstowntraffic">Спрете, ако спечелихте Crosstown Traffic Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpins" id="OCTstopIfFreeSpins">Спрете, ако спечелихте Free Spins</ds>
+  <ds Jurisdiction="*" name="MGstopIfFreeSpins" id="MGstopIfFreeSpins">Спрете, ако спечелихте Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinslittlewing" id="OCTstopIfFreeSpinslittlewing">Спрете, ако спечелихте Little Wing Free Spins</ds>
+  <ds Jurisdiction="*" name="stopIfPickAndClick" id="stopIfPickAndClick">Спрете, ако спечелихте Pick and Click</ds>
+  <ds Jurisdiction="*" name="stopIfPoliceSpins" id="stopIfPoliceSpins">Спрете, ако спечелихте Police Spins</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinspurplehaze" id="OCTstopIfFreeSpinspurplehaze">Спрете, ако спечелихте Purple Haze Free Spins</ds>
+  <ds Jurisdiction="*" name="stopIfFeatureSpins" id="stopIfFeatureSpins">Спрете, ако спечелихте специално завъртане</ds>
+  <ds Jurisdiction="*" name="OCTmediumQuality" id="OCTmediumQuality">Средно</ds>
+  <ds Jurisdiction="*" name="mediumQuality" id="mediumQuality">Средно</ds>
+  <ds Jurisdiction="*" name="OCTstartFreeSpins" id="OCTstartFreeSpins">СТАРТИРА FREE SPINS</ds>
+  <ds Jurisdiction="*" name="startFreeSpins" id="startFreeSpins">Стартиране на Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coinvalue" id="OCTmachinetext_coinvalue">СТОЙНОСТ ЖЕТ.</ds>
+  <ds Jurisdiction="*" name="OCTcoinValue" id="OCTcoinValue">Стойност на жетоните</ds>
+  <ds Jurisdiction="*" name="MGcoinvalue" id="MGcoinvalue">Стойност на жетоните</ds>
+  <ds Jurisdiction="Afghanistan" name="MGsymbolPayout" id="MGsymbolPayout">Стойност на изплащане на символите</ds>
+  <ds Jurisdiction="*" name="paytableInfoBetLevel1" id="paytableInfoBetLevel1">Стойностите на жетонните печалби са базирани на ниво на залагане 1.</ds>
+  <ds Jurisdiction="*" name="MGpaytableInfoBetLevel1" id="MGpaytableInfoBetLevel1">Стойностите на изплащане на жетоните са въз основа на залог на ниво 1.</ds>
+  <ds Jurisdiction="*" name="OCTautoplayStopText" id="OCTautoplayStopText">СТОП</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlay" id="OCTstopAutoPlay">Стоп на автоматичната игра</ds>
+  <ds Jurisdiction="*" name="specialWinSuperCombo" id="specialWinSuperCombo">СУПЕР КОМБИНИРАН</ds>
+  <ds Jurisdiction="*" name="superMegaWin" id="superMegaWin">СУПЕР МЕГА ПЕЧАЛБА!</ds>
+  <ds Jurisdiction="*" name="OCTsuperMegaWin" id="OCTsuperMegaWin">СУПЕР МЕГА ПЕЧАЛБА!</ds>
+  <ds Jurisdiction="*" name="InAssociation" id="InAssociation">Съвместно с</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Съобщение</ds>
+  <ds Jurisdiction="*" name="ambience" id="ambience">Съраунд звук</ds>
+  <ds Jurisdiction="*" name="MGpaytable" id="MGpaytable">Таблица на печалбите</ds>
+  <ds Jurisdiction="*" name="OCTpaytable" id="OCTpaytable">Таблица на печалбите</ds>
+  <ds Jurisdiction="*" name="OCTbutton_paytableUC" id="OCTbutton_paytableUC">ТАБЛИЦА НА ПЕЧАЛБИТЕ</ds>
+  <ds Jurisdiction="*" name="optimisedForVersion" id="optimisedForVersion">Тази игра е оптимизирана за: {0}</ds>
+  <ds Jurisdiction="*" name="MGoptionAvailable" id="MGoptionAvailable">Тази опция е налична само след завършване на рунда на играта.</ds>
+  <ds Jurisdiction="*" name="MGerror" id="MGerror">Техническа грешка</ds>
+  <ds Jurisdiction="*" name="OCTerror" id="OCTerror">Техническа грешка</ds>
+  <ds Jurisdiction="*" name="MGsoftNotTest" id="MGsoftNotTest">Този софтуер не е тестван на нашето устройство.</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Трябва да актуализирате браузъра си, за да играете играта.</ds>
+  <ds Jurisdiction="*" name="updateBrowserReq" id="updateBrowserReq">Трябва да актуализирате браузъра си, за да можете да играете. Минимално изискване: {0}</ds>
+  <ds Jurisdiction="*" name="OCTgameHistoryHeadingUC" id="OCTgameHistoryHeadingUC">ХРОНОЛОГИЯ НА ИГРАТА</ds>
+  <ds Jurisdiction="*" name="OCTgameHistory" id="OCTgameHistory">Хронология на игрите</ds>
+  <ds Jurisdiction="*" name="gameHistory" id="gameHistory">Хронология на игрите</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeading" id="MGgameHistoryHeading">Хронология на игрите</ds>
+  <ds Jurisdiction="*" name="MGhistoryNotAvailable" id="MGhistoryNotAvailable">Хронологията на играта може да се проследява, само ако играете за истински пари.</ds>
+  <ds Jurisdiction="*" name="OCThistoryNotAvailable" id="OCThistoryNotAvailable">Хронологията на играта може да се проследява, само ако играете за истински пари.</ds>
+  <ds Jurisdiction="Algeria" name="OCTnewHistoryWindow" id="OCTnewHistoryWindow">Хронологията на играта ще се отвори в нов прозорец. Затворете страницата, за да се върнете към играта.</ds>
+  <ds Jurisdiction="*" name="MGnewHistoryWindow" id="MGnewHistoryWindow">Хронологията на играта ще се отвори в нов прозорец. Затворете страницата, за да се върнете към играта.</ds>
+  <ds Jurisdiction="*" name="autoplayFS" id="autoplayFS">Автоматичната игра спира при спечелване на Free Spins, преди настройване на броя на рундовете на автоматичната игра.</ds>
+  <ds Jurisdiction="*" name="ifCashDecreasesBy" id="ifCashDecreasesBy">Ако парите в брой намалеят с</ds>
+  <ds Jurisdiction="*" name="ifCashIncreasesBy" id="ifCashIncreasesBy">Ако парите в брой се увеличат с</ds>
+  <ds Jurisdiction="*" name="OCTifCashIncreasesBy" id="OCTifCashIncreasesBy">Ако парите в брой се увеличат с</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Допълнителни Бонус игри</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">За да изпитате по-голямо удоволствие от играта, моля актуализирайте браузъра си.</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">За да изпитате по-голямо удоволствие от играта, моля актуализирайте операционната си система.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">За да можете да играете играта, трябва да оптимизирате операционната си система.</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRevCaps" id="MGspinSettingsRevCaps">НАСТРОЙКИ НА ЗАВЪРТАНЕТО</ds>
+  <ds Jurisdiction="*" name="MGbetSettingsCaps" id="MGbetSettingsCaps">НАСТРОЙКИ НА ЗАЛАГАНЕТО</ds>
+  <ds Jurisdiction="*" name="MGsoundSettingsCaps" id="MGsoundSettingsCaps">НАСТРОЙКИ НА ЗВУКА</ds>
+  <ds Jurisdiction="*" name="MGvoidAllPays" id="MGvoidAllPays">Неизправност анулира всички печалби и игри.</ds>
+  <ds Jurisdiction="*" name="voidAllPays" id="voidAllPays">Неизправност анулира всички печалби и игри.</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">Оптимизирана за {0} за {1} {2}</ds>
+  <ds Jurisdiction="*" name="OCTyouWinUCNoExclamation" id="OCTyouWinUCNoExclamation">СПЕЧЕЛИ</ds>
+  <ds Jurisdiction="*" name="autoplayPS" id="autoplayPS">Спира автоматичната игра, ако са спечелени бонус игра или Police Spins преди зададения брой рундове на автоматичната игра.</ds>
+  <ds Jurisdiction="*" name="OCTsymbolPayout" id="OCTsymbolPayout">Стойности на символите за изплащане</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Тази игра използва бисквитки, за да подобри потребителското изживяване и да управлява рекламите. Моля, потвърдете, че приемате нашата</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Трябва да използвате {0}, за да играете играта.</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeadingCaps" id="MGgameHistoryHeadingCaps">ХРОНОЛОГИЯ НА ИГРАТА</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="ok_btn" id="ok_btn">OK</ds>
+  <ds Jurisdiction="*" name="102" id="102">Автоматичната Ви игра е прекъсната.</ds>
+  <ds Jurisdiction="*" name="betExceedCDB" id="betExceedCDB">Ако парите намалеят и не можете да направите залог, моля, увеличете лимита си.</ds>
+  <ds Jurisdiction="*" name="freeRoundsCompleteDialogText" id="freeRoundsCompleteDialogText">Безпл. игри свършиха. Бонус игри ще използват парите в акаунта ви. Успех!</ds>
+  <ds Jurisdiction="*" name="OCTroundsLeft" id="OCTroundsLeft">Бонус игри</ds>
+  <ds Jurisdiction="*" name="roundsLeft" id="roundsLeft">Бонус игри</ds>
+  <ds Jurisdiction="*" name="25" id="25">Бонус игри са забранени.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinishedRev" id="OCTfreeRoundsFinishedRev">Бонус игри свършиха</ds>
+  <ds Jurisdiction="*" name="FreeRoundsLeftwithColonVar" id="FreeRoundsLeftwithColonVar">Бонус игри: {0}</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Брой {0}</ds>
+  <ds Jurisdiction="*" name="53" id="53">В момента играта е недостъпна. Опитайте отново по-късно.</ds>
+  <ds Jurisdiction="*" name="56" id="56">В момента играта е недостъпна. Опитайте отново по-късно.</ds>
+  <ds Jurisdiction="*" name="58" id="58">В момента играта е недостъпна. Опитайте отново по-късно.</ds>
+  <ds Jurisdiction="*" name="0" id="0">В момента играта е недостъпна. Опитайте отново по-късно.</ds>
+  <ds Jurisdiction="*" name="70" id="70">В момента нямате достъп до акаунта си. Моля опитайте отново по-късно.</ds>
+  <ds Jurisdiction="*" name="notSupportedBrowser" id="notSupportedBrowser">Вашият браузър не се поддържа.</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Връзка: слаба</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitTouch" id="OCTlossLimitTouch">Въведете, ако размерът на паричните средства намалее</ds>
+  <ds Jurisdiction="*" name="RCheckYear" id="RCheckYear">година</ds>
+  <ds Jurisdiction="*" name="RCheckYears" id="RCheckYears">години</ds>
+  <ds Jurisdiction="*" name="RCheckDay" id="RCheckDay">ден</ds>
+  <ds Jurisdiction="*" name="RCheckDays" id="RCheckDays">дни</ds>
+  <ds Jurisdiction="*" name="11" id="11">Достигнахте игралния си лимит. Заповядайте отново по-късно.</ds>
+  <ds Jurisdiction="*" name="performanceNotification" id="performanceNotification">За да повишите производителността на играта, намалете качеството на графиките, използвайки настройките на играта.</ds>
+  <ds Jurisdiction="*" name="OBperformanceNotification" id="OBperformanceNotification">За да повишите скоростта, намалете качеството на графиката от менюто с опции за играта.</ds>
+  <ds Jurisdiction="*" name="browserVersionNotSupported" id="browserVersionNotSupported">За съжаление тази версия на браузъра не се поддържа.</ds>
+  <ds Jurisdiction="*" name="mandatoryField" id="mandatoryField">Задължително поле</ds>
+  <ds Jurisdiction="*" name="13" id="13">Залогът ви надхвърля максималния лимит на залога, заложен за тази игра.</ds>
+  <ds Jurisdiction="*" name="close_btn" id="close_btn">Затвори</ds>
+  <ds Jurisdiction="*" name="RCheckPlayingFor" id="RCheckPlayingFor">Играете</ds>
+  <ds Jurisdiction="*" name="RCheckPlaying" id="RCheckPlaying">Играете от {0} {1}. {2} {3}. {4}</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Играта използва бисквитки за статистика и подобряване преживяването на потребителя. Моля, приемете</ds>
+  <ds Jurisdiction="*" name="110" id="110">Играта не може да започне. Опитайте отново по-късно.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired_header" id="gameWalletMssgExpired_header">Изтекъл Bonus</ds>
+  <ds Jurisdiction="*" name="OCThaveFreeRounds" id="OCThaveFreeRounds">Имате {0} Бонус игри!</ds>
+  <ds Jurisdiction="*" name="59" id="59">Клиентът вече е влезнал в системата. Опитайте отново по-късно.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited_header" id="gameWalletMssgForfeited_header">Конфискуван Bonus</ds>
+  <ds Jurisdiction="*" name="OCTCheckEndButton" id="OCTCheckEndButton">Край</ds>
+  <ds Jurisdiction="*" name="RCheckEndButton" id="RCheckEndButton">Край</ds>
+  <ds Jurisdiction="*" name="OCTlossLimit" id="OCTlossLimit">Лимит на загубите</ds>
+  <ds Jurisdiction="*" name="RCheckMonth" id="RCheckMonth">месец</ds>
+  <ds Jurisdiction="*" name="RCheckMinute" id="RCheckMinute">минута</ds>
+  <ds Jurisdiction="*" name="RCheckMinutes" id="RCheckMinutes">минути</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Може би това не е резултатът, на който сте се надявали. Вземете още {0} Бонус игри за наша сметка.</ds>
+  <ds Jurisdiction="*" name="upgradeIn" id="upgradeIn">Моля, актуализирайте {0} в {1}.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitWarning" id="OCTlossLimitWarning">Моля, въведете сумата  **Ако парите намалеят с**.</ds>
+  <ds Jurisdiction="*" name="14" id="14">Моля, презаредете, за да обновите баланса в играта.</ds>
+  <ds Jurisdiction="*" name="RCheckReminder" id="RCheckReminder">НАПОМНЯНЕ</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfoTouch" id="OCTlossLimitInfoTouch">Настройте сумата за залагане, преди настройване на лимита, за да спрете автоматичната игра.</ds>
+  <ds Jurisdiction="*" name="101" id="101">Нямата достатъчно пари в Casino сметката Ви.</ds>
+  <ds Jurisdiction="*" name="51" id="51">Нямата достатъчно пари в сметката Ви.</ds>
+  <ds Jurisdiction="*" name="10" id="10">Нямата достатъчно пари в сметката Ви.</ds>
+  <ds Jurisdiction="*" name="100" id="100">Нямата достатъчно пари в сметката Ви.</ds>
+  <ds Jurisdiction="*" name="15" id="15">Нямата достатъчно пари в сметката Ви. Моля вкарайте пари или намалете залога си.</ds>
+  <ds Jurisdiction="*" name="OBOCTTotalWinwithColonVar" id="OBOCTTotalWinwithColonVar">Обща печалба: {0}</ds>
+  <ds Jurisdiction="*" name="OCTTotalWinwithColonUC" id="OCTTotalWinwithColonUC">ОБЩА ПЕЧАЛБА: {0}</ds>
+  <ds Jurisdiction="*" name="TotalWinwithColonVar" id="TotalWinwithColonVar">Общо печалба: {0}</ds>
+  <ds Jurisdiction="*" name="OBfreeRoundsGamePanel" id="OBfreeRoundsGamePanel">Общо печалба: {0}</ds>
+  <ds Jurisdiction="*" name="OCTcongratsUC" id="OCTcongratsUC">ПОЗДРАВЛЕНИЯ!</ds>
+  <ds Jurisdiction="*" name="freeRoundsInitiatedDialogText" id="freeRoundsInitiatedDialogText">Поздравления!  Имате {0} Бонус игри Успех!</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered" id="gameWalletMssgWagered">Поздравления! Bonus {0} Ви стана кредит. За да го използвате, влезте отново в системата.</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">политиката ни относно бисквитките.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfo" id="OCTlossLimitInfo">Потвърдете или настройте сумата за залагане, преди настройване на лимита **Ако парите намалеят с**.</ds>
+  <ds Jurisdiction="*" name="RCheckLost" id="RCheckLost">През това време загубихте</ds>
+  <ds Jurisdiction="*" name="RCheckWon" id="RCheckWon">През това време спечелихте</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered_header" id="gameWalletMssgWagered_header">Преобразуван Bonus</ds>
+  <ds Jurisdiction="*" name="OCTonAnyWin" id="OCTonAnyWin">При всяка печалба</ds>
+  <ds Jurisdiction="*" name="Continue" id="Continue">Продължение</ds>
+  <ds Jurisdiction="*" name="button_CONTINUE" id="button_CONTINUE">ПРОДЪЛЖЕНИЕ</ds>
+  <ds Jurisdiction="*" name="reset" id="reset">Пър. наст.</ds>
+  <ds Jurisdiction="*" name="RCheckWeek" id="RCheckWeek">седмица</ds>
+  <ds Jurisdiction="*" name="RCheckWeeks" id="RCheckWeeks">седмици</ds>
+  <ds Jurisdiction="*" name="RCheckSecond" id="RCheckSecond">секунда</ds>
+  <ds Jurisdiction="*" name="RCheckSeconds" id="RCheckSeconds">секунди</ds>
+  <ds Jurisdiction="*" name="20" id="20">Сесията Ви изтече. Рестартирайте играта.</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlayColon" id="OCTstopAutoPlayColon">Стоп на автоматичната игра:</ds>
+  <ds Jurisdiction="*" name="greaterCDB" id="greaterCDB">Сумата трябва да е по-висока от заложената сума.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited" id="gameWalletMssgForfeited">Съжаляваме. Bonus {0} Ви е конфискуван.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired" id="gameWalletMssgExpired">Съжаляваме. Bonus {0} Ви изтече и вече не е на разположение.</ds>
+  <ds Jurisdiction="*" name="messagecaption" id="messagecaption">Съобщение</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Съобщение</ds>
+  <ds Jurisdiction="*" name="120" id="120">Тази опция е налична само след като завършите текущия рунд на играта.</ds>
+  <ds Jurisdiction="*" name="12" id="12">Текущият залог не може да бъде направен поради изтичане на бонуса.</ds>
+  <ds Jurisdiction="*" name="40" id="40">Този турнир все още не е стартирал, моля опитайте по-късно.</ds>
+  <ds Jurisdiction="*" name="60" id="60">Този турнир приключи, последно изиграния рунд няма да е включен в статистиката на турнира.</ds>
+  <ds Jurisdiction="*" name="50" id="50">Този турнир приключи.</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Трябва да актуализирате браузъра си, за да играете играта.</ds>
+  <ds Jurisdiction="*" name="121" id="121">Трябва да направите залог, за да стартирате автоматичната игра.</ds>
+  <ds Jurisdiction="*" name="autoRounds" id="autoRounds">тура</ds>
+  <ds Jurisdiction="*" name="122" id="122">Филмът за състезанието не може да бъде възпроизведен.</ds>
+  <ds Jurisdiction="*" name="RCheckHour" id="RCheckHour">час</ds>
+  <ds Jurisdiction="*" name="RCheckHours" id="RCheckHours">часа</ds>
+  <ds Jurisdiction="*" name="RCheckEndCont" id="RCheckEndCont">Ще спрете или ще продължите да играете?</ds>
+  <ds Jurisdiction="*" name="OCTstopIfWinExeeds" id="OCTstopIfWinExeeds">Ако една печалба превиши</ds>
+  <ds Jurisdiction="*" name="addValue" id="addValue">Добавете стойност</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Допълнителни Бонус игри</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">За да изпитате по-голямо удоволствие от играта, моля актуализирайте браузъра си.</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">За да изпитате по-голямо удоволствие от играта, моля актуализирайте операционната си система.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">За да можете да играете играта, трябва да оптимизирате операционната си система.</ds>
+  <ds Jurisdiction="*" name="nothanks" id="nothanks">Не, благодаря</ds>
+  <ds Jurisdiction="*" name="OBTotalWinwithColonVar" id="OBTotalWinwithColonVar">Обща печалба: {0}</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">Оптимизирана за {0} за {1} {2}</ds>
+  <ds Jurisdiction="*" name="bonusAwardedCongrats" id="bonusAwardedCongrats">Поздравления! Спечелихте бону в размер на {0}.</ds>
+  <ds Jurisdiction="*" name="bonusAwardedTitle" id="bonusAwardedTitle">Спечелихте бонус</ds>
+  <ds Jurisdiction="*" name="stopWhenJackpotIsWon" id="stopWhenJackpotIsWon">Спрете, ако джакпотът е спечелен</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashDecreasesBy" id="OCTstopIfCashDecreasesBy">Спрете, ако парите намалеят с</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashIncreasesBy" id="OCTstopIfCashIncreasesBy">Спрете, ако парите се увеличат с</ds>
+  <ds Jurisdiction="*" name="iagree" id="iagree">Съгласявам се</ds>
+  <ds Jurisdiction="*" name="16" id="16">Съжаляваме. Офертата за безплатни рундове вече е използвана.</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Тази игра използва бисквитки, за да подобри потребителското изживяване и да управлява рекламите. Моля, потвърдете, че приемате нашата</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Трябва да използвате {0}, за да играете играта.</ds>
+</defaults>

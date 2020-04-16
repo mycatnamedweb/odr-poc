@@ -1,0 +1,462 @@
+﻿<defaults xml:lang="hu">
+  <!-- Hungarian locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 08:40:42 GMT on Tuesday 10 October 2017.
+
+ -->
+  <ds Jurisdiction="*" name="freeRoundsFinished" id="freeRoundsFinished"></ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsLeft" id="MGfreeRoundsLeft">{0} ingyenes köre van még!</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRoundsRev" id="MGhaveFreeRoundsRev">{0} ingyenes köre van!</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRounds" id="MGhaveFreeRounds">{0} ingyenes köre van.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingWon" id="MGRCheckPlayingWon">{0} órája játszik, és {1}-t nyert.</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingWon" id="OCTRCheckPlayingWon">{0} órája játszik, és {1}-t nyert.</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingLost" id="OCTRCheckPlayingLost">{0} órája játszik, és {1}-t veszített.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingLost" id="MGRCheckPlayingLost">{0} órája játszik, és {1}-t veszített.</ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpinsNoSpan" id="MGvarRetriggerFreeSpinsNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTvarRetriggerFSNoSpan" id="OCTvarRetriggerFSNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpins" id="MGvarRetriggerFreeSpins">&lt;span class='NetEnt_plusSign'&gt;+&lt;/span&gt;&lt;span class='NetEnt_numberFreeSpins'&gt;{0}&lt;/span&gt; Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTreduce" id="OCTreduce">A folytatáshoz csökkentse a tétet.</ds>
+  <ds Jurisdiction="*" name="MGreduce" id="MGreduce">A folytatáshoz csökkentse a tétet.</ds>
+  <ds Jurisdiction="*" name="MGdepositPlay" id="MGdepositPlay">A folytatáshoz tegyen be pénzt.</ds>
+  <ds Jurisdiction="*" name="gameOptimisedFor" id="gameOptimisedFor">A játék {0}-ra van optimalizálva {1} használatával.</ds>
+  <ds Jurisdiction="*" name="gameOptimisedVersion" id="gameOptimisedVersion">A játék {0}-re optimalizálva</ds>
+  <ds Jurisdiction="*" name="loadingTakesLonger" id="loadingTakesLonger">A játék betöltése a szokásosnál hosszabb időt vesz igénybe.</ds>
+  <ds Jurisdiction="*" name="OCTloadingTakesLonger" id="OCTloadingTakesLonger">A játék betöltése a szokásosnál hosszabb időt vesz igénybe.</ds>
+  <ds Jurisdiction="*" name="gameNotLoaded" id="gameNotLoaded">A játék betöltése nem sikerült.</ds>
+  <ds Jurisdiction="*" name="optimisedForVersion" id="optimisedForVersion">A játék erre van optimalizálva: {0}</ds>
+  <ds Jurisdiction="*" name="OCTdepositPlay" id="OCTdepositPlay">A játék folytatásához kérjük, fizessen be.</ds>
+  <ds Jurisdiction="*" name="OCTlostConnectInactivity" id="OCTlostConnectInactivity">A játék inaktivitása miatt a kapcsolat megszakadt.</ds>
+  <ds Jurisdiction="*" name="MGlostConnectionInactivity" id="MGlostConnectionInactivity">A játék inaktivitása miatt a kapcsolat megszakadt.</ds>
+  <ds Jurisdiction="*" name="MGswipeToActivate" id="MGswipeToActivate">A játék indításához görgessen felfele.</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">A játék sütiket használ statisztikai célokból és a felhasználói élmény javításához. Erősítse meg a</ds>
+  <ds Jurisdiction="*" name="MGhistoryNotAvailable" id="MGhistoryNotAvailable">A játékelőzmények csak pénzes játék esetén kérhetők le.</ds>
+  <ds Jurisdiction="*" name="OCThistoryNotAvailable" id="OCThistoryNotAvailable">A játékelőzmények csak pénzes játék esetén kérhetők le.</ds>
+  <ds Jurisdiction="Algeria" name="OCTnewHistoryWindow" id="OCTnewHistoryWindow">A játékelőzmények új ablakban jelenik meg. A játék folytatásához zárja be az ablakot.</ds>
+  <ds Jurisdiction="*" name="MGnewHistoryWindow" id="MGnewHistoryWindow">A játékelőzmények új ablakban jelenik meg. A játék folytatásához zárja be az ablakot.</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">A játékhoz frissítened kell az operációs rendszert.</ds>
+  <ds Jurisdiction="*" name="updateBrowserReq" id="updateBrowserReq">A játékhoz frissítenie kell a böngészőjét. Minimális feltétel: {0}</ds>
+  <ds Jurisdiction="*" name="deviceNotSupported" id="deviceNotSupported">A készülék nem támogatott.</ds>
+  <ds Jurisdiction="*" name="NeProduction" id="NeProduction">A NET ENTERTAINMENT PRODUCTION</ds>
+  <ds Jurisdiction="*" name="OCTpaytableHighestWinMatch" id="OCTpaytableHighestWinMatch">A nyerő párosítások közül csak a legmagasabb kerül kifizetésre.</ds>
+  <ds Jurisdiction="*" name="winBothWaysPaysRev" id="winBothWaysPaysRev">A nyerővonal akkor fizet, ha a szélső bal vagy jobb sortól jobb illetve bal irányba sorozatot alkot.</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">a süti kezelési politikánk elfogadását.</ds>
+  <ds Jurisdiction="*" name="MGsoftNotTest" id="MGsoftNotTest">A szoftver nem volt tesztelve az Ön készülékén.</ds>
+  <ds Jurisdiction="*" name="OCTbetLineWinsLeftToRightOnly" id="OCTbetLineWinsLeftToRightOnly">A tétsor nyeremények sorozatban fizetődnek ki a bal tárcsától a jobb tárcsa felé haladva.</ds>
+  <ds Jurisdiction="*" name="MGbetLineWinsLeftRight" id="MGbetLineWinsLeftRight">A tétsorok akkor nyerők, ha a nyerő jelek a bal tárcsától jobbra haladva  sorozatot alkotnak.</ds>
+  <ds Jurisdiction="*" name="MGroundsUseAccountMoney" id="MGroundsUseAccountMoney">A további körökben számlája pénzét használja. Sok szerencsét!</ds>
+  <ds Jurisdiction="*" name="OCTroundsUseAcctMoney" id="OCTroundsUseAcctMoney">A további körökben számlája pénzét használja. Sok szerencsét!</ds>
+  <ds Jurisdiction="*" name="OCTlowQuality" id="OCTlowQuality">Alacsony</ds>
+  <ds Jurisdiction="*" name="lowQuality" id="lowQuality">Alacsony</ds>
+  <ds Jurisdiction="*" name="animationsGameSetting" id="animationsGameSetting">Animációk</ds>
+  <ds Jurisdiction="*" name="OCTautoplayButton" id="OCTautoplayButton">AUTOM. JÁTÉK</ds>
+  <ds Jurisdiction="*" name="autoplayButtonTwoLine" id="autoplayButtonTwoLine">AUTOM.&lt;br&gt;JÁTÉK</ds>
+  <ds Jurisdiction="*" name="MGautoplayPanelLabel" id="MGautoplayPanelLabel">Automatikus játék</ds>
+  <ds Jurisdiction="*" name="OCTautoplayPanelLabel" id="OCTautoplayPanelLabel">Automatikus játék</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlay" id="OCTstopAutoPlay">Automatikus játék leállítása</ds>
+  <ds Jurisdiction="*" name="MGautoplayCancelled" id="MGautoplayCancelled">Automatikus játék leállítva</ds>
+  <ds Jurisdiction="*" name="MGoptionUnavailable" id="MGoptionUnavailable">Az az opció nem elérhető</ds>
+  <ds Jurisdiction="*" name="paytableInfoBetLevel1" id="paytableInfoBetLevel1">Az érme kifizetések értéke az 1. tétszinttől függ.</ds>
+  <ds Jurisdiction="*" name="MGpaytableInfoBetLevel1" id="MGpaytableInfoBetLevel1">Az érmekifizetési értékek az 1 tétszinten alapulnak.</ds>
+  <ds Jurisdiction="*" name="MGwinMultiplierVar" id="MGwinMultiplierVar">Az érmenyereményeket {0} értékkel szorozzuk</ds>
+  <ds Jurisdiction="Spain" name="OCTautoplayPanelStartText" id="OCTautoplayPanelStartText">Az indításhoz válasszon</ds>
+  <ds Jurisdiction="*" name="OCTslowConnection" id="OCTslowConnection">Az internet kapcsolat túl lassú.</ds>
+  <ds Jurisdiction="*" name="MGslowConnection" id="MGslowConnection">Az internet kapcsolat túl lassú.</ds>
+  <ds Jurisdiction="*" name="operatingSystemNoSupport" id="operatingSystemNoSupport">Az operációs rendszer nem támogatott.</ds>
+  <ds Jurisdiction="*" name="MGmaxNumberReSpinsLC" id="MGmaxNumberReSpinsLC">Az újrapörgetések maximum száma {0}.</ds>
+  <ds Jurisdiction="*" name="maxNumberReSpins" id="maxNumberReSpins">AZ ÚJRAPÖRGETÉSEK MAXIMUM SZÁMA {0}.</ds>
+  <ds Jurisdiction="*" name="MGleft" id="MGleft">B</ds>
+  <ds Jurisdiction="*" name="MGleftHandMode" id="MGleftHandMode">Bal kéz mód</ds>
+  <ds Jurisdiction="*" name="OCTleftHandMode" id="OCTleftHandMode">Bal kéz mód</ds>
+  <ds Jurisdiction="*" name="onAnyWin" id="onAnyWin">Bármely nyereményen</ds>
+  <ds Jurisdiction="*" name="MGdownloadSounds" id="MGdownloadSounds">Bekapcsolja a hangot?</ds>
+  <ds Jurisdiction="*" name="MGlogin_btn" id="MGlogin_btn">Belépés</ds>
+  <ds Jurisdiction="*" name="OCTlogin_btn" id="OCTlogin_btn">Belépés</ds>
+  <ds Jurisdiction="*" name="OCTreload_btn" id="OCTreload_btn">Betöltés</ds>
+  <ds Jurisdiction="*" name="OCTloadingText" id="OCTloadingText">Betöltés</ds>
+  <ds Jurisdiction="*" name="MGreload_btn" id="MGreload_btn">Betöltés</ds>
+  <ds Jurisdiction="*" name="OCTloading" id="OCTloading">Betöltés...</ds>
+  <ds Jurisdiction="*" name="OCTintroScreeGameSetting" id="OCTintroScreeGameSetting">Bevezető képernyő</ds>
+  <ds Jurisdiction="*" name="introScreeGameSetting" id="introScreeGameSetting">Bevezető képernyő</ds>
+  <ds Jurisdiction="*" name="OCTclose_btn" id="OCTclose_btn">Bezár</ds>
+  <ds Jurisdiction="*" name="MGclose_btn" id="MGclose_btn">Bezárás</ds>
+  <ds Jurisdiction="*" name="paytableHighestRev" id="paytableHighestRev">Csak a legnagyobb nyeremény/aktív nyerővonal fizet.</ds>
+  <ds Jurisdiction="*" name="connectionQualityPoor" id="connectionQualityPoor">Csatlakozás: Gyenge</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Csatlakozás: Gyenge</ds>
+  <ds Jurisdiction="*" name="OCTplayingForFun" id="OCTplayingForFun">DEMÓ JÁTÉK</ds>
+  <ds Jurisdiction="*" name="MGplayingForFun" id="MGplayingForFun">DEMÓ JÁTÉK</ds>
+  <ds Jurisdiction="*" name="MG11" id="MG11">Elérte a játékhatárt. Jöjjön vissza később!</ds>
+  <ds Jurisdiction="*" name="MGplayingForMoney" id="MGplayingForMoney">Elkezd pénzért játszani?</ds>
+  <ds Jurisdiction="*" name="MGRCcheckReminder" id="MGRCcheckReminder">Emlékeztető</ds>
+  <ds Jurisdiction="*" name="OCTRCcheckReminder" id="OCTRCcheckReminder">Emlékeztető</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coins" id="OCTmachinetext_coins">ÉRME</ds>
+  <ds Jurisdiction="*" name="coins" id="coins">Érme</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coinvalue" id="OCTmachinetext_coinvalue">ÉRME ÉRTÉKE</ds>
+  <ds Jurisdiction="*" name="OCTcoinValue" id="OCTcoinValue">Érmeérték</ds>
+  <ds Jurisdiction="*" name="MGcoinvalue" id="MGcoinvalue">Érmeérték</ds>
+  <ds Jurisdiction="*" name="MGcoins" id="MGcoins">Érmék: {0}</ds>
+  <ds Jurisdiction="*" name="OCTcoinsColonVar" id="OCTcoinsColonVar">Érmék: {0}</ds>
+  <ds Jurisdiction="*" name="MGnoBrowserSupport" id="MGnoBrowserSupport">Ez a böngésző sajnos nem támogatott.</ds>
+  <ds Jurisdiction="*" name="MGdeviceNoSupport" id="MGdeviceNoSupport">Ez a készülék sajnos nem támogatott.</ds>
+  <ds Jurisdiction="*" name="MGoptionAvailable" id="MGoptionAvailable">Ez az opció csak a jelenlegi játékkör lejárta után érhető el.</ds>
+  <ds Jurisdiction="*" name="MGnoOSSupport" id="MGnoOSSupport">Ez az operációs rendszer sajons nem támogatott.</ds>
+  <ds Jurisdiction="*" name="MGbetCashCoins" id="MGbetCashCoins">Feltehető készpénz/érme</ds>
+  <ds Jurisdiction="*" name="MGaccountUnavailable" id="MGaccountUnavailable">Fiók nem elérhető</ds>
+  <ds Jurisdiction="*" name="OCTaccountUnavailable" id="OCTaccountUnavailable">Fiók nem elérhető</ds>
+  <ds Jurisdiction="*" name="OCTbetSettingsCaps" id="OCTbetSettingsCaps">FOGADÁS BEÁLLÍTÁSOK</ds>
+  <ds Jurisdiction="*" name="OCTbetInCoins" id="OCTbetInCoins">Fogadás érmében</ds>
+  <ds Jurisdiction="*" name="MGbetInCoins" id="MGbetInCoins">Fogadás érmében</ds>
+  <ds Jurisdiction="*" name="MGbetInCoinsRev" id="MGbetInCoinsRev">Fogadás érmében</ds>
+  <ds Jurisdiction="*" name="MGbetInCash" id="MGbetInCash">Fogadás pénzben</ds>
+  <ds Jurisdiction="*" name="MGcontinue" id="MGcontinue">Folytatás</ds>
+  <ds Jurisdiction="*" name="OCTContinue" id="OCTContinue">Folytatás</ds>
+  <ds Jurisdiction="*" name="OCTcontinueYesNo" id="OCTcontinueYesNo">Folytatja?</ds>
+  <ds Jurisdiction="*" name="MGcontinueYesNo" id="MGcontinueYesNo">Folytatja?</ds>
+  <ds Jurisdiction="*" name="MGcasino_btn" id="MGcasino_btn">Főoldal</ds>
+  <ds Jurisdiction="*" name="OCTcasino_btn" id="OCTcasino_btn">Főoldal</ds>
+  <ds Jurisdiction="*" name="OCTlandscapeMode" id="OCTlandscapeMode">Fordítsa el készüléket keresztbe!</ds>
+  <ds Jurisdiction="*" name="MGlandscapeMode" id="MGlandscapeMode">Fordítsa el készüléket keresztbe!</ds>
+  <ds Jurisdiction="*" name="OCTautoSpins" id="OCTautoSpins">forgatások</ds>
+  <ds Jurisdiction="*" name="MGcolHeadFSpinSyms" id="MGcolHeadFSpinSyms">Free Spin jelek</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsUC" id="OCTfreeSpinsUC">FREE SPINS</ds>
+  <ds Jurisdiction="*" name="OCTstartFreeSpins" id="OCTstartFreeSpins">FREE SPINS INDÍTÁSA</ds>
+  <ds Jurisdiction="*" name="startFreeSpins" id="startFreeSpins">Free Spins indul</ds>
+  <ds Jurisdiction="*" name="updateBrowserQuestion" id="updateBrowserQuestion">Frissíteni szeretne?</ds>
+  <ds Jurisdiction="*" name="qualityHeading" id="qualityHeading">Grafika minősége</ds>
+  <ds Jurisdiction="*" name="OCTqualityHeading" id="OCTqualityHeading">Grafika minősége</ds>
+  <ds Jurisdiction="*" name="OCTcongratsLC" id="OCTcongratsLC">Gratulálunk!</ds>
+  <ds Jurisdiction="*" name="MGcongrats" id="MGcongrats">Gratulálunk!</ds>
+  <ds Jurisdiction="*" name="MGquickSpinGameSetting" id="MGquickSpinGameSetting">Gyorspörgetés</ds>
+  <ds Jurisdiction="*" name="OCTquickSpin" id="OCTquickSpin">Gyorspörgetés</ds>
+  <ds Jurisdiction="*" name="OCTquickSpinGameSetting" id="OCTquickSpinGameSetting">Gyorspörgetés</ds>
+  <ds Jurisdiction="*" name="quickSpinGameSetting" id="quickSpinGameSetting">Gyorspörgetés</ds>
+  <ds Jurisdiction="*" name="OCTifCashDecreasesBy" id="OCTifCashDecreasesBy">Ha a készpénz ennyivel csökken</ds>
+  <ds Jurisdiction="*" name="OCTifWinExeeds" id="OCTifWinExeeds">Ha a nyeremény meghaladja</ds>
+  <ds Jurisdiction="*" name="ifWinExeeds" id="ifWinExeeds">Ha a nyeremény meghaladja</ds>
+  <ds Jurisdiction="*" name="OCTifFreeSpinsIsStarted" id="OCTifFreeSpinsIsStarted">Ha Free Spins-t nyert</ds>
+  <ds Jurisdiction="Spain" name="OCTifFBonusIsStarted" id="OCTifFBonusIsStarted">Ha Ön bónuszjátékot nyert</ds>
+  <ds Jurisdiction="*" name="OCTsoundsOn" id="OCTsoundsOn">Hang be</ds>
+  <ds Jurisdiction="*" name="MGsoundsOn" id="MGsoundsOn">Hang be</ds>
+  <ds Jurisdiction="*" name="MGsoundsNo" id="MGsoundsNo">Hang ki</ds>
+  <ds Jurisdiction="*" name="OCTsoundsNo" id="OCTsoundsNo">Hang ki</ds>
+  <ds Jurisdiction="*" name="MGsoundsOff" id="MGsoundsOff">Hang kikapcsolása mindig</ds>
+  <ds Jurisdiction="*" name="MGsoundSettings" id="MGsoundSettings">Hangbeállítások</ds>
+  <ds Jurisdiction="*" name="OCTsoundSettingsCaps" id="OCTsoundSettingsCaps">HANGBEÁLLÍTÁSOK</ds>
+  <ds Jurisdiction="*" name="sound" id="sound">Hanghatások</ds>
+  <ds Jurisdiction="*" name="ambience" id="ambience">Hangulatzene</ds>
+  <ds Jurisdiction="*" name="MGuseDefaultBrowser" id="MGuseDefaultBrowser">Használja készülékének alapértelmezett böngészőjét, vagy frissítse a rendszerét.</ds>
+  <ds Jurisdiction="*" name="OCTspinsLeftText" id="OCTspinsLeftText">Hátralévő {0} száma</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsLeftColonVar" id="OCTfreeSpinsLeftColonVar">Hátralevő Free Spins-ek: {0}</ds>
+  <ds Jurisdiction="*" name="MGfreeSpinsLeftColonVar" id="MGfreeSpinsLeftColonVar">Hátralevő Free Spins-ek: {0}</ds>
+  <ds Jurisdiction="*" name="MGsubAllSymbolsLC" id="MGsubAllSymbolsLC">Helyettesíti az összes szimbólumot.</ds>
+  <ds Jurisdiction="*" name="subAllSymbols" id="subAllSymbols">HELYETTESÍTI AZ ÖSSZES SZIMBÓLUMOT.</ds>
+  <ds Jurisdiction="*" name="OCTvoidAllPays" id="OCTvoidAllPays">Hiba esetén az összes kifizetés és játék törlésre kerül.</ds>
+  <ds Jurisdiction="*" name="RCheckMonths" id="RCheckMonths">hónap</ds>
+  <ds Jurisdiction="*" name="OCTsessionTimeOut" id="OCTsessionTimeOut">Időtúllépés</ds>
+  <ds Jurisdiction="*" name="MGsessionTimeOut" id="MGsessionTimeOut">Időtúllépés</ds>
+  <ds Jurisdiction="*" name="MGbutton_yes" id="MGbutton_yes">Igen</ds>
+  <ds Jurisdiction="*" name="OCTbtnYes" id="OCTbtnYes">Igen</ds>
+  <ds Jurisdiction="*" name="MGyes" id="MGyes">Igen*</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsTitle" id="OCTfreeRoundsTitle">Ingyen kör</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsTitle" id="MGfreeRoundsTitle">Ingyen kör</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsFinished" id="MGfreeRoundsFinished">Ingyenes köröknek vége</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinished" id="OCTfreeRoundsFinished">Ingyenes köröknek vége</ds>
+  <ds Jurisdiction="*" name="OCTFreeRoundsLeftwithColon" id="OCTFreeRoundsLeftwithColon">Ingyenes menetek: {0}</ds>
+  <ds Jurisdiction="*" name="OCTskipIntro" id="OCTskipIntro">Intro átugrása</ds>
+  <ds Jurisdiction="*" name="OCTintroGameSetting" id="OCTintroGameSetting">Intro film</ds>
+  <ds Jurisdiction="*" name="MGright" id="MGright">J</ds>
+  <ds Jurisdiction="*" name="MGcontinuePlaying" id="MGcontinuePlaying">Játék folytatás ott, ahol abbahagyta.</ds>
+  <ds Jurisdiction="*" name="OCTcontinuePlaying" id="OCTcontinuePlaying">Játék folytatás ott, ahol abbahagyta.</ds>
+  <ds Jurisdiction="*" name="OCTrestoredGameHeader" id="OCTrestoredGameHeader">Játék helyreállítva</ds>
+  <ds Jurisdiction="*" name="MGrestoredGameHeader" id="MGrestoredGameHeader">Játék helyreállítva</ds>
+  <ds Jurisdiction="*" name="MGgameUnavailable" id="MGgameUnavailable">Játék nem elérhető</ds>
+  <ds Jurisdiction="*" name="OCTgameUnavailable" id="OCTgameUnavailable">Játék nem elérhető</ds>
+  <ds Jurisdiction="*" name="OCTslidePanelLabel" id="OCTslidePanelLabel">Játékbeállítások</ds>
+  <ds Jurisdiction="*" name="OCTgameHistory" id="OCTgameHistory">Játékelőzmények</ds>
+  <ds Jurisdiction="*" name="OCTgameHistoryHeadingUC" id="OCTgameHistoryHeadingUC">JÁTÉKELŐZMÉNYEK</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeading" id="MGgameHistoryHeading">Játékelőzmények</ds>
+  <ds Jurisdiction="*" name="gameHistory" id="gameHistory">Játékelőzmények</ds>
+  <ds Jurisdiction="*" name="MGgameSound" id="MGgameSound">Játékhangok</ds>
+  <ds Jurisdiction="*" name="MGsounds" id="MGsounds">Játékhangok</ds>
+  <ds Jurisdiction="*" name="OCTgameSound" id="OCTgameSound">Játékhangok</ds>
+  <ds Jurisdiction="*" name="OCTplayLimit" id="OCTplayLimit">Játéklimit</ds>
+  <ds Jurisdiction="*" name="MGplayLimit" id="MGplayLimit">Játéklimit</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheading" id="MGgameRulesheading">Játékszabályok</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheadingCaps" id="MGgameRulesheadingCaps">JÁTÉKSZABÁLYOK</ds>
+  <ds Jurisdiction="*" name="upgradeDevice" id="upgradeDevice">Kérjük, frissítse a készüléket.</ds>
+  <ds Jurisdiction="*" name="MGreturnCasino" id="MGreturnCasino">Kérjük, indítsa újra a játékot.</ds>
+  <ds Jurisdiction="*" name="OCTreturnCasino" id="OCTreturnCasino">Kérjük, indítsa újra a játékot.</ds>
+  <ds Jurisdiction="*" name="OCTreturnToLobby" id="OCTreturnToLobby">Kérjük, lépjen vissza a kezdőoldalhoz.</ds>
+  <ds Jurisdiction="*" name="MGreturnToLobby" id="MGreturnToLobby">Kérjük, lépjen vissza a kezdőoldalhoz.</ds>
+  <ds Jurisdiction="*" name="MGdeposit" id="MGdeposit">Kérjük, tegyen be pénzt, vagy csökkentse a tétet.</ds>
+  <ds Jurisdiction="*" name="OCTdeposit" id="OCTdeposit">Kérjük, tegyen be pénzt, vagy csökkentse a tétet.</ds>
+  <ds Jurisdiction="*" name="OCTcash" id="OCTcash">Készpénz</ds>
+  <ds Jurisdiction="*" name="OCTcashColon" id="OCTcashColon">Készpénz:</ds>
+  <ds Jurisdiction="*" name="MGcash" id="MGcash">Készpénz:  {0}</ds>
+  <ds Jurisdiction="*" name="OCTcashColonVar" id="OCTcashColonVar">Készpénz: {0}</ds>
+  <ds Jurisdiction="*" name="MGoff" id="MGoff">Ki</ds>
+  <ds Jurisdiction="*" name="MGpaytable" id="MGpaytable">Kifizetési táblázat</ds>
+  <ds Jurisdiction="*" name="OCTbutton_paytableUC" id="OCTbutton_paytableUC">KIFIZETÉSI TÁBLÁZAT</ds>
+  <ds Jurisdiction="*" name="OCTpaytable" id="OCTpaytable">Kifizetési táblázat</ds>
+  <ds Jurisdiction="*" name="MGexpandReelTriggerLC" id="MGexpandReelTriggerLC">Kiterjed a kerékre és újrapörgetést indít el.</ds>
+  <ds Jurisdiction="*" name="expandReelTrigger" id="expandReelTrigger">KITERJED A KERÉKRE ÉS ÚJRAPÖRGETÉST INDÍT EL.</ds>
+  <ds Jurisdiction="*" name="specialWinCombo" id="specialWinCombo">KOMBO</ds>
+  <ds Jurisdiction="*" name="mediumQuality" id="mediumQuality">Közepes</ds>
+  <ds Jurisdiction="*" name="OCTmediumQuality" id="OCTmediumQuality">Közepes</ds>
+  <ds Jurisdiction="*" name="OCTautoplayStopText" id="OCTautoplayStopText">LEÁLL</ds>
+  <ds Jurisdiction="*" name="MGstopIfBonusGame" id="MGstopIfBonusGame">Leáll, ha Bonus Game-t nyert</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinscrosstowntraffic" id="OCTstopIfFreeSpinscrosstowntraffic">Leáll, ha Crosstown Traffic Free Spins-t nyert</ds>
+  <ds Jurisdiction="*" name="stopIfFeatureSpins" id="stopIfFeatureSpins">Leáll, ha Feature Spin-t nyert</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpins" id="OCTstopIfFreeSpins">Leáll, ha Free Spins-t nyert</ds>
+  <ds Jurisdiction="*" name="MGstopIfFreeSpins" id="MGstopIfFreeSpins">Leáll, ha Free Spins-t nyert</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinslittlewing" id="OCTstopIfFreeSpinslittlewing">Leáll, ha Little Wing Free Spins-t nyert</ds>
+  <ds Jurisdiction="*" name="stopIfPickAndClick" id="stopIfPickAndClick">Leáll, ha Pick and Click-t nyert</ds>
+  <ds Jurisdiction="*" name="stopIfPoliceSpins" id="stopIfPoliceSpins">Leáll, ha Police Spins-t nyert</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinspurplehaze" id="OCTstopIfFreeSpinspurplehaze">Leáll, ha Purple Haze Free Spins-t nyert</ds>
+  <ds Jurisdiction="*" name="autoBonusGame" id="autoBonusGame">Leállítja az Automatikus játékot, ha Bonus Game játékot nyer a beállított automatikus játékkörök lejárta előtt.</ds>
+  <ds Jurisdiction="*" name="autoplayFeatureSpins" id="autoplayFeatureSpins">Leállítja az Automatikus játékot, ha Feature Spins pörgetést nyer a beállított automatikus játékkörök lejárta előtt.</ds>
+  <ds Jurisdiction="*" name="MGdeposit_btn" id="MGdeposit_btn">Letét</ds>
+  <ds Jurisdiction="*" name="OCTdeposit_btn" id="OCTdeposit_btn">Letét</ds>
+  <ds Jurisdiction="*" name="OCThighQuality" id="OCThighQuality">Magas</ds>
+  <ds Jurisdiction="*" name="highQuality" id="highQuality">Magas</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbutton" id="OCTmaxbetbutton">MAX. TÉT</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbuttonTwoLine" id="OCTmaxbetbuttonTwoLine">MAX.&lt;br&gt;TÉT</ds>
+  <ds Jurisdiction="*" name="specialWinMegaCombo" id="specialWinMegaCombo">MEGA KOMBO</ds>
+  <ds Jurisdiction="*" name="megaWin" id="megaWin">MEGA NYEREMÉNY</ds>
+  <ds Jurisdiction="*" name="OCTmegaWin" id="OCTmegaWin">MEGA NYEREMÉNY!</ds>
+  <ds Jurisdiction="*" name="appearsOnReels" id="appearsOnReels">MEGJELENIK A {0}, {1} ÉS {2} KERÉKEN.</ds>
+  <ds Jurisdiction="*" name="MGappearsOnReelsLC" id="MGappearsOnReelsLC">Megjelenik a {0}, {1} és {2} keréken.</ds>
+  <ds Jurisdiction="*" name="MGconnectionLost" id="MGconnectionLost">Megszűnt a csatlakozás</ds>
+  <ds Jurisdiction="*" name="OCTconnectionLost" id="OCTconnectionLost">Megszűnt a csatlakozás</ds>
+  <ds Jurisdiction="*" name="MGminOSReq" id="MGminOSReq">Minimális gépigény:</ds>
+  <ds Jurisdiction="*" name="multiplierFLC" id="multiplierFLC">Multiplier</ds>
+  <ds Jurisdiction="*" name="OCTerror" id="OCTerror">Műszaki hiba</ds>
+  <ds Jurisdiction="*" name="MGerror" id="MGerror">Műszaki hiba</ds>
+  <ds Jurisdiction="*" name="MGbigWin" id="MGbigWin">NAGY NYEREMÉNY!</ds>
+  <ds Jurisdiction="*" name="OCTbigWin" id="OCTbigWin">NAGY NYEREMÉNY!</ds>
+  <ds Jurisdiction="*" name="dontShowNextTime" id="dontShowNextTime">Ne jelenjen meg többé</ds>
+  <ds Jurisdiction="*" name="MGbutton_no" id="MGbutton_no">Nem</ds>
+  <ds Jurisdiction="*" name="OCTbtnNo" id="OCTbtnNo">Nem</ds>
+  <ds Jurisdiction="*" name="MGnoWin" id="MGnoWin">Nem nyert</ds>
+  <ds Jurisdiction="*" name="couldNotConnectServer" id="couldNotConnectServer">Nem sikerült csatlakozni a szerverhez.</ds>
+  <ds Jurisdiction="*" name="MGoutOfMoney" id="MGoutOfMoney">Nincs elég pénze</ds>
+  <ds Jurisdiction="*" name="OCToutOfMoney" id="OCToutOfMoney">Nincs elég pénze</ds>
+  <ds Jurisdiction="*" name="OCTfreerounds" id="OCTfreerounds">Nincs több ingyenes köre</ds>
+  <ds Jurisdiction="*" name="MGfreerounds" id="MGfreerounds">Nincs több ingyenes köre</ds>
+  <ds Jurisdiction="Spain" name="OCTmachinetext_win" id="OCTmachinetext_win">NYEREMÉNY</ds>
+  <ds Jurisdiction="*" name="FSplashWinBothWays" id="FSplashWinBothWays">NYEREMÉNY &lt;br&gt; MINDKÉT IRÁNYBAN</ds>
+  <ds Jurisdiction="*" name="winBothWaysRev" id="winBothWaysRev">NYEREMÉNY KÉT IRÁNYBAN</ds>
+  <ds Jurisdiction="*" name="bigWin" id="bigWin">NYEREMÉNY!</ds>
+  <ds Jurisdiction="*" name="OCTwinColonUC" id="OCTwinColonUC">NYEREMÉNY:</ds>
+  <ds Jurisdiction="*" name="MGwinCapitals" id="MGwinCapitals">NYEREMÉNY: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinIncoins" id="MGwinIncoins">Nyereménye érmékben: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinningCombinations" id="MGwinningCombinations">Nyereménykombinációk és kifizetések</ds>
+  <ds Jurisdiction="*" name="WinUpTodup" id="WinUpTodup">NYERJ AKÁR</ds>
+  <ds Jurisdiction="*" name="MGwinUpTo" id="MGwinUpTo">Nyerjen akár {0} érmét</ds>
+  <ds Jurisdiction="*" name="OCTwinUpTo" id="OCTwinUpTo">Nyerjen akár {0} érmét</ds>
+  <ds Jurisdiction="*" name="MGpaytableHighestPaid" id="MGpaytableHighestPaid">Nyerővonalanként csak a legmagasabb nyereménykombinációt fizetjük.</ds>
+  <ds Jurisdiction="Spain" name="OCTpaytableHighest" id="OCTpaytableHighest">Nyerővonalanként csak a legmagasabb nyereményt fizetjük ki.</ds>
+  <ds Jurisdiction="Spain" name="paytableHighestNoActive" id="paytableHighestNoActive">Nyerővonalanként csak a legmagasabb nyereményt fizetjük ki.</ds>
+  <ds Jurisdiction="*" name="OCTyouWinUCNoExclamation" id="OCTyouWinUCNoExclamation">NYERT</ds>
+  <ds Jurisdiction="*" name="OCTwin" id="OCTwin">Nyert</ds>
+  <ds Jurisdiction="*" name="MGwinPay" id="MGwinPay">Nyert</ds>
+  <ds Jurisdiction="*" name="OCTcoinsWonColon" id="OCTcoinsWonColon">Nyert érmék:</ds>
+  <ds Jurisdiction="*" name="coinsWonColon" id="coinsWonColon">Nyert érmék:</ds>
+  <ds Jurisdiction="*" name="MGwin" id="MGwin">Nyert: {0}</ds>
+  <ds Jurisdiction="*" name="OCTwinColonVar" id="OCTwinColonVar">Nyert: {0}</ds>
+  <ds Jurisdiction="*" name="OCTwinningBetLinesHeading" id="OCTwinningBetLinesHeading">Nyertes sorok</ds>
+  <ds Jurisdiction="*" name="MGwinningLinesHeading" id="MGwinningLinesHeading">Nyertes sorok</ds>
+  <ds Jurisdiction="*" name="OCTbtnOK" id="OCTbtnOK">OK</ds>
+  <ds Jurisdiction="*" name="MGok_btn" id="MGok_btn">OK</ds>
+  <ds Jurisdiction="*" name="MGyouWonCoins" id="MGyouWonCoins">Ön {0} érmét nyert</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoins" id="OCTyouWonCoins">Ön {0} érmét nyert</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoinsUC" id="OCTyouWonCoinsUC">Ön {0} érmét nyert</ds>
+  <ds Jurisdiction="*" name="MGyouWon" id="MGyouWon">Ön nyert:{0}</ds>
+  <ds Jurisdiction="*" name="InAssociation" id="InAssociation">Partnereink</ds>
+  <ds Jurisdiction="*" name="OCTspinSettingsCaps" id="OCTspinSettingsCaps">PÖRGETÉS BEÁLLÍTÁSOK</ds>
+  <ds Jurisdiction="*" name="MGspinButtonPosition" id="MGspinButtonPosition">Pörgetés gomb helye</ds>
+  <ds Jurisdiction="*" name="OCTspaceSpin" id="OCTspaceSpin">Pörgetés space-szel</ds>
+  <ds Jurisdiction="*" name="spaceSpin" id="spaceSpin">Pörgetés space-szel</ds>
+  <ds Jurisdiction="*" name="MGspinSettings" id="MGspinSettings">Pörgetés-beállítások</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRev" id="MGspinSettingsRev">Pörgetés-beállítások</ds>
+  <ds Jurisdiction="*" name="MGnumberSpins" id="MGnumberSpins">Pörgetések száma</ds>
+  <ds Jurisdiction="*" name="OCTnumberSpins" id="OCTnumberSpins">Pörgetések száma</ds>
+  <ds Jurisdiction="*" name="OCTadvancedSettings" id="OCTadvancedSettings">Speciális beállítások</ds>
+  <ds Jurisdiction="*" name="starburstNameOfWild" id="starburstNameOfWild">Starburst™ Wild</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsVar" id="MGfreeRoundsVar">Szabad játékkörök: {0}</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Száma {0}</ds>
+  <ds Jurisdiction="*" name="OCTsymbolPayout" id="OCTsymbolPayout">Szimbólum kifizetési értékek</ds>
+  <ds Jurisdiction="Afghanistan" name="MGsymbolPayout" id="MGsymbolPayout">Szimbólum kifizetési értékek</ds>
+  <ds Jurisdiction="*" name="OCTlevel" id="OCTlevel">SZINT</ds>
+  <ds Jurisdiction="*" name="multiplierUC" id="multiplierUC">SZORZÓ</ds>
+  <ds Jurisdiction="*" name="specialWinSuperCombo" id="specialWinSuperCombo">SZUPER KOMBO</ds>
+  <ds Jurisdiction="*" name="superMegaWin" id="superMegaWin">SZUPER MEGA NYEREMÉNY!</ds>
+  <ds Jurisdiction="*" name="OCTsuperMegaWin" id="OCTsuperMegaWin">SZUPER MEGA NYEREMÉNY!</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinUCnoVar" id="OCTtotalWinUCnoVar">TELJES NYEREMÉNY:</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinWithColon" id="OCTtotalWinWithColon">Teljes nyeremény:</ds>
+  <ds Jurisdiction="*" name="MGtotalWin" id="MGtotalWin">Teljes nyeremény: {0}</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinColonVar" id="OCTtotalWinColonVar">Teljes nyeremény: {0}</ds>
+  <ds Jurisdiction="*" name="OCTtotalbet" id="OCTtotalbet">Tét</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_bet" id="OCTmachinetext_bet">TÉT</ds>
+  <ds Jurisdiction="*" name="OCTbetInCash" id="OCTbetInCash">Tét készpénzben</ds>
+  <ds Jurisdiction="*" name="MGbetInCashRev" id="MGbetInCashRev">Tét készpénzben</ds>
+  <ds Jurisdiction="*" name="MGyouPlayingFun" id="MGyouPlayingFun">Tét nélkül játszik</ds>
+  <ds Jurisdiction="*" name="OCTyouPlayingFun" id="OCTyouPlayingFun">Tét nélkül játszik</ds>
+  <ds Jurisdiction="*" name="OCTbetColonVar" id="OCTbetColonVar">Tét: {0}</ds>
+  <ds Jurisdiction="*" name="MGbet" id="MGbet">Tét: {0}</ds>
+  <ds Jurisdiction="*" name="MGbetOptions" id="MGbetOptions">Tétbeállítások</ds>
+  <ds Jurisdiction="*" name="MGbetSettings" id="MGbetSettings">Tétbeállítások</ds>
+  <ds Jurisdiction="*" name="MGreduceBet_btn" id="MGreduceBet_btn">Tétcsökkentés</ds>
+  <ds Jurisdiction="Antigua and Barbuda" name="OCTreduceBet_btn" id="OCTreduceBet_btn">Tétcsökkentés</ds>
+  <ds Jurisdiction="Spain" name="OCTbetlevel" id="OCTbetlevel">Tétszint</ds>
+  <ds Jurisdiction="*" name="MGbetlevel" id="MGbetlevel">Tétszint</ds>
+  <ds Jurisdiction="*" name="MGcolHeadBetMulti" id="MGcolHeadBetMulti">Tétszorzó</ds>
+  <ds Jurisdiction="*" name="MGreload" id="MGreload">Töltse be újra a játékot.</ds>
+  <ds Jurisdiction="*" name="OCTreload" id="OCTreload">Töltse be újra a játékot.</ds>
+  <ds Jurisdiction="*" name="OCTbutton_CONTINUE" id="OCTbutton_CONTINUE">TOVÁBB</ds>
+  <ds Jurisdiction="*" name="OCTadditonalFreeSpinsWon" id="OCTadditonalFreeSpinsWon">További {0} Free Spins-t nyert.</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinsWon" id="MGadditonalFreeSpinsWon">További {0} Free Spins-t nyert.</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinWon" id="MGadditonalFreeSpinWon">További {0} Free Spin-t nyert.</ds>
+  <ds Jurisdiction="*" name="extraInfo" id="extraInfo">További információkért olvassa el a Játékszabályok részt.</ds>
+  <ds Jurisdiction="*" name="OCTextraInfo" id="OCTextraInfo">További információkért olvassa el a Játékszabályok részt.</ds>
+  <ds Jurisdiction="*" name="MGreload_btnRev" id="MGreload_btnRev">Újratöltés</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Üzenet</ds>
+  <ds Jurisdiction="*" name="scatterSelect" id="scatterSelect">VÁLASSZON EGY SCATTER-T</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Valószínűleg nem ilyen eredményt reméltél. Adunk {0} Ingyen kör ajándékba.</ds>
+  <ds Jurisdiction="*" name="OCTgameRulesUC" id="OCTgameRulesUC">VERSENYSZABÁLYOK</ds>
+  <ds Jurisdiction="*" name="OCTreset" id="OCTreset">Visszaállítás</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">{0}-ra optimalizáva {1} {2} rendszeren</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">A játékhoz frissítened kell az operációs rendszert.</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">A játékhoz használd az {0} böngészőt.</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">A legjobb játékélményhez, kérjük, frissítsd az operációs rendszert.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">A legjobb játékélményhez, kérjük, frissítsd az operációs rendszert.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Extra Ingyen kör</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Ez a játék sütiket használ a felhasználói élmény javítására és a hirdetések kezelésére. Erősítsd meg, hogy elfogadod a</ds>
+  <ds Jurisdiction="*" name="MGbetSettingsCaps" id="MGbetSettingsCaps">FOGADÁS BEÁLLÍTÁSOK</ds>
+  <ds Jurisdiction="*" name="ifCashDecreasesBy" id="ifCashDecreasesBy">Ha a készpénz ennyivel csökken</ds>
+  <ds Jurisdiction="*" name="ifCashIncreasesBy" id="ifCashIncreasesBy">Ha a készpénz ennyivel nő</ds>
+  <ds Jurisdiction="*" name="OCTifCashIncreasesBy" id="OCTifCashIncreasesBy">Ha a készpénz ennyivel nő</ds>
+  <ds Jurisdiction="*" name="MGsoundSettingsCaps" id="MGsoundSettingsCaps">HANGBEÁLLÍTÁSOK</ds>
+  <ds Jurisdiction="*" name="voidAllPays" id="voidAllPays">Hiba esetén az összes kifizetés és játék törlésre kerül.</ds>
+  <ds Jurisdiction="*" name="MGvoidAllPays" id="MGvoidAllPays">Hiba esetén az összes kifizetés és játék törlésre kerül.</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeadingCaps" id="MGgameHistoryHeadingCaps">JÁTÉK ELŐZMÉNYEK</ds>
+  <ds Jurisdiction="*" name="autoplayPS" id="autoplayPS">Leállítja az Automatikus játékot ha Bónusz játékot vagy Police Spins pörgetéseket nyer a beállított automatikus játékkörök lejátszása előtt.</ds>
+  <ds Jurisdiction="*" name="autoplayFS" id="autoplayFS">Leállítja az Automatikus játékot, ha Free Spins pörgetést nyer a beállított automatikus játékkörök lejárta előtt.</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRevCaps" id="MGspinSettingsRevCaps">PÖRGETÉS BEÁLLÍTÁSOK</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="OCThaveFreeRounds" id="OCThaveFreeRounds">{0} ingyenes köre van!</ds>
+  <ds Jurisdiction="*" name="notSupportedBrowser" id="notSupportedBrowser">A böngésző nem támogatott.</ds>
+  <ds Jurisdiction="*" name="betExceedCDB" id="betExceedCDB">A fogadás meghaladta a készpénz csökkenési limitet. Kérjük, emeld meg a limitet.</ds>
+  <ds Jurisdiction="*" name="14" id="14">A játék frissítéséhez töltse be újra.</ds>
+  <ds Jurisdiction="*" name="0" id="0">A játék jelenleg nem elérhető. Próbálja újra később.</ds>
+  <ds Jurisdiction="*" name="53" id="53">A játék jelenleg nem elérhető. Próbálja újra később.</ds>
+  <ds Jurisdiction="*" name="56" id="56">A játék jelenleg nem elérhető. Próbálja újra később.</ds>
+  <ds Jurisdiction="*" name="58" id="58">A játék jelenleg nem elérhető. Próbálja újra később.</ds>
+  <ds Jurisdiction="*" name="110" id="110">A játék nem indítható. Próbálja újra később.</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">A játék sütiket használ statisztikai célokból és a felhasználói élmény javításához. Erősítse meg a</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">A játékhoz frissítened kell az operációs rendszert.</ds>
+  <ds Jurisdiction="*" name="performanceNotification" id="performanceNotification">A jobb teljesítmény érdekében csökkentse a grafikai részletek minőségét a játékbeállításokban.</ds>
+  <ds Jurisdiction="*" name="59" id="59">A kliens már be van jelentkezve. Próbálja újra később.</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">a süti kezelési politikánk elfogadását.</ds>
+  <ds Jurisdiction="*" name="OBperformanceNotification" id="OBperformanceNotification">A teljesítmény növeléséhez állítsa alacsonyabbra a felbontást a játékbeállítások menüben.</ds>
+  <ds Jurisdiction="*" name="13" id="13">A tét meghaladja a játék maximális tétszintjét.</ds>
+  <ds Jurisdiction="*" name="50" id="50">A verseny befejeződött.</ds>
+  <ds Jurisdiction="*" name="122" id="122">A verseny videója nem indítható.</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlayColon" id="OCTstopAutoPlayColon">Automatikus játék leállítása:</ds>
+  <ds Jurisdiction="*" name="102" id="102">Automatikus játékja megszakadt.</ds>
+  <ds Jurisdiction="*" name="12" id="12">Az aktuális tétet nem lehetett megtenni, a bónusz lejárta miatt.</ds>
+  <ds Jurisdiction="*" name="121" id="121">Az automatikus játék indításához fogadnia kell.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfoTouch" id="OCTlossLimitInfoTouch">Az automatikus játék leállításához add meg a tét mértékét a limit beállítása előtt.</ds>
+  <ds Jurisdiction="*" name="20" id="20">Az időkorlát lejárt. Indítsa újra a játékot.</ds>
+  <ds Jurisdiction="*" name="70" id="70">Az Ön fiókja jelenleg nem elérhető. Próbálja újra később.</ds>
+  <ds Jurisdiction="*" name="greaterCDB" id="greaterCDB">Az összegnek nagyobbnak kell lennie, mint a tét összege.</ds>
+  <ds Jurisdiction="*" name="OCTonAnyWin" id="OCTonAnyWin">Bármely nyereményen</ds>
+  <ds Jurisdiction="*" name="RCheckEndCont" id="RCheckEndCont">Befejezi, vagy kívánja folytatni?</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitTouch" id="OCTlossLimitTouch">Belépés ha a készpénz ezzel az összeggel csökken</ds>
+  <ds Jurisdiction="*" name="close_btn" id="close_btn">Bezár</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered_header" id="gameWalletMssgWagered_header">Bonus átváltva</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited_header" id="gameWalletMssgForfeited_header">Bonus elveszett</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired_header" id="gameWalletMssgExpired_header">Bonus lejárt</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Csatlakozás: Gyenge</ds>
+  <ds Jurisdiction="*" name="11" id="11">Elérte a játéklimitjét. Várjuk vissza később!</ds>
+  <ds Jurisdiction="*" name="RCheckReminder" id="RCheckReminder">EMLÉKEZTETŐ</ds>
+  <ds Jurisdiction="*" name="RCheckPlaying" id="RCheckPlaying">Ennyi ideje játszik: {0} {1}. {2} {3}. {4}</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfo" id="OCTlossLimitInfo">Erősítsd meg vagy állítsd be a tét összegét mielőtt megadnád a **készpénz csökkenés** limitet.</ds>
+  <ds Jurisdiction="*" name="addValue" id="addValue">Érték hozzáadása</ds>
+  <ds Jurisdiction="*" name="RCheckYear" id="RCheckYear">év</ds>
+  <ds Jurisdiction="*" name="RCheckYears" id="RCheckYears">év</ds>
+  <ds Jurisdiction="*" name="browserVersionNotSupported" id="browserVersionNotSupported">Ez a böngésző sajnos nem támogatott.</ds>
+  <ds Jurisdiction="*" name="60" id="60">Ez a verseny befejeződött, az utolsó lejátszott kör nem számít bele a versenystatisztikába.</ds>
+  <ds Jurisdiction="*" name="40" id="40">Ez a verseny még nem kezdődött el, próbálja meg később.</ds>
+  <ds Jurisdiction="*" name="RCheckWon" id="RCheckWon">Ez alatt az idő alatt Ön nyert</ds>
+  <ds Jurisdiction="*" name="RCheckLost" id="RCheckLost">Ez alatt az idő alatt Ön veszített</ds>
+  <ds Jurisdiction="*" name="120" id="120">Ez az opció csak a jelenlegi játékkör lejárta után érhető el.</ds>
+  <ds Jurisdiction="*" name="OCTroundsLeft" id="OCTroundsLeft">Fennmaradó körök</ds>
+  <ds Jurisdiction="*" name="Continue" id="Continue">Folytatás</ds>
+  <ds Jurisdiction="*" name="autoRounds" id="autoRounds">fordulók</ds>
+  <ds Jurisdiction="*" name="OCTcongratsUC" id="OCTcongratsUC">GRATULÁLUNK!</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered" id="gameWalletMssgWagered">Gratulálunk! {0} Bonus értéket hitelre váltottuk. Jelentkezzen be újból, hogy használhassa hitelét.</ds>
+  <ds Jurisdiction="*" name="freeRoundsInitiatedDialogText" id="freeRoundsInitiatedDialogText">Gratulálunk! Önnek {0} ingyen menet áll rendelkezésére. Sok szerencsét!</ds>
+  <ds Jurisdiction="*" name="RCheckWeek" id="RCheckWeek">hét</ds>
+  <ds Jurisdiction="*" name="RCheckWeeks" id="RCheckWeeks">hét</ds>
+  <ds Jurisdiction="*" name="RCheckMonth" id="RCheckMonth">hónap</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinishedRev" id="OCTfreeRoundsFinishedRev">Ingyenes köröknek vége</ds>
+  <ds Jurisdiction="*" name="roundsLeft" id="roundsLeft">Ingyenes menetek</ds>
+  <ds Jurisdiction="*" name="FreeRoundsLeftwithColonVar" id="FreeRoundsLeftwithColonVar">Ingyenes menetek: {0}</ds>
+  <ds Jurisdiction="*" name="RCheckPlayingFor" id="RCheckPlayingFor">Játékidő</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitWarning" id="OCTlossLimitWarning">Kérjük, add meg a **készpénz csökkenés** limit összegét.</ds>
+  <ds Jurisdiction="*" name="upgradeIn" id="upgradeIn">Kérjük, frissítse az {0} -t {1}-ban.</ds>
+  <ds Jurisdiction="*" name="mandatoryField" id="mandatoryField">Kötelező mező</ds>
+  <ds Jurisdiction="*" name="RCheckSecond" id="RCheckSecond">másodperc</ds>
+  <ds Jurisdiction="*" name="RCheckSeconds" id="RCheckSeconds">másodperc</ds>
+  <ds Jurisdiction="*" name="25" id="25">Minden játék leállítva.</ds>
+  <ds Jurisdiction="*" name="RCheckDay" id="RCheckDay">nap</ds>
+  <ds Jurisdiction="*" name="RCheckDays" id="RCheckDays">nap</ds>
+  <ds Jurisdiction="*" name="10" id="10">Nincs elég pénz a számláján.</ds>
+  <ds Jurisdiction="*" name="100" id="100">Nincs elég pénz a számláján.</ds>
+  <ds Jurisdiction="*" name="51" id="51">Nincs elég pénz a számláján.</ds>
+  <ds Jurisdiction="*" name="15" id="15">Nincs elég pénz a számláján. Kérjük, töltse fel a számlát vagy csökkentse a tétet.</ds>
+  <ds Jurisdiction="*" name="101" id="101">Nincs elég pénz Casino számláján.</ds>
+  <ds Jurisdiction="*" name="freeRoundsCompleteDialogText" id="freeRoundsCompleteDialogText">Nincs több ingyenes menet. A további menetekhez a számládon lévő pénzből vonunk le összeget. Sok szerencsét!</ds>
+  <ds Jurisdiction="*" name="ok_btn" id="ok_btn">OK</ds>
+  <ds Jurisdiction="*" name="RCheckHour" id="RCheckHour">óra</ds>
+  <ds Jurisdiction="*" name="RCheckHours" id="RCheckHours">óra</ds>
+  <ds Jurisdiction="*" name="OBfreeRoundsGamePanel" id="OBfreeRoundsGamePanel">Össz. kifizetés: {0}</ds>
+  <ds Jurisdiction="*" name="OBOCTTotalWinwithColonVar" id="OBOCTTotalWinwithColonVar">Összes kifizetés: {0}</ds>
+  <ds Jurisdiction="*" name="RCheckMinute" id="RCheckMinute">perc</ds>
+  <ds Jurisdiction="*" name="RCheckMinutes" id="RCheckMinutes">perc</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited" id="gameWalletMssgForfeited">Sajnáljuk. {0} Bonus értéke elveszett.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired" id="gameWalletMssgExpired">Sajnáljuk. {0} Bonus lejárt és már nem áll rendelkezésére.</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Száma {0}</ds>
+  <ds Jurisdiction="*" name="OCTTotalWinwithColonUC" id="OCTTotalWinwithColonUC">TELJES NYEREMÉNY: {0}</ds>
+  <ds Jurisdiction="*" name="TotalWinwithColonVar" id="TotalWinwithColonVar">Teljes nyeremény: {0}</ds>
+  <ds Jurisdiction="*" name="button_CONTINUE" id="button_CONTINUE">TOVÁBB</ds>
+  <ds Jurisdiction="*" name="messagecaption" id="messagecaption">Üzenet</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Üzenet</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Valószínűleg nem ilyen eredményt reméltél. Adunk {0} Ingyen kör ajándékba.</ds>
+  <ds Jurisdiction="*" name="RCheckEndButton" id="RCheckEndButton">Vége</ds>
+  <ds Jurisdiction="*" name="OCTCheckEndButton" id="OCTCheckEndButton">Vége</ds>
+  <ds Jurisdiction="*" name="OCTlossLimit" id="OCTlossLimit">Veszteség limit</ds>
+  <ds Jurisdiction="*" name="reset" id="reset">Visszaállítás</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">{0}-ra optimalizáva {1} {2} rendszeren</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">A játékhoz frissítened kell az operációs rendszert.</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">A játékhoz használd az {0} böngészőt.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">A legjobb játékélményhez, kérjük, frissítsd az operációs rendszert.</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">A legjobb játékélményhez, kérjük, frissítsd az operációs rendszert.</ds>
+  <ds Jurisdiction="*" name="bonusAwardedTitle" id="bonusAwardedTitle">Bónusz nyeremény</ds>
+  <ds Jurisdiction="*" name="iagree" id="iagree">Elfogadom</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Extra Ingyen kör</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Ez a játék sütiket használ a felhasználói élmény javítására és a hirdetések kezelésére. Erősítsd meg, hogy elfogadod a</ds>
+  <ds Jurisdiction="*" name="bonusAwardedCongrats" id="bonusAwardedCongrats">Gratulálunk! {0} bónuszt nyertél.</ds>
+  <ds Jurisdiction="*" name="stopWhenJackpotIsWon" id="stopWhenJackpotIsWon">Leállítás a jackpot elnyerésekor</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashDecreasesBy" id="OCTstopIfCashDecreasesBy">Leállítás ha a készpénz ennyivel csökken:</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashIncreasesBy" id="OCTstopIfCashIncreasesBy">Leállítás ha a készpénz ennyivel nő:</ds>
+  <ds Jurisdiction="*" name="OCTstopIfWinExeeds" id="OCTstopIfWinExeeds">Leállítás ha az egyszeri nyeremény meghaladja:</ds>
+  <ds Jurisdiction="*" name="nothanks" id="nothanks">Nem, köszönöm</ds>
+  <ds Jurisdiction="*" name="OBTotalWinwithColonVar" id="OBTotalWinwithColonVar">Összes kifizetés: {0}</ds>
+  <ds Jurisdiction="*" name="16" id="16">Sajnáljuk, már felhasználtad az ingyenes kör ajánlatot.</ds>
+</defaults>

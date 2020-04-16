@@ -1,0 +1,11 @@
+<moneyformats>
+   <moneyformat>
+      <dividers thousands="," decimal="."/>
+      <strings>
+         <curchar after="false">KZT</curchar>
+         <centchar usecent="false" after="false">?</centchar>
+      </strings>
+      <iso>KZT</iso>
+      <decimals>2</decimals>
+   </moneyformat>
+</moneyformats>

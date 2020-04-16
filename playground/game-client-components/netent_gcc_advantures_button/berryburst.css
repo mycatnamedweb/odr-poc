@@ -1,0 +1,25 @@
+.tablet_landscape #advIcon {
+    top: -65px;
+    right: 10px;
+}
+
+.mobile_portrait #advIcon {
+       bottom: 23%;
+	height:100px;
+}
+
+.mobile_landscape #advIcon {
+    right: 47px !important;
+    top: -16px;
+}
+
+.mobile_portrait #advIcon #adv-image{
+	height:100%;
+}
+
+@media only screen and (orientation: portrait) {
+.tablet_landscape #advIcon {
+    top: -15px;
+    right: 0px;
+}
+}

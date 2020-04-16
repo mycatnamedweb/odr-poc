@@ -1,0 +1,11 @@
+<moneyformats>
+   <moneyformat>
+      <dividers thousands="," decimal="."/>
+      <strings>
+         <curchar after="false">AMD</curchar>
+         <centchar usecent="false" after="false">?</centchar>
+      </strings>
+      <iso>AMD</iso>
+      <decimals>2</decimals>
+   </moneyformat>
+</moneyformats>

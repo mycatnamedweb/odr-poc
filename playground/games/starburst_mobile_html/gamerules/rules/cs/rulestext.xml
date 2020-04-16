@@ -1,0 +1,197 @@
+<defaults xml:lang="cs">
+  <!-- Czech locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 16:41:58 GMT on Tuesday 16 May 2017.
+
+ -->
+  <ds Jurisdiction="*" name="RTGameHistNoPlayForFun" id="RTGameHistNoPlayForFun">(není k dispozici v režimu &lt;b&gt;HRA PRO ZÁBAVU&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDisclaimer" id="RTquickSpinDisclaimer">(není k dispozici ve všech kasinech).</ds>
+  <ds Jurisdiction="*" name="RTcoinsDisplayValues" id="RTcoinsDisplayValues">&lt;b&gt;MINCE&lt;/b&gt; zobrazí počet mincí, které může hráč vsadit.</ds>
+  <ds Jurisdiction="*" name="RTMGcoinsDisplayValues" id="RTMGcoinsDisplayValues">&lt;b&gt;Mince&lt;/b&gt; zobrazí počet mincí, které může hráč vsadit.</ds>
+  <ds Jurisdiction="*" name="RTMGreturnToPlayer" id="RTMGreturnToPlayer">&lt;b&gt;Návrat k hráči&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTAutoplayDisconnect" id="RTAutoplayDisconnect">&lt;b&gt;Poznámka:&lt;/b&gt; Jste-li během hry odpojeni, všechna nastavení hry se při dalším spuštění hry vrátí do výchozího nastavení.</ds>
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Poznámka:&lt;/b&gt; Některá nastavení automatické hry jsou ve vybraných jurisdikcích povinná.</ds>
+  <ds Jurisdiction="*" name="RTMGsettingsDisclaimer" id="RTMGsettingsDisclaimer">&lt;b&gt;Poznámka:&lt;/b&gt; Někteří operátoři nemusí nabízet všechna uvedená nastavení hry.</ds>
+  <ds Jurisdiction="*" name="RTsettingsDisclaimer" id="RTsettingsDisclaimer">&lt;b&gt;Poznámka:&lt;/b&gt; v některých kasinech nemusí být k dispozici všechna uvedená nastavení hry.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayDisconnect" id="RTMGautoplayDisconnect">&lt;b&gt;Poznámka:&lt;/b&gt; Jste-li odpojeni během hry, všechna nastavení automatické hry se při opětovném spuštění hry vrátí do výchozího nastavení.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Poznámka&lt;/b&gt;: Následující tabulka platí pouze pokud hrajete v jiném jazyce než je angličtina.</ds>
+  <ds Jurisdiction="*" name="RTsoundButton" id="RTsoundButton">&lt;b&gt;Zvuk&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Anglický výraz</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPanelLabel" id="RTMGautoplayPanelLabel">Automatická hra</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayQuickSpinHeading" id="RTMGautoplayQuickSpinHeading">Automatická hra a rychlé roztočení</ds>
+  <ds Jurisdiction="*" name="RTstarBurststickyWExpandsReSpinsRev" id="RTstarBurststickyWExpandsReSpinsRev">Během bonusové hry Starburst™ Wild  se symboly Starburst™ Wild se rozšíří na celý válec a zůstanou na místě, zatímco ostatní válce se znovu roztočí.</ds>
+  <ds Jurisdiction="Spain" name="RTAutoplayButton" id="RTAutoplayButton">Chcete-li nastavit pokročilé možnosti pro automatickou hru, klepněte na &lt;b&gt;AUTOM. HRA&lt;/b&gt; na klávesnici nebo na možnost &lt;b&gt;AUTO&lt;/b&gt; na herním panelu a poté na &lt;b&gt;Pokročilá nastavení&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGameNew" id="RTMGtouchMainGameNew">Chcete-li při zobrazení na šířku skrýt tlačítko Roztočit, dotkněte se herní oblasti.</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Další informace</ds>
+  <ds Jurisdiction="Italy" name="RTgameSessions2" id="RTgameSessions2">Doba, po které se automaticky ukončí neaktivní herní relace.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSessions2" id="RTMGgameSessions2">Doba, po které se automaticky ukončí neaktivní herní sezení.</ds>
+  <ds Jurisdiction="*" name="RTMGadditionalInformation" id="RTMGadditionalInformation">Doplňující informace</ds>
+  <ds Jurisdiction="*" name="RTfunctionTableHead" id="RTfunctionTableHead">Funkce</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildEnds" id="RTstarburstWildEnds">Funkce Starburst™ Wild končí kdy se při dalším roztočení nezobrazí žádné nové Starburst™ Wilds.</ds>
+  <ds Jurisdiction="*" name="RTgameFunctionsHeading" id="RTgameFunctionsHeading">Herní funkce</ds>
+  <ds Jurisdiction="*" name="gameSettingIntro" id="gameSettingIntro">Herní nastavení otevřete klepnutím na ikonu klíče na herním panelu.</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryHeading" id="RTMGgameHistoryHeading">Historie hry</ds>
+  <ds Jurisdiction="*" name="RTMGhistoryNotAvailable" id="RTMGhistoryNotAvailable">Historie hry je k dispozici pouze při hraní o peníze.</ds>
+  <ds Jurisdiction="*" name="RTgHistoryNotAvailableForFun" id="RTgHistoryNotAvailableForFun">Historie hry není při hře &lt;b&gt;VIRTUÁLNÍ HRA&lt;/b&gt; k dispozici.</ds>
+  <ds Jurisdiction="*" name="RTMGbuttonsMainGame" id="RTMGbuttonsMainGame">Hlavní hra</ds>
+  <ds Jurisdiction="*" name="RTMGcoinvalue" id="RTMGcoinvalue">Hodnota mince</ds>
+  <ds Jurisdiction="*" name="RTMGcoinValueInstruction" id="RTMGcoinValueInstruction">Hodnota mince se nastaví pomocí volby HODNOTA MINCE.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildFeatureActive" id="RTstarburstWildFeatureActive">Jeden nebo více Starburst™ Wilds, které se zobrazí na libovolném místě na válcích 2, 3 nebo 4 aktivují funkci Starburst™ Wild.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRevNew" id="RTMGselectBetLevelRevNew">Klepnutím na posuvník nebo jeho přetažením navolte počet mincí, které budou vsazeny na řadu.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettingsMenu" id="RTMGquickSettingsMenu">Klepnutím na symbol plus otevřete nabídku rychlých nastavení.</ds>
+  <ds Jurisdiction="*" name="RTMGleaveGame" id="RTMGleaveGame">Klepnutím opusťte hru.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDevNew" id="RTMGgameSettingIntroDevNew">Klepnutím otevřete nastavení hry a informace o hře.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayIfBonusGame" id="RTMGdisableAutoplayIfBonusGame">Klepnutím vypnete automatickou hru, pokud před odehráním nastaveného počtu kol dojde k výhře bonusové hry.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplay" id="RTMGdisableAutoplay">Klepnutím vypnete automatickou hru, pokud před odehráním nastaveného počtu kol dojde k výhře Free Spins.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayPickClick" id="RTMGdisableAutoplayPickClick">Klepnutím vypnete automatickou hru, pokud před odehráním nastaveného počtu kol dojde k výhře Pick and Click .</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayUI" id="RTMGautoplayUI">Klepnutím zapnete nebo vypnete automatickou hru bez nutnosti otevírat nabídku nastavení. Ve výchozím nastavení bude použito 50 kol.</ds>
+  <ds Jurisdiction="*" name="RTMGspinButtonLeft" id="RTMGspinButtonLeft">Klepnutím zapnete nebo vypnete režim pro leváky.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinUI" id="RTMGquickSpinUI">Klepnutím zapnete nebo vypnete rychlé roztočení bez nutnosti otevírat nabídku nastavení.</ds>
+  <ds Jurisdiction="Anguilla" name="RTMGsoundSettingsUI" id="RTMGsoundSettingsUI">Klepnutím zapnete nebo vypnete zvuk bez nutnosti otevírat nabídku nastavení.</ds>
+  <ds Jurisdiction="*" name="RTgameHistoryDesc" id="RTgameHistoryDesc">Klepnutím zobrazíte historii her</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescNoBold" id="RTpaytableButtonsDescNoBold">Klikáním na šipky vlevo a vpravo můžete listovat stránkami v tabulce výplat. Kliknutím na prostřední tlačítko se vrátíte zpět do hry.</ds>
+  <ds Jurisdiction="*" name="RTMGtapDuringSpin" id="RTMGtapDuringSpin">Klikněte na herní oblast během roztočení a válce se zastaví.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescRev" id="RTpaytableButtonsDescRev">Klikněte na šipky směřující doleva nebo doprava a přejděte na &lt;b&gt;TABULKA VÝPLAT&lt;/b&gt;. Pro návrat do hry klikněte na prostřední tlačítko.</ds>
+  <ds Jurisdiction="*" name="RTMGbackMainGame" id="RTMGbackMainGame">Klikněte pro návrat do hlavní hry.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDev" id="RTMGgameSettingIntroDev">Klikněte pro otevření nastavení hry a informace o hře, nebo klikněte na Hotovost a Mince.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRev" id="RTMGautoplayPutOnOffRev">Klikněte pro spuštění  nebo zastavení automatické hry. Automatická hra odehraje hru po zvolený počet roztočení.</ds>
+  <ds Jurisdiction="*" name="RTMGstartAutoplay" id="RTMGstartAutoplay">Klikněte pro spuštění Automatické hry.</ds>
+  <ds Jurisdiction="*" name="RTMGtapOnOffRev" id="RTMGtapOnOffRev">Klikněte pro spuštění nebo zastavení Rychlého roztočení.</ds>
+  <ds Jurisdiction="*" name="RTMGstartQuickSpin" id="RTMGstartQuickSpin">Klikněte pro spuštění Rychlého roztočení.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsDisabledRev" id="RTMGsoundsDisabledRev">Klikněte pro vypnutí zvuku pro budoucí herní relace.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundOnOffRev" id="RTMGsoundOnOffRev">Klikněte pro zapnutí nebo vypnutí zvuku.</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplay" id="RTMGstopAutoplay">Klikněte pro zastavení Automatické hry.</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryDesc" id="RTMGgameHistoryDesc">Klikněte pro zobrazení aktuální historie hry.</ds>
+  <ds Jurisdiction="*" name="RTMGviewGamesRules" id="RTMGviewGamesRules">Klikněte pro zobrazení pravidel hry.</ds>
+  <ds Jurisdiction="*" name="RTMGwinComb" id="RTMGwinComb">Klikněte pro zobrazení výherní kombinace a výplat.</ds>
+  <ds Jurisdiction="*" name="RTopenSettingsMenu" id="RTopenSettingsMenu">Kliknutím otevřete menu herního nastavení a vyberte možnosti hry. Viz část Nastavení hry níže.</ds>
+  <ds Jurisdiction="*" name="RTopenGameRules" id="RTopenGameRules">Kliknutím otevřete pravidla hry.</ds>
+  <ds Jurisdiction="*" name="RTstartGameRound" id="RTstartGameRound">Kliknutím spustíte herní kolo s aktuální výší sázky a hodn. mince (můžete také stisknout mezerník).</ds>
+  <ds Jurisdiction="*" name="RTMGtapSpinButtonRev" id="RTMGtapSpinButtonRev">Kliknutím spusťte hru na aktuálních sázkových řadách, sázkové úrovni a s aktuální hodnotou mince.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDesc" id="RTinformationIconButtonDesc">Kliknutím zobrazíte &lt;b&gt;TABULKA VÝPLAT&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDescJimi" id="RTinformationIconButtonDescJimi">Kliknutím zobrazíte &lt;b&gt;TABULKA VÝPLAT&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonNoBold" id="RTinformationIconButtonNoBold">Kliknutím zobrazíte tabulku výplat.</ds>
+  <ds Jurisdiction="*" name="RTmuteSoundSliderRev" id="RTmuteSoundSliderRev">Kliknutím ztlumíte zvuky nebo pro nastavení zvuku použijte posuvník.</ds>
+  <ds Jurisdiction="*" name="RTMGexit" id="RTMGexit">Konec</ds>
+  <ds Jurisdiction="*" name="RTmaxBetAtHighBetLevel" id="RTmaxBetAtHighBetLevel">MAX. SÁZKA vyplácí hru s nejvyšší výší sázky a aktuální hodnotou mince.</ds>
+  <ds Jurisdiction="*" name="RTMGmenu" id="RTMGmenu">Menu</ds>
+  <ds Jurisdiction="*" name="RTmaxbetPlays" id="RTmaxbetPlays">Možností &lt;b&gt;MAX.SÁZKA&lt;/b&gt; se spouští hra s maximálním počtem sázkových řad, nejvyšší sázkovou úrovní a aktuální hodnotou mince.</ds>
+  <ds Jurisdiction="*" name="gameSettingOptionsHeading" id="gameSettingOptionsHeading">Možnosti nastavení hry</ds>
+  <ds Jurisdiction="*" name="RTplayCurrentBetLinesTo10" id="RTplayCurrentBetLinesTo10">Můžete hrát 1 až 10 sázkových řad s rozdílnými sázkovými úrovněmi a hodnotami mincí.</ds>
+  <ds Jurisdiction="*" name="RTMGplay10FixedBetLines" id="RTMGplay10FixedBetLines">Můžete hrát na 10 pevných sázkových řadách s rozdílnou výší sázky a hodnotou mince.</ds>
+  <ds Jurisdiction="*" name="RTMGAutoplaySpins" id="RTMGAutoplaySpins">Na tlačítku je uveden zvolený počet roztočení.</ds>
+  <ds Jurisdiction="*" name="RTMGnoAutoplayLeft" id="RTMGnoAutoplayLeft">Na tlačítku se zobrazí počet zbývajících roztočení.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettings" id="RTMGquickSettings">Nabídka rychlých nastavení</ds>
+  <ds Jurisdiction="Italy" name="RTreferWebSite" id="RTreferWebSite">Následující herní funkce a nastavení mohou podléhat podmínkám herní stránky. Více informací k následující tematice naleznete na herní stránce:</ds>
+  <ds Jurisdiction="*" name="RTMGreferWebSite" id="RTMGreferWebSite">Následující herní funkce a nastavení mohou podléhat podmínkám herního webu. Více informací k následující tématice naleznete na herním webu:</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettings" id="RTMGgameSettings">Nastavení hry a Informace o hře</ds>
+  <ds Jurisdiction="*" name="RTMGspinSettingsRev" id="RTMGspinSettingsRev">Nastavení roztočení</ds>
+  <ds Jurisdiction="*" name="RTMGsoundSettings" id="RTMGsoundSettings">Nastavení zvuku</ds>
+  <ds Jurisdiction="*" name="RTadjustQualityRev" id="RTadjustQualityRev">Nastavuje kvalitu grafiky pro optimální výkon.</ds>
+  <ds Jurisdiction="*" name="ReSpinsAtActivatingRound" id="ReSpinsAtActivatingRound">Otočení navíc se hrají za stejnou sázkou jako kolo, které otočení navíc aktivovalo.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRev" id="RTMGselectCoinValueRev">Otočte kolo nastavení a vyberte hodnotu mincí.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRev" id="RTMGselectBetLevelRev">Otočte kolo nastavení a vyberte počet mincí, které budou vsazeny na řádek.</ds>
+  <ds Jurisdiction="*" name="RTMGselectSpinsRev" id="RTMGselectSpinsRev">Otočte kolo nastavení a vyberte počet roztočení automatické hry.</ds>
+  <ds Jurisdiction="*" name="RTMGnumberSpins" id="RTMGnumberSpins">Počet roztočení</ds>
+  <ds Jurisdiction="*" name="advancedAutoplayOptionsHeading" id="advancedAutoplayOptionsHeading">Pokročilá nastavení automatické hry</ds>
+  <ds Jurisdiction="*" name="RTstarBurstAddReSpinsRev" id="RTstarBurstAddReSpinsRev">Pokud se během opětovného roztočení objeví nový symbol Starburst™ Wild, roztáhne se a zůstane na příští opětovné roztočení zablokovaný na svém místě společně s ostatními symboly Starburst™ Wild, které se roztáhly dříve.</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlays" id="RTautoplayPlays">Pomocí možnosti &lt;b&gt;AUTOM. HRA&lt;/b&gt; lze automaticky odehrát vybraný počet kol (alternativně lze použít tlačítko &lt;b&gt;AUTO&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlaysJimi" id="RTautoplayPlaysJimi">Pomocí možnosti &lt;b&gt;AUTOM. HRA&lt;/b&gt; lze automaticky odehrát vybraný počet kol (alternativně lze použít tlačítko &lt;b&gt;AUTO&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTMGunfinishedGameSession2" id="RTMGunfinishedGameSession2">Postupy používané pro správu nedokončených herních kol.</ds>
+  <ds Jurisdiction="Italy" name="RTunfinishedGameSession2" id="RTunfinishedGameSession2">Postupy používané pro správu nedokončených herních kol.</ds>
+  <ds Jurisdiction="*" name="RTMGgameRules" id="RTMGgameRules">Pravidla hry</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchRulesHeading" id="RTMGstarburstTouchRulesHeading">Pravidla hry Starburst Touch™</ds>
+  <ds Jurisdiction="*" name="RTstarBurstRulesHeading" id="RTstarBurstRulesHeading">Pravidla hry Starburst™</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Překlady herní terminologie</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Přeložený výraz</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRevNew" id="RTMGautoplayPutOnOffRevNew">Přetažením posuvníku nebo klepnutím na něj spustíte Automatickou hru a nastavíte požadovaný počet kol. V rámci Automatické hry bude proveden zvolený počet roztočení.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRevNew" id="RTMGselectCoinValueRevNew">Přetažením posuvníku nebo klepnutím na něj vyberete hodnotu mince.</ds>
+  <ds Jurisdiction="*" name="RTviewMiniPaytable" id="RTviewMiniPaytable">Případně můžete kliknout na libovolný symbol na válcích během hlavní hry, a zobrazí se minitabulka výher pro příslušný symbol.</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGame" id="RTMGtouchMainGame">Pro skrytí tlačítka Roztočit se dotkněte herní oblasti.</ds>
+  <ds Jurisdiction="*" name="RTMGleftHandMode" id="RTMGleftHandMode">Režim pro leváky</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpin" id="RTMGquickSpin">Rychlé roztočení</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinGameSetting" id="RTMGquickSpinGameSetting">Rychlé roztočení</ds>
+  <ds Jurisdiction="*" name="RTMGquickStop" id="RTMGquickStop">Rychlé zastavení</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCash" id="RTMGbetInCash">Sázka v hotovosti</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCoins" id="RTMGbetInCoins">Sázka v mincích</ds>
+  <ds Jurisdiction="*" name="simultaneousWinsAdded" id="simultaneousWinsAdded">Současné výhry v různých sázkových řadách se sčítají.</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchIntro" id="RTMGstarburstTouchIntro">Starburst Touch™ je 5válcový, 3řádkový video automat s funkcí Starburst™ Wild s opětovným roztočením a výhrou v obou směrech.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstIntro" id="RTstarBurstIntro">Starburst™ je 5válcový, 3liniový video automat vyznačující se zástupnými symboly Starburst™ Wild s opakovaným otočením o obousměrnými výhrami.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildHeading" id="RTstarBurstWildHeading">Starburst™ Wilds</ds>
+  <ds Jurisdiction="*" name="RTtableDescribes" id="RTtableDescribes">Stůl uvádí rozdílná tlačítka, která se ve hře nachází a popisuje jejich funkce.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSymbAppear" id="RTstarBurstWildSymbAppear">Symboly Starburst™ Wild se mohou objevit pouze na válcích 2, 3 a 4.</ds>
+  <ds Jurisdiction="*" name="termPaytable" id="termPaytable">Tabulka výplat</ds>
+  <ds Jurisdiction="*" name="RTMGpaytable" id="RTMGpaytable">Tabulka výplat</ds>
+  <ds Jurisdiction="*" name="RTMGpaytableJimi" id="RTMGpaytableJimi">Tabulka výplat</ds>
+  <ds Jurisdiction="Italy" name="RTtheoreticalReturn" id="RTtheoreticalReturn">Teoretická návratnost hráči v této hře je</ds>
+  <ds Jurisdiction="*" name="RTMGtheoreticalReturn" id="RTMGtheoreticalReturn">Teoretická návratnost hráči v této hře je</ds>
+  <ds Jurisdiction="*" name="RTspinPlayRev" id="RTspinPlayRev">Tlačítkem pro otočení se zahájí hra s aktuálními sázkovými řadami, sázkovou úrovní a hodnotou mincí (případně stiskněte mezerník).</ds>
+  <ds Jurisdiction="*" name="RTbuttonTableHead" id="RTbuttonTableHead">Tlačítko</ds>
+  <ds Jurisdiction="*" name="RTMGspinButton" id="RTMGspinButton">Tlačítko Roztočit</ds>
+  <ds Jurisdiction="*" name="RTMGbetlevel" id="RTMGbetlevel">Úroveň sázky</ds>
+  <ds Jurisdiction="*" name="RTMGmalfunction" id="RTMGmalfunction">V případě chybné funkce herního hardwaru/softwaru jsou všechny ovlivněné sázky a výplaty považovány za neplatné a všechny ovlivněné sázky budou vráceny.</ds>
+  <ds Jurisdiction="Italy" name="RTmalfunction" id="RTmalfunction">V případě chybné funkce herního hardwaru/softwaru jsou všechny ovlivněné sázky a výplaty považovány za neplatné a všechny ovlivněné sázky budou vráceny.</ds>
+  <ds Jurisdiction="*" name="RTautoplaySelectSpins" id="RTautoplaySelectSpins">Vyberte počet roztočení pro Automatická hra nebo otevřete Pokročilá nastavení a nastavte možnost zastavení Automatická hra.</ds>
+  <ds Jurisdiction="*" name="RTrulesGenerated" id="RTrulesGenerated">Vygenerovaná pravidla hry:</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytablenoBold" id="RTwinCombinationPaytablenoBold">Výherní kombinace a příslušné výhry jsou uvedené v Tabulce Výplat.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytable" id="RTwinCombinationPaytable">Výherní kombinace a výplaty stanoví &lt;b&gt;TABULKA VÝPLAT&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCombinations" id="RTMGwinCombinations">Výherní kombinace a výplaty stanoví Tabulka výplat.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoMultiplierTrans" id="RTwinCalculationBetLinesCoinsNoMultiplierTrans">Výhra za sázkové řady v mincích se rovná hodnotě uvedené v &lt;b&gt;TABULKA VÝPLAT&lt;/b&gt; znásobené výší sázky.</ds>
+  <ds Jurisdiction="*" name="RTwinCalcBetLinesNoMultiplier" id="RTwinCalcBetLinesNoMultiplier">Výhra za sázkové řady v mincích se rovná hodnotě zobrazené v  Tabulce výplat znásobené výší sázky.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoBold" id="RTwinCalculationBetLinesCoinsNoBold">Výhra za sázkové řady v mincích se rovná hodnotě zobrazené v  Tabulce výplat znásobené výší sázky. Tato částka se rovněž znásobí platnými násobiteli.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCurrency" id="RTMGwinCalculationBetLinesCurrency">Výhra za sázkovou řadu v měně se rovná výhře v mincích znásobené hodnotou mince.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCurrency" id="RTwinCalculationBetLinesCurrency">Výhra za sázkovou řadu v měně se rovná výhře v mincích znásobené hodnotou mince.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCoinsNoMultiplier" id="RTMGwinCalculationBetLinesCoinsNoMultiplier">Výhra za sázkovou řadu v mincích se rovná hodnotě zobrazené v &lt;b&gt;TABULKA VÝPLAT&lt;/b&gt;  znásobené výší sázky.</ds>
+  <ds Jurisdiction="*" name="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier" id="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier">Výhra za sázkovou řadu v mincích se rovná hodnotě zobrazené v &lt;b&gt;TABULKA VÝPLAT&lt;/b&gt;  znásobené výší sázky.</ds>
+  <ds Jurisdiction="*" name="RTCalcBetLineCoinNoMultiplierTransNew" id="RTCalcBetLineCoinNoMultiplierTransNew">Výhra ze sázkové řady v mincích se rovná hodnotě uvedené v tabulce výplat znásobené úrovní sázky.</ds>
+  <ds Jurisdiction="*" name="RTHighWinSymCompleteActLineRev" id="RTHighWinSymCompleteActLineRev">Vyplácí se nejvyšší výherní kombinace na válcích zleva doprava a/nebo zprava doleva na aktivním sázkovém řádku.</ds>
+  <ds Jurisdiction="*" name="RTpaytableHighestRev" id="RTpaytableHighestRev">Vyplácí se pouze nejvyšší výhra v aktivní sázkové řadě z obou směrů.</ds>
+  <ds Jurisdiction="*" name="RTgameSoundDesc" id="RTgameSoundDesc">Vypne nebo zapne zvuk hry.</ds>
+  <ds Jurisdiction="*" name="RTbetLevel" id="RTbetLevel">Výše sázky je počet mincí na sázkovou řadu.</ds>
+  <ds Jurisdiction="*" name="RTMGbetLevelInstruction" id="RTMGbetLevelInstruction">Výše sázky se nastavuje pomocí možnosti &lt;b&gt;Úroveň sázky&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDescRev" id="RTquickSpinDescRev">Zapíná a vypíná možnost rychlého roztočení</ds>
+  <ds Jurisdiction="*" name="RTspacebarspin" id="RTspacebarspin">Zapíná nebo vypíná funkci mezerníku.</ds>
+  <ds Jurisdiction="*" name="RTambienceDescRev" id="RTambienceDescRev">Zapíná nebo vypíná hudbu na pozadí.</ds>
+  <ds Jurisdiction="*" name="RTintroOffRev" id="RTintroOffRev">Zapíná nebo vypíná úvodní obrazovku.</ds>
+  <ds Jurisdiction="*" name="RTanimationsOff" id="RTanimationsOff">Zapnout nebo vypnout animace.</ds>
+  <ds Jurisdiction="*" name="RTMGstopIfFreeSpins" id="RTMGstopIfFreeSpins">Zastaví se v případě výhry Free Spins</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplayOnOff" id="RTMGstopAutoplayOnOff">Zastavit Automatickou hru</ds>
+  <ds Jurisdiction="*" name="anyWinDesc" id="anyWinDesc">Zastavit automatickou hru při výhře.</ds>
+  <ds Jurisdiction="Spain" name="cashDecreasesDesc" id="cashDecreasesDesc">Zastavit automatickou hru, když se stav účtu sníží o zadanou částku.</ds>
+  <ds Jurisdiction="*" name="cashIncreasesDesc" id="cashIncreasesDesc">Zastavit automatickou hru, když se stav účtu zvýší o zadanou částku.</ds>
+  <ds Jurisdiction="*" name="singleWinDesc" id="singleWinDesc">Zastavit automatickou hru, když vyhraná částka překročí zadanou částku nebo když se jí bude rovnat.</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRev" id="RTsingleWinDescRev">Zastavuje automatickou hru, když vyhraná částka překročí zadanou částku nebo když se jí bude rovnat.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSubstitute" id="RTstarBurstWildSubstitute">Zástupné symboly Starburst™ Wild nahrazují všechny ostatní symboly.</ds>
+  <ds Jurisdiction="*" name="termWild" id="termWild">Zástupný symbol</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCoins" id="RTMGshowsBetCoins">Zobrazí výši sázky v mincích.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCurrency" id="RTMGshowsBetCurrency">Zobrazí výši sázky ve vybrané měně.</ds>
+  <ds Jurisdiction="*" name="RTMGback" id="RTMGback">Zpět</ds>
+  <ds Jurisdiction="*" name="RTreturnToPlayer" id="RTreturnToPlayer">Zpět k hráči</ds>
+  <ds Jurisdiction="*" name="RTMGsounds" id="RTMGsounds">Zvuky hry</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsOff" id="RTMGsoundsOff">Zvuky vždy vypnout</ds>
+  <ds Jurisdiction="*" name="RTautoplayDuringGameRev" id="RTautoplayDuringGameRev">&lt;b&gt;Poznámka:&lt;/b&gt;  při změně nastavení Autoplay během herního kola budou nastavení platná jakmile bude herní  kolo nebo funkce dokončená.</ds>
+  <ds Jurisdiction="*" name="RTopenAutoplayMenu" id="RTopenAutoplayMenu">Kliknutím otevřete nastavení Automatické hry a hru odehrajte automaticky.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationWinMatchCurrency" id="RTwinCalculationWinMatchCurrency">Výhra za sázkovou řadu v měně se rovná výhře v mincích znásobené hodnotou mince.</ds>
+  <ds Jurisdiction="*" name="RTMGautoOptions" id="RTMGautoOptions">Aktivujete-li automatickou hru přetažením posuvníku nebo klepnutím na něj, nastavíte možnosti tohoto režimu a příslušný počet kol. Automatická hra provede zvolený počet roztočení.</ds>
+  <ds Jurisdiction="*" name="RTsliderCoinValue" id="RTsliderCoinValue">K nastavení hodnoty mince slouží posuvník Hodnota mince.</ds>
+  <ds Jurisdiction="*" name="RTeachStar1AddRespinUpTo3respin" id="RTeachStar1AddRespinUpTo3respin">Poté, co Starburst™ Wild aktivuje opětovné roztočení, se mohou objevit až 2 další symboly Starburst™ Wild, jež spustí další opětovné roztočení, maximálně mohou proběhnout 3 opětovná roztočení.</ds>
+  <ds Jurisdiction="*" name="RTexCloneWildOverlay" id="RTexCloneWildOverlay">Symboly Expanding Cloning Wild se zobrazují jako nehybná horní vrstva nad rotujícími válci. Naklonované symboly jsou také součástí horní vrstvy nad válci.</ds>
+  <ds Jurisdiction="*" name="RTsliderBetLevel" id="RTsliderBetLevel">Úroveň sázky lze nastavit pomocí posuvníku Úroveň sázky.</ds>
+  <ds Jurisdiction="*" name="onlyHighWinComb" id="onlyHighWinComb">V sázkových řadách se vyplácí pouze nejvyšší získaná vítězná kombinace bráno zleva doprava i zprava doleva.</ds>
+  <ds Jurisdiction="*" name="RTcashIncreasesDescRev" id="RTcashIncreasesDescRev">Zastaví automatickou hru, pokud se hotovost navýší o stanovenou částku.</ds>
+  <ds Jurisdiction="*" name="RTcashDecreasesDescRev" id="RTcashDecreasesDescRev">Zastaví automatickou hru, pokud se hotovost sníží o stanovenou částku.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Poznámka:&lt;/b&gt; Některá nastavení automatické hry jsou ve vybraných jurisdikcích povinná.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Poznámka&lt;/b&gt;: Následující tabulka platí pouze pokud hrajete v jiném jazyce než je angličtina.</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Anglický výraz</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Další informace</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Překlady herní terminologie</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Přeložený výraz</ds>
+  <ds Jurisdiction="*" name="featuresNotAvailablePFF" id="featuresNotAvailablePFF">V režimu &lt;b&gt;HRA PRO ZÁBAVU&lt;/b&gt; nemusí být některé funkce k dispozici.</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRevNew" id="RTsingleWinDescRevNew">Zastavit autom. hru, pokud vyhraná částka překročí určenou výši.</ds>
+</defaults>

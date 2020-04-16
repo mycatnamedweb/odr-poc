@@ -1,0 +1,11 @@
+<moneyformats>
+   <moneyformat>
+      <dividers thousands="," decimal="."/>
+      <strings>
+         <curchar after="false">KES</curchar>
+         <centchar usecent="false" after="false">?</centchar>
+      </strings>
+      <iso>KES</iso>
+      <decimals>2</decimals>
+   </moneyformat>
+</moneyformats>

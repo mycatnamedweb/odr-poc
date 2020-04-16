@@ -1,0 +1,11 @@
+<moneyformats>
+   <moneyformat>
+      <dividers thousands="." decimal=","/>
+      <strings>
+         <curchar after="false">LVL</curchar>
+         <centchar usecent="false" after="false">?</centchar>
+      </strings>
+      <iso>LVL</iso>
+      <decimals>2</decimals>
+   </moneyformat>
+</moneyformats>

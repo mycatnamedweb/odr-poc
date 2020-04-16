@@ -1,0 +1,294 @@
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN'>
+<html>
+<head>
+    <title></title>
+    <style type="text/css">
+        .rulesdiv {border:0}
+    </style>
+
+    <script type="text/javascript">
+        String.prototype.endsWith = function(suffix) { return this.indexOf(suffix, this.length - suffix.length) !== -1; };
+        String.prototype.startsWith = function (str) { return this.indexOf(str) == 0; };
+
+        var srcURL = "",
+            manifestURL = srcURL + "META-INF/MANIFEST.MF",
+            htmlURL,
+            gameID,
+            langID,
+            loadTimer,
+            rules = {},
+            ruleURLS = {},
+
+            loadRulesByTemplate = function(gameID, languageID) {
+                var rulesDiv = document.getElementById("rulesdiv"),
+                    templateURL = srcURL + "template/" + gameID + ".template",
+                    languageURL = srcURL + "../langlib/" + languageID + "/language.xml",
+                    rulesURL = srcURL + languageID + "/rulestext.xml",
+
+                    templateRequest,
+                    manifestRequest,
+                    languageRequest,
+                    rulesRequest,
+
+                    templateReady = false,
+                    manifestReady = false,
+                    languageReady = false,
+                    rulesReady = false;
+
+                window.onerror = function() {
+                    rulesDiv.innerHTML = "Unable to load game rules, an unknown error occurred. Please try again later.";
+                };
+
+                if(gameID === undefined) {
+                    rulesDiv.innerHTML = "Unable to load game rules, missing parameter 'gameid'.";
+                    return;
+                }
+
+                if(languageID === undefined) {
+                    rulesDiv.innerHTML = "Unable to load game rules, missing parameter 'langid'.";
+                    return;
+                }
+
+                var checkIfAllFilesHaveLoaded = function() {
+                        if(templateReady && languageReady && rulesReady && manifestReady) {
+
+                            var templateArray = templateRequest.responseText.split("\n"),
+                                    closeButton = document.getElementById("closebtn"),
+                                    rules = [],
+                                    texts = [],
+                                    helpStrings = [],
+                                    originalString, newString, replaceObjects, part1, part2,
+                                    stringID, keyword,
+                                    counter, j;
+
+                            populateObjWithTexts(texts, findAll("ds", languageRequest.responseXML));
+                            populateObjWithTexts(rules, findAll("ds", rulesRequest.responseXML));
+
+                            for(j = 0 ; j < templateArray.length ; j++) {
+                                replaceObjects = [];
+                                counter = 0;
+                                originalString = templateArray[j];
+                                newString = originalString;
+
+                                part1 = originalString.indexOf("<#");
+                                part2 = originalString.indexOf("#/>");
+
+                                while(part1 >= 0 && part2 > 0 && part1 < part2) {
+                                    stringID = originalString.substr(part1+2,part2-part1-2);
+                                    keyword = originalString.substr(part1,part2+3-part1);
+
+                                    part1 = originalString.indexOf("<#", part1 + 1);
+                                    part2 = originalString.indexOf("#/>", part1 + 1);
+
+                                    ++counter;
+
+                                    if(counter > 10) {
+                                        break;
+                                    }
+
+                                    if(texts[stringID] !== undefined) {
+                                        newString = newString.replace(keyword,texts[stringID]);
+                                    } else {
+                                        newString = newString.replace(keyword,rules[stringID]);
+                                    }
+                                }
+
+                                newString = newString.replace("%2B","+");
+                                helpStrings.push(newString);
+                            }
+
+                            rulesDiv.style.display = "block";
+                            rulesDiv.innerHTML = helpStrings.join("");
+                            rulesDiv.innerHTML += "<span id='timestamp'>" + getBuildDateText(manifestRequest.responseText) + "</span>";
+
+                            closeButton.value = texts["close_btn"];
+                        }
+                    },
+
+                    templateResponseHandler = function() {
+                        if (templateRequest.readyState === 4) {
+                            if(templateRequest.status === 500 || templateRequest.status === 404) {
+                                rulesDiv.innerHTML = "Unable to load game rules, missing template file @ " + templateURL;
+
+                            } else {
+                                templateReady = true;
+                                checkIfAllFilesHaveLoaded();
+                            }
+                        }
+                    },
+
+                    manifestResponseHandler = function() {
+                        if (manifestRequest.readyState === 4) {
+                            if(manifestRequest.status === 500 || manifestRequest.status === 404) {
+                                rulesDiv.innerHTML = "Unable to load manifest file @ " + manifestURL;
+
+                            } else {
+                                manifestReady = true;
+                                checkIfAllFilesHaveLoaded();
+                            }
+                        }
+                    },
+
+                    languageResponseHandler = function() {
+                        if (languageRequest.readyState === 4) {
+                            if(languageRequest.status === 500 || languageRequest.status === 404) {
+                                rulesDiv.innerHTML = "Unable to load game rules, missing language file @ " + languageURL;
+
+                            } else {
+                                languageReady = true;
+                                checkIfAllFilesHaveLoaded();
+                            }
+                        }
+                    },
+
+                    rulesResponseHandler = function() {
+                        if (rulesRequest.readyState === 4) {
+                            if(rulesRequest.status === 500 || rulesRequest.status === 404) {
+                                rulesDiv.innerHTML = "Unable to load game rules, missing game rules file @ " + rulesURL;
+                            } else {
+                                rulesReady = true;
+                                checkIfAllFilesHaveLoaded();
+                            }
+                        }
+                    };
+
+                templateRequest = createNewHTTPRequest();
+                manifestRequest = createNewHTTPRequest();
+                languageRequest = createNewHTTPRequest();
+                rulesRequest = createNewHTTPRequest();
+
+                templateRequest.onreadystatechange = templateResponseHandler;
+                manifestRequest.onreadystatechange = manifestResponseHandler;
+                languageRequest.onreadystatechange = languageResponseHandler;
+                rulesRequest.onreadystatechange = rulesResponseHandler;
+
+                templateRequest.open("GET", templateURL, true);
+                templateRequest.send();
+                manifestRequest.open("GET", manifestURL, true);
+                manifestRequest.send();
+                languageRequest.open("GET", languageURL, true);
+                languageRequest.send();
+                rulesRequest.open("GET", rulesURL, true);
+                rulesRequest.send();
+            },
+
+            load = function() {
+                var rtlLookup = {},
+                    textDirection,
+                    element = document.getElementById("langsel");
+
+                rtlLookup["iw"] = "rtl";
+                textDirection = (typeof rtlLookup[langID] !== "undefined") ? "rtl" : "ltr";
+
+                gameID = getQueryVariable("gameid");
+                langID = getQueryVariable("langid");
+
+                element.lang = langID;
+                element.dir = textDirection;
+
+                loadRulesByTemplate(gameID, langID)
+            },
+
+            getQueryVariable = function(variable) {
+                var query = window.location.search.substring(1),
+                    vars = query.split("&"),
+                    pair,
+                    i;
+
+                for (i = 0 ; i < vars.length ; i++) {
+                    pair = vars[i].split("=");
+
+                    if (pair[0] == variable) {
+                        return pair[1];
+                    }
+                }
+
+                return undefined;
+            },
+
+            populateObjWithTexts = function(texts,rootNode) {
+                var nrTexts = 0,
+                    nrErrorTexts = 0,
+                    text,
+                    errorTexts = [],
+                    errorCode,
+                    textId,
+                    tc,
+                    i;
+
+                for (i = 0; i < rootNode.length; i++) {
+                    /** Read text */
+                    if (rootNode[i].getAttributeNode("name") !== null) {
+                        tc = rootNode[i].text;
+
+                        if(tc === undefined) {
+                            tc = rootNode[i].textContent
+                        }
+
+                        textId = rootNode[i].getAttribute("name");
+                        text = tc;
+
+                        texts[textId] = text;
+                        nrTexts++;
+                    }
+                    /** Read error text */
+                    else {
+                        errorCode = rootNode[i].getAttribute("id");
+                        tc = rootNode[i].text;
+
+                        if(tc === undefined) {
+                            tc = rootNode[i].textContent
+                        }
+                        text = rootNode[i].tc;
+
+                        errorTexts[errorCode] = text;
+                        nrErrorTexts++;
+                    }
+                }
+            },
+
+            findAll = function(nodeName, rootNode) {
+                var result = rootNode.getElementsByTagName(nodeName);
+
+                if (result.length > 0) {
+                    return result;
+                }
+                return null;
+            },
+
+            createNewHTTPRequest = function() {
+                if (window.XMLHttpRequest) {
+                    // code for IE7+, Firefox, Chrome, Opera, Safari
+                    return new XMLHttpRequest();
+                }
+                else {
+                    // code for IE6, IE5
+                    return new ActiveXObject("Microsoft.XMLHTTP");
+                }
+            },
+
+            getBuildDateText = function(str) {
+                var svnTimeStampRegex = /Subversion-(?:Commited)?Date: ([\d-]+)T([\d:]+)/,
+                    gitTimeStampRegex = /Git-CommitTime:\s([\d\-]+)T([\d:]+)/,
+                    generationDate = "",
+                    timeStampRegex = svnTimeStampRegex.test(str) ? svnTimeStampRegex : gitTimeStampRegex;
+
+                str.replace(timeStampRegex, function(buildDateString, date, time){
+                    generationDate = date + " " + time + " (UTC)";
+                });
+
+                return generationDate;
+            };
+
+        document.addEventListener("DOMContentLoaded", load, false);
+    </script>
+</head>
+
+<body leftmargin='0' topmargin='0'  BGCOLOR='white'>
+<span id="langsel" lang="en" dir="ltr">
+<br /><table width='400' border='0' height='283' cellpadding='0' cellspacing='0'><tr><td><table width='400' border='0' cellspacing='5' cellpadding='5'><tr><td>
+    <div id="rulesdiv" class="gamerules" width="640" height="480"></div>
+</td></tr></table></td></tr><tr valign='bottom' align='right'><td height='22'><input id='closebtn' onClick='self.close();' type='submit' class='button' value='Close' border=0>&nbsp;</td></tr></table><br />
+</span>
+</body>
+</html>

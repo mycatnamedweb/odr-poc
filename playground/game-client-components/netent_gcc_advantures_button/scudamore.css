@@ -1,0 +1,9 @@
+.mobile_landscape #advIcon {
+    top: 50px;
+}
+.mobile_portrait #advIcon {
+    right: 25px;
+}
+.desktop_landscape #advIcon {
+    top: 100px !important;
+}

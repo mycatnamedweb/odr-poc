@@ -1,0 +1,11 @@
+<moneyformats>
+   <moneyformat>
+      <dividers thousands="," decimal="."/>
+      <strings>
+         <curchar after="false">PHP</curchar>
+         <centchar usecent="false" after="false">?</centchar>
+      </strings>
+      <iso>PHP</iso>
+      <decimals>2</decimals>
+   </moneyformat>
+</moneyformats>

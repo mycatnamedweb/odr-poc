@@ -1,0 +1,197 @@
+<defaults xml:lang="pl">
+  <!-- Polish locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 16:41:58 GMT on Tuesday 16 May 2017.
+
+ -->
+  <ds Jurisdiction="*" name="RTGameHistNoPlayForFun" id="RTGameHistNoPlayForFun">(Niedostępne w trybie &lt;b&gt;GRY DLA ZABAWY&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDisclaimer" id="RTquickSpinDisclaimer">(w niektórych kasynach opcja ta jest niedostępna).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlaysJimi" id="RTautoplayPlaysJimi">&lt;b&gt;AUTO GRA&lt;/b&gt; automatycznie rozpoczyna grę, trwającą określoną liczbę rund (można też kliknąć na przycisk &lt;b&gt;AUTO&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlays" id="RTautoplayPlays">&lt;b&gt;AUTOPLAY&lt;/b&gt; automatycznie rozpoczyna grę, trwającą określoną liczbę rund (można też kliknąć na przycisk &lt;b&gt;AUTO&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTsoundButton" id="RTsoundButton">&lt;b&gt;Dźwięk&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTMGcoinsDisplayValues" id="RTMGcoinsDisplayValues">&lt;b&gt;Monety&lt;/b&gt; wyświetla liczbę monet, którą gracz może wykorzystać na zakłady.</ds>
+  <ds Jurisdiction="*" name="RTmaxbetPlays" id="RTmaxbetPlays">&lt;b&gt;STAWKA MAKS.&lt;/b&gt; rozpoczyna grę na maksymalnej liczbie linii stawki, najwyższym poziomie stawki i przy aktualnej wartości monety.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayDisconnect" id="RTMGautoplayDisconnect">&lt;b&gt;Uwaga:&lt;/b&gt; Jeśli połączenie zostanie zerwane w trakcie gry, po jej ponownym otwarciu wszystkie ustawienia autogry zostaną przywrócone do wartości domyślnych.</ds>
+  <ds Jurisdiction="*" name="RTsettingsDisclaimer" id="RTsettingsDisclaimer">&lt;b&gt;Uwaga:&lt;/b&gt; Niektóre kasyna mogą działać bez wszystkich wymienionych ustawień gier.</ds>
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Uwaga:&lt;/b&gt; Niektóre opcje gry automatycznej są obowiązkowe w niektórych jurysdykcjach.</ds>
+  <ds Jurisdiction="*" name="RTMGsettingsDisclaimer" id="RTMGsettingsDisclaimer">&lt;b&gt;Uwaga:&lt;/b&gt; Niektórzy operatorzy mogą udostępniać tylko niektóre ustawienia gry.</ds>
+  <ds Jurisdiction="*" name="RTAutoplayDisconnect" id="RTAutoplayDisconnect">&lt;b&gt;Uwaga:&lt;/b&gt; W przypadku utraty połączenia podczas gry wszystkie ustawienia autogry przy ponownym uruchomieniu gry powrócą do ustawień domyślnych.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Uwaga&lt;/b&gt;: Poniższa tabela ma zastosowanie tylko, jeśli gra rozgrywana jest w języku innym niż angielski.</ds>
+  <ds Jurisdiction="*" name="RTMGreturnToPlayer" id="RTMGreturnToPlayer">&lt;b&gt;Zysk dla gracza&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="gameSettingIntro" id="gameSettingIntro">Aby otworzyć okno ustawień gry, kliknij ikonę klucza w oknie gry.</ds>
+  <ds Jurisdiction="Spain" name="RTAutoplayButton" id="RTAutoplayButton">Aby ustawić zaawansowane opcje gry automatycznej, kliknij przycisk &lt;b&gt;AUTOPLAY&lt;/b&gt; na tablicy przycisków lub przycisk &lt;b&gt;AUTO&lt;/b&gt; w oknie gry, a następnie wybierz opcję &lt;b&gt;Ustawienia zaawansowane&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPanelLabel" id="RTMGautoplayPanelLabel">Autogra</ds>
+  <ds Jurisdiction="*" name="advancedAutoplayOptionsHeading" id="advancedAutoplayOptionsHeading">Automatyczną - opcje zaawansowane</ds>
+  <ds Jurisdiction="*" name="RTMGback" id="RTMGback">Cofnij</ds>
+  <ds Jurisdiction="*" name="RTMGgameSessions2" id="RTMGgameSessions2">Czas, po którym nieaktywne sesje gry zostają automatycznie zakończone.</ds>
+  <ds Jurisdiction="Italy" name="RTgameSessions2" id="RTgameSessions2">Czas, po którym nieaktywne sesje gry zostają automatycznie zakończone.</ds>
+  <ds Jurisdiction="*" name="RTadjustQualityRev" id="RTadjustQualityRev">Dostosowuje jakość grafiki, aby uzyskać optymalną wydajność.</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGame" id="RTMGtouchMainGame">Dotknij pola gry, aby ukryć przycisk zakręcenia.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettingsMenu" id="RTMGquickSettingsMenu">Dotknij znaku plus, aby otworzyć menu szybkich ustawień.</ds>
+  <ds Jurisdiction="*" name="RTMGleaveGame" id="RTMGleaveGame">Dotknij, aby opuścić grę.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDevNew" id="RTMGgameSettingIntroDevNew">Dotknij, aby przejść do ustawień gry i informacji.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayUI" id="RTMGautoplayUI">Dotknij, aby włączyć lub wyłączyć autogrę bez przechodzenia do menu ustawień. Domyślnie jest ustawianych 50 rund.</ds>
+  <ds Jurisdiction="Anguilla" name="RTMGsoundSettingsUI" id="RTMGsoundSettingsUI">Dotknij, aby włączyć lub wyłączyć dźwięk bez przechodzenia do menu ustawień.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinUI" id="RTMGquickSpinUI">Dotknij, aby włączyć lub wyłączyć szybkie zakręcenia bez przechodzenia do menu ustawień.</ds>
+  <ds Jurisdiction="*" name="RTMGspinButtonLeft" id="RTMGspinButtonLeft">Dotknij, aby włączyć lub wyłączyć tryb leworęczny.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplay" id="RTMGdisableAutoplay">Dotknij, aby wyłączyć autogrę, jeśli Free Spins zostaną wygrane przed ustawioną liczbą rund autogry.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayPickClick" id="RTMGdisableAutoplayPickClick">Dotknij, aby wyłączyć autogrę, jeśli Pick and Click  zostaną wygrane przed ustawioną liczbą rund autogry.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayIfBonusGame" id="RTMGdisableAutoplayIfBonusGame">Dotknij, aby wyłączyć grę automatyczną, jeśli gra premiowa zostanie wygrana przed ustawioną liczbą rund.</ds>
+  <ds Jurisdiction="*" name="RTMGsounds" id="RTMGsounds">Dźwięki w grze</ds>
+  <ds Jurisdiction="*" name="RTfunctionTableHead" id="RTfunctionTableHead">Funkcja</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildEnds" id="RTstarburstWildEnds">Funkcja Starburst™ Wild kończy się, gdy nowe symbol Starburst™ Wild pojawi się podczas ponownego zakręcenia.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayQuickSpinHeading" id="RTMGautoplayQuickSpinHeading">Gra automatyczna i szybka gra</ds>
+  <ds Jurisdiction="*" name="RTMGbuttonsMainGame" id="RTMGbuttonsMainGame">Gra główna:</ds>
+  <ds Jurisdiction="*" name="RTplayCurrentBetLinesTo10" id="RTplayCurrentBetLinesTo10">Gracz może grać na 1-10 liniach stawki z różnymi poziomami stawki i przy różnych wartościach monet.</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryHeading" id="RTMGgameHistoryHeading">Historia gry</ds>
+  <ds Jurisdiction="*" name="RTMGhistoryNotAvailable" id="RTMGhistoryNotAvailable">Historia gry jest dostępna tylko podczas gry na pieniądze.</ds>
+  <ds Jurisdiction="*" name="RTMGadditionalInformation" id="RTMGadditionalInformation">Informacje dodatkowe</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Informacje dodatkowe</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildFeatureActive" id="RTstarburstWildFeatureActive">Jeden lub więcej symboli Starburst™ Wilds pojawiających się na rolkach 2, 3 lub 4 aktywuje funkcję Starburst™ Wild.</ds>
+  <ds Jurisdiction="*" name="simultaneousWinsAdded" id="simultaneousWinsAdded">Jednoczesne wygrane na różnych liniach stawki są dodawane.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescRev" id="RTpaytableButtonsDescRev">Kliknij strzałki w lewo lub w prawo, aby przewijać strony &lt;b&gt;TABELA WYPŁAT  &lt;/b&gt;. Kliknij środkowy przycisk, aby powrócić do gry.</ds>
+  <ds Jurisdiction="*" name="RTopenSettingsMenu" id="RTopenSettingsMenu">Kliknij, aby otworzyć menu ustawień gry i wybrać opcje gry. Więcej informacji w części Ustawienia gry poniżej.</ds>
+  <ds Jurisdiction="*" name="RTstartGameRound" id="RTstartGameRound">Kliknij, aby rozpocząć rundę gry przy bieżących poziomie zakładu i wartości żetonu (możesz też nacisnąć spację).</ds>
+  <ds Jurisdiction="*" name="RTmuteSoundSliderRev" id="RTmuteSoundSliderRev">Kliknij, aby wyłączyć dźwięki w grze lub użyj suwaka, aby dostosować głośność.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDesc" id="RTinformationIconButtonDesc">Kliknij, aby wyświetlić  &lt;b&gt;TABELĘ WYPŁAT&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDescJimi" id="RTinformationIconButtonDescJimi">Kliknij, aby wyświetlić  &lt;b&gt;TABELĘ WYPŁAT&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTgameHistoryDesc" id="RTgameHistoryDesc">Kliknij, aby wyświetlić najnowszą historię gry</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonNoBold" id="RTinformationIconButtonNoBold">Kliknij, aby wyświetlić tabelę wypłat.</ds>
+  <ds Jurisdiction="*" name="RTopenGameRules" id="RTopenGameRules">Kliknij, aby wyświetlić zasady gry.</ds>
+  <ds Jurisdiction="*" name="ReSpinsAtActivatingRound" id="ReSpinsAtActivatingRound">Kolejne spiny rozgrywa się w ramach tej samej stawki, w ramach której rozgrywa się grę, która je uaktywniła.</ds>
+  <ds Jurisdiction="*" name="RTMGnumberSpins" id="RTMGnumberSpins">Liczba obrotów</ds>
+  <ds Jurisdiction="*" name="RTMGAutoplaySpins" id="RTMGAutoplaySpins">Liczba wybranych zakręceń jest wyświetlana na przycisku.</ds>
+  <ds Jurisdiction="*" name="RTMGnoAutoplayLeft" id="RTMGnoAutoplayLeft">Liczba zakręceń pozostałych do końca gry automatycznej jest wyświetlana na przycisku.</ds>
+  <ds Jurisdiction="*" name="RTmaxBetAtHighBetLevel" id="RTmaxBetAtHighBetLevel">MAKSYMALNY ZAKŁAD rozgrywa grę na najwyższym poziomie zakładu i przy bieżącej wartości monety.</ds>
+  <ds Jurisdiction="*" name="RTMGmenu" id="RTMGmenu">Menu</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettings" id="RTMGquickSettings">Menu szybkich ustawień</ds>
+  <ds Jurisdiction="*" name="RTviewMiniPaytable" id="RTviewMiniPaytable">Możesz też w trakcie gry głównej kliknąć na dowolny symbol na bębnie, aby wyświetlić mini tabelę wypłat dla danego symbolu.</ds>
+  <ds Jurisdiction="*" name="RTMGplay10FixedBetLines" id="RTMGplay10FixedBetLines">Można rozegrać 10 ustalonych linii zakładów o różnych poziomach stawek i wartościach monet.</ds>
+  <ds Jurisdiction="*" name="RTMGtapDuringSpin" id="RTMGtapDuringSpin">Naciśnij dowolne miejsce pola gry, aby zatrzymać bębny.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsDisabledRev" id="RTMGsoundsDisabledRev">Naciśnij przełącznik, aby wyłączyć dźwięki w przyszłych rozgrywkach.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRev" id="RTMGautoplayPutOnOffRev">Naciśnij przełącznik, aby wyłączyć lub włączyć autogrę. Autogra oznacza automatyczne rozegranie określonej liczby obrotów.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundOnOffRev" id="RTMGsoundOnOffRev">Naciśnij przełącznik, aby wyłączyć lub włączyć dźwięki.</ds>
+  <ds Jurisdiction="*" name="RTMGtapOnOffRev" id="RTMGtapOnOffRev">Naciśnij przełącznik, aby wyłączyć lub włączyć funkcję szybkiej gry.</ds>
+  <ds Jurisdiction="*" name="RTMGbackMainGame" id="RTMGbackMainGame">Naciśnij, aby powrócić do gry głównej.</ds>
+  <ds Jurisdiction="*" name="RTMGstartAutoplay" id="RTMGstartAutoplay">Naciśnij, aby rozpocząć grę automatyczną.</ds>
+  <ds Jurisdiction="*" name="RTMGtapSpinButtonRev" id="RTMGtapSpinButtonRev">Naciśnij, aby rozpocząć grę z obecnymi ustawieniami linii stawki, poziomu stawki i   wartości monety.</ds>
+  <ds Jurisdiction="*" name="RTMGstartQuickSpin" id="RTMGstartQuickSpin">Naciśnij, aby rozpocząć szybką grę.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDev" id="RTMGgameSettingIntroDev">Naciśnij, aby uzyskać dostęp do ustawień gry i informacji o grze. Możesz też nacisnąć pola Gotówka lub Monety.</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryDesc" id="RTMGgameHistoryDesc">Naciśnij, aby wyświetlić najnowszą historię gry.</ds>
+  <ds Jurisdiction="*" name="RTMGwinComb" id="RTMGwinComb">Naciśnij, aby wyświetlić zwycięskie kombinacje i wypłaty.</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplay" id="RTMGstopAutoplay">Naciśnij, aby zatrzymać grę automatyczną.</ds>
+  <ds Jurisdiction="*" name="RTMGviewGamesRules" id="RTMGviewGamesRules">Naciśnij, aby zobaczyć zasady gry.</ds>
+  <ds Jurisdiction="*" name="RTMGreferWebSite" id="RTMGreferWebSite">Następujące funkcje gry i ustawienia mogą podlegać regulaminowi serwisu z grami. Więcej informacji na poniższe tematy można znaleźć w serwisie z grami:</ds>
+  <ds Jurisdiction="Italy" name="RTreferWebSite" id="RTreferWebSite">Następujące funkcje gry i ustawienia mogą podlegać regulaminowi witryny. Więcej informacji na poniższe tematy można znaleźć w witrynie:</ds>
+  <ds Jurisdiction="*" name="RTgameFunctionsHeading" id="RTgameFunctionsHeading">Obsługa gry</ds>
+  <ds Jurisdiction="*" name="gameSettingOptionsHeading" id="gameSettingOptionsHeading">Opcje ustawień gry</ds>
+  <ds Jurisdiction="*" name="RTstarBurststickyWExpandsReSpinsRev" id="RTstarBurststickyWExpandsReSpinsRev">Po włączeniu funkcji Starburst™ Wild symbole Starburst™ Wild rozchodzą się na cały bęben i pozostają na miejscu, podczas gdy pozostałe bębny obracają się ponownie.</ds>
+  <ds Jurisdiction="*" name="RTtableDescribes" id="RTtableDescribes">Poniższa tabela zawiera listę przycisków dostępnych oraz opis funkcji każdego z nich.</ds>
+  <ds Jurisdiction="*" name="RTMGbetlevel" id="RTMGbetlevel">Poziom stawki</ds>
+  <ds Jurisdiction="*" name="RTMGbetLevelInstruction" id="RTMGbetLevelInstruction">Poziom stawki jest wyznaczany za pomocą selektora &lt;b&gt;Poziomu stawki&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTbetLevel" id="RTbetLevel">Poziom stawki oznacza liczbę monet postawionych na linię stawki.</ds>
+  <ds Jurisdiction="Italy" name="RTunfinishedGameSession2" id="RTunfinishedGameSession2">Procedury wykorzystywane w przypadku niezakończonych rund gier.</ds>
+  <ds Jurisdiction="*" name="RTMGunfinishedGameSession2" id="RTMGunfinishedGameSession2">Procedury wykorzystywane w przypadku niezakończonych rund gier.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRevNew" id="RTMGautoplayPutOnOffRevNew">Przeciągnij suwak lub go dotknij, aby włączyć Autogrę i ustawić liczbę rund. Autogra jest rozgrywana z wybraną liczbą zakręceń.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRevNew" id="RTMGselectBetLevelRevNew">Przeciągnij suwak lub go dotknij, aby wybrać liczbę żetonów na stawkę na linię.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRevNew" id="RTMGselectCoinValueRevNew">Przeciągnij suwak lub go dotknij, aby wybrać wartość żetonu.</ds>
+  <ds Jurisdiction="*" name="anyWinDesc" id="anyWinDesc">Przerwanie Autogry po wygraniu rundy.</ds>
+  <ds Jurisdiction="*" name="singleWinDesc" id="singleWinDesc">Przerwanie Autogry, jeśli wygrana kwota jest równa określonej kwocie lub większa.</ds>
+  <ds Jurisdiction="*" name="cashIncreasesDesc" id="cashIncreasesDesc">Przerwanie Autoplay, jeśli ilość gotówki wzrośnie o określoną kwotę.</ds>
+  <ds Jurisdiction="Spain" name="cashDecreasesDesc" id="cashDecreasesDesc">Przerwanie Autoplay, jeśli ilość gotówki zmniejszy się o określoną kwotę.</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRev" id="RTsingleWinDescRev">Przerywa grę automatyczną, jeśli wygrana kwota jest równa określonej kwocie lub większa.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRev" id="RTMGselectBetLevelRev">Przesuń lub naciśnij kółko ustawień, aby wybrać liczbę monet postawionych na linię stawki.</ds>
+  <ds Jurisdiction="*" name="RTMGselectSpinsRev" id="RTMGselectSpinsRev">Przesuń lub naciśnij kółko ustawień, aby wybrać liczbę obrotów w autogrze.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRev" id="RTMGselectCoinValueRev">Przesuń lub naciśnij kółko ustawień, aby wybrać wartość monety.</ds>
+  <ds Jurisdiction="*" name="RTbuttonTableHead" id="RTbuttonTableHead">Przycisk</ds>
+  <ds Jurisdiction="*" name="RTspinPlayRev" id="RTspinPlayRev">Przycisk obrotu rozpoczyna grę na obecnej linii stawki, poziomie stawki oraz przy aktualnej wartości monety (można także wcisnąć spację).</ds>
+  <ds Jurisdiction="*" name="RTMGspinButton" id="RTMGspinButton">Przycisk zakręcenia</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchIntro" id="RTMGstarburstTouchIntro">Starburst Touch™ to 5-bębnowy, 3-rzędowy automat wideo z funkcją Starburst™ Wild z ponownymi zakręceniami i wygranymi win both ways.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstIntro" id="RTstarBurstIntro">Starburst™ to 5-bębnowy, 3-rzędowy automat wideo z symbolami Wild Starburst™ umożliwiającymi ponownie zakręcenia oraz możliwością wygranych z obu stron.</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCash" id="RTMGbetInCash">Stawka w gotówce</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCoins" id="RTMGbetInCoins">Stawka w monetach</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescNoBold" id="RTpaytableButtonsDescNoBold">Strony tabeli wypłat można przewijać, klikając strzałki skierowane w lewo lub w prawo. Aby powrócić do gry, kliknij środkowy przycisk.</ds>
+  <ds Jurisdiction="*" name="termWild" id="termWild">symbol wild</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSubstitute" id="RTstarBurstWildSubstitute">Symbol Wild Starburst™ zastępuje wszystkie symbole.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstAddReSpinsRev" id="RTstarBurstAddReSpinsRev">Symbole Starburst™ Wild pojawiające się podczas ponownego zakręcenia rozszerzają się i zatrzymują na miejscu ze wszystkimi wcześniej rozszerzonymi symbolami Symbole Starburst™ Wild, dając kolejne ponowne zakręcenia.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildHeading" id="RTstarBurstWildHeading">Symbole Wild Starburst™</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSymbAppear" id="RTstarBurstWildSymbAppear">Symbole Wild Starburst™ mogą pojawiać się tylko na bębnach 2, 3 i 4.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinGameSetting" id="RTMGquickSpinGameSetting">Szybka gra</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpin" id="RTMGquickSpin">Szybka gra</ds>
+  <ds Jurisdiction="*" name="RTMGquickStop" id="RTMGquickStop">Szybkie zatrzymanie</ds>
+  <ds Jurisdiction="*" name="RTMGpaytable" id="RTMGpaytable">Tabela wypłat</ds>
+  <ds Jurisdiction="*" name="termPaytable" id="termPaytable">Tabela wypłat</ds>
+  <ds Jurisdiction="*" name="RTMGpaytableJimi" id="RTMGpaytableJimi">Tabela wypłat</ds>
+  <ds Jurisdiction="Italy" name="RTtheoreticalReturn" id="RTtheoreticalReturn">Teoretyczny zysk dla gracza w tej grze to</ds>
+  <ds Jurisdiction="*" name="RTMGtheoreticalReturn" id="RTMGtheoreticalReturn">Teoretyczny zysk dla gracza w tej grze to</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Termin angielski</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Termin przetłumaczony</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Tłumaczenia terminologii gry</ds>
+  <ds Jurisdiction="*" name="RTMGleftHandMode" id="RTMGleftHandMode">Tryb leworęczny</ds>
+  <ds Jurisdiction="*" name="RTMGsoundSettings" id="RTMGsoundSettings">Ustawienia dźwięku</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettings" id="RTMGgameSettings">Ustawienia i informacje o grze</ds>
+  <ds Jurisdiction="*" name="RTMGspinSettingsRev" id="RTMGspinSettingsRev">Ustawienia obrotów</ds>
+  <ds Jurisdiction="*" name="RTcoinsDisplayValues" id="RTcoinsDisplayValues">W polu &lt;b&gt;MONETY&lt;/b&gt; wyświetlana jest liczba monet, jaką gracz może postawić.</ds>
+  <ds Jurisdiction="*" name="RTMGmalfunction" id="RTMGmalfunction">W przypadku usterki sprzętu lub oprogramowania do gier, wszystkie stawki i wypłaty dotknięte usterką są uznane za nieważne, a wszystkie stawki zwrócone.</ds>
+  <ds Jurisdiction="Italy" name="RTmalfunction" id="RTmalfunction">W przypadku usterki sprzętu lub oprogramowania do gier, wszystkie stawki i wypłaty dotknięte usterką są uznane za nieważne, a wszystkie stawki zwrócone.</ds>
+  <ds Jurisdiction="*" name="RTgHistoryNotAvailableForFun" id="RTgHistoryNotAvailableForFun">W trybie &lt;b&gt;GRY DLA ZABAWY&lt;/b&gt; historia gry jest niedostępna.</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGameNew" id="RTMGtouchMainGameNew">W trybie poziomym wystarczy dotknąć obszaru gry, aby ukryć przycisk Zakręć.</ds>
+  <ds Jurisdiction="*" name="RTMGcoinvalue" id="RTMGcoinvalue">Wartość monety</ds>
+  <ds Jurisdiction="*" name="RTMGcoinValueInstruction" id="RTMGcoinValueInstruction">Wartość monety jest wyznaczana przy pomocy selektora WARTOŚCI MONETY.</ds>
+  <ds Jurisdiction="*" name="RTspacebarspin" id="RTspacebarspin">Włącza lub wyłącza działanie spacji.</ds>
+  <ds Jurisdiction="*" name="RTgameSoundDesc" id="RTgameSoundDesc">Włącza lub wyłącza dźwięk w grze.</ds>
+  <ds Jurisdiction="*" name="RTintroOffRev" id="RTintroOffRev">Włącza lub wyłącza ekran powitalny.</ds>
+  <ds Jurisdiction="*" name="RTambienceDescRev" id="RTambienceDescRev">Włącza lub wyłącza ścieżkę dźwiękową odtwarzaną w tle.</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDescRev" id="RTquickSpinDescRev">Włącza lub wyłącza tryb szybkiej gry</ds>
+  <ds Jurisdiction="*" name="RTanimationsOff" id="RTanimationsOff">Włączenie lub wyłączenie animacji.</ds>
+  <ds Jurisdiction="*" name="RTautoplaySelectSpins" id="RTautoplaySelectSpins">Wybierz liczbę zakręceń do rozegrania w Autogra lub otwórz menu ustawień zaawansowanych, aby skonfigurować opcje wstrzymania Autogra.</ds>
+  <ds Jurisdiction="*" name="RTrulesGenerated" id="RTrulesGenerated">Wygenerowane zasady gry:</ds>
+  <ds Jurisdiction="*" name="RTHighWinSymCompleteActLineRev" id="RTHighWinSymCompleteActLineRev">Wygrana jest wypłacana za najwyższą wygrywającą kombinację symboli ułożonych od lewej do prawej i/lub od prawej do lewej na aktywnej linii stawki.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCurrency" id="RTwinCalculationBetLinesCurrency">Wygrana linii zakładu w walucie równa jest wygranej w monetach przemnożonej przez wartość monety.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoMultiplierTrans" id="RTwinCalculationBetLinesCoinsNoMultiplierTrans">Wygrana z linii zakładu w monetach jest równa wartości widocznej w &lt;b&gt;TABELI WYPŁAT&lt;/b&gt; przemnożonej przez poziom zakładu.</ds>
+  <ds Jurisdiction="*" name="RTwinCalcBetLinesNoMultiplier" id="RTwinCalcBetLinesNoMultiplier">Wygrana z linii zakładu w monetach równa się wartości pokazanej w Tabeli wypłat przemnożonej przez poziom zakładu.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoBold" id="RTwinCalculationBetLinesCoinsNoBold">Wygrana z linii zakładu w monetach równa się wartości pokazanej w Tabeli wypłat przemnożonej przez poziom zakładu. Wartość ta jest także mnożona przez stosowane mnożniki.</ds>
+  <ds Jurisdiction="*" name="RTCalcBetLineCoinNoMultiplierTransNew" id="RTCalcBetLineCoinNoMultiplierTransNew">Wygrana z linii zakładu w żetonach jest równa wartości wyświetlanej w tabeli wypłat pomnożonej przez poziom zakładu.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCurrency" id="RTMGwinCalculationBetLinesCurrency">Wygrana za linię stawki w gotówce jest równa wygranej w monetach pomnożonej przez wartość monety.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCoinsNoMultiplier" id="RTMGwinCalculationBetLinesCoinsNoMultiplier">Wygrana za linię stawki w monetach jest równa wartości wyświetlonej w &lt;b&gt;TABELI WYPŁAT&lt;/b&gt; pomnożonej przez poziom stawki.</ds>
+  <ds Jurisdiction="*" name="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier" id="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier">Wygrana za linię stawki w monetach jest równa wartości wyświetlonej w &lt;b&gt;TABELI WYPŁAT&lt;/b&gt; pomnożonej przez poziom stawki.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytablenoBold" id="RTwinCombinationPaytablenoBold">Wygrywające kombinacje i wypłaty są realizowane zgodnie z Tabelą Wypłat.</ds>
+  <ds Jurisdiction="*" name="RTMGexit" id="RTMGexit">Wyjście</ds>
+  <ds Jurisdiction="*" name="RTpaytableHighestRev" id="RTpaytableHighestRev">Wypłacana jest tylko najwyższa wygrana na aktywnej linii stawki z obu stron.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCoins" id="RTMGshowsBetCoins">Wyświetla wysokość stawki w monetach.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCurrency" id="RTMGshowsBetCurrency">Wyświetla wysokość stawki w wybranej walucie.</ds>
+  <ds Jurisdiction="*" name="RTMGgameRules" id="RTMGgameRules">Zasady gry</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchRulesHeading" id="RTMGstarburstTouchRulesHeading">Zasady gry Starburst Touch™</ds>
+  <ds Jurisdiction="*" name="RTstarBurstRulesHeading" id="RTstarBurstRulesHeading">Zasady gry Starburst™</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplayOnOff" id="RTMGstopAutoplayOnOff">Zatrzymaj grę automatyczną</ds>
+  <ds Jurisdiction="*" name="RTMGstopIfFreeSpins" id="RTMGstopIfFreeSpins">Zatrzymaj, jeśli zostaną wygrane Free Spins</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsOff" id="RTMGsoundsOff">Zawsze wyłączaj dźwięk</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytable" id="RTwinCombinationPaytable">Zwycięskie kombinacje i wypłaty są zgodne z &lt;b&gt;TABELĄ WYPŁAT&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCombinations" id="RTMGwinCombinations">Zwycięskie kombinacje i wypłaty są zgodne z tabelą wypłat.</ds>
+  <ds Jurisdiction="*" name="RTreturnToPlayer" id="RTreturnToPlayer">Zysk dla gracza</ds>
+  <ds Jurisdiction="*" name="RTautoplayDuringGameRev" id="RTautoplayDuringGameRev">&lt;b&gt;Uwaga:&lt;/b&gt; Przy zmianie ustawień Autoplay podczas rundy gry wszystkie ustawienia zostaną zastosowane po ukończeniu rundy gry lub zakończeniu funkcji.</ds>
+  <ds Jurisdiction="*" name="RTopenAutoplayMenu" id="RTopenAutoplayMenu">Kliknij, aby otworzyć menu ustawień autogry i rozpocząć grę automatyczną.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationWinMatchCurrency" id="RTwinCalculationWinMatchCurrency">Wygrana linii zakładu w walucie równa jest wygranej w monetach przemnożonej przez wartość monety.</ds>
+  <ds Jurisdiction="*" name="RTeachStar1AddRespinUpTo3respin" id="RTeachStar1AddRespinUpTo3respin">Maksymalnie 2 dodatkowe symbole  Wild Starburst™ mogą pojawić się, gdy symbol Wild Starburst™ uaktywni ponowne zakręcenie, uruchamiając dodatkowe ponowne zakręceni lub maksymalnie 3 ponowne zakręcenia.</ds>
+  <ds Jurisdiction="*" name="RTsliderBetLevel" id="RTsliderBetLevel">Poziom stawki ustala się suwakiem poziomu stawki.</ds>
+  <ds Jurisdiction="*" name="RTMGautoOptions" id="RTMGautoOptions">Przeciągnij suwak lub dotknij go, aby włączyć auto grę i zmienić ustawienia jej opcji oraz liczby rund. Auto gra powoduje rozegranie wybranej liczby zakręceń.</ds>
+  <ds Jurisdiction="*" name="RTexCloneWildOverlay" id="RTexCloneWildOverlay">Symbole Expanding Cloning Wild są wyświetlane jako nakładki na obracających się bębnach. Symbole sklonowane są również wyświetlane jako nakładki na bębnach.</ds>
+  <ds Jurisdiction="*" name="onlyHighWinComb" id="onlyHighWinComb">Tylko najwyższa zwycięska kombinacja na liniach zakładu od lewej do prawej i/lub od prawej do lewej jest wypłacana. </ds>
+  <ds Jurisdiction="*" name="RTsliderCoinValue" id="RTsliderCoinValue">Wartość żetonu ustawia się suwakiem wartości żetonu.</ds>
+  <ds Jurisdiction="*" name="RTcashDecreasesDescRev" id="RTcashDecreasesDescRev">Zatrzymuje autogrę, gdy gotówka zmniejszy się o podaną wartość.</ds>
+  <ds Jurisdiction="*" name="RTcashIncreasesDescRev" id="RTcashIncreasesDescRev">Zatrzymuje autogrę, gdy gotówka zwiększy się o podaną wartość.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Uwaga:&lt;/b&gt; Niektóre opcje gry automatycznej są obowiązkowe w niektórych jurysdykcjach.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Uwaga&lt;/b&gt;: Poniższa tabela ma zastosowanie tylko, jeśli gra rozgrywana jest w języku innym niż angielski.</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Informacje dodatkowe</ds>
+  <ds Jurisdiction="*" name="featuresNotAvailablePFF" id="featuresNotAvailablePFF">Niektóre funkcje mogą być niedostępne w trybie &lt;b&gt;GRA DLA ZABAWY&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Termin angielski</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Termin przetłumaczony</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Tłumaczenia terminologii gry</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRevNew" id="RTsingleWinDescRevNew">Zatrzymuje autogrę, gdy wygrana jest równa podanej przez gracza sumie lub ją przekracza.</ds>
+</defaults>

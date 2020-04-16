@@ -1,0 +1,152 @@
+<link rel="stylesheet" href="../../../gamerules/styles/desktopstyle.css" type="text/css"/>
+<h1><#RTstarBurstRulesHeading#/></h1>
+
+ 
+<ul>
+	<li><#RTstarBurstIntro#/></li>
+	<li><#RTMGplay10FixedBetLines#/></li>
+	<li><#RTmaxbetPlays#/></li> 
+	<li><#RTautoplayPlays#/></li>  
+	<li><#RTwinCombinationPaytablenoBold#/></li>
+	<li><#RTbetLevel#/></li>
+	<!-- Bet level is the number of coins bet per bet line. (COMTST-3694)-->
+	<li><#RTCalcBetLineCoinNoMultiplierTransNew#/></li>
+	<!-- A bet line win in coins is equal to the value shown in the PAYTABLE multiplied by the bet level. (COMTST-3694)-->
+	<li><#RTwinCalculationBetLinesCurrency#/></li>
+	<!-- A bet line win in currency is equal to the win in coins multiplied by the coin value. (COMTST-3694)-->
+	<li><#RTstarBurstWildSubstitute#/></li>
+	<li><#RTHighWinSymCompleteActLineRev#/></li>
+	<!-- Only the highest winning combination on an active bet line from either leftmost to right or rightmost to left is paid.  --> 
+	<li><#winBothWaysPaysRev#/></li>
+	<li><#simultaneousWinsAdded#/></li>
+	<!-- Simultaneous wins on different bet lines are added. (COMTST-3685)-->   
+	<li><#RTgHistoryNotAvailableForFun#/></li>
+	<li><#RTcoinsDisplayValues#/></li>
+</ul>
+<p class="">
+	<b><#RTstarBurstWildHeading#/></b>
+</p>
+<ul>
+	<li><#RTstarBurstWildSymbAppear#/></li>
+	<!-- The Starburst™ Wild symbols can only appear on reels 2, 3 and 4.    -->
+	<li><#RTstarburstWildFeatureActive#/></li>
+	<!-- One or more Starburst™ Wilds appearing anywhere on reels 2, 3, or 4 activates the Starburst™ Wild feature. -->
+	<li><#RTstarBurststickyWExpandsReSpinsRev#/></li>
+	<!-- During the Starburst™ Wild feature, the Starburst™ Wilds expand to cover the entire reel and remain in place while the other reels re-spin. -->
+	<li><#RTstarBurstAddReSpinsRev#/></li>
+	<!-- If a new Starburst™ Wild appears during a re-spin, it expands and holds in place together with any previously expanded Starburst™ Wilds for another re-spin.-->
+	<li><#RTstarburstWildEnds#/></li>
+	<!-- The Starburst™ Wild feature ends when no new Starburst™ Wilds appear during a re-spin.-->
+	<li><#RTeachStar1AddRespinUpTo3respin#/></li>
+	<!-- Up to 2 additional Starburst? Wild symbols can appear after a Starburst? Wild activates a re-spin, triggering 1 additional re-spin for each appearing Starburst? Wild symbol, for a maximum of 3 re-spins. (COMTST-3686)-->
+	<li><#ReSpinsAtActivatingRound#/></li>
+</ul>
+<h2><#RTgameFunctionsHeading#/></h2>
+<ul>
+	<li><#RTtableDescribes#/></li>
+</ul>
+<table width="100%" border="1" cellpadding="3">
+    <tr bgcolor="rgb(118, 173, 28)">
+        <th align="left"><font color="white"><#RTbuttonTableHead#/></font></th>
+        <th align="left"><font color="white"><#RTfunctionTableHead#/></font></th>
+    </tr>
+   <tr>
+       <td width="100" align="center">
+           <img src="../gamerules/images/spin_button.png" />
+       </td>
+       <td width="400">
+           <#RTstartGameRound#/>
+       </td>
+   </tr>
+
+	<tr>
+		<td align="center"><img src="../gamerules/images/spanner_button.png" /></td>
+		<td><#RTopenSettingsMenu#/></td>
+	</tr>
+
+	<tr>
+		<td align="center"><img src="../gamerules/images/speaker_button.png" /></td>
+		<td><#RTmuteSoundSliderRev#/></td>
+	</tr>
+
+	<tr>
+		<td align="center"><img src="../gamerules/images/questionmark_button.png" /></td>
+		<td><#RTopenGameRules#/></td>
+	</tr>
+
+	<tr>
+		<td align="center"><img src="../gamerules/images/auto_button.png" /></td>
+		<td><#RTopenAutoplayMenu#/><#RTautoplaySelectSpins#/></td>
+	</tr>
+	
+	<tr>
+		<td align="center"><img src="../gamerules/images/paytable_button.png" /></td>
+		<td><#RTpaytableButtonsDescNoBold#/></td>
+	</tr>
+	
+	<tr>
+		<td align="center"><img src="../gamerules/images/information_button.png" /></td>
+		<td><#RTinformationIconButtonNoBold#/></td>
+		<!-- Click to view the Paytable.  -->
+	</tr>
+		
+</table>
+<p class="">
+	<b><#advancedAutoplayOptionsHeading#/></b>
+</p>
+<ul>
+	<li><#RTAutoplayButton#/></li>
+	<li><b><#onAnyWin#/></b>. <#anyWinDesc#/></li>
+	<li><b><#ifWinExeeds#/></b>. <#singleWinDesc#/></li>
+	<li><b><#ifCashIncreasesBy#/></b>. <#cashIncreasesDesc#/></li>
+	<li><b><#ifCashDecreasesBy#/></b>. <#cashDecreasesDesc#/></li>
+	<li><#RTautoplayDuringGameRev#/></li>
+	<li><#RTAutoplayDisconnect#/></li>
+</ul>
+<p class="">
+	<b><#gameSettingOptionsHeading#/></b>
+</p>
+    
+<ul>
+	<li><#gameSettingIntro#/></li>
+	<!-- Game setting options -->
+	<li><b><#quickSpinGameSetting#/></b>. <#RTquickSpinDescRev#/><#RTquickSpinDisclaimer#/></li>
+	<!-- Quick spin. Turns the quick spin option on or off. (Not available in all casinos.) -->
+	<li><b><#introScreeGameSetting#/></b>. <#RTintroOffRev#/></li>
+	<!-- Intro screen. Turns the intro screen on or off. -->
+	<li><b><#spaceSpin#/></b>. <#RTspacebarspin#/></li>
+	<!-- Spacebar to spin. Turns the spacebar function on or off.-->
+	<li><b><#gameHistory#/></b>. <#RTgameHistoryDesc#/><#RTGameHistNoPlayForFun#/></li>
+	<!-- Game history. Click to view your latest game history. (Not available when PLAYING FOR FUN.) -->
+</ul>
+<p><b><#RTreturnToPlayer#/></b></p>
+<ul>
+<li><#RTtheoreticalReturn#/> 96.09%</li>
+</ul>
+<p><b><#RTadditionalInformation#/></b></p>
+<ul>
+<li><#RTreferWebSite#/></li>
+<ul>
+<li><#RTunfinishedGameSession2#/></li>
+<li><#RTgameSessions2#/></li>
+</ul>
+<li><#RTmalfunction#/></li>
+</ul>
+
+<h2><#RTtransGameTerms#/></h2>
+<p><#RTtablePlayLangThnEng#/></p>
+<table border="1" cellpadding="3">
+    <tr bgcolor="rgb(118, 173, 28)">
+        <th align="left">
+           <#termEnglish#/>
+			</th>
+	<th align="left"> 
+            <#termTranslatedTerm#/>
+        </th>
+    </tr>
+		<tr>
+<td>Wild</td>
+<td><#termWild#/></td>
+</tr>
+</table>
+<p></p><p><b><#RTrulesGenerated#/></b></p>

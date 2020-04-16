@@ -1,0 +1,462 @@
+﻿<defaults xml:lang="cn">
+  <!-- Chinese (Simplified) locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 08:40:42 GMT on Tuesday 10 October 2017.
+
+ -->
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">{0}的数量</ds>
+  <ds Jurisdiction="*" name="OCTvarRetriggerFSNoSpan" id="OCTvarRetriggerFSNoSpan">+{0} 次 Free Spins</ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpinsNoSpan" id="MGvarRetriggerFreeSpinsNoSpan">+{0} 次 Free Spins</ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpins" id="MGvarRetriggerFreeSpins">&lt;span class='NetEnt_plusSign'&gt;+&lt;/span&gt;&lt;span class='NetEnt_numberFreeSpins'&gt;{0}&lt;/span&gt; 次 Free Spin</ds>
+  <ds Jurisdiction="*" name="NeProduction" id="NeProduction">A NET ENTERTAINMENT PRODUCTION</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">cookie 政策。</ds>
+  <ds Jurisdiction="*" name="MGcolHeadFSpinSyms" id="MGcolHeadFSpinSyms">Free Spin 符号</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsUC" id="OCTfreeSpinsUC">FREE SPINS</ds>
+  <ds Jurisdiction="*" name="multiplierFLC" id="multiplierFLC">Multiplier</ds>
+  <ds Jurisdiction="*" name="starburstNameOfWild" id="starburstNameOfWild">Starburst™ Wild</ds>
+  <ds Jurisdiction="*" name="dontShowNextTime" id="dontShowNextTime">下次不再显示</ds>
+  <ds Jurisdiction="*" name="OCTtotalbet" id="OCTtotalbet">下注</ds>
+  <ds Jurisdiction="*" name="operatingSystemNoSupport" id="operatingSystemNoSupport">不支持您的操作系统。</ds>
+  <ds Jurisdiction="*" name="deviceNotSupported" id="deviceNotSupported">不支持您的设备。</ds>
+  <ds Jurisdiction="*" name="winBothWaysRev" id="winBothWaysRev">两边赢</ds>
+  <ds Jurisdiction="*" name="mediumQuality" id="mediumQuality">中</ds>
+  <ds Jurisdiction="*" name="OCTmediumQuality" id="OCTmediumQuality">中</ds>
+  <ds Jurisdiction="*" name="OCTcasino_btn" id="OCTcasino_btn">主页</ds>
+  <ds Jurisdiction="*" name="MGcasino_btn" id="MGcasino_btn">主页</ds>
+  <ds Jurisdiction="*" name="MGroundsUseAccountMoney" id="MGroundsUseAccountMoney">之后几轮使用您账户里的资金。 祝您好运！</ds>
+  <ds Jurisdiction="*" name="OCTroundsUseAcctMoney" id="OCTroundsUseAcctMoney">之后几轮使用您账户里的资金。 祝您好运！</ds>
+  <ds Jurisdiction="*" name="multiplierUC" id="multiplierUC">乘数</ds>
+  <ds Jurisdiction="*" name="paytableHighestRev" id="paytableHighestRev">仅支付每条赔付线上的双向最高赢奖。</ds>
+  <ds Jurisdiction="*" name="MGpaytableHighestPaid" id="MGpaytableHighestPaid">仅支付每条赔付线上的最高赢奖组合。</ds>
+  <ds Jurisdiction="*" name="introScreeGameSetting" id="introScreeGameSetting">介绍屏幕</ds>
+  <ds Jurisdiction="*" name="OCTintroScreeGameSetting" id="OCTintroScreeGameSetting">介绍屏幕</ds>
+  <ds Jurisdiction="*" name="OCTintroGameSetting" id="OCTintroGameSetting">介绍短片</ds>
+  <ds Jurisdiction="*" name="OCTcontinuePlaying" id="OCTcontinuePlaying">从您中断的位置继续游戏。</ds>
+  <ds Jurisdiction="*" name="MGcontinuePlaying" id="MGcontinuePlaying">从您中断的位置继续游戏。</ds>
+  <ds Jurisdiction="*" name="subAllSymbols" id="subAllSymbols">代替所有符号。</ds>
+  <ds Jurisdiction="*" name="MGbetCashCoins" id="MGbetCashCoins">以现金/硬币下注</ds>
+  <ds Jurisdiction="*" name="MGbetInCash" id="MGbetInCash">以现金下注</ds>
+  <ds Jurisdiction="*" name="MGbetInCoins" id="MGbetInCoins">以硬币下注</ds>
+  <ds Jurisdiction="*" name="MGbetInCoinsRev" id="MGbetInCoinsRev">以硬币下注</ds>
+  <ds Jurisdiction="*" name="OCTbetInCoins" id="OCTbetInCoins">以硬币下注</ds>
+  <ds Jurisdiction="*" name="OCTsessionTimeOut" id="OCTsessionTimeOut">会话超时</ds>
+  <ds Jurisdiction="*" name="MGsessionTimeOut" id="MGsessionTimeOut">会话超时</ds>
+  <ds Jurisdiction="*" name="lowQuality" id="lowQuality">低</ds>
+  <ds Jurisdiction="*" name="OCTlowQuality" id="OCTlowQuality">低</ds>
+  <ds Jurisdiction="*" name="MGuseDefaultBrowser" id="MGuseDefaultBrowser">使用设备的默认浏览器或升级您的系统。</ds>
+  <ds Jurisdiction="*" name="OCTautoplayStopText" id="OCTautoplayStopText">停止</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlay" id="OCTstopAutoPlay">停止自动游戏</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsTitle" id="OCTfreeRoundsTitle">免费回合</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsTitle" id="MGfreeRoundsTitle">免费回合</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsVar" id="MGfreeRoundsVar">免费回合： {0}</ds>
+  <ds Jurisdiction="*" name="OCTFreeRoundsLeftwithColon" id="OCTFreeRoundsLeftwithColon">免费回合： {0}</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinished" id="OCTfreeRoundsFinished">免费回合完成</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsFinished" id="MGfreeRoundsFinished">免费回合完成</ds>
+  <ds Jurisdiction="*" name="freeRoundsFinished" id="freeRoundsFinished">免费回合完成。 使用您的游戏帐户继续游戏。 如果您没有足够的经费，请重新载入然后重启游戏。</ds>
+  <ds Jurisdiction="*" name="MGfreerounds" id="MGfreerounds">免费回合已到期</ds>
+  <ds Jurisdiction="*" name="OCTfreerounds" id="OCTfreerounds">免费回合已到期</ds>
+  <ds Jurisdiction="*" name="OCTclose_btn" id="OCTclose_btn">关闭</ds>
+  <ds Jurisdiction="*" name="MGoff" id="MGoff">关闭</ds>
+  <ds Jurisdiction="*" name="MGclose_btn" id="MGclose_btn">关闭</ds>
+  <ds Jurisdiction="*" name="MGsoundsNo" id="MGsoundsNo">关闭音效</ds>
+  <ds Jurisdiction="*" name="OCTsoundsNo" id="OCTsoundsNo">关闭音效</ds>
+  <ds Jurisdiction="*" name="OCTspinsLeftText" id="OCTspinsLeftText">剩余数目：{0}</ds>
+  <ds Jurisdiction="*" name="MGfreeSpinsLeftColonVar" id="MGfreeSpinsLeftColonVar">剩余的 Free Spin: {0}</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsLeftColonVar" id="OCTfreeSpinsLeftColonVar">剩余的 Free Spins: {0}</ds>
+  <ds Jurisdiction="*" name="animationsGameSetting" id="animationsGameSetting">动画</ds>
+  <ds Jurisdiction="*" name="MGhistoryNotAvailable" id="MGhistoryNotAvailable">只有玩真钱游戏时才能使用游戏历史。</ds>
+  <ds Jurisdiction="*" name="OCThistoryNotAvailable" id="OCThistoryNotAvailable">只有玩真钱游戏时才能使用游戏历史。</ds>
+  <ds Jurisdiction="*" name="MGsubAllSymbolsLC" id="MGsubAllSymbolsLC">可代替所有符号。</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">可能不是您期望的结果。我们再送给您 {0} 次 免费回合。</ds>
+  <ds Jurisdiction="*" name="MGright" id="MGright">右</ds>
+  <ds Jurisdiction="*" name="MGswipeToActivate" id="MGswipeToActivate">向上轻扫以激活游戏。</ds>
+  <ds Jurisdiction="*" name="appearsOnReels" id="appearsOnReels">在卷轴 {0}、{1} 和 {2} 上出现。</ds>
+  <ds Jurisdiction="*" name="MGappearsOnReelsLC" id="MGappearsOnReelsLC">在卷轴 {0}、{1} 和 {2} 上出现。</ds>
+  <ds Jurisdiction="*" name="expandReelTrigger" id="expandReelTrigger">在卷轴上扩展并触发一次重新旋转。</ds>
+  <ds Jurisdiction="*" name="MGexpandReelTriggerLC" id="MGexpandReelTriggerLC">在卷轴上扩展并触发一次重新旋转。</ds>
+  <ds Jurisdiction="*" name="OCTsoundSettingsCaps" id="OCTsoundSettingsCaps">声效设定</ds>
+  <ds Jurisdiction="*" name="MGbigWin" id="MGbigWin">大奖！</ds>
+  <ds Jurisdiction="*" name="bigWin" id="bigWin">大赢彩！</ds>
+  <ds Jurisdiction="*" name="OCTbigWin" id="OCTbigWin">大赢彩！</ds>
+  <ds Jurisdiction="*" name="OCTbtnOK" id="OCTbtnOK">好</ds>
+  <ds Jurisdiction="*" name="winBothWaysPaysRev" id="winBothWaysPaysRev">如果从最左一直连至右边或从最右边一直连到左边，赔付线赢得赔付。</ds>
+  <ds Jurisdiction="*" name="OCTbetLineWinsLeftToRightOnly" id="OCTbetLineWinsLeftToRightOnly">如果从最左边一直连至最右边，赌注线赢得赔付。</ds>
+  <ds Jurisdiction="*" name="OCTifWinExeeds" id="OCTifWinExeeds">如果单次赢奖金额超过</ds>
+  <ds Jurisdiction="*" name="ifWinExeeds" id="ifWinExeeds">如果单次赢奖金额超过</ds>
+  <ds Jurisdiction="*" name="autoBonusGame" id="autoBonusGame">如果在设定的自动游戏次数前赢得了 Bonus Game，则停止自动游戏。</ds>
+  <ds Jurisdiction="*" name="autoplayFeatureSpins" id="autoplayFeatureSpins">如果在设定的自动游戏次数前赢得了 Feature Spins，则停止自动游戏。</ds>
+  <ds Jurisdiction="*" name="OCTifCashDecreasesBy" id="OCTifCashDecreasesBy">如果现金金额减少</ds>
+  <ds Jurisdiction="*" name="MGstopIfBonusGame" id="MGstopIfBonusGame">如果赢得 Bonus Game 就停止</ds>
+  <ds Jurisdiction="Spain" name="OCTifFBonusIsStarted" id="OCTifFBonusIsStarted">如果赢得 Bonus Game。</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinscrosstowntraffic" id="OCTstopIfFreeSpinscrosstowntraffic">如果赢得 Crosstown Traffic Free Spin 就停止</ds>
+  <ds Jurisdiction="*" name="stopIfFeatureSpins" id="stopIfFeatureSpins">如果赢得 Feature Spin 就停止</ds>
+  <ds Jurisdiction="*" name="MGstopIfFreeSpins" id="MGstopIfFreeSpins">如果赢得 Free Spin 就停止</ds>
+  <ds Jurisdiction="*" name="OCTifFreeSpinsIsStarted" id="OCTifFreeSpinsIsStarted">如果赢得 Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpins" id="OCTstopIfFreeSpins">如果赢得 Free Spins 就停止</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinslittlewing" id="OCTstopIfFreeSpinslittlewing">如果赢得 Little Wing Free Spin 就停止</ds>
+  <ds Jurisdiction="*" name="stopIfPickAndClick" id="stopIfPickAndClick">如果赢得 Pick and Click 就停止</ds>
+  <ds Jurisdiction="*" name="stopIfPoliceSpins" id="stopIfPoliceSpins">如果赢得 Police Spins 就停止</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinspurplehaze" id="OCTstopIfFreeSpinspurplehaze">如果赢得 Purple Haze Free Spin 就停止</ds>
+  <ds Jurisdiction="*" name="MGsoundsOff" id="MGsoundsOff">始终禁用音效</ds>
+  <ds Jurisdiction="*" name="MGplayingForFun" id="MGplayingForFun">娱乐模式</ds>
+  <ds Jurisdiction="*" name="MGdeposit_btn" id="MGdeposit_btn">存入</ds>
+  <ds Jurisdiction="*" name="OCTdeposit_btn" id="OCTdeposit_btn">存入</ds>
+  <ds Jurisdiction="Algeria" name="OCTnewHistoryWindow" id="OCTnewHistoryWindow">将在新的页面中打开游戏历史。 关闭页面返回游戏。</ds>
+  <ds Jurisdiction="*" name="MGnewHistoryWindow" id="MGnewHistoryWindow">将在新的页面中打开游戏历史。 关闭页面返回游戏。</ds>
+  <ds Jurisdiction="*" name="OCTplayingForFun" id="OCTplayingForFun">小赌怡情</ds>
+  <ds Jurisdiction="*" name="MGleft" id="MGleft">左</ds>
+  <ds Jurisdiction="*" name="MGleftHandMode" id="MGleftHandMode">左手模式</ds>
+  <ds Jurisdiction="*" name="OCTleftHandMode" id="OCTleftHandMode">左手模式</ds>
+  <ds Jurisdiction="*" name="OCTmegaWin" id="OCTmegaWin">巨胜！</ds>
+  <ds Jurisdiction="*" name="megaWin" id="megaWin">巨胜！</ds>
+  <ds Jurisdiction="*" name="MGsoundsOn" id="MGsoundsOn">开启音效</ds>
+  <ds Jurisdiction="*" name="OCTsoundsOn" id="OCTsoundsOn">开启音效</ds>
+  <ds Jurisdiction="*" name="startFreeSpins" id="startFreeSpins">开始 Free Spin</ds>
+  <ds Jurisdiction="*" name="OCTstartFreeSpins" id="OCTstartFreeSpins">开始FREE SPINS</ds>
+  <ds Jurisdiction="*" name="MGplayingForMoney" id="MGplayingForMoney">开始真钱游戏？</ds>
+  <ds Jurisdiction="*" name="MGquickSpinGameSetting" id="MGquickSpinGameSetting">快速旋转</ds>
+  <ds Jurisdiction="*" name="OCTquickSpin" id="OCTquickSpin">快速旋转</ds>
+  <ds Jurisdiction="*" name="OCTquickSpinGameSetting" id="OCTquickSpinGameSetting">快速旋转</ds>
+  <ds Jurisdiction="*" name="quickSpinGameSetting" id="quickSpinGameSetting">快速旋转</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinUCnoVar" id="OCTtotalWinUCnoVar">总派彩:</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinWithColon" id="OCTtotalWinWithColon">总赢奖：</ds>
+  <ds Jurisdiction="*" name="MGtotalWin" id="MGtotalWin">总赢奖： {0}</ds>
+  <ds Jurisdiction="*" name="MGrestoredGameHeader" id="MGrestoredGameHeader">恢复的游戏</ds>
+  <ds Jurisdiction="*" name="OCTrestoredGameHeader" id="OCTrestoredGameHeader">恢复的游戏</ds>
+  <ds Jurisdiction="*" name="MGcongrats" id="MGcongrats">恭喜！</ds>
+  <ds Jurisdiction="*" name="updateBrowserReq" id="updateBrowserReq">您在更新浏览器后才可以玩游戏。 最低要求： {0}</ds>
+  <ds Jurisdiction="*" name="OCTyouPlayingFun" id="OCTyouPlayingFun">您在玩娱乐模式</ds>
+  <ds Jurisdiction="*" name="MGyouPlayingFun" id="MGyouPlayingFun">您在玩娱乐模式</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingWon" id="OCTRCheckPlayingWon">您已经玩了{0}小时，并赢得了{1}。</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingWon" id="MGRCheckPlayingWon">您已经玩了{0}小时，并赢得了{1}。</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingLost" id="MGRCheckPlayingLost">您已经玩了{0}小时，并输掉了{1}。</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingLost" id="OCTRCheckPlayingLost">您已经玩了{0}小时，并输掉了{1}。</ds>
+  <ds Jurisdiction="*" name="MG11" id="MG11">您已达到您的游戏次数限制。 欢迎您稍后返回！</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRoundsRev" id="MGhaveFreeRoundsRev">您有 {0} 次免费回合！</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRounds" id="MGhaveFreeRounds">您有 {0} 次免费回合。</ds>
+  <ds Jurisdiction="*" name="MGwinIncoins" id="MGwinIncoins">您的赢奖，以硬币计： {0}</ds>
+  <ds Jurisdiction="*" name="OCTslowConnection" id="OCTslowConnection">您目前的网速慢。</ds>
+  <ds Jurisdiction="*" name="MGslowConnection" id="MGslowConnection">您目前的网速慢。</ds>
+  <ds Jurisdiction="*" name="updateBrowserQuestion" id="updateBrowserQuestion">您要更新吗？</ds>
+  <ds Jurisdiction="*" name="MGcontinueYesNo" id="MGcontinueYesNo">您要继续吗？</ds>
+  <ds Jurisdiction="*" name="OCTcontinueYesNo" id="OCTcontinueYesNo">您要继续吗？</ds>
+  <ds Jurisdiction="*" name="OCTyouWinUCNoExclamation" id="OCTyouWinUCNoExclamation">您赢奖了</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinsWon" id="MGadditonalFreeSpinsWon">您赢得了 {0} 次额外 Free Spin</ds>
+  <ds Jurisdiction="*" name="OCTadditonalFreeSpinsWon" id="OCTadditonalFreeSpinsWon">您赢得了 {0} 次额外 Free Spins</ds>
+  <ds Jurisdiction="*" name="MGyouWon" id="MGyouWon">您赢得了:{0}</ds>
+  <ds Jurisdiction="*" name="MGyouWonCoins" id="MGyouWonCoins">您赢得了{0} 枚硬币</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoins" id="OCTyouWonCoins">您赢得了{0} 枚硬币</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoinsUC" id="OCTyouWonCoinsUC">您赢得了{0} 枚硬币</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinWon" id="MGadditonalFreeSpinWon">您赢得了{0}次额外 Free Spin</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsLeft" id="MGfreeRoundsLeft">您还有 {0} 次免费回合！</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">您需要更新您的操作系统以进行游戏。</ds>
+  <ds Jurisdiction="*" name="MGdownloadSounds" id="MGdownloadSounds">打开声音？</ds>
+  <ds Jurisdiction="*" name="MGerror" id="MGerror">技术错误</ds>
+  <ds Jurisdiction="*" name="OCTerror" id="OCTerror">技术错误</ds>
+  <ds Jurisdiction="*" name="OCTbetSettingsCaps" id="OCTbetSettingsCaps">投注设定</ds>
+  <ds Jurisdiction="*" name="MGnoOSSupport" id="MGnoOSSupport">抱歉，不支持此操作系统。</ds>
+  <ds Jurisdiction="*" name="MGnoBrowserSupport" id="MGnoBrowserSupport">抱歉，不支持此浏览器。</ds>
+  <ds Jurisdiction="*" name="MGdeviceNoSupport" id="MGdeviceNoSupport">抱歉，不支持此设备。</ds>
+  <ds Jurisdiction="*" name="MGbutton_no" id="MGbutton_no">拒绝</ds>
+  <ds Jurisdiction="*" name="OCTbtnNo" id="OCTbtnNo">拒绝</ds>
+  <ds Jurisdiction="*" name="OCTspaceSpin" id="OCTspaceSpin">按空格键转动</ds>
+  <ds Jurisdiction="*" name="spaceSpin" id="spaceSpin">按空格键转动</ds>
+  <ds Jurisdiction="*" name="OCTbtnYes" id="OCTbtnYes">接受</ds>
+  <ds Jurisdiction="*" name="MGbutton_yes" id="MGbutton_yes">接受</ds>
+  <ds Jurisdiction="*" name="OCTautoSpins" id="OCTautoSpins">旋转</ds>
+  <ds Jurisdiction="*" name="MGspinButtonPosition" id="MGspinButtonPosition">旋转按键位置</ds>
+  <ds Jurisdiction="*" name="MGnumberSpins" id="MGnumberSpins">旋转数量</ds>
+  <ds Jurisdiction="*" name="OCTnumberSpins" id="OCTnumberSpins">旋转数量</ds>
+  <ds Jurisdiction="*" name="OCTspinSettingsCaps" id="OCTspinSettingsCaps">旋转设定</ds>
+  <ds Jurisdiction="*" name="MGspinSettings" id="MGspinSettings">旋转设置</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRev" id="MGspinSettingsRev">旋转设置</ds>
+  <ds Jurisdiction="*" name="gameNotLoaded" id="gameNotLoaded">无法载入游戏。</ds>
+  <ds Jurisdiction="*" name="couldNotConnectServer" id="couldNotConnectServer">无法连接服务器。</ds>
+  <ds Jurisdiction="*" name="MGyes" id="MGyes">是*</ds>
+  <ds Jurisdiction="*" name="MGminOSReq" id="MGminOSReq">最低要求为：</ds>
+  <ds Jurisdiction="*" name="OCTwinUpTo" id="OCTwinUpTo">最多可赢得 {0} 枚硬币</ds>
+  <ds Jurisdiction="*" name="MGwinUpTo" id="MGwinUpTo">最多可赢得{0}枚硬币</ds>
+  <ds Jurisdiction="*" name="WinUpTodup" id="WinUpTodup">最多赢奖</ds>
+  <ds Jurisdiction="*" name="MGmaxNumberReSpinsLC" id="MGmaxNumberReSpinsLC">最大重新旋转数为 {0}。</ds>
+  <ds Jurisdiction="*" name="maxNumberReSpins" id="maxNumberReSpins">最大重新旋转数为 {0}。</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbutton" id="OCTmaxbetbutton">最高赌注</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbuttonTwoLine" id="OCTmaxbetbuttonTwoLine">最高赌注</ds>
+  <ds Jurisdiction="*" name="RCheckMonths" id="RCheckMonths">月份</ds>
+  <ds Jurisdiction="*" name="MGnoWin" id="MGnoWin">未获胜</ds>
+  <ds Jurisdiction="*" name="gameOptimisedFor" id="gameOptimisedFor">本游戏针对{1}上的{0}进行了优化。</ds>
+  <ds Jurisdiction="*" name="gameOptimisedVersion" id="gameOptimisedVersion">本游戏针对以下系统或设备进行了优化： {0}</ds>
+  <ds Jurisdiction="*" name="optimisedForVersion" id="optimisedForVersion">本游戏针对以下系统或设备进行了优化： {0}</ds>
+  <ds Jurisdiction="*" name="extraInfo" id="extraInfo">欲知更多信息，请参阅游戏规则。</ds>
+  <ds Jurisdiction="*" name="OCTextraInfo" id="OCTextraInfo">欲知更多信息，请参阅游戏规则。</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">此游戏使用 cookie 来获得统计数据和提升用户体验。请确认您接受我们的</ds>
+  <ds Jurisdiction="*" name="MGsoftNotTest" id="MGsoftNotTest">此软件未在您的设备上测试过。</ds>
+  <ds Jurisdiction="*" name="MGoptionAvailable" id="MGoptionAvailable">此选项仅在您完成一回合游戏后适用。</ds>
+  <ds Jurisdiction="Spain" name="OCTpaytableHighest" id="OCTpaytableHighest">每条赌注线仅最高赢奖获得赔付。</ds>
+  <ds Jurisdiction="Spain" name="paytableHighestNoActive" id="paytableHighestNoActive">每条赌注线仅最高赢奖获得赔付。</ds>
+  <ds Jurisdiction="*" name="OCTpaytableHighestWinMatch" id="OCTpaytableHighestWinMatch">每次赢奖匹配仅支付最高奖金。</ds>
+  <ds Jurisdiction="*" name="OCTRCcheckReminder" id="OCTRCcheckReminder">温馨提示</ds>
+  <ds Jurisdiction="*" name="MGRCcheckReminder" id="MGRCcheckReminder">温馨提示</ds>
+  <ds Jurisdiction="*" name="MGgameUnavailable" id="MGgameUnavailable">游戏不可用</ds>
+  <ds Jurisdiction="*" name="OCTgameUnavailable" id="OCTgameUnavailable">游戏不可用</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeading" id="MGgameHistoryHeading">游戏历史</ds>
+  <ds Jurisdiction="*" name="gameHistory" id="gameHistory">游戏历史记录</ds>
+  <ds Jurisdiction="*" name="OCTgameHistory" id="OCTgameHistory">游戏历史记录</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coins" id="OCTmachinetext_coins">游戏币</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coinvalue" id="OCTmachinetext_coinvalue">游戏币值</ds>
+  <ds Jurisdiction="*" name="OCTgameRulesUC" id="OCTgameRulesUC">游戏规则</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheading" id="MGgameRulesheading">游戏规则</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheadingCaps" id="MGgameRulesheadingCaps">游戏规则</ds>
+  <ds Jurisdiction="*" name="OCTgameHistoryHeadingUC" id="OCTgameHistoryHeadingUC">游戏记录</ds>
+  <ds Jurisdiction="*" name="OCTslidePanelLabel" id="OCTslidePanelLabel">游戏设置</ds>
+  <ds Jurisdiction="*" name="OCTplayLimit" id="OCTplayLimit">游戏限制</ds>
+  <ds Jurisdiction="*" name="MGplayLimit" id="MGplayLimit">游戏限制</ds>
+  <ds Jurisdiction="*" name="MGsounds" id="MGsounds">游戏音效</ds>
+  <ds Jurisdiction="*" name="MGgameSound" id="MGgameSound">游戏音效</ds>
+  <ds Jurisdiction="*" name="OCTgameSound" id="OCTgameSound">游戏音效</ds>
+  <ds Jurisdiction="*" name="OCTcash" id="OCTcash">现金</ds>
+  <ds Jurisdiction="*" name="OCTcashColon" id="OCTcashColon">现金:</ds>
+  <ds Jurisdiction="*" name="MGcash" id="MGcash">现金： {0}</ds>
+  <ds Jurisdiction="*" name="OCTcashColonVar" id="OCTcashColonVar">现金：{0}</ds>
+  <ds Jurisdiction="*" name="OCTbetInCash" id="OCTbetInCash">现金投注</ds>
+  <ds Jurisdiction="*" name="MGbetInCashRev" id="MGbetInCashRev">现金投注</ds>
+  <ds Jurisdiction="*" name="MGlostConnectionInactivity" id="MGlostConnectionInactivity">由于未进行任何操作，游戏已中断连接。</ds>
+  <ds Jurisdiction="*" name="OCTlostConnectInactivity" id="OCTlostConnectInactivity">由于未进行任何操作，游戏已中断连接。</ds>
+  <ds Jurisdiction="*" name="OCTqualityHeading" id="OCTqualityHeading">画质</ds>
+  <ds Jurisdiction="*" name="qualityHeading" id="qualityHeading">画质</ds>
+  <ds Jurisdiction="*" name="OCTlogin_btn" id="OCTlogin_btn">登录</ds>
+  <ds Jurisdiction="*" name="MGlogin_btn" id="MGlogin_btn">登录</ds>
+  <ds Jurisdiction="*" name="MGcoins" id="MGcoins">硬币: {0}</ds>
+  <ds Jurisdiction="*" name="OCTcoinsColonVar" id="OCTcoinsColonVar">硬币: {0}</ds>
+  <ds Jurisdiction="*" name="OCTcoinValue" id="OCTcoinValue">硬币价值</ds>
+  <ds Jurisdiction="*" name="MGcoinvalue" id="MGcoinvalue">硬币价值</ds>
+  <ds Jurisdiction="*" name="MGpaytableInfoBetLevel1" id="MGpaytableInfoBetLevel1">硬币派彩值以赌注等级 1 为基础。</ds>
+  <ds Jurisdiction="*" name="paytableInfoBetLevel1" id="paytableInfoBetLevel1">硬币派彩值以赌注等级 1 为基础。</ds>
+  <ds Jurisdiction="*" name="MGwinMultiplierVar" id="MGwinMultiplierVar">硬币赢奖要乘以{0}</ds>
+  <ds Jurisdiction="*" name="MGok_btn" id="MGok_btn">确定</ds>
+  <ds Jurisdiction="*" name="OCTcongratsLC" id="OCTcongratsLC">祝贺你！</ds>
+  <ds Jurisdiction="*" name="OCTsymbolPayout" id="OCTsymbolPayout">符号派彩值</ds>
+  <ds Jurisdiction="Afghanistan" name="MGsymbolPayout" id="MGsymbolPayout">符号派彩值</ds>
+  <ds Jurisdiction="*" name="OCTlevel" id="OCTlevel">等级</ds>
+  <ds Jurisdiction="*" name="specialWinCombo" id="specialWinCombo">组合</ds>
+  <ds Jurisdiction="*" name="OCTContinue" id="OCTContinue">继续</ds>
+  <ds Jurisdiction="*" name="OCTbutton_CONTINUE" id="OCTbutton_CONTINUE">继续</ds>
+  <ds Jurisdiction="*" name="MGcontinue" id="MGcontinue">继续</ds>
+  <ds Jurisdiction="*" name="InAssociation" id="InAssociation">联合</ds>
+  <ds Jurisdiction="*" name="ambience" id="ambience">背景音效</ds>
+  <ds Jurisdiction="*" name="autoplayButtonTwoLine" id="autoplayButtonTwoLine">自动游戏</ds>
+  <ds Jurisdiction="*" name="MGautoplayPanelLabel" id="MGautoplayPanelLabel">自动游戏</ds>
+  <ds Jurisdiction="*" name="OCTautoplayButton" id="OCTautoplayButton">自动游戏</ds>
+  <ds Jurisdiction="*" name="OCTautoplayPanelLabel" id="OCTautoplayPanelLabel">自动游戏</ds>
+  <ds Jurisdiction="*" name="MGautoplayCancelled" id="MGautoplayCancelled">自动游戏 已取消</ds>
+  <ds Jurisdiction="*" name="OCTvoidAllPays" id="OCTvoidAllPays">若发生故障，所有赔付作废。</ds>
+  <ds Jurisdiction="*" name="MGwinningCombinations" id="MGwinningCombinations">获胜组合与派彩</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">讯息</ds>
+  <ds Jurisdiction="*" name="upgradeDevice" id="upgradeDevice">请升级您的设备。</ds>
+  <ds Jurisdiction="*" name="OCTdepositPlay" id="OCTdepositPlay">请存入更多的钱以继续游戏。</ds>
+  <ds Jurisdiction="*" name="MGdepositPlay" id="MGdepositPlay">请存入更多资金以继续游戏。</ds>
+  <ds Jurisdiction="*" name="MGdeposit" id="MGdeposit">请存入更多资金或降低您的赌注。</ds>
+  <ds Jurisdiction="*" name="OCTdeposit" id="OCTdeposit">请存入更多资金或降低您的赌注。</ds>
+  <ds Jurisdiction="*" name="OCTlandscapeMode" id="OCTlandscapeMode">请将您的设备切换到横屏模式！</ds>
+  <ds Jurisdiction="*" name="MGlandscapeMode" id="MGlandscapeMode">请将您的设备切换到横屏模式！</ds>
+  <ds Jurisdiction="*" name="MGreturnToLobby" id="MGreturnToLobby">请返回大堂。</ds>
+  <ds Jurisdiction="*" name="OCTreturnToLobby" id="OCTreturnToLobby">请返回大堂。</ds>
+  <ds Jurisdiction="*" name="OCTreturnCasino" id="OCTreturnCasino">请重新启动游戏。</ds>
+  <ds Jurisdiction="*" name="MGreturnCasino" id="MGreturnCasino">请重新启动游戏。</ds>
+  <ds Jurisdiction="*" name="MGreload" id="MGreload">请重新载入游戏。</ds>
+  <ds Jurisdiction="*" name="OCTreload" id="OCTreload">请重新载入游戏。</ds>
+  <ds Jurisdiction="*" name="OCTreduce" id="OCTreduce">请降低您的赌注以继续游戏。</ds>
+  <ds Jurisdiction="*" name="MGreduce" id="MGreduce">请降低您的赌注以继续游戏。</ds>
+  <ds Jurisdiction="*" name="MGaccountUnavailable" id="MGaccountUnavailable">账户不可用</ds>
+  <ds Jurisdiction="*" name="OCTaccountUnavailable" id="OCTaccountUnavailable">账户不可用</ds>
+  <ds Jurisdiction="*" name="OCToutOfMoney" id="OCToutOfMoney">资金不足</ds>
+  <ds Jurisdiction="*" name="MGoutOfMoney" id="MGoutOfMoney">资金不足</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_bet" id="OCTmachinetext_bet">赌注</ds>
+  <ds Jurisdiction="*" name="OCTbetColonVar" id="OCTbetColonVar">赌注： {0}</ds>
+  <ds Jurisdiction="*" name="MGbet" id="MGbet">赌注： {0}</ds>
+  <ds Jurisdiction="*" name="MGcolHeadBetMulti" id="MGcolHeadBetMulti">赌注乘数</ds>
+  <ds Jurisdiction="*" name="MGbetlevel" id="MGbetlevel">赌注等级</ds>
+  <ds Jurisdiction="Spain" name="OCTbetlevel" id="OCTbetlevel">赌注等级</ds>
+  <ds Jurisdiction="*" name="MGbetOptions" id="MGbetOptions">赌注设置</ds>
+  <ds Jurisdiction="*" name="MGbetSettings" id="MGbetSettings">赌注设置</ds>
+  <ds Jurisdiction="*" name="MGpaytable" id="MGpaytable">赔率表</ds>
+  <ds Jurisdiction="*" name="OCTbutton_paytableUC" id="OCTbutton_paytableUC">赔率表</ds>
+  <ds Jurisdiction="*" name="OCTpaytable" id="OCTpaytable">赔率表</ds>
+  <ds Jurisdiction="*" name="FSplashWinBothWays" id="FSplashWinBothWays">赢取 &lt;br&gt; 双向赢奖</ds>
+  <ds Jurisdiction="Spain" name="OCTmachinetext_win" id="OCTmachinetext_win">赢奖</ds>
+  <ds Jurisdiction="*" name="OCTwinColonUC" id="OCTwinColonUC">赢奖:</ds>
+  <ds Jurisdiction="*" name="MGwinCapitals" id="MGwinCapitals">赢奖： {0}</ds>
+  <ds Jurisdiction="*" name="onAnyWin" id="onAnyWin">赢奖时</ds>
+  <ds Jurisdiction="*" name="MGbetLineWinsLeftRight" id="MGbetLineWinsLeftRight">赢奖符号从最左边的卷轴连到右边时赔付线就会赢奖。</ds>
+  <ds Jurisdiction="*" name="OCTwinningBetLinesHeading" id="OCTwinningBetLinesHeading">赢奖赌注线</ds>
+  <ds Jurisdiction="*" name="MGwinningLinesHeading" id="MGwinningLinesHeading">赢奖赌注线</ds>
+  <ds Jurisdiction="*" name="MGwinPay" id="MGwinPay">赢得</ds>
+  <ds Jurisdiction="*" name="OCTwin" id="OCTwin">赢得</ds>
+  <ds Jurisdiction="*" name="OCTwinColonVar" id="OCTwinColonVar">赢得： {0}</ds>
+  <ds Jurisdiction="*" name="MGwin" id="MGwin">赢得： {0}</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinColonVar" id="OCTtotalWinColonVar">赢得总计： {0}</ds>
+  <ds Jurisdiction="*" name="OCTcoinsWonColon" id="OCTcoinsWonColon">赢得的硬币：</ds>
+  <ds Jurisdiction="*" name="coinsWonColon" id="coinsWonColon">赢得的硬币：</ds>
+  <ds Jurisdiction="*" name="specialWinMegaCombo" id="specialWinMegaCombo">超大组合</ds>
+  <ds Jurisdiction="*" name="superMegaWin" id="superMegaWin">超级巨胜！</ds>
+  <ds Jurisdiction="*" name="OCTsuperMegaWin" id="OCTsuperMegaWin">超级巨胜！</ds>
+  <ds Jurisdiction="*" name="specialWinSuperCombo" id="specialWinSuperCombo">超级组合</ds>
+  <ds Jurisdiction="*" name="OCTskipIntro" id="OCTskipIntro">跳过介绍</ds>
+  <ds Jurisdiction="*" name="OCTloadingText" id="OCTloadingText">载入中</ds>
+  <ds Jurisdiction="*" name="OCTloading" id="OCTloading">载入中...</ds>
+  <ds Jurisdiction="*" name="OCTloadingTakesLonger" id="OCTloadingTakesLonger">载入游戏比平常耗时更久。</ds>
+  <ds Jurisdiction="*" name="loadingTakesLonger" id="loadingTakesLonger">载入游戏比平常耗时更久。</ds>
+  <ds Jurisdiction="*" name="MGconnectionLost" id="MGconnectionLost">连接中断</ds>
+  <ds Jurisdiction="*" name="OCTconnectionLost" id="OCTconnectionLost">连接中断</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">连线： 差</ds>
+  <ds Jurisdiction="*" name="connectionQualityPoor" id="connectionQualityPoor">连线： 差</ds>
+  <ds Jurisdiction="Spain" name="OCTautoplayPanelStartText" id="OCTautoplayPanelStartText">选好开始</ds>
+  <ds Jurisdiction="*" name="scatterSelect" id="scatterSelect">选择一个SCATTER</ds>
+  <ds Jurisdiction="*" name="MGoptionUnavailable" id="MGoptionUnavailable">选项不可用</ds>
+  <ds Jurisdiction="*" name="MGreload_btn" id="MGreload_btn">重新载入</ds>
+  <ds Jurisdiction="*" name="MGreload_btnRev" id="MGreload_btnRev">重新载入</ds>
+  <ds Jurisdiction="*" name="OCTreload_btn" id="OCTreload_btn">重新载入</ds>
+  <ds Jurisdiction="*" name="OCTreset" id="OCTreset">重置</ds>
+  <ds Jurisdiction="*" name="coins" id="coins">钱币</ds>
+  <ds Jurisdiction="*" name="MGreduceBet_btn" id="MGreduceBet_btn">降低赌注</ds>
+  <ds Jurisdiction="Antigua and Barbuda" name="OCTreduceBet_btn" id="OCTreduceBet_btn">降低赌注</ds>
+  <ds Jurisdiction="*" name="sound" id="sound">音效</ds>
+  <ds Jurisdiction="*" name="MGsoundSettings" id="MGsoundSettings">音效设置</ds>
+  <ds Jurisdiction="*" name="highQuality" id="highQuality">高</ds>
+  <ds Jurisdiction="*" name="OCThighQuality" id="OCThighQuality">高</ds>
+  <ds Jurisdiction="*" name="OCTadvancedSettings" id="OCTadvancedSettings">高级设置</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">为了享受最佳的游戏体验,请更新您的操作系统。</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">为了享受最佳的游戏体验，请更新您的操作系统。</ds>
+  <ds Jurisdiction="*" name="MGsoundSettingsCaps" id="MGsoundSettingsCaps">声效设定</ds>
+  <ds Jurisdiction="*" name="autoplayFS" id="autoplayFS">如果在设定的自动游戏次数前赢得了 Free Spins，则停止自动游戏。</ds>
+  <ds Jurisdiction="*" name="autoplayPS" id="autoplayPS">如果在设置的自动游戏局数前赢得奖励游戏或 Police Spins，就停止自动游戏</ds>
+  <ds Jurisdiction="*" name="ifCashDecreasesBy" id="ifCashDecreasesBy">如果现金金额减少</ds>
+  <ds Jurisdiction="*" name="ifCashIncreasesBy" id="ifCashIncreasesBy">如果现金金额增加</ds>
+  <ds Jurisdiction="*" name="OCTifCashIncreasesBy" id="OCTifCashIncreasesBy">如果现金金额增加</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">已对 {1} {2} 的 {0} 进行优化。</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">您需要使用 {0} 来进行游戏。</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">您需要更新您的操作系统以进行游戏。</ds>
+  <ds Jurisdiction="*" name="MGbetSettingsCaps" id="MGbetSettingsCaps">投注设定</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRevCaps" id="MGspinSettingsRevCaps">旋转设定</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">此游戏使用 cookie 来提升用户体验和管理广告投放。请确认您接受我们的</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeadingCaps" id="MGgameHistoryHeadingCaps">游戏历史</ds>
+  <ds Jurisdiction="*" name="MGvoidAllPays" id="MGvoidAllPays">若发生故障，所有赔付作废。</ds>
+  <ds Jurisdiction="*" name="voidAllPays" id="voidAllPays">若发生故障，所有赔付作废。</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">额外 免费回合</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">{0}的数量</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">cookie 政策。</ds>
+  <ds Jurisdiction="*" name="notSupportedBrowser" id="notSupportedBrowser">不支持您的浏览器。</ds>
+  <ds Jurisdiction="*" name="11" id="11">以超过游戏限制。 请稍候再回来。</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlayColon" id="OCTstopAutoPlayColon">停止自动游戏:</ds>
+  <ds Jurisdiction="*" name="OCTroundsLeft" id="OCTroundsLeft">免费回合</ds>
+  <ds Jurisdiction="*" name="roundsLeft" id="roundsLeft">免费回合</ds>
+  <ds Jurisdiction="*" name="FreeRoundsLeftwithColonVar" id="FreeRoundsLeftwithColonVar">免费回合： {0}</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinishedRev" id="OCTfreeRoundsFinishedRev">免费回合完成</ds>
+  <ds Jurisdiction="*" name="freeRoundsCompleteDialogText" id="freeRoundsCompleteDialogText">免费回合结束了。 接下来的回合会动用您帐户里的钱。 祝您好运！</ds>
+  <ds Jurisdiction="*" name="close_btn" id="close_btn">关闭</ds>
+  <ds Jurisdiction="*" name="RCheckMinute" id="RCheckMinute">分钟</ds>
+  <ds Jurisdiction="*" name="RCheckMinutes" id="RCheckMinutes">分钟（多数）</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">可能不是您期望的结果。我们再送给您 {0} 次 免费回合。</ds>
+  <ds Jurisdiction="*" name="autoRounds" id="autoRounds">回合</ds>
+  <ds Jurisdiction="*" name="RCheckLost" id="RCheckLost">在这时段内，您失去了</ds>
+  <ds Jurisdiction="*" name="RCheckWon" id="RCheckWon">在这时段内，您赢得了</ds>
+  <ds Jurisdiction="*" name="RCheckDay" id="RCheckDay">天</ds>
+  <ds Jurisdiction="*" name="RCheckDays" id="RCheckDays">天（多数）</ds>
+  <ds Jurisdiction="*" name="ok_btn" id="ok_btn">好</ds>
+  <ds Jurisdiction="*" name="59" id="59">客户已经登录。请稍候重试。</ds>
+  <ds Jurisdiction="*" name="RCheckHour" id="RCheckHour">小时</ds>
+  <ds Jurisdiction="*" name="RCheckHours" id="RCheckHours">小时（多数）</ds>
+  <ds Jurisdiction="*" name="25" id="25">已禁用所有游戏。</ds>
+  <ds Jurisdiction="*" name="RCheckYear" id="RCheckYear">年</ds>
+  <ds Jurisdiction="*" name="RCheckYears" id="RCheckYears">年（多数）</ds>
+  <ds Jurisdiction="*" name="browserVersionNotSupported" id="browserVersionNotSupported">很遗憾，不支持此浏览器版本。</ds>
+  <ds Jurisdiction="*" name="mandatoryField" id="mandatoryField">必填栏</ds>
+  <ds Jurisdiction="*" name="OBOCTTotalWinwithColonVar" id="OBOCTTotalWinwithColonVar">总赔付：{0}</ds>
+  <ds Jurisdiction="*" name="OCTTotalWinwithColonUC" id="OCTTotalWinwithColonUC">总赢奖数：{0}</ds>
+  <ds Jurisdiction="*" name="OCTcongratsUC" id="OCTcongratsUC">恭喜！</ds>
+  <ds Jurisdiction="*" name="freeRoundsInitiatedDialogText" id="freeRoundsInitiatedDialogText">恭喜！ 您有 {0}个免费回合。 祝您好运！</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered" id="gameWalletMssgWagered">恭喜！ 您的 {0} 特别赢彩已转换为筹码。 重新登录，就可使用。</ds>
+  <ds Jurisdiction="*" name="RCheckPlayingFor" id="RCheckPlayingFor">您已经玩了</ds>
+  <ds Jurisdiction="*" name="RCheckPlaying" id="RCheckPlaying">您已经玩了{0} {1}。 {2} {3}。 {4}</ds>
+  <ds Jurisdiction="*" name="121" id="121">您必须先下注，才可开始自动游戏。</ds>
+  <ds Jurisdiction="*" name="RCheckEndCont" id="RCheckEndCont">您想结束或是继续游戏？</ds>
+  <ds Jurisdiction="*" name="13" id="13">您所设的赌注已经超出了此游戏的赌注上限。</ds>
+  <ds Jurisdiction="*" name="OCThaveFreeRounds" id="OCThaveFreeRounds">您有 {0} 次免费回合！</ds>
+  <ds Jurisdiction="*" name="20" id="20">您的会话已超时。 重启游戏。</ds>
+  <ds Jurisdiction="*" name="betExceedCDB" id="betExceedCDB">您的投注已超出“如果现金金额减少”限制。请提高限制。</ds>
+  <ds Jurisdiction="*" name="102" id="102">您的自动游戏已被取消。</ds>
+  <ds Jurisdiction="*" name="10" id="10">您的账户内没有足够的余额。</ds>
+  <ds Jurisdiction="*" name="100" id="100">您的账户内没有足够的余额。</ds>
+  <ds Jurisdiction="*" name="51" id="51">您的账户内没有足够的余额。</ds>
+  <ds Jurisdiction="*" name="15" id="15">您的账户内没有足够的余额。 请加钱或减少您的赌注。</ds>
+  <ds Jurisdiction="*" name="101" id="101">您的赌场帐户资金不足。</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">您需要更新您的操作系统以进行游戏。</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired" id="gameWalletMssgExpired">抱歉。 您的 {0} 特别赢彩已经逾期并作废。</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited" id="gameWalletMssgForfeited">抱歉。 您的 {0} 特别赢彩被注销了。</ds>
+  <ds Jurisdiction="*" name="OCTlossLimit" id="OCTlossLimit">损失限制</ds>
+  <ds Jurisdiction="*" name="OBfreeRoundsGamePanel" id="OBfreeRoundsGamePanel">支付总计： {0}</ds>
+  <ds Jurisdiction="*" name="greaterCDB" id="greaterCDB">数额必须大于投注额。</ds>
+  <ds Jurisdiction="*" name="110" id="110">无法启动游戏。 请稍候重试。</ds>
+  <ds Jurisdiction="*" name="122" id="122">无法播放赛事影片。</ds>
+  <ds Jurisdiction="*" name="RCheckWeek" id="RCheckWeek">星期</ds>
+  <ds Jurisdiction="*" name="RCheckWeeks" id="RCheckWeeks">星期（多数）</ds>
+  <ds Jurisdiction="*" name="0" id="0">暂时无法执行游戏。 请稍候重试。</ds>
+  <ds Jurisdiction="*" name="53" id="53">暂时无法执行游戏。 请稍候重试。</ds>
+  <ds Jurisdiction="*" name="56" id="56">暂时无法执行游戏。 请稍候重试。</ds>
+  <ds Jurisdiction="*" name="58" id="58">暂时无法执行游戏。 请稍候重试。</ds>
+  <ds Jurisdiction="*" name="RCheckMonth" id="RCheckMonth">月</ds>
+  <ds Jurisdiction="*" name="40" id="40">本次比赛尚未开始，请稍后重试。</ds>
+  <ds Jurisdiction="*" name="60" id="60">本次比赛已经结束，最后回合不会被用作计算比赛统计数据的一部分。</ds>
+  <ds Jurisdiction="*" name="50" id="50">本次比赛已经结束。</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">此游戏使用 cookie 来获得统计数据和提升用户体验。请确认您接受我们的</ds>
+  <ds Jurisdiction="*" name="addValue" id="addValue">添加现金</ds>
+  <ds Jurisdiction="*" name="RCheckReminder" id="RCheckReminder">温馨提示</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited_header" id="gameWalletMssgForfeited_header">特别赢彩被注销</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered_header" id="gameWalletMssgWagered_header">特别赢彩被转换</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired_header" id="gameWalletMssgExpired_header">特别赢彩逾期</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitTouch" id="OCTlossLimitTouch">现金金额减少以下数额时进入：</ds>
+  <ds Jurisdiction="*" name="12" id="12">由于特别赢彩已逾期，所以无法执行当前下注。</ds>
+  <ds Jurisdiction="*" name="70" id="70">目前我们无法连接至您的帐户。 请稍候重试。</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfo" id="OCTlossLimitInfo">确认或设置投注额，然后设置**如果现金金额减少**限制。</ds>
+  <ds Jurisdiction="*" name="RCheckSecond" id="RCheckSecond">秒</ds>
+  <ds Jurisdiction="*" name="RCheckSeconds" id="RCheckSeconds">秒（多数）</ds>
+  <ds Jurisdiction="*" name="RCheckEndButton" id="RCheckEndButton">结束</ds>
+  <ds Jurisdiction="*" name="OCTCheckEndButton" id="OCTCheckEndButton">结束</ds>
+  <ds Jurisdiction="*" name="button_CONTINUE" id="button_CONTINUE">继续</ds>
+  <ds Jurisdiction="*" name="Continue" id="Continue">继续</ds>
+  <ds Jurisdiction="*" name="performanceNotification" id="performanceNotification">要提高性能，使用游戏设定降低图象质量。</ds>
+  <ds Jurisdiction="*" name="OBperformanceNotification" id="OBperformanceNotification">要提高性能，在游戏选项页面降低图象质量。</ds>
+  <ds Jurisdiction="*" name="messagecaption" id="messagecaption">讯息</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">讯息</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfoTouch" id="OCTlossLimitInfoTouch">设置限制前，设置可停止自动游戏的投注额。</ds>
+  <ds Jurisdiction="*" name="upgradeIn" id="upgradeIn">请在{1}中升级{0}。</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitWarning" id="OCTlossLimitWarning">请输入**如果现金金额减少**额。</ds>
+  <ds Jurisdiction="*" name="14" id="14">请重新载入以刷新游戏中的余额。</ds>
+  <ds Jurisdiction="*" name="OCTonAnyWin" id="OCTonAnyWin">赢奖时</ds>
+  <ds Jurisdiction="*" name="TotalWinwithColonVar" id="TotalWinwithColonVar">赢得总计： {0}</ds>
+  <ds Jurisdiction="*" name="120" id="120">这个选项只在您结束游戏回合后才可用。</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">连线： 差</ds>
+  <ds Jurisdiction="*" name="reset" id="reset">重置</ds>
+  <ds Jurisdiction="*" name="nothanks" id="nothanks">不了，谢谢</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">为了享受最佳的游戏体验,请更新您的操作系统。</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">为了享受最佳的游戏体验，请更新您的操作系统。</ds>
+  <ds Jurisdiction="*" name="OCTstopIfWinExeeds" id="OCTstopIfWinExeeds">如果单次赢奖金额超过以下数额则停止</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashDecreasesBy" id="OCTstopIfCashDecreasesBy">如果现金金额减少以下数额则停止</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashIncreasesBy" id="OCTstopIfCashIncreasesBy">如果现金金额增加以下数额则停止</ds>
+  <ds Jurisdiction="*" name="stopWhenJackpotIsWon" id="stopWhenJackpotIsWon">如果赢得 jackpot 则停止</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">已对 {1} {2} 的 {0} 进行优化。</ds>
+  <ds Jurisdiction="*" name="OBTotalWinwithColonVar" id="OBTotalWinwithColonVar">总赔付：{0}</ds>
+  <ds Jurisdiction="*" name="bonusAwardedCongrats" id="bonusAwardedCongrats">恭喜！您赢得 {0} 奖励。</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">您需要使用 {0} 来进行游戏。</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">您需要更新您的操作系统以进行游戏。</ds>
+  <ds Jurisdiction="*" name="iagree" id="iagree">我同意</ds>
+  <ds Jurisdiction="*" name="16" id="16">抱歉。免费回合优惠已被使用。</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">此游戏使用 cookie 来提升用户体验和管理广告投放。请确认您接受我们的</ds>
+  <ds Jurisdiction="*" name="bonusAwardedTitle" id="bonusAwardedTitle">赢得奖励</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">额外 免费回合</ds>
+</defaults>

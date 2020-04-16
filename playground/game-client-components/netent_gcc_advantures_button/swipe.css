@@ -1,0 +1,6 @@
+.mobile_landscape #advIcon {
+    left: -10px !important;
+}
+.mobile_portrait #advIcon {
+    bottom: -67%;
+}

@@ -1,0 +1,197 @@
+<defaults xml:lang="ro">
+  <!-- Romanian locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 16:41:58 GMT on Tuesday 16 May 2017.
+
+ -->
+  <ds Jurisdiction="*" name="RTGameHistNoPlayForFun" id="RTGameHistNoPlayForFun">(nu este disponibil în modul  &lt;b&gt;JOC DE AMUZAMENT&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDisclaimer" id="RTquickSpinDisclaimer">(nu este disponibil în toate cazinourile).</ds>
+  <ds Jurisdiction="*" name="RTMGreturnToPlayer" id="RTMGreturnToPlayer">&lt;b&gt;Câştigul Jucătorului&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTcoinsDisplayValues" id="RTcoinsDisplayValues">&lt;b&gt;FISE&lt;/b&gt; afişează numărul de fise pe care jucătorul le are disponibile pentru pariere.</ds>
+  <ds Jurisdiction="*" name="RTMGcoinsDisplayValues" id="RTMGcoinsDisplayValues">&lt;b&gt;Fise&lt;/b&gt; afişează numărul de fise pe care jucătorul le are disponibile pentru pariere.</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlays" id="RTautoplayPlays">&lt;b&gt;JOC AUTOMAT&lt;/b&gt; porneşte automat jocul pentru numărul de runde selectat (sau se poate apăsa pe butonul &lt;b&gt;AUTO&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlaysJimi" id="RTautoplayPlaysJimi">&lt;b&gt;JOC AUTOMAT&lt;/b&gt; porneşte automat jocul pentru numărul de runde selectat (sau se poate apăsa pe butonul &lt;b&gt;AUTO&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTmaxbetPlays" id="RTmaxbetPlays">&lt;b&gt;MIZĂ MAX&lt;/b&gt; porneşte jocul la maximul liniei de miză, la cel mai mare nivel de miză şi la valoarea curentă a fiselor.</ds>
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Notă:&lt;/b&gt; Anumite opțiuni de joc automat sunt obligatorii pentru anumite jurisdicții.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayDisconnect" id="RTMGautoplayDisconnect">&lt;b&gt;Notă:&lt;/b&gt; Dacă sunteţi deconectat în timp ce jucaţi, toate setările de Joc automat vor reveni la valoarea lor implicită atunci când încărcaţi din nou jocul.</ds>
+  <ds Jurisdiction="*" name="RTAutoplayDisconnect" id="RTAutoplayDisconnect">&lt;b&gt;Notă:&lt;/b&gt; Dacă vă deconectaţi în timp ce jucaţi, când reîncărcaţi jocul toate setările de Joc automat vor reveni la valoarea implicită.</ds>
+  <ds Jurisdiction="*" name="RTsettingsDisclaimer" id="RTsettingsDisclaimer">&lt;b&gt;Notă:&lt;/b&gt; Este posibil ca unele cazinouri să funcţioneze fără toate setările de joc listate.</ds>
+  <ds Jurisdiction="*" name="RTMGsettingsDisclaimer" id="RTMGsettingsDisclaimer">&lt;b&gt;Notă:&lt;/b&gt; Unii operatori pot să nu ofere toate setările de joc prezentate.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Notă&lt;/b&gt;: Următorul tabel se aplică doar dacă jucaţi într-o altă limbă decât limba engleză.</ds>
+  <ds Jurisdiction="*" name="RTsoundButton" id="RTsoundButton">&lt;b&gt;Sunet&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTambienceDescRev" id="RTambienceDescRev">Activează sau dezactivează coloană sonoră de fundal.</ds>
+  <ds Jurisdiction="*" name="RTintroOffRev" id="RTintroOffRev">Activează sau dezactivează ecranul introductiv.</ds>
+  <ds Jurisdiction="*" name="RTspacebarspin" id="RTspacebarspin">Activează sau dezactivează funcţia Spaţiu.</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDescRev" id="RTquickSpinDescRev">Activează sau dezactivează opţiunea de Rotire rapidă</ds>
+  <ds Jurisdiction="*" name="RTanimationsOff" id="RTanimationsOff">Activează/dezactivează animaţii.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCoins" id="RTMGshowsBetCoins">Afişează valoarea mizei dvs. în fise.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCurrency" id="RTMGshowsBetCurrency">Afişează valoarea mizei dvs. în moneda selectată.</ds>
+  <ds Jurisdiction="*" name="RTviewMiniPaytable" id="RTviewMiniPaytable">Alternativ, faceţi clic pe orice simbol de pe role pe durata jocului principal pentru a vedea un mini tabel de plăţi pentru respectivul simbol.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRev" id="RTMGautoplayPutOnOffRev">Atinge butonul pentru a opri sau porni Jocul automat. Jocul automat se desfăşoară pentru numărul selectat de învârtiri.</ds>
+  <ds Jurisdiction="*" name="RTMGtapOnOffRev" id="RTMGtapOnOffRev">Atinge butonul pentru a opri sau porni Rotirea rapidă.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundOnOffRev" id="RTMGsoundOnOffRev">Atinge butonul pentru a opri sau porni sunetul.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsDisabledRev" id="RTMGsoundsDisabledRev">Atinge comutatorul pentru a dezactiva sunetele pentru următoarele sesiuni de joc.</ds>
+  <ds Jurisdiction="*" name="RTMGbackMainGame" id="RTMGbackMainGame">Atinge pentru a reveni la jocul principal.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayIfBonusGame" id="RTMGdisableAutoplayIfBonusGame">Atingeți pentru a dezactiva Jocul automat dacă este câștigat Bonus Game înainte de terminarea numărul setat de runde ale jocului automat.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDevNew" id="RTMGgameSettingIntroDevNew">Atingeţi pentru a accesa setările și informaţiile despre joc.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDev" id="RTMGgameSettingIntroDev">Atingeţi pentru a accesa setările jocului şi informaţile despre joc. Alternativ, atingeţi afişajele Numerar şi Fise.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayUI" id="RTMGautoplayUI">Atingeţi pentru a activa sau dezactiva Jocul automat fără a accesa meniul setări. Setează implicit 50 de runde.</ds>
+  <ds Jurisdiction="*" name="RTMGspinButtonLeft" id="RTMGspinButtonLeft">Atingeţi pentru a activa sau dezactiva modul pentru stângaci.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinUI" id="RTMGquickSpinUI">Atingeţi pentru a activa sau dezactiva Rotire rapidă fără a accesa meniul setări.</ds>
+  <ds Jurisdiction="Anguilla" name="RTMGsoundSettingsUI" id="RTMGsoundSettingsUI">Atingeţi pentru a activa sau dezactiva Sunetul fără a accesa meniul setări.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplay" id="RTMGdisableAutoplay">Atingeţi pentru a dezactiva Jocul automat dacă sunt câștigate Free Spins înainte de terminarea numărului de runde de joc automat.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayPickClick" id="RTMGdisableAutoplayPickClick">Atingeţi pentru a dezactiva Jocul automat dacă sunt câștigate Pick and Click  înainte de terminarea numărului de runde de joc automat.</ds>
+  <ds Jurisdiction="*" name="RTMGleaveGame" id="RTMGleaveGame">Atingeţi pentru a ieşi din joc.</ds>
+  <ds Jurisdiction="*" name="RTMGstartAutoplay" id="RTMGstartAutoplay">Atingeţi pentru a începe Jocul automat.</ds>
+  <ds Jurisdiction="*" name="RTMGtapSpinButtonRev" id="RTMGtapSpinButtonRev">Atingeţi pentru a începe jocul pe liniile de miză, nivelul mizei şi valoarea fisei din acel moment.</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplay" id="RTMGstopAutoplay">Atingeţi pentru a opri Jocul automat.</ds>
+  <ds Jurisdiction="*" name="RTMGstartQuickSpin" id="RTMGstartQuickSpin">Atingeţi pentru a porni Rotirea rapidă.</ds>
+  <ds Jurisdiction="*" name="RTMGwinComb" id="RTMGwinComb">Atingeţi pentru a vedea combinaţiile câştigătoare şi plăţile.</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryDesc" id="RTMGgameHistoryDesc">Atingeţi pentru a vedea istoricul recent al jocurilor dvs.</ds>
+  <ds Jurisdiction="*" name="RTMGviewGamesRules" id="RTMGviewGamesRules">Atingeţi pentru a vedea regulile jocului.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettingsMenu" id="RTMGquickSettingsMenu">Atingeţi semnul plus pentru a accesa meniul Setări rapide.</ds>
+  <ds Jurisdiction="*" name="RTMGtapDuringSpin" id="RTMGtapDuringSpin">Atingeţi zona de joc în timpul unei învârtiri pentru a opri rolele.</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGame" id="RTMGtouchMainGame">Atingeţi zona de joc pentru a ascunde butonul Rotire.</ds>
+  <ds Jurisdiction="*" name="RTbuttonTableHead" id="RTbuttonTableHead">Buton</ds>
+  <ds Jurisdiction="*" name="RTMGspinButton" id="RTMGspinButton">Buton de rotire</ds>
+  <ds Jurisdiction="*" name="RTspinPlayRev" id="RTspinPlayRev">Butonul de rotire porneşte jocul corespunzător liniilor de miză, nivelului mizei şi valorii fisei curente (alternativ puteţi apăsa tasta Spaţiu).</ds>
+  <ds Jurisdiction="*" name="RTreturnToPlayer" id="RTreturnToPlayer">Câştigul jucătorului</ds>
+  <ds Jurisdiction="Italy" name="RTtheoreticalReturn" id="RTtheoreticalReturn">Câştigul teoretic pentru jucător în acest joc este</ds>
+  <ds Jurisdiction="*" name="RTMGtheoreticalReturn" id="RTMGtheoreticalReturn">Câştigul teoretic pentru jucător în acest joc este</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytablenoBold" id="RTwinCombinationPaytablenoBold">Combinațiile câștigătoare și plățile sunt făcute în conformitate cu Tabelul de Plată.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytable" id="RTwinCombinationPaytable">Combinaţiile câştigătoare şi câştigurile se acordă în funcţie de &lt;b&gt;TABELUL DE PLĂŢI&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCombinations" id="RTMGwinCombinations">Combinaţiile câştigătoare şi câştigurile se acordă în funcţie de Tabelul de plăţi.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstAddReSpinsRev" id="RTstarBurstAddReSpinsRev">Dacă apare un nou simbol Starburst™ Wild în timpul unei re-învârtiri, acesta se extinde și rămâne pe loc împreună cu eventualele simboluri Starburst™ Wild anterioare pentru o altă re-rotire.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsOff" id="RTMGsoundsOff">Dezactivează întotdeauna sunetele</ds>
+  <ds Jurisdiction="*" name="RTMGgameSessions2" id="RTMGgameSessions2">Durata după care sesiunile inactive de joc se termină automat.</ds>
+  <ds Jurisdiction="Italy" name="RTgameSessions2" id="RTgameSessions2">Durata după care sesiunile inactive de joc se termină automat.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescNoBold" id="RTpaytableButtonsDescNoBold">Faceți clic pe săgețile îndreptate spre stânga sau dreapta pentru a derula prin paginile tabelului de plată. Faceți clic pe butonul din centru pentru a reveni în joc.</ds>
+  <ds Jurisdiction="*" name="RTstartGameRound" id="RTstartGameRound">Faceți clic pentru a porni runda de joc la nivelul curent al mizei și valoarea fisei (alternativ, apăsați tasta spațiu).</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDesc" id="RTinformationIconButtonDesc">Faceți clic pentru a vedea &lt;b&gt;TABELUL DE PLĂŢI&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDescJimi" id="RTinformationIconButtonDescJimi">Faceți clic pentru a vedea &lt;b&gt;TABELUL DE PLĂŢI&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonNoBold" id="RTinformationIconButtonNoBold">Faceți clic pentru a vizualiza tabelul de plată.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescRev" id="RTpaytableButtonsDescRev">Faceţi clic pe săgeţile îndreptate spre stânga sau dreapta pentru a derula prin paginile &lt;b&gt;TABELULUI DE PLĂȚI&lt;/b&gt;. Faceţi clic pe butonul central pentru a reveni la joc.</ds>
+  <ds Jurisdiction="*" name="RTopenSettingsMenu" id="RTopenSettingsMenu">Faceţi clic pentru a deschide meniul cu setările jocului şi selectaţi opţiunile jocului. Consultaţi secţiunea Setările jocului de mai jos.</ds>
+  <ds Jurisdiction="*" name="RTopenGameRules" id="RTopenGameRules">Faceţi clic pentru a deschide regulile jocului.</ds>
+  <ds Jurisdiction="*" name="RTmuteSoundSliderRev" id="RTmuteSoundSliderRev">Faceţi clic pentru a opri sunetele jocului sau utilizaţi glisorul pentru a regla volumul sunetului.</ds>
+  <ds Jurisdiction="*" name="RTgameHistoryDesc" id="RTgameHistoryDesc">Faceţi clic pentru a vedea istoricul recent al jocurilor dvs.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildEnds" id="RTstarburstWildEnds">Funcţia Starburst™ Wild se termină când nu mai apar Starburst™ Wilds noi pe durata unei re-învârtiri.</ds>
+  <ds Jurisdiction="*" name="RTfunctionTableHead" id="RTfunctionTableHead">Funcţie</ds>
+  <ds Jurisdiction="*" name="RTgameFunctionsHeading" id="RTgameFunctionsHeading">Funcţiile jocului</ds>
+  <ds Jurisdiction="*" name="RTMGexit" id="RTMGexit">Ieşire</ds>
+  <ds Jurisdiction="Italy" name="RTmalfunction" id="RTmalfunction">În cazul unei defecţiuni la software-ul/hardware-ul de joc, toate mizele şi câştigurile din joc afectate sunt anulate şi toate pariurile afectate vor fi returnate.</ds>
+  <ds Jurisdiction="*" name="RTMGmalfunction" id="RTMGmalfunction">În cazul unei defecţiuni la software-ul/hardware-ul de joc, toate mizele şi câştigurile din joc afectate sunt anulate şi toate pariurile afectate vor fi returnate.</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGameNew" id="RTMGtouchMainGameNew">În modul peisaj, atingeţi zona de joc pentru a ascunde butonul Invârtire.</ds>
+  <ds Jurisdiction="*" name="RTMGback" id="RTMGback">Înapoi</ds>
+  <ds Jurisdiction="*" name="RTMGadditionalInformation" id="RTMGadditionalInformation">Informaţii suplimentare</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Informaţii suplimentare</ds>
+  <ds Jurisdiction="*" name="termWild" id="termWild">Înlocuitor</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryHeading" id="RTMGgameHistoryHeading">Istoricul jocului</ds>
+  <ds Jurisdiction="*" name="RTMGhistoryNotAvailable" id="RTMGhistoryNotAvailable">Istoricul jocului este disponibil doar atunci când jucaţi pe bani.</ds>
+  <ds Jurisdiction="*" name="RTgHistoryNotAvailableForFun" id="RTgHistoryNotAvailableForFun">Istoricul jocului nu este disponibil când se utilizează modul &lt;b&gt;JOC DE AMUZAMENT&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPanelLabel" id="RTMGautoplayPanelLabel">Joc automat</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayQuickSpinHeading" id="RTMGautoplayQuickSpinHeading">Joc automat şi Rotire rapidă</ds>
+  <ds Jurisdiction="*" name="RTMGbuttonsMainGame" id="RTMGbuttonsMainGame">Jocul principal</ds>
+  <ds Jurisdiction="*" name="RTMGmenu" id="RTMGmenu">Meniu</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettings" id="RTMGquickSettings">Meniul Setări rapide</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCoins" id="RTMGbetInCoins">Miza în fise</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCash" id="RTMGbetInCash">Miză în numerar</ds>
+  <ds Jurisdiction="*" name="RTmaxBetAtHighBetLevel" id="RTmaxBetAtHighBetLevel">MIZĂ MAX porneşte jocul la cel mai mare nivel al mizei şi la valoarea curentă a fisei.</ds>
+  <ds Jurisdiction="*" name="RTMGleftHandMode" id="RTMGleftHandMode">Modul pentru stângaci</ds>
+  <ds Jurisdiction="*" name="RTMGbetlevel" id="RTMGbetlevel">Nivelul mizei</ds>
+  <ds Jurisdiction="*" name="RTMGbetLevelInstruction" id="RTMGbetLevelInstruction">Nivelul mizei este setat folosind selectorul &lt;b&gt;Nivel miză&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTbetLevel" id="RTbetLevel">Nivelul mizei reprezintă numărul de fise mizate pe linia de miză.</ds>
+  <ds Jurisdiction="*" name="RTpaytableHighestRev" id="RTpaytableHighestRev">Numai câştigul cel mare pe o linie de miză activă din ambele direcţii este plătit.</ds>
+  <ds Jurisdiction="*" name="RTMGnumberSpins" id="RTMGnumberSpins">Numărul de învârtiri</ds>
+  <ds Jurisdiction="*" name="RTMGnoAutoplayLeft" id="RTMGnoAutoplayLeft">Numărul de învârtiri rămase este afişat pe buton.</ds>
+  <ds Jurisdiction="*" name="RTMGAutoplaySpins" id="RTMGAutoplaySpins">Numărul de învârtiri selectate este afișat pe buton.</ds>
+  <ds Jurisdiction="*" name="RTMGstopIfFreeSpins" id="RTMGstopIfFreeSpins">Opreşte dacă sunt câştigate Free Spins</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRev" id="RTsingleWinDescRev">Opreşte Joc automat când suma câştigată depăşeşte sau este egală cu suma specificată.</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplayOnOff" id="RTMGstopAutoplayOnOff">Oprire Joc automat</ds>
+  <ds Jurisdiction="*" name="singleWinDesc" id="singleWinDesc">Oprire Joc automat când suma câştigată depăşeşte sau este egală cu suma specificată.</ds>
+  <ds Jurisdiction="*" name="cashIncreasesDesc" id="cashIncreasesDesc">Oprire Joc automat când totalul de bani din sold crește cu suma specificată.</ds>
+  <ds Jurisdiction="Spain" name="cashDecreasesDesc" id="cashDecreasesDesc">Oprire Joc automat când totalul de bani din sold scade cu suma specificată.</ds>
+  <ds Jurisdiction="*" name="anyWinDesc" id="anyWinDesc">Oprire Joc automat la câştigarea unei runde.</ds>
+  <ds Jurisdiction="*" name="advancedAutoplayOptionsHeading" id="advancedAutoplayOptionsHeading">Opţiuni complexe joc automat</ds>
+  <ds Jurisdiction="*" name="gameSettingOptionsHeading" id="gameSettingOptionsHeading">Opţiuni Setări joc</ds>
+  <ds Jurisdiction="*" name="RTstarBurststickyWExpandsReSpinsRev" id="RTstarBurststickyWExpandsReSpinsRev">Pe durata funcției Starburst™ Wild, Starburst™ Wild-urile se extind pentru a acoperi toată rola și rămân pe loc în timp ce restul rolelor se re-învârtesc.</ds>
+  <ds Jurisdiction="*" name="gameSettingIntro" id="gameSettingIntro">Pentru a accesa setările jocului faceţi clic pe pictograma cheie de piulițe din panoul de joc.</ds>
+  <ds Jurisdiction="Spain" name="RTAutoplayButton" id="RTAutoplayButton">Pentru a seta opţiunile complexe de joc automat faceţi clic pe &lt;b&gt;JOC AUTOMAT&lt;/b&gt; pe tastatură sau &lt;b&gt;AUTO&lt;/b&gt; în panoul de joc şi faceţi apoi clic pe &lt;b&gt;Setări complexe&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTgameSoundDesc" id="RTgameSoundDesc">Porneşte şi opreşte sunetele din joc.</ds>
+  <ds Jurisdiction="*" name="RTMGunfinishedGameSession2" id="RTMGunfinishedGameSession2">Procedurile folosite pentru gestionarea rundelor de joc neterminate.</ds>
+  <ds Jurisdiction="Italy" name="RTunfinishedGameSession2" id="RTunfinishedGameSession2">Procedurile folosite pentru gestionarea rundelor de joc neterminate.</ds>
+  <ds Jurisdiction="*" name="RTadjustQualityRev" id="RTadjustQualityRev">Reglează calitatea grafică pentru performanțe optime.</ds>
+  <ds Jurisdiction="*" name="RTMGgameRules" id="RTMGgameRules">Regulile jocului</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchRulesHeading" id="RTMGstarburstTouchRulesHeading">Regulile jocului Starburst Touch™</ds>
+  <ds Jurisdiction="*" name="RTstarBurstRulesHeading" id="RTstarBurstRulesHeading">Regulile jocului Starburst™</ds>
+  <ds Jurisdiction="*" name="RTrulesGenerated" id="RTrulesGenerated">Regulile jocului sunt generate:</ds>
+  <ds Jurisdiction="*" name="ReSpinsAtActivatingRound" id="ReSpinsAtActivatingRound">Re-învârtirile se joacă la aceeaşi miză ca la runda care activează re-învârtirile.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpin" id="RTMGquickSpin">Rotire rapidă</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinGameSetting" id="RTMGquickSpinGameSetting">Rotire rapidă</ds>
+  <ds Jurisdiction="*" name="simultaneousWinsAdded" id="simultaneousWinsAdded">Se adaugă câştigurile simultane de la diferite linii de miză.</ds>
+  <ds Jurisdiction="*" name="RTplayCurrentBetLinesTo10" id="RTplayCurrentBetLinesTo10">Se joacă folosind 1 – 10 linii de miză la diferite niveluri ale mizei şi valori ale fisei.</ds>
+  <ds Jurisdiction="*" name="RTMGplay10FixedBetLines" id="RTMGplay10FixedBetLines">Se joacă folosind 10 linii de miză fixe la diferite niveluri ale mizei şi valori ale fisei.</ds>
+  <ds Jurisdiction="*" name="RTHighWinSymCompleteActLineRev" id="RTHighWinSymCompleteActLineRev">Se plăteşte cea mai mare combinaţie câştigătoare de la rola cea mai din stânga spre dreapta şi/sau de la rola cea mai din dreapta spre stânga pe o linie de miză activă.</ds>
+  <ds Jurisdiction="*" name="RTautoplaySelectSpins" id="RTautoplaySelectSpins">Selectaţi numărul de învârtiri pentru Joc automat sau deschideţi Setări complexe pentru a configura opţiunile de oprire pentru Joc automat.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundSettings" id="RTMGsoundSettings">Setări de sunet</ds>
+  <ds Jurisdiction="*" name="RTMGspinSettingsRev" id="RTMGspinSettingsRev">Setări rotire</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettings" id="RTMGgameSettings">Setările jocului şi Informaţii despre joc</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSymbAppear" id="RTstarBurstWildSymbAppear">Simbolurile Starburst™ Wild pot să apară doar pe rolele 2, 3 și 4.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildHeading" id="RTstarBurstWildHeading">Simbolurile Wild Starburst™</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSubstitute" id="RTstarBurstWildSubstitute">Simbolurile Wild Starburst™ înlocuiesc toate simbolurile.</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchIntro" id="RTMGstarburstTouchIntro">Starburst Touch™ este un slot video cu 5 role, 3 rânduri ce conţine Starburst™ Wild cu re-învârtiri şi câştiguri în ambele direcţii.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstIntro" id="RTstarBurstIntro">Starburst™ este un slot video cu 5 role, 3 rânduri ce conţine funcţia Starburst™ Wild cu re-învârtiri şi câştiguri win both ways.</ds>
+  <ds Jurisdiction="*" name="RTMGquickStop" id="RTMGquickStop">Stop rapid</ds>
+  <ds Jurisdiction="*" name="RTMGsounds" id="RTMGsounds">Sunetele jocului</ds>
+  <ds Jurisdiction="*" name="RTtableDescribes" id="RTtableDescribes">Tabelul de mai jos prezintă diferitele butoane care se găsesc în joc şi descrierea funcţiilor.</ds>
+  <ds Jurisdiction="*" name="RTMGpaytable" id="RTMGpaytable">Tabelul de plăţi</ds>
+  <ds Jurisdiction="*" name="termPaytable" id="termPaytable">Tabelul de plăţi</ds>
+  <ds Jurisdiction="*" name="RTMGpaytableJimi" id="RTMGpaytableJimi">Tabelul de plăţi</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Termen în engleză</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Termen tradus</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Traducerea terminologiei de joc</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRev" id="RTMGselectBetLevelRev">Trage sau atinge rotiţa de setări pentru a selecta numărul de fise de mizat pe linia de miză.</ds>
+  <ds Jurisdiction="*" name="RTMGselectSpinsRev" id="RTMGselectSpinsRev">Trage sau atinge rotiţa de setări pentru a selecta numărul de învârtiri la Jocul automat.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRev" id="RTMGselectCoinValueRev">Trage sau atinge rotiţa de setări pentru a selecta valoarea fisei.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRevNew" id="RTMGautoplayPutOnOffRevNew">Trageți sau atingeți glisorul pentru a activa Jocul automat și pentru a seta numărul de runde. Jocul automat porneşte jocul pentru numărul selectat de învârtiri.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRevNew" id="RTMGselectBetLevelRevNew">Trageți sau atingeți glisorul pentru a selecta numărul de fise de mizat pe linia de miză.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRevNew" id="RTMGselectCoinValueRevNew">Trageţi sau atingeţi glisorul pentru a selecta valoarea fisei.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCurrency" id="RTMGwinCalculationBetLinesCurrency">Un câştig în bani pe linia de miză este egal cu câştigul în fise înmulțit cu valoarea fisei.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCoinsNoMultiplier" id="RTMGwinCalculationBetLinesCoinsNoMultiplier">Un câştig în fise pe linia de miză este egal cu valoarea afişată în &lt;b&gt;TABELUL DE PLĂŢI &lt;/b&gt; înmulțită cu nivelul mizei.</ds>
+  <ds Jurisdiction="*" name="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier" id="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier">Un câştig în fise pe linia de miză este egal cu valoarea afişată în &lt;b&gt;TABELUL DE PLĂŢI &lt;/b&gt; înmulțită cu nivelul mizei.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCurrency" id="RTwinCalculationBetLinesCurrency">Un câştig pe linia de miză în monedă este egal cu câştigul în fise înmulțit cu valoarea fisei.</ds>
+  <ds Jurisdiction="*" name="RTCalcBetLineCoinNoMultiplierTransNew" id="RTCalcBetLineCoinNoMultiplierTransNew">Un câștig în fise pe linia de miză este egal cu valoarea afișată în Tabelul de plăţi înmulțită cu nivelul mizei.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoMultiplierTrans" id="RTwinCalculationBetLinesCoinsNoMultiplierTrans">Un câștig în fise pe linia de miză este egal cu valoarea afişată în &lt;b&gt;TABELUL DE PLĂŢI&lt;/b&gt; înmulţită cu nivelul mizei.</ds>
+  <ds Jurisdiction="*" name="RTwinCalcBetLinesNoMultiplier" id="RTwinCalcBetLinesNoMultiplier">Un câștig în fise pe linia de miză este egal cu valoarea afişată în Tabelul de plăţi înmulţită cu nivelul mizei.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoBold" id="RTwinCalculationBetLinesCoinsNoBold">Un câștig în fise pe linia de miză este egal cu valoarea afişată în Tabelul de plăţi înmulţită cu nivelul mizei. Această valoare este înmulţită, de asemenea, cu orice multiplicator aplicabil.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildFeatureActive" id="RTstarburstWildFeatureActive">Unul sau mai multe Starburst™ Wilds care apar oriunde pe rolele 2, 3 şi 4 activează funcţia Starburst™ Wild.</ds>
+  <ds Jurisdiction="Italy" name="RTreferWebSite" id="RTreferWebSite">Următoarele funcţii şi setări ale jocului se pot supune termenilor şi condiţiilor de pe site-ul de jocuri. Pentru informaţii suplimentare despre următoarele, accesaţi site-ul de jocuri:</ds>
+  <ds Jurisdiction="*" name="RTMGreferWebSite" id="RTMGreferWebSite">Următoarele funcţii şi setări ale jocului se pot supune termenilor şi condiţiilor de pe site-ul de jocuri. Pentru informaţii suplimentare despre următoarele, accesează site-ul de jocuri:</ds>
+  <ds Jurisdiction="*" name="RTMGcoinvalue" id="RTMGcoinvalue">Valoarea fisei</ds>
+  <ds Jurisdiction="*" name="RTMGcoinValueInstruction" id="RTMGcoinValueInstruction">Valoarea fisei este setată folosind selectorul VALOARE FISĂ.</ds>
+  <ds Jurisdiction="*" name="RTautoplayDuringGameRev" id="RTautoplayDuringGameRev">&lt;b&gt;Notă:&lt;/b&gt; Când modificaţi setările pentru Autoplay pe durata unei runde de joc, toate setările se vor aplica după terminarea rundei de joc sau a funcţiei active.</ds>
+  <ds Jurisdiction="*" name="RTopenAutoplayMenu" id="RTopenAutoplayMenu">Faceţi clic pentru a deschide meniul cu setări pentru Joc automat şi pentru a juca în modul automat.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationWinMatchCurrency" id="RTwinCalculationWinMatchCurrency">Un câştig pe linia de miză în monedă este egal cu câştigul în fise înmulțit cu valoarea fisei.</ds>
+  <ds Jurisdiction="*" name="RTeachStar1AddRespinUpTo3respin" id="RTeachStar1AddRespinUpTo3respin">După ce un Starburst™ Wild activează o re-învârtire, pot să apară până la 2 simboluri suplimentare Starburst™ Wild care declanșează o re-învârtire suplimentară sau maxim 3 re-învârtiri.</ds>
+  <ds Jurisdiction="*" name="RTsliderBetLevel" id="RTsliderBetLevel">Nivelul mizei este setat folosind glisorul pentru nivelul Mizei.</ds>
+  <ds Jurisdiction="*" name="RTcashIncreasesDescRev" id="RTcashIncreasesDescRev">Oprește Jocul automat când totalul de bani din sold crește cu suma specificată de dvs.</ds>
+  <ds Jurisdiction="*" name="RTcashDecreasesDescRev" id="RTcashDecreasesDescRev">Oprește Jocul automat când totalul de bani din sold scade cu suma specificată de dvs.</ds>
+  <ds Jurisdiction="*" name="onlyHighWinComb" id="onlyHighWinComb">Se plătește doar cea mai mare combinație câștigătoare de pe liniile de miză de la cea mai din stânga spre dreapta și/sau de la cea mai din dreapta spre stânga.</ds>
+  <ds Jurisdiction="*" name="RTexCloneWildOverlay" id="RTexCloneWildOverlay">Simbolurile Expanding Cloning Wild pot să apară ca o suprapunere peste rolele ce se învârtesc. Simbolurile clonate apar, de asemenea, ca o suprapunere peste role.</ds>
+  <ds Jurisdiction="*" name="RTMGautoOptions" id="RTMGautoOptions">Trageți sau atingeți glisorul pentru a permite jocului automat să seteze opțiunile de joc automat și numărul de runde. Jocul automat porneşte jocul pentru numărul selectat de învârtiri.</ds>
+  <ds Jurisdiction="*" name="RTsliderCoinValue" id="RTsliderCoinValue">Valoarea fisei este setată folosind glisorul pentru valoarea Fisei.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Notă:&lt;/b&gt; Anumite opțiuni de joc automat sunt obligatorii pentru anumite jurisdicții.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Notă&lt;/b&gt;: Următorul tabel se aplică doar dacă jucaţi într-o altă limbă decât limba engleză.</ds>
+  <ds Jurisdiction="*" name="featuresNotAvailablePFF" id="featuresNotAvailablePFF">Este posibil ca unele caracteristici să nu fie disponibile în modul &lt;b&gt;JOC DE AMUZAMENT&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Informaţii suplimentare</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRevNew" id="RTsingleWinDescRevNew">Opreşte Joc automat când valoarea câştigului depăşeşte sau este egală cu valoarea specificată.</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Termen în engleză</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Termen tradus</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Traducerea terminologiei de joc</ds>
+</defaults>

@@ -1,0 +1,2 @@
+alert('interceptor correctly injected');
+

@@ -1,0 +1,62 @@
+{
+    "clips": {"main": {
+        "respinStart": {
+            "volume": 1,
+            "start": 0.02
+        },
+        "bigWinStart": {
+            "volume": 1,
+            "start": 0.02
+        },
+        "spinStart2": {
+            "volume": 1,
+            "start": 0.02
+        },
+        "wildRainbowExitSnd": {
+            "volume": 1,
+            "start": 0.02
+        },
+        "spinStart": {
+            "volume": 1,
+            "start": 0.02
+        },
+        "smallWin": {
+            "volume": 1,
+            "start": 0.02
+        },
+        "mediumWin": {
+            "volume": 1,
+            "start": 0.02
+        },
+        "wildExpansionSnd": {
+            "volume": 1,
+            "start": 0.02
+        },
+        "largeWin": {
+            "volume": 1,
+            "start": 0.02
+        }
+    }},
+    "files": {"main": {
+        "respinStart": "multimedia/audio/legacyAudio/main/mp3/respinStart.mp3",
+        "bigWinStart": "multimedia/audio/legacyAudio/main/mp3/bigWinStart.mp3",
+        "spinStart2": "multimedia/audio/legacyAudio/main/mp3/spinStart2.mp3",
+        "wildRainbowExitSnd": "multimedia/audio/legacyAudio/main/mp3/wildRainbowExitSnd.mp3",
+        "spinStart": "multimedia/audio/legacyAudio/main/mp3/spinStart.mp3",
+        "smallWin": "multimedia/audio/legacyAudio/main/mp3/smallWin.mp3",
+        "mediumWin": "multimedia/audio/legacyAudio/main/mp3/mediumWin.mp3",
+        "wildExpansionSnd": "multimedia/audio/legacyAudio/main/mp3/wildExpansionSnd.mp3",
+        "largeWin": "multimedia/audio/legacyAudio/main/mp3/largeWin.mp3"
+    }},
+    "fileSizes": {"main": {
+        "respinStart": 41629,
+        "bigWinStart": 72653,
+        "spinStart2": 25015,
+        "wildRainbowExitSnd": 8392,
+        "spinStart": 25015,
+        "smallWin": 27514,
+        "mediumWin": 28768,
+        "wildExpansionSnd": 14035,
+        "largeWin": 36604
+    }}
+}

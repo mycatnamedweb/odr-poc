@@ -1,0 +1,197 @@
+<defaults xml:lang="et">
+  <!-- Estonian locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 16:41:58 GMT on Tuesday 16 May 2017.
+
+ -->
+  <ds Jurisdiction="*" name="RTGameHistNoPlayForFun" id="RTGameHistNoPlayForFun">(ei ole kättesaadav, kui &lt;b&gt;MÄNGI OMA LÕBUKS&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDisclaimer" id="RTquickSpinDisclaimer">(ei ole saadaval kõikides kasiinodes).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlaysJimi" id="RTautoplayPlaysJimi">&lt;b&gt;AUTOMAATMÄNGY&lt;/b&gt; mängib automaatselt mängu valitud ridade hulgas (teise võimalusena klõpsake nuppu &lt;b&gt;AUTO&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlays" id="RTautoplayPlays">&lt;b&gt;AUTOPLAY&lt;/b&gt; mängib automaatselt mängu valitud ridade hulgas (teise võimalusena klõpsake nuppu &lt;b&gt;AUTO&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTsoundButton" id="RTsoundButton">&lt;b&gt;Heli&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTMGreturnToPlayer" id="RTMGreturnToPlayer">&lt;b&gt;Mängija tasu&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Märkus.&lt;/b&gt; Mõned autoplay seaded on mõnes riigis seaduse järgi kohustuslikud.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayDisconnect" id="RTMGautoplayDisconnect">&lt;b&gt;Märkus:&lt;/b&gt; Kui teie ühendus mängimise vältel katkeb, muutuvad mängu uuesti laadides kõik automaatmängu seaded vaikimisi määratuks.</ds>
+  <ds Jurisdiction="*" name="RTAutoplayDisconnect" id="RTAutoplayDisconnect">&lt;b&gt;Märkus:&lt;/b&gt; Kui teie ühendus mängimise vältel katkeb, muutuvad mängu uuesti laadides kõik Autoplay seaded vaikimisi määratuks.</ds>
+  <ds Jurisdiction="*" name="RTsettingsDisclaimer" id="RTsettingsDisclaimer">&lt;b&gt;Märkus:&lt;/b&gt; Mõned kasiinod võivad opereerida ilma mängus toodud seadistusteta.</ds>
+  <ds Jurisdiction="*" name="RTMGsettingsDisclaimer" id="RTMGsettingsDisclaimer">&lt;b&gt;Märkus:&lt;/b&gt; Mõningad korraldajad ei pruugi pakkuda kõiki antud mänguseadeid.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Märkus&lt;/b&gt;: Järgnev tabel kohaldub vaid siis, kui te ei mängi inglise keeles.</ds>
+  <ds Jurisdiction="*" name="RTmaxbetPlays" id="RTmaxbetPlays">&lt;b&gt;MAX PANUS&lt;/b&gt; mängib mängu maksimaalsetel panustusridadel, kõrgeimal panustustasandil ja olemasoleval mündiväärtusel.</ds>
+  <ds Jurisdiction="*" name="RTMGcoinsDisplayValues" id="RTMGcoinsDisplayValues">&lt;b&gt;Mündid&lt;/b&gt; näitab mängijal olemasolevate müntide hulka, mida mängija saab panustada.</ds>
+  <ds Jurisdiction="*" name="RTcoinsDisplayValues" id="RTcoinsDisplayValues">&lt;b&gt;MÜNDID&lt;/b&gt; näitab mängijal olemasolevate müntide hulka, mida mängija saab panustada.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDesc" id="RTinformationIconButtonDesc">&lt;b&gt;VÕIDUTABELI&lt;/b&gt; vaatamiseks klõpsa.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDescJimi" id="RTinformationIconButtonDescJimi">&lt;b&gt;VÕIDUTABELI&lt;/b&gt; vaatamiseks klõpsa.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSessions2" id="RTMGgameSessions2">Aeg, mille möödudes mitteaktiivsed mänguseansid lõppevad automaatselt.</ds>
+  <ds Jurisdiction="Italy" name="RTgameSessions2" id="RTgameSessions2">Aeg, mille möödudes mitteaktiivsed mänguseansid lõppevad automaatselt.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsOff" id="RTMGsoundsOff">Alati keela helid</ds>
+  <ds Jurisdiction="*" name="RTMGreferWebSite" id="RTMGreferWebSite">Alljärgnevad mänguomadused ja seadistused võivad muutuda olenevalt mängukoha tingimustest. Alljärgneva kohta lisateabe saamiseks vaadake mängude veebilehte:</ds>
+  <ds Jurisdiction="Italy" name="RTreferWebSite" id="RTreferWebSite">Alljärgnevad mänguomadused ja seadistused võivad muutuda olenevalt mängukoha tingimustest. Alljärgneva kohta lisateabe saamiseks vaadake mängude veebilehte:</ds>
+  <ds Jurisdiction="*" name="RTtableDescribes" id="RTtableDescribes">Allolev tabel annab mängus leiduvate erinevate nuppude nimekirja ja kirjeldab nende funktsioone.</ds>
+  <ds Jurisdiction="*" name="RTanimationsOff" id="RTanimationsOff">Animatsioonid sees/väljas.</ds>
+  <ds Jurisdiction="*" name="termWild" id="termWild">Asendussümbol</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPanelLabel" id="RTMGautoplayPanelLabel">Automaatmäng</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRevNew" id="RTMGautoplayPutOnOffRevNew">Automaatmäng käivitamiseks ja mängude arvu määramiseks nihuta slaiderit või koputa sellel. Automaatmäng mängib nii palju keerutusi, kui oled valinud.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayQuickSpinHeading" id="RTMGautoplayQuickSpinHeading">Automaatne mängimine ja Kiire spin</ds>
+  <ds Jurisdiction="*" name="RTfunctionTableHead" id="RTfunctionTableHead">Funktsioon</ds>
+  <ds Jurisdiction="*" name="RTMGsoundSettings" id="RTMGsoundSettings">Heli seaded</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGameNew" id="RTMGtouchMainGameNew">Horisontaalpaigutusega režiimis puuduta Keerutamise nupu peitmiseks mänguala.</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Inglisekeelne termin</ds>
+  <ds Jurisdiction="*" name="RTMGnoAutoplayLeft" id="RTMGnoAutoplayLeft">Järelejäänud keerutuste arvu kuvatakse nupul.</ds>
+  <ds Jurisdiction="*" name="RTMGspinSettingsRev" id="RTMGspinSettingsRev">Keerutamise seaded</ds>
+  <ds Jurisdiction="*" name="RTMGnumberSpins" id="RTMGnumberSpins">Keerutuste arv</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinGameSetting" id="RTMGquickSpinGameSetting">Kiire keerutus</ds>
+  <ds Jurisdiction="*" name="RTMGquickStop" id="RTMGquickStop">Kiire peatamine</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpin" id="RTMGquickSpin">Kiire spin</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettingsMenu" id="RTMGquickSettingsMenu">Kiirete seadete menüüsse minekuks koputa pluss-märgile.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettings" id="RTMGquickSettings">Kiirseadete menüü</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonNoBold" id="RTinformationIconButtonNoBold">Klõpsa võidutabeli vaatamiseks.</ds>
+  <ds Jurisdiction="*" name="RTstartGameRound" id="RTstartGameRound">Klõpsa, kui soovid mängu alustada hetkel aktiivse panusetasemega ja mündiväärtusega (alternatiivina võid vajutada tühikuklahvi).</ds>
+  <ds Jurisdiction="*" name="RTmuteSoundSliderRev" id="RTmuteSoundSliderRev">Klõpsake mänguheli vaigistamiseks või kasutage helitugevuse reguleerimiseks liugurit.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescRev" id="RTpaytableButtonsDescRev">Klõpsake vasakule või paremale osutavatele nooltele, et sirvida &lt;b&gt;VÕIDUTABEL&lt;/b&gt; lehekülgi. Mängu tagasi pöördumiseks klõpsake keskmist nuppu.</ds>
+  <ds Jurisdiction="*" name="RTopenSettingsMenu" id="RTopenSettingsMenu">Klõpsake, et avada mängu seadete menüü ja valida mängu valikute vahel. Vaadake allolevat mängu valikute rubriiki.</ds>
+  <ds Jurisdiction="*" name="RTopenGameRules" id="RTopenGameRules">Klõpsake, et avada mängureeglid.</ds>
+  <ds Jurisdiction="*" name="RTgameHistoryDesc" id="RTgameHistoryDesc">Klõpsake, et näha oma mängu ajalugu</ds>
+  <ds Jurisdiction="*" name="RTadjustQualityRev" id="RTadjustQualityRev">Kohandab kehva võrguühenduse korral optimaalse toimimise tagamiseks graafika kvaliteeti.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayIfBonusGame" id="RTMGdisableAutoplayIfBonusGame">Koputa Automaatmängimise keelamiseks, kui boonusmäng võidetakse enne määratud automaatmängu ringe.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplay" id="RTMGdisableAutoplay">Koputa automaatmängimise peatamiseks, kui enne automaatmänguks valitud keerutuste lõppu võidetakse Free Spins.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayPickClick" id="RTMGdisableAutoplayPickClick">Koputa automaatmängimise peatamiseks, kui enne automaatmänguks valitud keerutuste lõppu võidetakse Pick and Click .</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayUI" id="RTMGautoplayUI">Koputa, et lülitada Automaatmängimine sisse või välja ilma seadete menüüd kasutamata. Vaikimisi seadistatakse 50 ringi.</ds>
+  <ds Jurisdiction="Anguilla" name="RTMGsoundSettingsUI" id="RTMGsoundSettingsUI">Koputa, et lülitada Heli sisse või välja ilma seadete menüüd kasutamata.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinUI" id="RTMGquickSpinUI">Koputa, et lülitada Kiire keerutus sisse või välja ilma seadete menüüd kasutamata.</ds>
+  <ds Jurisdiction="*" name="RTMGspinButtonLeft" id="RTMGspinButtonLeft">Koputa, et lülitada vasaku käe režiim sisse või välja.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDevNew" id="RTMGgameSettingIntroDevNew">Koputa, et pääseda ligi mängu seadetele ja mänguinfole.</ds>
+  <ds Jurisdiction="*" name="RTMGleaveGame" id="RTMGleaveGame">Koputage, et mängust lahkuda.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstAddReSpinsRev" id="RTstarBurstAddReSpinsRev">Kui korduskeerutuse ajal ilmub uus Starburst™ Wild’i  sümbol, laieneb see ja jääb koos teiste, varem laienenud Starburst™ Wild’idega veel üheks korduskeerutuseks paigale.</ds>
+  <ds Jurisdiction="*" name="RTMGexit" id="RTMGexit">Lahku</ds>
+  <ds Jurisdiction="*" name="simultaneousWinsAdded" id="simultaneousWinsAdded">Lisatakse samaaegsed võidud erinevates panuseridades.</ds>
+  <ds Jurisdiction="*" name="RTMGadditionalInformation" id="RTMGadditionalInformation">Lisateave</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Lisateave</ds>
+  <ds Jurisdiction="*" name="RTrulesGenerated" id="RTrulesGenerated">Loodud mängureeglid:</ds>
+  <ds Jurisdiction="Italy" name="RTunfinishedGameSession2" id="RTunfinishedGameSession2">Lõpetamata mänguringide haldamiseks kasutatavad toimingud.</ds>
+  <ds Jurisdiction="*" name="RTMGunfinishedGameSession2" id="RTMGunfinishedGameSession2">Lõpetamata mänguringide haldamiseks kasutatavad toimingud.</ds>
+  <ds Jurisdiction="*" name="RTintroOffRev" id="RTintroOffRev">Lülitab avakuva sisse või välja.</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDescRev" id="RTquickSpinDescRev">Lülitab kiirkeerutuse võimaluse sisse või välja</ds>
+  <ds Jurisdiction="*" name="RTgameSoundDesc" id="RTgameSoundDesc">Lülitab mängu heli sisse või välja.</ds>
+  <ds Jurisdiction="*" name="RTambienceDescRev" id="RTambienceDescRev">Lülitab taustamuusika sisse või välja.</ds>
+  <ds Jurisdiction="*" name="RTspacebarspin" id="RTspacebarspin">Lülitab tühikuklahvi funktsiooni sisse või välja.</ds>
+  <ds Jurisdiction="Spain" name="RTAutoplayButton" id="RTAutoplayButton">Määramaks täpsema automaatmängu valikuid klõpsake klahvistikul &lt;b&gt;AUTOPLAY&lt;/b&gt; või mängu juhtlaual &lt;b&gt;AUTO&lt;/b&gt;, ning klõpsake seejärel &lt;b&gt;Täpsemad seaded&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTpaytableHighestRev" id="RTpaytableHighestRev">Makstakse üksnes suurim võit aktiivse panuserea kohta mõlemalt panuseteelt.</ds>
+  <ds Jurisdiction="*" name="RTHighWinSymCompleteActLineRev" id="RTHighWinSymCompleteActLineRev">Makstakse vaid aktiivse panuserea suurim võidukombinatsioon vasakpoolsemailt rullikult paremale ja/või parempoolseimalt rullikult vasakule.</ds>
+  <ds Jurisdiction="*" name="RTreturnToPlayer" id="RTreturnToPlayer">Mängija tasu</ds>
+  <ds Jurisdiction="Italy" name="RTtheoreticalReturn" id="RTtheoreticalReturn">Mängija teoreetiline tasuvus selle mängu eest on</ds>
+  <ds Jurisdiction="*" name="RTMGtheoreticalReturn" id="RTMGtheoreticalReturn">Mängija teoreetiline teenitud summa selle mängu eest on</ds>
+  <ds Jurisdiction="*" name="RTgameFunctionsHeading" id="RTgameFunctionsHeading">Mängu funktsioonid</ds>
+  <ds Jurisdiction="*" name="RTMGsounds" id="RTMGsounds">Mängu helid</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettings" id="RTMGgameSettings">Mängu seaded ja informatsioon mängu kohta</ds>
+  <ds Jurisdiction="*" name="gameSettingOptionsHeading" id="gameSettingOptionsHeading">Mängu seadete valikud</ds>
+  <ds Jurisdiction="*" name="gameSettingIntro" id="gameSettingIntro">Mängu seadetele ligi pääsemiseks klõpsake mutrivõtme ikooni mängu juhtlaual.</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Mängu terminoloogia tõlked</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryHeading" id="RTMGgameHistoryHeading">Mänguajalugu</ds>
+  <ds Jurisdiction="*" name="RTgHistoryNotAvailableForFun" id="RTgHistoryNotAvailableForFun">Mänguajalugu ei ole  &lt;b&gt;MÄNGI OMA LÕBUKS&lt;/b&gt; režiimis saadaval.</ds>
+  <ds Jurisdiction="*" name="RTMGhistoryNotAvailable" id="RTMGhistoryNotAvailable">Mänguajalugu on kättesaadav vaid raha peale mängides.</ds>
+  <ds Jurisdiction="*" name="RTMGgameRules" id="RTMGgameRules">Mängureeglid</ds>
+  <ds Jurisdiction="Italy" name="RTmalfunction" id="RTmalfunction">Mänguriistvara/-tarkvara tõrke korral kuulutatakse kõik seotud mängupanused ja väljamaksed tühisteks ning kõik seotud panused makstakse tagasi.</ds>
+  <ds Jurisdiction="*" name="RTMGmalfunction" id="RTMGmalfunction">Mänguriistvara/-tarkvara tõrke korral kuulutatakse kõik seotud mängupanused ja väljamaksed tühisteks ning kõik seotud panused makstakse tagasi.</ds>
+  <ds Jurisdiction="*" name="RTmaxBetAtHighBetLevel" id="RTmaxBetAtHighBetLevel">MAX PANUS mängib mängu suurima panusetaseme ja olemasoleva mündiväärtusega.</ds>
+  <ds Jurisdiction="*" name="RTMGmenu" id="RTMGmenu">Menüü</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildFeatureActive" id="RTstarburstWildFeatureActive">Mis tahes kohas rullikutel 2, 3 või 4 ilmuv Starburst™ Wild aktiveerib Starburst™ Wild funktsiooni.</ds>
+  <ds Jurisdiction="*" name="RTMGcoinvalue" id="RTMGcoinvalue">Mündi väärtus</ds>
+  <ds Jurisdiction="*" name="RTMGcoinValueInstruction" id="RTMGcoinValueInstruction">Mündiväärtus valitakse kasutades valijat MÜNDI VÄÄRTUS.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRevNew" id="RTMGselectCoinValueRevNew">Mündiväärtuse valimiseks lohista liugurit või koputa sellele.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCoins" id="RTMGshowsBetCoins">Näitab teie panusesummat müntides.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCurrency" id="RTMGshowsBetCurrency">Näitab teie panusesummat valitud valuutas.</ds>
+  <ds Jurisdiction="*" name="RTbuttonTableHead" id="RTbuttonTableHead">Nupp</ds>
+  <ds Jurisdiction="*" name="RTMGspinButton" id="RTMGspinButton">Nupp "Keeruta"</ds>
+  <ds Jurisdiction="*" name="RTspinPlayRev" id="RTspinPlayRev">Nupp Keeruta alustab mängu valitud võiduridade, panusetaseme ja mündiväärtusega (teise võimalusena võite vajutada tühikuklahvile).</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCoins" id="RTMGbetInCoins">Panus müntides</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCash" id="RTMGbetInCash">Panus rahas</ds>
+  <ds Jurisdiction="*" name="RTbetLevel" id="RTbetLevel">Panuse tase on panuserea kohta panustatud müntide arv.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRevNew" id="RTMGselectBetLevelRevNew">Panuseliinil panustatavate müntide arvu määramiseks lohista või koputa slaiderit.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoMultiplierTrans" id="RTwinCalculationBetLinesCoinsNoMultiplierTrans">Panuserea võit müntides on võrdne &lt;b&gt;VÕIDUTABELIS&lt;/b&gt; näidatud väärtusega, korrutatuna panusetasemega.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCoinsNoMultiplier" id="RTMGwinCalculationBetLinesCoinsNoMultiplier">Panuserea võit müntides on võrdne väärtusega, mis on näidatud Paytable'is, korrutatuna panusetasemega.</ds>
+  <ds Jurisdiction="*" name="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier" id="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier">Panuserea võit müntides on võrdne väärtusega, mis on näidatud Paytable'is, korrutatuna panusetasemega.</ds>
+  <ds Jurisdiction="*" name="RTwinCalcBetLinesNoMultiplier" id="RTwinCalcBetLinesNoMultiplier">Panuserea võit müntides on võrdne Võidutabelis näidatud väärtusega, korrutatud panusetasemega.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoBold" id="RTwinCalculationBetLinesCoinsNoBold">Panuserea võit müntides on võrdne Võidutabelis näidatud väärtusega, korrutatud panusetasemega. See väärtus korrutatakse ka mis tahes kohalduvate kordajatega.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCurrency" id="RTMGwinCalculationBetLinesCurrency">Panuserea võit valuutas on võrdne võiduga müntides, korrutatuna mündiväärtusega.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCurrency" id="RTwinCalculationBetLinesCurrency">Panuserea võit valuutas on võrdne võiduga müntides, korrutatuna mündiväärtusega.</ds>
+  <ds Jurisdiction="*" name="RTMGbetlevel" id="RTMGbetlevel">Panusetase</ds>
+  <ds Jurisdiction="*" name="RTMGbetLevelInstruction" id="RTMGbetLevelInstruction">Panusetase valitakse &lt;b&gt;Panusetaseme&lt;/b&gt; valijat kasutades.</ds>
+  <ds Jurisdiction="*" name="RTCalcBetLineCoinNoMultiplierTransNew" id="RTCalcBetLineCoinNoMultiplierTransNew">Panustatud mängurea võit müntides on võidutabelis näidatud summa korrutatuna panusetasemega.</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplayOnOff" id="RTMGstopAutoplayOnOff">Peata automaatne mängimine</ds>
+  <ds Jurisdiction="*" name="RTMGstopIfFreeSpins" id="RTMGstopIfFreeSpins">Peata, kui võidetakse Free Spinsid</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRev" id="RTsingleWinDescRev">Peatab Automaatmängu, kui võidetud summa ületab või on samaväärne teie poolt määratud summaga.</ds>
+  <ds Jurisdiction="*" name="anyWinDesc" id="anyWinDesc">Peatage Automaatmäng, kui võidate ringi.</ds>
+  <ds Jurisdiction="*" name="singleWinDesc" id="singleWinDesc">Peatage Automaatmäng, kui võidetud summa ületab või on samaväärne teie poolt täpsustatud summaga.</ds>
+  <ds Jurisdiction="Spain" name="cashDecreasesDesc" id="cashDecreasesDesc">Peatage Autoplay, kui sularaha suureneb teie poolt täpsustatud summa võrra.</ds>
+  <ds Jurisdiction="*" name="cashIncreasesDesc" id="cashIncreasesDesc">Peatage Autoplay, kui sularaha suureneb teie poolt täpsustatud summa võrra.</ds>
+  <ds Jurisdiction="*" name="RTMGbuttonsMainGame" id="RTMGbuttonsMainGame">Põhimäng</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGame" id="RTMGtouchMainGame">Puudutage mänguala, et peita Keeruta-nuppu.</ds>
+  <ds Jurisdiction="*" name="RTMGtapDuringSpin" id="RTMGtapDuringSpin">Rataste peatamiseks vajutage keerutamise vältel mängualale.</ds>
+  <ds Jurisdiction="*" name="RTMGplay10FixedBetLines" id="RTMGplay10FixedBetLines">Saate mängida 10-l kindlaks määratud panusereal erinevate panusetasemete ja mündiväärtustega.</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchIntro" id="RTMGstarburstTouchIntro">Starburst Touch™ on 5 rullikuga, 3-realine videomäng, milles on taaskeerutustega Starburst™ Wild ning Võida Mõlemat Pidi.</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchRulesHeading" id="RTMGstarburstTouchRulesHeading">Starburst Touch™-i mängureeglid</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSubstitute" id="RTstarBurstWildSubstitute">Starburst™ Huupi sümbolid asendavad kõiki teisi sümboleid.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstRulesHeading" id="RTstarBurstRulesHeading">Starburst™ mängureeglid</ds>
+  <ds Jurisdiction="*" name="RTstarBurstIntro" id="RTstarBurstIntro">Starburst™ on 5-ketta ja 3-reaga mänguautomaat, milles on Starburst™ Huupi sümbolid koos uuesti keerutustega ning mõlemat pidi võitmine.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildEnds" id="RTstarburstWildEnds">Starburst™ Wild funktsioon lõppeb, kui uuesti keerutamise vältel ei ilmu ühtki uut Starburst™ Wildsi.</ds>
+  <ds Jurisdiction="*" name="RTstarBurststickyWExpandsReSpinsRev" id="RTstarBurststickyWExpandsReSpinsRev">Starburst™ Wild funktsiooni jooksul Starburst™Wildsid laienevad, et katta kogu rullik, ja jäävad oma positsioonile, kui teised rullikud uuesti keerlevad.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSymbAppear" id="RTstarBurstWildSymbAppear">Starburst™ Wild sümbolid saavad ilmuda vaid rullikutele 2, 3 ja 4.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildHeading" id="RTstarBurstWildHeading">Starburst™ Wilds</ds>
+  <ds Jurisdiction="*" name="RTMGback" id="RTMGback">Tagasi</ds>
+  <ds Jurisdiction="*" name="advancedAutoplayOptionsHeading" id="advancedAutoplayOptionsHeading">Täpsemad Autoplay valikud</ds>
+  <ds Jurisdiction="*" name="RTviewMiniPaytable" id="RTviewMiniPaytable">Teise võimalusena klõpsake selle sümboli mini võidutabeli vaatamiseks põhimängu ajal kettal asuvale suvalisele sümbolile.</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Tõlgitud termin</ds>
+  <ds Jurisdiction="*" name="RTMGselectSpinsRev" id="RTMGselectSpinsRev">Tõmmake või vajutage seadistusratast, et valida automaatmängu keerutuste arv.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRev" id="RTMGselectCoinValueRev">Tõmmake või vajutage seadistusratast, et valida mündi väärtus.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRev" id="RTMGselectBetLevelRev">Tõmmake või vajutage seadistusratast, et valida müntide hulk, mida soovite panusereale panustada.</ds>
+  <ds Jurisdiction="*" name="ReSpinsAtActivatingRound" id="ReSpinsAtActivatingRound">Uuesti keerutused mängitakse sama panusega, kui vooru aktiveerivad uuesti keerutused.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsDisabledRev" id="RTMGsoundsDisabledRev">Vajutage lülitile, et keelata helid tulevastes mängusessioonides.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundOnOffRev" id="RTMGsoundOnOffRev">Vajutage lülitile, et lülitada helid sisse või välja.</ds>
+  <ds Jurisdiction="*" name="RTMGviewGamesRules" id="RTMGviewGamesRules">Vajutage mängu reeglite vaatamiseks.</ds>
+  <ds Jurisdiction="*" name="RTMGbackMainGame" id="RTMGbackMainGame">Vajutage tagasi põhimängu naasmiseks.</ds>
+  <ds Jurisdiction="*" name="RTMGstartAutoplay" id="RTMGstartAutoplay">Vajutage, et alustada automaatset mängimist.</ds>
+  <ds Jurisdiction="*" name="RTMGstartQuickSpin" id="RTMGstartQuickSpin">Vajutage, et alustada kiiret keerutamist.</ds>
+  <ds Jurisdiction="*" name="RTMGtapSpinButtonRev" id="RTMGtapSpinButtonRev">Vajutage, et alustada mängu olemasolevate panuseridade, panusetaseme ja mündiväärtusega.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRev" id="RTMGautoplayPutOnOffRev">Vajutage, et lülitada automaatmäng sisse või välja. Automaatmäng mängib mängu valitud arvu keerutusi.</ds>
+  <ds Jurisdiction="*" name="RTMGtapOnOffRev" id="RTMGtapOnOffRev">Vajutage, et lülitada kiirkeerutus sisse või välja.</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryDesc" id="RTMGgameHistoryDesc">Vajutage, et näha oma viimast mänguajalugu.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDev" id="RTMGgameSettingIntroDev">Vajutage, et pääseda ligi mängu seadetele ja mängu informatsioonile, alternatiivse võimalusena vajutage vastavalt Raha ja Mündid kuvale.</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplay" id="RTMGstopAutoplay">Vajutage, et peatada automaatne mängimine.</ds>
+  <ds Jurisdiction="*" name="RTMGwinComb" id="RTMGwinComb">Vajutage, et vaadata võidukombinatsioone ja väljamakseid.</ds>
+  <ds Jurisdiction="*" name="RTautoplaySelectSpins" id="RTautoplaySelectSpins">Valige Autoplay keerutuste arv või avage täiendavad seaded, et seadistada Autoplay peatumise valikud.</ds>
+  <ds Jurisdiction="*" name="RTMGAutoplaySpins" id="RTMGAutoplaySpins">Valitud keerutuste arv on kuvatud nupul.</ds>
+  <ds Jurisdiction="*" name="RTMGleftHandMode" id="RTMGleftHandMode">Vasaku käe režiim</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytable" id="RTwinCombinationPaytable">Võidukombinatsioonid ja väljamaksed tehakse vastavalt &lt;b&gt;VÕIDUTABEL&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCombinations" id="RTMGwinCombinations">Võidukombinatsioonid ja väljamaksed tehakse vastavalt võidutabelile.</ds>
+  <ds Jurisdiction="*" name="RTMGpaytable" id="RTMGpaytable">Võidutabel</ds>
+  <ds Jurisdiction="*" name="termPaytable" id="termPaytable">Võidutabel</ds>
+  <ds Jurisdiction="*" name="RTMGpaytableJimi" id="RTMGpaytableJimi">Võidutabel</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescNoBold" id="RTpaytableButtonsDescNoBold">Võidutabeli lehekülgede sirvimiseks klõpsa nooltele, mis osutavad vasakule või paremale. Mängu tagasi pöördumiseks klõpsa keskmisele nupule.</ds>
+  <ds Jurisdiction="*" name="RTplayCurrentBetLinesTo10" id="RTplayCurrentBetLinesTo10">Võite mängida 1 kuni 10 panuserida erinevatel panusetasemetel ja mündiväärtustel.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytablenoBold" id="RTwinCombinationPaytablenoBold">Võitvad kombinatsioonid ja väljamaksed tehakse vastavalt Võidutabelile.</ds>
+  <ds Jurisdiction="*" name="RTautoplayDuringGameRev" id="RTautoplayDuringGameRev">&lt;b&gt;Märkus:&lt;/b&gt; Kui muudate automaatmängu seadeid mänguraundi  vältel, rakenduvad kõik seaded pärast mänguraundi või funktsiooni lõppu.</ds>
+  <ds Jurisdiction="*" name="RTopenAutoplayMenu" id="RTopenAutoplayMenu">Klõpsake, et avada automaatmängu seadete menüü ja mängida mängu automaatselt.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationWinMatchCurrency" id="RTwinCalculationWinMatchCurrency">Panuserea võit valuutas on võrdne võiduga müntides, korrutatuna mündiväärtusega.</ds>
+  <ds Jurisdiction="*" name="RTexCloneWildOverlay" id="RTexCloneWildOverlay">Expanding Cloning Wild'i sümbol ilmub keerlevate rullikute kohale. Ka kloonitud sümbolid ilmuvad rullikute kohale.</ds>
+  <ds Jurisdiction="*" name="RTMGautoOptions" id="RTMGautoOptions">Lohistage või koputage liugurit, et lubada automaatmängimisel seadistada automaatmängimise valikud ja mängukordade arv. Automaatmängimine mängib mängu valitud arvu keerutuste vältel.</ds>
+  <ds Jurisdiction="*" name="RTsliderCoinValue" id="RTsliderCoinValue">Mündi väärtuse reguleerimiseks kasuta vastavat slaiderit.</ds>
+  <ds Jurisdiction="*" name="RTsliderBetLevel" id="RTsliderBetLevel">Panuse suuruse reguleerimiseks kasuta vastavat slaiderit.</ds>
+  <ds Jurisdiction="*" name="RTeachStar1AddRespinUpTo3respin" id="RTeachStar1AddRespinUpTo3respin">Pärast Starburst™ Wildi poolt uue keerutuse käivitamist võivad ilmuda kuni 2 täiendavat Starburst™ Wild-sümbolit, mis käivitavad täiendava uue keerutuse või kuni 3 uut keerutust</ds>
+  <ds Jurisdiction="*" name="RTcashIncreasesDescRev" id="RTcashIncreasesDescRev">Peatab automaatmängimise, kui raha on suurenenud teie märgitud summas.</ds>
+  <ds Jurisdiction="*" name="RTcashDecreasesDescRev" id="RTcashDecreasesDescRev">Peatab automaatmängimise, kui raha on vähenenud teie märgitud summas.</ds>
+  <ds Jurisdiction="*" name="onlyHighWinComb" id="onlyHighWinComb">Välja makstakse ainult panuseradade kõrgeim võidukombinatsioon vasakpoolseimast paremale ja/või parempoolseimast vasakule.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Märkus.&lt;/b&gt; Mõned autoplay seaded on mõnes riigis seaduse järgi kohustuslikud.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Märkus&lt;/b&gt;: Järgnev tabel kohaldub vaid siis, kui te ei mängi inglise keeles.</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Inglisekeelne termin</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Lisateave</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Mängu terminoloogia tõlked</ds>
+  <ds Jurisdiction="*" name="featuresNotAvailablePFF" id="featuresNotAvailablePFF">Mõned funktsioonid ei pruugi &lt;b&gt;MÄNGI OMA LÕBUKS&lt;/b&gt; režiimil saadaval olla.</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRevNew" id="RTsingleWinDescRevNew">Peatab Autoplay, kui võidetud summa ületab, või on võrdne, teie määratud summaga.</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Tõlgitud termin</ds>
+</defaults>

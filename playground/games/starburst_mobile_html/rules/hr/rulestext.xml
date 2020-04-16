@@ -1,0 +1,197 @@
+<defaults xml:lang="hr">
+  <!-- Croatian locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 16:41:58 GMT on Tuesday 16 May 2017.
+
+ -->
+  <ds Jurisdiction="*" name="RTquickSpinDisclaimer" id="RTquickSpinDisclaimer">(nije dostupno u svim kockarnicama).</ds>
+  <ds Jurisdiction="*" name="RTGameHistNoPlayForFun" id="RTGameHistNoPlayForFun">(Nije dostupno za &lt;b&gt;IGRU ZA ZABAVU&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlays" id="RTautoplayPlays">&lt;b&gt;AUTO-IGRA&lt;/b&gt; služi za automatsko odvijanje odabranog broja rundi (ili pritisnite gumb &lt;b&gt;AUTO&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlaysJimi" id="RTautoplayPlaysJimi">&lt;b&gt;AUTO-IGRA&lt;/b&gt; služi za automatsko odvijanje odabranog broja rundi (ili pritisnite gumb &lt;b&gt;AUTO&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTmaxbetPlays" id="RTmaxbetPlays">&lt;b&gt;MAKS. ULOG&lt;/b&gt; koristi se za igranje s maksimalnim brojem linija za klađenje, najvišom razinom uloga i odabranom vrijednošću novčića.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayDisconnect" id="RTMGautoplayDisconnect">&lt;b&gt;Napomena:&lt;/b&gt; Ako se za vrijeme igre veza prekine, sve postavke automatske igre vratit će se na zadane postavke nakon ponovnog učitavanja igre.</ds>
+  <ds Jurisdiction="*" name="RTAutoplayDisconnect" id="RTAutoplayDisconnect">&lt;b&gt;Napomena:&lt;/b&gt; Ako za vrijeme igranja izgubite internetsku vezu, sve postavke Auto-igre vratit će se na izvorno postavljene kada ponovno učitate igru.</ds>
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Napomena:&lt;/b&gt; Neke opcije automatske igre obvezne su na nekim područjima.</ds>
+  <ds Jurisdiction="*" name="RTMGsettingsDisclaimer" id="RTMGsettingsDisclaimer">&lt;b&gt;Napomena:&lt;/b&gt; Neki operateri ne nude sve navedene opcije u igri.</ds>
+  <ds Jurisdiction="*" name="RTsettingsDisclaimer" id="RTsettingsDisclaimer">&lt;b&gt;Napomena:&lt;/b&gt; u nekim kockarnicama sve opcije igre možda neće biti dostupne.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Napomena&lt;/b&gt;: Sljedeća tablica se odnosi na igranje na jezicima osim engleskog.</ds>
+  <ds Jurisdiction="*" name="RTcoinsDisplayValues" id="RTcoinsDisplayValues">&lt;b&gt;NOVČIĆA&lt;/b&gt; prikazuje količinu novčića na raspolaganju igraču za njegovo/njeno klađenje.</ds>
+  <ds Jurisdiction="*" name="RTMGreturnToPlayer" id="RTMGreturnToPlayer">&lt;b&gt;Povrat&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTsoundButton" id="RTsoundButton">&lt;b&gt;Zvuk&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayQuickSpinHeading" id="RTMGautoplayQuickSpinHeading">Auto-igra i Brza vrtnja</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPanelLabel" id="RTMGautoplayPanelLabel">Automatska igra</ds>
+  <ds Jurisdiction="*" name="cashIncreasesDesc" id="cashIncreasesDesc">Automatsku igru zaustavi ako se iznos vašeg novca poveća za iznos koji odredite.</ds>
+  <ds Jurisdiction="Spain" name="cashDecreasesDesc" id="cashDecreasesDesc">Automatsku igru zaustavi ako se iznos vašeg novca smanji za iznos koji odredite.</ds>
+  <ds Jurisdiction="*" name="singleWinDesc" id="singleWinDesc">Automatsku igru zaustavi kada iznos dobitka prekorači ili izjednači iznos koji odredite.</ds>
+  <ds Jurisdiction="*" name="anyWinDesc" id="anyWinDesc">Automatsku igru zaustavi kada u rundi postoji dobitak.</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRev" id="RTsingleWinDescRev">Automatsku igru zaustavlja kada iznos dobitka prekorači ili izjednači iznos koji odredite.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildEnds" id="RTstarburstWildEnds">Bonus igra Starburst™ Wild završava kada se za vrijeme ponovne vrtnje više ne pojavi ni jedan Starburst™ Wild simbol.</ds>
+  <ds Jurisdiction="*" name="RTMGAutoplaySpins" id="RTMGAutoplaySpins">Broj odabranih vrtnji prikazan je na gumbu.</ds>
+  <ds Jurisdiction="*" name="RTMGnoAutoplayLeft" id="RTMGnoAutoplayLeft">Broj preostalih vrtnji je prikazan na gumbu.</ds>
+  <ds Jurisdiction="*" name="RTMGnumberSpins" id="RTMGnumberSpins">Broj vrtnji</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinGameSetting" id="RTMGquickSpinGameSetting">Brza vrtnja</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpin" id="RTMGquickSpin">Brza vrtnja</ds>
+  <ds Jurisdiction="*" name="RTMGquickStop" id="RTMGquickStop">Brzo zaustavljanje</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytable" id="RTwinCombinationPaytable">Dobitne kombinacije i isplate obavljaju se prema &lt;b&gt;TABELA ISPLATA&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCombinations" id="RTMGwinCombinations">Dobitne kombinacije i isplate obavljaju se prema are Tabeli isplata.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytablenoBold" id="RTwinCombinationPaytablenoBold">Dobitne kombinacije i isplate prikazane su u Tabeli Isplata.</ds>
+  <ds Jurisdiction="*" name="RTMGadditionalInformation" id="RTMGadditionalInformation">Dodatne informacije</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Dodatne informacije</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplay" id="RTMGdisableAutoplay">Dodirnite za onemogućavanje auto-igre ako se Free Spins osvoje prije završetka specificiranog broja automatski odigranih rundi.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayPickClick" id="RTMGdisableAutoplayPickClick">Dodirnite za onemogućavanje auto-igre ako se Pick and Click  osvoje prije završetka specificiranog broja automatski odigranih rundi.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDevNew" id="RTMGgameSettingIntroDevNew">Dodirnite za postavke igre i informacije o njoj.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayUI" id="RTMGautoplayUI">Dodirnite za uključivanje/isključivanje auto-igre bez ulaska u izbornik Postavke. Auto-igra je izvorno namještena za 50 automatskih rundi.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinUI" id="RTMGquickSpinUI">Dodirnite za uključivanje/isključivanje brzih vrtnji bez ulaska u izbornik Postavke.</ds>
+  <ds Jurisdiction="*" name="RTMGspinButtonLeft" id="RTMGspinButtonLeft">Dodirnite za uključivanje/isključivanje načina igre za ljevoruke.</ds>
+  <ds Jurisdiction="Anguilla" name="RTMGsoundSettingsUI" id="RTMGsoundSettingsUI">Dodirnite za uključivanje/isključivanje zvuka bez ulaska u izbornik Postavke.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettingsMenu" id="RTMGquickSettingsMenu">Dodirnite znak "plus" za ulaz u izbornik Brze postavke.</ds>
+  <ds Jurisdiction="*" name="RTfunctionTableHead" id="RTfunctionTableHead">Funkcija</ds>
+  <ds Jurisdiction="*" name="RTgameFunctionsHeading" id="RTgameFunctionsHeading">Funkcije u igri</ds>
+  <ds Jurisdiction="*" name="RTrulesGenerated" id="RTrulesGenerated">Generirana pravila igre:</ds>
+  <ds Jurisdiction="*" name="RTMGbuttonsMainGame" id="RTMGbuttonsMainGame">Glavna igra</ds>
+  <ds Jurisdiction="*" name="RTbuttonTableHead" id="RTbuttonTableHead">Gumb</ds>
+  <ds Jurisdiction="*" name="RTMGspinButton" id="RTMGspinButton">Gumb "Zavrti"</ds>
+  <ds Jurisdiction="*" name="RTMGplay10FixedBetLines" id="RTMGplay10FixedBetLines">Igrate na 10 linija za klađenje, uz različite razine uloga i vrijednosti novčića.</ds>
+  <ds Jurisdiction="*" name="RTHighWinSymCompleteActLineRev" id="RTHighWinSymCompleteActLineRev">Isplaćuje se najbolja dobitna kombinacija (počevši od prve lijeve role nadesno i/ili od prve desne role nalijevo) na svakoj dobitnoj aktivnoj liniji za klađenje.</ds>
+  <ds Jurisdiction="*" name="RTpaytableHighestRev" id="RTpaytableHighestRev">Isplaćuje se samo najveći dobitak po aktivnoj dvosmjernoj liniji.</ds>
+  <ds Jurisdiction="*" name="simultaneousWinsAdded" id="simultaneousWinsAdded">Istovremeni dobitci na različitim linijama za klađenje se zbrajaju.</ds>
+  <ds Jurisdiction="*" name="RTMGmenu" id="RTMGmenu">Izbornik</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettings" id="RTMGquickSettings">Izbornik za brze postavke</ds>
+  <ds Jurisdiction="*" name="RTMGexit" id="RTMGexit">Izlaz</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Izraz na engleskom</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildFeatureActive" id="RTstarburstWildFeatureActive">Jedan ili više Starburst™ Wild simbola bilo gdje na rolama 2, 3 ili 4 aktivira bonus igru Starburst™ Wild.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescRev" id="RTpaytableButtonsDescRev">Kliknite na strelice s desne ili lijeve strane kako biste pregledavali stranice &lt;b&gt;TABELA ISPLATA&lt;/b&gt;. Kliknite na središnji gumb za vraćanje u igru.</ds>
+  <ds Jurisdiction="*" name="RTmuteSoundSliderRev" id="RTmuteSoundSliderRev">Kliknite za isključenje zvukova u igri, ili kliznikom prilagodite glasnoću.</ds>
+  <ds Jurisdiction="*" name="RTopenSettingsMenu" id="RTopenSettingsMenu">Kliknite za otvaranje izbornika s opcijama za igranje i odredite željene postavke. Pogledajte Izbornik s opcijama za igranje u nastavku.</ds>
+  <ds Jurisdiction="*" name="RTstartGameRound" id="RTstartGameRound">Kliknite za početak runde uz trenutnu razinu uloga i trenutnu vrijednost novčića (ili pritisnite razmaknicu).</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonNoBold" id="RTinformationIconButtonNoBold">Kliknite za pregled tabele isplata.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDesc" id="RTinformationIconButtonDesc">Kliknite za prikaz &lt;b&gt;TABELE ISPLATA&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDescJimi" id="RTinformationIconButtonDescJimi">Kliknite za prikaz &lt;b&gt;TABELE ISPLATA&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTgameHistoryDesc" id="RTgameHistoryDesc">Kliknite za prikaz nedavno odigranih rundi</ds>
+  <ds Jurisdiction="*" name="RTopenGameRules" id="RTopenGameRules">Kliknite za prikazivanje pravila igre.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescNoBold" id="RTpaytableButtonsDescNoBold">Kroz stranice tabele isplata krećete se pritiskom na strelice s lijeve i desne strane prozora. Na igru se vraćate pritiskom na gumb u sredini.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoMultiplierTrans" id="RTwinCalculationBetLinesCoinsNoMultiplierTrans">Linijski dobitak u novčićima jednak je vrijednosti prikazanoj u &lt;b&gt;TABELI ISPLATA&lt;/b&gt; pomnoženoj razinom uloga.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCoinsNoMultiplier" id="RTMGwinCalculationBetLinesCoinsNoMultiplier">Linijski dobitak u novčićima jednak je vrijednosti prikazanoj u &lt;b&gt;TABELI ISPLATA&lt;/b&gt; pomnoženoj razinom uloga.</ds>
+  <ds Jurisdiction="*" name="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier" id="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier">Linijski dobitak u novčićima jednak je vrijednosti prikazanoj u &lt;b&gt;TABELI ISPLATA&lt;/b&gt; pomnoženoj razinom uloga.</ds>
+  <ds Jurisdiction="*" name="RTwinCalcBetLinesNoMultiplier" id="RTwinCalcBetLinesNoMultiplier">Linijski dobitak u novčićima jednak je vrijednosti prikazanoj u Tabeli isplata pomnožen razinom uloga.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoBold" id="RTwinCalculationBetLinesCoinsNoBold">Linijski dobitak u novčićima jednak je vrijednosti prikazanoj u Tabeli isplata pomnožen razinom uloga. Taj se iznos također množi svim pripadajućim množiteljima.</ds>
+  <ds Jurisdiction="*" name="RTCalcBetLineCoinNoMultiplierTransNew" id="RTCalcBetLineCoinNoMultiplierTransNew">Linijski dobitak u novčićima jednak je vrijednosti prikazanoj u tablici isplata pomnoženoj razinom uloga.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCurrency" id="RTMGwinCalculationBetLinesCurrency">Linijski dobitak u novcu jednak je dobitku u novčićima x vrijednost novčića.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCurrency" id="RTwinCalculationBetLinesCurrency">Linijski dobitak u novcu jednak je dobitku u novčićima x vrijednost novčića.</ds>
+  <ds Jurisdiction="*" name="RTplayCurrentBetLinesTo10" id="RTplayCurrentBetLinesTo10">Možete igrati 1 do 10 linija s više razina uloga i vrijednosti novčića.</ds>
+  <ds Jurisdiction="*" name="advancedAutoplayOptionsHeading" id="advancedAutoplayOptionsHeading">Napredne postavke auto-igre</ds>
+  <ds Jurisdiction="*" name="RTMGback" id="RTMGback">Natrag</ds>
+  <ds Jurisdiction="*" name="RTautoplaySelectSpins" id="RTautoplaySelectSpins">Odaberite broj Automatska igra ili otvorite Napredne postavke i odaberite željene opcije za Automatska igra.</ds>
+  <ds Jurisdiction="*" name="RTMGcoinsDisplayValues" id="RTMGcoinsDisplayValues">Opcija &lt;b&gt;Novčići&lt;/b&gt; prikazuje broj novčića koji je na raspolaganju igraču za uloge.</ds>
+  <ds Jurisdiction="*" name="RTadjustQualityRev" id="RTadjustQualityRev">Podešava kvalitetu prikaza za optimalne performanse.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRevNew" id="RTMGautoplayPutOnOffRevNew">Pomaknite ili dodirnite kliznik za uključivanje automatske igre i određivanje broja rundi. Odabirom automatske igre (auto-igre) automatski se igra željeni broj rundi.</ds>
+  <ds Jurisdiction="*" name="RTMGselectSpinsRev" id="RTMGselectSpinsRev">Pomaknite ili pritisnite gumb za podešavanje za odabir broja automatskih vrtnji.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRev" id="RTMGselectBetLevelRev">Pomaknite ili pritisnite gumb za podešavanje za odabir broja novčića uloženih po liniji za klađenje.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRev" id="RTMGselectCoinValueRev">Pomaknite ili pritisnite gumb za podešavanje za odabir vrijednosti novčića.</ds>
+  <ds Jurisdiction="*" name="ReSpinsAtActivatingRound" id="ReSpinsAtActivatingRound">Ponovne vrtnje se igraju po istom ulogu kao i runda koja ih je aktivirala.</ds>
+  <ds Jurisdiction="*" name="gameSettingOptionsHeading" id="gameSettingOptionsHeading">Postavke</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettings" id="RTMGgameSettings">Postavke igre i informacije o igri</ds>
+  <ds Jurisdiction="*" name="RTMGspinSettingsRev" id="RTMGspinSettingsRev">Postavke vrtnje</ds>
+  <ds Jurisdiction="*" name="RTMGsoundSettings" id="RTMGsoundSettings">Postavke zvuka</ds>
+  <ds Jurisdiction="Italy" name="RTunfinishedGameSession2" id="RTunfinishedGameSession2">Postupci u slučaju nezavršenih rundi igranja.</ds>
+  <ds Jurisdiction="*" name="RTMGunfinishedGameSession2" id="RTMGunfinishedGameSession2">Postupci u slučaju nezavršenih rundi igranja.</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryHeading" id="RTMGgameHistoryHeading">Povijest rundi</ds>
+  <ds Jurisdiction="*" name="RTMGhistoryNotAvailable" id="RTMGhistoryNotAvailable">Povijest rundi je dostupna samo kada igrate za novac.</ds>
+  <ds Jurisdiction="*" name="RTgHistoryNotAvailableForFun" id="RTgHistoryNotAvailableForFun">Povijest rundi nije dostupna kada se igra &lt;b&gt;ZA ZABAVU&lt;/b&gt; (a ne za novac).</ds>
+  <ds Jurisdiction="*" name="RTreturnToPlayer" id="RTreturnToPlayer">Povrat u igri</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRevNew" id="RTMGselectCoinValueRevNew">Povucite ili dodirnite klizač za odabir vrijednosti novčića.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRevNew" id="RTMGselectBetLevelRevNew">Povucite ili pritisnite kliznik za odabir broja novčića koje želite uložiti po liniji.</ds>
+  <ds Jurisdiction="*" name="RTMGgameRules" id="RTMGgameRules">Pravila igre</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Prevedeni izraz</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Prijevodi izraza u igri</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCoins" id="RTMGshowsBetCoins">Prikazuje iznos uloga/oklade u novčićima.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCurrency" id="RTMGshowsBetCurrency">Prikazuje iznos uloga/oklade u odabranoj valuti.</ds>
+  <ds Jurisdiction="*" name="RTspinPlayRev" id="RTspinPlayRev">Pritiskom gumba za vrtnju igrate prema trenutno određenom broju linija, razini uloga i vrijednosti novčića (ili pritisnite razmaknicu).</ds>
+  <ds Jurisdiction="*" name="RTmaxBetAtHighBetLevel" id="RTmaxBetAtHighBetLevel">Pritiskom na MAKS. ULOG igrate na najvišoj razini uloga i s najvećom vrijednošću novčića.</ds>
+  <ds Jurisdiction="*" name="RTMGtapDuringSpin" id="RTMGtapDuringSpin">Pritisnite igraću površinu za vrijeme vrtnje da biste zaustavili role.</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGame" id="RTMGtouchMainGame">Pritisnite na polje za igru da biste sakrili gumb Zavrti.</ds>
+  <ds Jurisdiction="*" name="RTMGtapSpinButtonRev" id="RTMGtapSpinButtonRev">Pritisnite za igranje na trenutnom broju linija, trenutnoj razini uloga i uz trenutnu vrijednost novčića.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsDisabledRev" id="RTMGsoundsDisabledRev">Pritisnite za isključivanje zvukova u budućim ciklusima igre.</ds>
+  <ds Jurisdiction="*" name="RTMGleaveGame" id="RTMGleaveGame">Pritisnite za izlazak iz igre.</ds>
+  <ds Jurisdiction="*" name="RTMGstartAutoplay" id="RTMGstartAutoplay">Pritisnite za početak Auto-igre.</ds>
+  <ds Jurisdiction="*" name="RTMGstartQuickSpin" id="RTMGstartQuickSpin">Pritisnite za početak Brze vrtnje.</ds>
+  <ds Jurisdiction="*" name="RTMGbackMainGame" id="RTMGbackMainGame">Pritisnite za povratak na glavnu igru.</ds>
+  <ds Jurisdiction="*" name="RTMGwinComb" id="RTMGwinComb">Pritisnite za pregled kombinacija i isplata.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayIfBonusGame" id="RTMGdisableAutoplayIfBonusGame">Pritisnite za prestanak automatske igre ako se bonus igra osvoji prije odabranog broja rundi auto-igre.</ds>
+  <ds Jurisdiction="*" name="RTMGviewGamesRules" id="RTMGviewGamesRules">Pritisnite za prikaz pravila igre.</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryDesc" id="RTMGgameHistoryDesc">Pritisnite za prikaz prethodno odigranih rundi.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDev" id="RTMGgameSettingIntroDev">Pritisnite za pristup postavkama igre i informacijama o igri, ili pritisnite poveznice za prikaz novca ili novčića.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRev" id="RTMGautoplayPutOnOffRev">Pritisnite za uključenje/isključenje automatske vrtnje (auto-igre). Auto-igrom se automatski odvija odabrani broj rundi.</ds>
+  <ds Jurisdiction="*" name="RTMGtapOnOffRev" id="RTMGtapOnOffRev">Pritisnite za uključenje/isključenje Brze vrtnje.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundOnOffRev" id="RTMGsoundOnOffRev">Pritisnite za uključenje/isključenje zvukova.</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplay" id="RTMGstopAutoplay">Pritisnite za zaustavljanje Auto-igre.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSessions2" id="RTMGgameSessions2">Razdoblje nakon kojeg neaktivne igre automatski završavaju.</ds>
+  <ds Jurisdiction="Italy" name="RTgameSessions2" id="RTgameSessions2">Razdoblje nakon kojeg neaktivne igre automatski završavaju.</ds>
+  <ds Jurisdiction="*" name="RTMGbetlevel" id="RTMGbetlevel">Razina uloga</ds>
+  <ds Jurisdiction="*" name="RTbetLevel" id="RTbetLevel">Razina uloga je broj novčića uložen po liniji za klađenje.</ds>
+  <ds Jurisdiction="*" name="RTMGbetLevelInstruction" id="RTMGbetLevelInstruction">Razina uloga određuje se opcijom &lt;b&gt;RAZINA&lt;/b&gt;.</ds>
+  <ds Jurisdiction="Italy" name="RTreferWebSite" id="RTreferWebSite">Sljedeće značajke i postavke igre mogu ovisiti o uvjetima i odredbama internetske kockarnice. Za više informacija pogledajte web stranice internetske kockarnice:</ds>
+  <ds Jurisdiction="*" name="RTMGreferWebSite" id="RTMGreferWebSite">Sljedeće značajke i postavke mogu biti podložne uvjetima i odredbama na web stranicama internetske kockarnice. Za više informacija pogledajte web stranice internetske kockarnice:</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchIntro" id="RTMGstarburstTouchIntro">Starburst Touch™ jevideo automat s 5 rola, 3 retka, Starburst™ Wild bonusom s ponovnim vrtnjama te bonusom Win Both Ways.</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchRulesHeading" id="RTMGstarburstTouchRulesHeading">Starburst Touch™ -Pravila igre</ds>
+  <ds Jurisdiction="*" name="RTstarBurstRulesHeading" id="RTstarBurstRulesHeading">Starburst™ - Pravila igre</ds>
+  <ds Jurisdiction="*" name="RTstarBurstIntro" id="RTstarBurstIntro">Starburst™ je video automat s 5 rola i 3 redaka, Starburst™ zamj. simbolima s besplatnim vrtnjama i dvosmjernim dobitcima.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstAddReSpinsRev" id="RTstarBurstAddReSpinsRev">Starburst™ Wild simboli koji se pojave za vrijeme ponovne vrtnje šire se i još jednu ponovnu vrtnju ostaju na rolama zajedno s prethodnim Starburst™ Wild simbolima.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSymbAppear" id="RTstarBurstWildSymbAppear">Starburst™ Wild simboli mogu se pojaviti samo na rolama 2, 3 i 4.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildHeading" id="RTstarBurstWildHeading">Starburst™ Wilds</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSubstitute" id="RTstarBurstWildSubstitute">Starburst™ zamjenski simboli zamjenjuju sve simbole.</ds>
+  <ds Jurisdiction="*" name="termPaytable" id="termPaytable">Tabela isplata</ds>
+  <ds Jurisdiction="*" name="RTMGpaytable" id="RTMGpaytable">Tabela isplata</ds>
+  <ds Jurisdiction="*" name="RTMGpaytableJimi" id="RTMGpaytableJimi">Tabela isplata</ds>
+  <ds Jurisdiction="*" name="RTtableDescribes" id="RTtableDescribes">Tabela u nastavku prikazuje različite gumbe u igri i opisuje njihove funkcije.</ds>
+  <ds Jurisdiction="Italy" name="RTtheoreticalReturn" id="RTtheoreticalReturn">Teoretski povrat u ovoj igri je</ds>
+  <ds Jurisdiction="*" name="RTMGtheoreticalReturn" id="RTMGtheoreticalReturn">Teoretski povrat u ovoj igri je</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGameNew" id="RTMGtouchMainGameNew">U položenom prikazu, dodirnite igraći prozor da biste sakili gumb Zavrti.</ds>
+  <ds Jurisdiction="*" name="RTMGmalfunction" id="RTMGmalfunction">U slučaju prestanka rada igraćeg softvera/hardvera, svi ulozi i isplate u trenutno aktivnim igrama smatraju se nevaljanim i svi se ulozi vraćaju.</ds>
+  <ds Jurisdiction="Italy" name="RTmalfunction" id="RTmalfunction">U slučaju prestanka rada igraćeg softvera/hardvera, svi ulozi i isplate u trenutno aktivnim igrama smatraju se nevaljanim i svi se ulozi vraćaju.</ds>
+  <ds Jurisdiction="*" name="RTviewMiniPaytable" id="RTviewMiniPaytable">U suprotnom, kliknite na bilo koji simbol na rolama za vrijeme glavne igre za prikazivanje mini-tabele isplata za taj simbol.</ds>
+  <ds Jurisdiction="*" name="RTanimationsOff" id="RTanimationsOff">Uključi ili isključi animacije.</ds>
+  <ds Jurisdiction="*" name="RTgameSoundDesc" id="RTgameSoundDesc">Uključuje ili isključuje zvukove u igri.</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDescRev" id="RTquickSpinDescRev">Uključuje/isključuje opciju brze vrtnje</ds>
+  <ds Jurisdiction="*" name="RTambienceDescRev" id="RTambienceDescRev">Uključuje/isključuje pozadinsku glazbu.</ds>
+  <ds Jurisdiction="*" name="RTspacebarspin" id="RTspacebarspin">Uključuje/isključuje razmaknicu.</ds>
+  <ds Jurisdiction="*" name="RTintroOffRev" id="RTintroOffRev">Uključuje/isključuje uvodnu animaciju.</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCash" id="RTMGbetInCash">Ulog u gotovini</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCoins" id="RTMGbetInCoins">Ulog u novčićima</ds>
+  <ds Jurisdiction="*" name="RTMGleftHandMode" id="RTMGleftHandMode">Upravljanje lijevom rukom</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsOff" id="RTMGsoundsOff">Uvijek isključi zvukove</ds>
+  <ds Jurisdiction="*" name="RTMGcoinvalue" id="RTMGcoinvalue">Vrijednost novčića</ds>
+  <ds Jurisdiction="*" name="RTMGcoinValueInstruction" id="RTMGcoinValueInstruction">Vrijednost novčića se određuje opcijom VRIJ: NOVČIĆA.</ds>
+  <ds Jurisdiction="Spain" name="RTAutoplayButton" id="RTAutoplayButton">Za napredne postavke automatske igre kliknite na &lt;b&gt;AUTO-IGRA&lt;/b&gt; u prozoru, ili &lt;b&gt;AUTO&lt;/b&gt; u izborniku igre, pa zatim kliknite na &lt;b&gt;Napredne postavke&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="gameSettingIntro" id="gameSettingIntro">Za ulaz u postavke igre kliknite na ikonu ključa u izborniku igre.</ds>
+  <ds Jurisdiction="*" name="RTstarBurststickyWExpandsReSpinsRev" id="RTstarBurststickyWExpandsReSpinsRev">Za vrijeme bonusa Starburst™ Wild, Starburst™ Wild simboli proširuju se na cijelu rolu i tamo ostaju dok se ostale role ponovno vrte.</ds>
+  <ds Jurisdiction="*" name="termWild" id="termWild">Zamjenski simbol</ds>
+  <ds Jurisdiction="*" name="RTMGstopIfFreeSpins" id="RTMGstopIfFreeSpins">Zaustavi ako se osvoje Free Spins</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplayOnOff" id="RTMGstopAutoplayOnOff">Zaustavi Auto-igru</ds>
+  <ds Jurisdiction="*" name="RTMGsounds" id="RTMGsounds">Zvukovi u igri</ds>
+  <ds Jurisdiction="*" name="RTautoplayDuringGameRev" id="RTautoplayDuringGameRev">&lt;b&gt;Napomena:&lt;/b&gt; kada se postavke za auto-igru mijenjaju za vrijeme runde, te će postavke postati aktivne kada ta runda/bonus završi.</ds>
+  <ds Jurisdiction="*" name="RTopenAutoplayMenu" id="RTopenAutoplayMenu">Kliknite za prikazivanje opcija za auto-igru i za automatsko igranje.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationWinMatchCurrency" id="RTwinCalculationWinMatchCurrency">Linijski dobitak u novcu jednak je dobitku u novčićima x vrijednost novčića.</ds>
+  <ds Jurisdiction="*" name="RTeachStar1AddRespinUpTo3respin" id="RTeachStar1AddRespinUpTo3respin">Do 2 dodatna Starburst™ Wild simbola mogu se pojaviti nakon Starburst™ Wild aktivira ponovnu vrtnju, odnosno od 1 do 3 ponovne vrtnje.</ds>
+  <ds Jurisdiction="*" name="RTexCloneWildOverlay" id="RTexCloneWildOverlay">Expanding Cloning Wild simboli prikazuju se kao "maska" na rolama koje se vrte. Klonirani simboli također se prikazuju kao maska na rolama.</ds>
+  <ds Jurisdiction="*" name="RTMGautoOptions" id="RTMGautoOptions">Povucite ili dodirnite kliznik za omogućavanje autoigre, postavljanje opcija autoigre te određivanje broja automatskih vrtnji. Igra će se odabrani broj vrtnji odvijati automatski.</ds>
+  <ds Jurisdiction="*" name="RTsliderBetLevel" id="RTsliderBetLevel">Razina uloga određuje se pomicanjem kliznika za razinu uloga.</ds>
+  <ds Jurisdiction="*" name="onlyHighWinComb" id="onlyHighWinComb">U slučaju više dobitnih kombinacija, isplaćuje se samo ona najveća s lijeva nadesno i/ili s desna nalijevo.</ds>
+  <ds Jurisdiction="*" name="RTsliderCoinValue" id="RTsliderCoinValue">Vrijednost novčića određuje se pomicanjem kliznika za vrij. novčića.</ds>
+  <ds Jurisdiction="*" name="RTcashIncreasesDescRev" id="RTcashIncreasesDescRev">Zaustavlja Autoigru ako se Vaš saldo poveća za iznos koji navedete.</ds>
+  <ds Jurisdiction="*" name="RTcashDecreasesDescRev" id="RTcashDecreasesDescRev">Zaustavlja Autoigru ako se Vaš saldo smanji za iznos koji navedete.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Napomena:&lt;/b&gt; Neke opcije automatske igre obvezne su na nekim područjima.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Napomena&lt;/b&gt;: Sljedeća tablica se odnosi na igranje na jezicima osim engleskog.</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Dodatne informacije</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Izraz na engleskom</ds>
+  <ds Jurisdiction="*" name="featuresNotAvailablePFF" id="featuresNotAvailablePFF">Neke opcije možda neće biti dostupne u modusu &lt;b&gt;IGRA ZA ZABAVU&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Prevedeni izraz</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Prijevodi izraza u igri</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRevNew" id="RTsingleWinDescRevNew">Zaustavlja Auto-igru kada iznos dobitka prekorači ili izjednači iznos koji odredite. </ds>
+</defaults>

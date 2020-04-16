@@ -1,0 +1,738 @@
+﻿[
+    {
+        "id": "RTGameHistNoPlayForFun",
+        "text": "(Ei saatavilla \u003cb\u003ePELAA LEIKISTI\u003c/b\u003e -tilassa)."
+    },
+    {
+        "id": "RTquickSpinDisclaimer",
+        "text": "(Ei saatavilla kaikissa kasinoissa)."
+    },
+    {
+        "id": "RTsoundButton",
+        "text": "\u003cb\u003eÄäni\u003c/b\u003e"
+    },
+    {
+        "id": "RTautoplayPlaysJimi",
+        "text": "\u003cb\u003eAUTOMAATI PELI\u003c/b\u003e pelaa peliä automaattisesti valitun kierrosluvun ajan (vaihtoehtoisesti voit napsauttaa \u003cb\u003eAUTO\u003c/b\u003e-painiketta)."
+    },
+    {
+        "id": "RTautoplayPlays",
+        "text": "\u003cb\u003eAUTOMAATTIPELI\u003c/b\u003e pelaa peliä automaattisesti valitun kierrosluvun ajan (vaihtoehtoisesti voit napsauttaa \u003cb\u003eAUTO\u003c/b\u003e-painiketta)."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003eHuomaa\u003c/b\u003e: Seuraava on taulukko on voimassa vain, jos pelaat muulla kielellä kuin englanniksi."
+    },
+    {
+        "id": "RTAutoplayDisconnect",
+        "text": "\u003cb\u003eHuomautus:\u003c/b\u003e Jos yhteys katkeaa pelin aikana, kaikki automaattipelin oletusasetukset palautetaan, kun peli ladataan uudelleen."
+    },
+    {
+        "id": "RTsettingsDisclaimer",
+        "text": "\u003cb\u003eHuomautus:\u003c/b\u003e Jotkin kasinot saattavat toimia ilman kaikkia lueteltuja peliasetuksia."
+    },
+    {
+        "id": "RTMGautoplayDisconnect",
+        "text": "\u003cb\u003eHuomio:\u003c/b\u003e Jos yhteytesi katkeaa pelin aikana, kaikki Automaattipeliasetukset palautetaan oletusasetuksiksi, kun peli ladataan uudelleen."
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003eHuomio:\u003c/b\u003e Jotkin automaattipeliasetukset ovat pakollisia joillakin hallintoalueilla."
+    },
+    {
+        "id": "RTMGsettingsDisclaimer",
+        "text": "\u003cb\u003eHuomio:\u003c/b\u003e Jotkut operaattorit eivät välttämättä tarjoa kaikkia luettelon peliasetuksia."
+    },
+    {
+        "id": "RTcoinsDisplayValues",
+        "text": "\u003cb\u003eKOLIKOITA\u003c/b\u003e näyttää panostukseen käytettävissä olevan kolikkomäärän."
+    },
+    {
+        "id": "RTMGcoinsDisplayValues",
+        "text": "\u003cb\u003eKolikot\u003c/b\u003e ilmoittavat pelaamiseen käytettävissä olevien kolikkojen määrän."
+    },
+    {
+        "id": "RTmaxbetPlays",
+        "text": "\u003cb\u003eMAKSIMIPANOS\u003c/b\u003e pelaa peliä maksimipanoslinjoilla ja nykyisellä kolikon arvolla."
+    },
+    {
+        "id": "RTMGreturnToPlayer",
+        "text": "\u003cb\u003ePelaajan voitto\u003c/b\u003e"
+    },
+    {
+        "id": "RTMGsoundSettings",
+        "text": "Ääniasetukset"
+    },
+    {
+        "id": "RTtableDescribes",
+        "text": "Alla olevassa taulukossa on luetteloitu pelin eri painikkeet ja niiden toiminnat."
+    },
+    {
+        "id": "RTstartGameRound",
+        "text": "Aloita peli nykyisellä panostasolla ja kolikon arvolla klikkaamalla (vaihtoehtoisesti paina välilyöntiä)."
+    },
+    {
+        "id": "RTMGautoplayPanelLabel",
+        "text": "Automaattipeli"
+    },
+    {
+        "id": "RTMGautoplayQuickSpinHeading",
+        "text": "Automaattipeli ja Pikapyöritys"
+    },
+    {
+        "id": "RTsingleWinDescRev",
+        "text": "Automaattipeli päättyy, kun voittosumma saavuttaa tai ylittää määritetyn summan."
+    },
+    {
+        "id": "advancedAutoplayOptionsHeading",
+        "text": "Automaattipelin lisäasetukset"
+    },
+    {
+        "id": "RTopenGameRules",
+        "text": "Avaa pelisäännöt napsauttamalla."
+    },
+    {
+        "id": "termEnglish",
+        "text": "Englanninkielinen termi"
+    },
+    {
+        "id": "RTmaxBetAtHighBetLevel",
+        "text": "ENIMMÄISPANOS-toiminto käynnistää pelin korkeimmalla panostasolla ja valitulla kolikkoarvolla."
+    },
+    {
+        "id": "simultaneousWinsAdded",
+        "text": "Eri panoslinjojen samanaikaiset voitot lasketaan yhteen."
+    },
+    {
+        "id": "RTmalfunction",
+        "text": "Jos pelilaitteistossa/ohjelmistossa ilmenee toimintahäiriö, sen kohteena olevat pelipanokset ja voitot mitätöidään ja panokset palautetaan."
+    },
+    {
+        "id": "RTMGmalfunction",
+        "text": "Jos pelilaitteistossa/ohjelmistossa ilmenee toimintahäiriö, sen kohteena olevat pelipanokset ja voitot mitätöidään ja panokset palautetaan."
+    },
+    {
+        "id": "RTstarBurstAddReSpinsRev",
+        "text": "Jos uudelleenpyöräytyksen aikana esiin tulee uusi Starburst™ Wild -merkki, se laajenee ja jää paikalleen aiempien laajentuneiden Starburst™ Wild -merkkien kanssa uutta uudelleenpyöräytystä varten."
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Käännetty termi"
+    },
+    {
+        "id": "RTMGbetInCash",
+        "text": "Käteispanos"
+    },
+    {
+        "id": "RTinformationIconButtonDesc",
+        "text": "Katso klikkaamalla \u003cb\u003eVOITOT\u003c/b\u003e."
+    },
+    {
+        "id": "RTinformationIconButtonDescJimi",
+        "text": "Katso klikkaamalla \u003cb\u003eVOITOT\u003c/b\u003e."
+    },
+    {
+        "id": "RTunfinishedGameSession2",
+        "text": "Keskeneräisien pelikierroksien hallintaan käytettävät toimenpiteet."
+    },
+    {
+        "id": "RTMGunfinishedGameSession2",
+        "text": "Keskeneräisiin pelikierroksiin hallintaan käytettävät toimenpiteet."
+    },
+    {
+        "id": "RTMGspinSettingsRev",
+        "text": "Kierrosasetukset"
+    },
+    {
+        "id": "RTMGnumberSpins",
+        "text": "Kierrosten lukumäärä"
+    },
+    {
+        "id": "RTMGcoinvalue",
+        "text": "Kolikkoarvo"
+    },
+    {
+        "id": "RTMGcoinValueInstruction",
+        "text": "Kolikkoarvo asetetaan KOLIKKOARVO-valitsijalla."
+    },
+    {
+        "id": "RTstarburstWildFeatureActive",
+        "text": "Kun kiekoille 2, 3 tai 4 ilmestyy sattumanvaraisesti yksi tai useampi Starburst™ Wild -merkki, käynnistyy Starburst™ Wild -toiminto."
+    },
+    {
+        "id": "RTMGtouchMainGameNew",
+        "text": "Kun pelataan vaakasuorassa, piilota Pyöräytyspainike koskettamalla pelialuetta."
+    },
+    {
+        "id": "RTgameSoundDesc",
+        "text": "Kytkee pelin äänet päälle tai pois päältä."
+    },
+    {
+        "id": "ReSpinsAtActivatingRound",
+        "text": "Lisäpyöräytykset pelataan samalla panoksella kuin lisäpyöräytykset käynnistänyt kierros."
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "Lisätietoja"
+    },
+    {
+        "id": "RTMGadditionalInformation",
+        "text": "Lisätietoja"
+    },
+    {
+        "id": "RTMGstopAutoplayOnOff",
+        "text": "Lopeta Automaattipeli"
+    },
+    {
+        "id": "cashIncreasesDesc",
+        "text": "Lopeta automaattipeli, jos saldo kasvaa määritetyn summan."
+    },
+    {
+        "id": "cashDecreasesDesc",
+        "text": "Lopeta automaattipeli, jos saldo vähenee määritetyn summan."
+    },
+    {
+        "id": "anyWinDesc",
+        "text": "Lopeta automaattipeli, kun voitat kierroksen."
+    },
+    {
+        "id": "singleWinDesc",
+        "text": "Lopeta automaattipeli, kun voittosumma saavuttaa tai ylittää määritetyn summan."
+    },
+    {
+        "id": "RTAutoplayButton",
+        "text": "Mikäli haluat muuttaa automaattipelin lisäasetuksia, napsauta näppäimistön \u003cb\u003eAUTOM. PELI\u003c/b\u003e-painiketta tai pelipalkin \u003cb\u003eAUTO\u003c/b\u003e-painiketta ja valitse \u003cb\u003eLisäasetukset\u003c/b\u003e."
+    },
+    {
+        "id": "gameSettingIntro",
+        "text": "Mikäli haluat muuttaa peliasetuksia, napsauta pelipalkin työkalupainiketta."
+    },
+    {
+        "id": "RTmuteSoundSliderRev",
+        "text": "Mykistä pelin äänet napsauttamalla mykistystä tai säädä äänenvoimakkuus liukusäätimellä."
+    },
+    {
+        "id": "RTMGtapSpinButtonRev",
+        "text": "Napauta aloittaaksesi pelaamisen nykyisillä panoslinjoilla, panostasoilla ja kolikkoarvoilla."
+    },
+    {
+        "id": "RTMGautoplayUI",
+        "text": "Napauta kytkeäksesi automaattipelin päälle tai pois päältä menemättä asetusvalikkoon. Määrittää oletuksena 50 kierrosta."
+    },
+    {
+        "id": "RTMGquickSpinUI",
+        "text": "Napauta kytkeäksesi pikapyöräytyksen päälle tai pois päältä menemättä asetusvalikkoon."
+    },
+    {
+        "id": "RTMGsoundSettingsUI",
+        "text": "Napauta ottaaksesi käyttöön tai poistaaksesi käytöstä äänet menemättä asetusvalikkoon."
+    },
+    {
+        "id": "RTMGspinButtonLeft",
+        "text": "Napauta ottaaksesi käyttöön tai poistaaksesi käytöstä vasenkätisen tilan."
+    },
+    {
+        "id": "RTMGgameSettingIntroDevNew",
+        "text": "Napauta päästäksesi peliasetuksiin ja pelin tietoihin."
+    },
+    {
+        "id": "RTMGquickSettingsMenu",
+        "text": "Napauta plusmerkkiä päästäksesi pika-asetusvalikkoon."
+    },
+    {
+        "id": "RTMGgameSettingIntroDev",
+        "text": "Napauttamalla pääset peliasetuksiin ja pelitietoihin. Voit myös napauttaa Rahaa- tai Kolikkoja-näyttöä."
+    },
+    {
+        "id": "RTinformationIconButtonNoBold",
+        "text": "Napsauta näyttääksesi voittotaulukon."
+    },
+    {
+        "id": "RTpaytableButtonsDescNoBold",
+        "text": "Napsauta vasemmalle tai oikealle osoittavia nuolia vierittääksesi voittotaulukon sivujen läpi. Palaa takaisin peliin napsatuttamalla keskuspainiketta."
+    },
+    {
+        "id": "RTopenSettingsMenu",
+        "text": "Napsauttamalla voi avata peliasetusvalikon ja valita peliasetukset. Lue lisää alla olevasta peliasetus-osiosta."
+    },
+    {
+        "id": "RTgameHistoryDesc",
+        "text": "Näytä pelihistoria napsauttamalla"
+    },
+    {
+        "id": "RTMGshowsBetCoins",
+        "text": "Näyttää panoksesi kolikkoina."
+    },
+    {
+        "id": "RTMGshowsBetCurrency",
+        "text": "Näyttää panoksesi valittuna valuuttana."
+    },
+    {
+        "id": "RTintroOffRev",
+        "text": "Näyttää tai ohittaa alkuelokuvan."
+    },
+    {
+        "id": "RTanimationsOff",
+        "text": "Ota animaatiot käyttöön tai pois käytöstä."
+    },
+    {
+        "id": "RTquickSpinDescRev",
+        "text": "Ottaa pikapyöritysvaihtoehdon käyttöön tai poistaa sen käytöstä"
+    },
+    {
+        "id": "RTambienceDescRev",
+        "text": "Ottaa taustaäänet käyttöön tai poistaa ne käytöstä."
+    },
+    {
+        "id": "RTspacebarspin",
+        "text": "Ottaa välilyöntinäppäin-toiminnon käyttöön tai poistaa sen käytöstä."
+    },
+    {
+        "id": "RTMGbuttonsMainGame",
+        "text": "Pääpeli"
+    },
+    {
+        "id": "RTbuttonTableHead",
+        "text": "Painike"
+    },
+    {
+        "id": "RTMGnoAutoplayLeft",
+        "text": "Painikkeessa näkyy jäljellä olevien kierrosten määrä."
+    },
+    {
+        "id": "RTMGbetInCoins",
+        "text": "Panos kolikkoina"
+    },
+    {
+        "id": "RTCalcBetLineCoinNoMultiplierTransNew",
+        "text": "Panoslinjan voitto kolikoissa on saman suuruinen kuin voittotaulukossa näytetty kerrottuna panoksella."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCurrency",
+        "text": "Panoslinjan voitto kolikoissa vastaa voittoa kolikoissa kerrottuna kolikon arvolla."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "Panoslinjavoitto kolikkoina on \u003cb\u003eVOITOT-TAULUKON\u003c/b\u003e arvo kertaa panostaso."
+    },
+    {
+        "id": "RTMGjimiwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "Panoslinjavoitto kolikkoina on \u003cb\u003eVOITOT-TAULUKON\u003c/b\u003e arvo kertaa panostaso."
+    },
+    {
+        "id": "RTwinCalcBetLinesNoMultiplier",
+        "text": "Panoslinjavoitto kolikkoina vastaa kohdassa Voitot-taulukko  ilmoitettua arvoa panostasolla kerrottuna."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoBold",
+        "text": "Panoslinjavoitto kolikkoina vastaa kohdassa Voitot-taulukko  ilmoitettua arvoa panostasolla kerrottuna. Tämä summa kerrotaan myös mahdollisella asianmukaisella kertoimella."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoMultiplierTrans",
+        "text": "Panoslinjavoitto kolikoissa on \u003cb\u003eVOITOT\u003c/b\u003e arvo kerrottuna panostasolla."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCurrency",
+        "text": "Panoslinjavoitto valuutassa on voittosumma kolikkoina kertaa kolikkoarvo."
+    },
+    {
+        "id": "RTMGbetlevel",
+        "text": "Panostaso"
+    },
+    {
+        "id": "RTMGbetLevelInstruction",
+        "text": "Panostaso asetetaan \u003cb\u003ePanostaso\u003c/b\u003e-valitsijalla."
+    },
+    {
+        "id": "RTbetLevel",
+        "text": "Panostaso on kolkkojen määrä panoslinjaa kohti."
+    },
+    {
+        "id": "RTMGtheoreticalReturn",
+        "text": "Pelaajan teoreettinen voitto tässä pelissä on"
+    },
+    {
+        "id": "RTtheoreticalReturn",
+        "text": "Pelaajan teoreettinen voitto tässä pelissä on"
+    },
+    {
+        "id": "RTreturnToPlayer",
+        "text": "Pelaajan voitto"
+    },
+    {
+        "id": "RTMGsounds",
+        "text": "Peliäänet"
+    },
+    {
+        "id": "RTMGgameSettings",
+        "text": "Peliasetukset ja pelitiedot"
+    },
+    {
+        "id": "RTMGgameHistoryHeading",
+        "text": "Pelihistoria"
+    },
+    {
+        "id": "RTgHistoryNotAvailableForFun",
+        "text": "Pelihistoria ei ole saatavilla, kun \u003cb\u003ePELAA LEIKISTI\u003c/b\u003e -toiminto on päällä."
+    },
+    {
+        "id": "RTMGhistoryNotAvailable",
+        "text": "Pelihistoria on saatavilla vain rahasta pelattaessa."
+    },
+    {
+        "id": "gameSettingOptionsHeading",
+        "text": "Pelin asetukset"
+    },
+    {
+        "id": "RTMGreferWebSite",
+        "text": "Pelin seuraaviin toimintoihin ja asetuksiin saatetaan soveltaa pelisivuston ehtoja. Lisätietoja on pelisivustolla:"
+    },
+    {
+        "id": "RTreferWebSite",
+        "text": "Pelin seuraaviin toimintoihin ja asetuksiin saatetaan soveltaa pelisivuston ehtoja. Seuraavista asioista on lisätietoja pelisivustolla:"
+    },
+    {
+        "id": "RTMGgameRules",
+        "text": "Pelisäännöt"
+    },
+    {
+        "id": "RTrulesGenerated",
+        "text": "Pelisäännöt laadittu:"
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Peliterminologian käännökset"
+    },
+    {
+        "id": "RTgameFunctionsHeading",
+        "text": "Pelitoiminnot"
+    },
+    {
+        "id": "RTMGquickSettings",
+        "text": "Pika-asetusvalikko"
+    },
+    {
+        "id": "RTMGquickSpinGameSetting",
+        "text": "Pikapyöräytys"
+    },
+    {
+        "id": "RTMGquickSpin",
+        "text": "Pikapyöritys"
+    },
+    {
+        "id": "RTMGquickStop",
+        "text": "Pikapysäytys"
+    },
+    {
+        "id": "RTMGsoundsOff",
+        "text": "Poista ääni aina käytöstä"
+    },
+    {
+        "id": "RTMGdisableAutoplayIfBonusGame",
+        "text": "Poista automaattipeli käytöstä napauttamalla, jos bonuspeli voitetaan ennen kuin automaattikierrokset päättyvät."
+    },
+    {
+        "id": "RTMGdisableAutoplay",
+        "text": "Poista automaattipeli käytöstä napauttamalla, jos Free Spins voitetaan ennen kuin automaattipelin määritetyt kierrokset on pelattu."
+    },
+    {
+        "id": "RTMGdisableAutoplayPickClick",
+        "text": "Poista automaattipeli käytöstä napauttamalla, jos Pick and Click  voitetaan ennen kuin automaattipelin määritetyt kierrokset on pelattu."
+    },
+    {
+        "id": "RTMGexit",
+        "text": "Poistu"
+    },
+    {
+        "id": "RTMGleaveGame",
+        "text": "Poistu pelistä napauttamalla."
+    },
+    {
+        "id": "RTMGspinButton",
+        "text": "Pyöräytä-painike"
+    },
+    {
+        "id": "RTspinPlayRev",
+        "text": "Pyöräytä-painike käynnistää pelin nykyisillä panoslinjoilla, panostasolla ja kolikon arvoilla (voit myös painaa välilyöntinäppäintä)."
+    },
+    {
+        "id": "RTMGstopIfFreeSpins",
+        "text": "Pysäytä, jos voitat Free Spin -kierroksia"
+    },
+    {
+        "id": "RTadjustQualityRev",
+        "text": "Säätää kuvan laatua optimaalisen suorituskyvyn saamiseksi."
+    },
+    {
+        "id": "RTMGstarburstTouchIntro",
+        "text": "Starburst Touch™ on 5 kiekon ja 3 rivin videokolikkopeli, jossa on Starburst Wild™ -uusintapyöräytyksiä ja kaksisuuntainen voitto."
+    },
+    {
+        "id": "RTMGstarburstTouchRulesHeading",
+        "text": "Starburst Touch™ -pelin säännöt"
+    },
+    {
+        "id": "RTstarBurstIntro",
+        "text": "Starburst™ on 5 kiekon, 3 rivin videohedelmäpeli, jossa on Starburst™ Wild -merkkejä ja lisäpyöräytyksiä sekä Voita kaksin tavoin -ominaisuus."
+    },
+    {
+        "id": "RTstarBurstWildHeading",
+        "text": "Starburst™ Wild -merkit"
+    },
+    {
+        "id": "RTstarBurstWildSymbAppear",
+        "text": "Starburst™ Wild -merkit esiintyvät vain kiekoilla 2, 3 ja 4."
+    },
+    {
+        "id": "RTstarBurstWildSubstitute",
+        "text": "Starburst™ Wild -merkit voivat korvata minkä tahansa merkin."
+    },
+    {
+        "id": "RTstarBurststickyWExpandsReSpinsRev",
+        "text": "Starburst™ Wild -toiminnon aikana Starburst™ Wildit laajenevat peittämään koko kiekon ja pysyvät paikoillaan muiden kiekkojen pyöriessä uudelleen."
+    },
+    {
+        "id": "RTstarburstWildEnds",
+        "text": "Starburst™ Wild -toiminto päättyy, kun uudelleenpyöräytyksen jälkeen ei enää ilmesty uusia Starburst™ Wildejä."
+    },
+    {
+        "id": "RTstarBurstRulesHeading",
+        "text": "Starburst™-pelin säännöt"
+    },
+    {
+        "id": "RTMGback",
+        "text": "Takaisin"
+    },
+    {
+        "id": "RTMGbackMainGame",
+        "text": "Tätä napauttamalla voit palata pääpeliin."
+    },
+    {
+        "id": "RTgameSessions2",
+        "text": "Toimettomuusaika, jonka kuluttua peli-istunnot päättyvät automaattisesti."
+    },
+    {
+        "id": "RTMGgameSessions2",
+        "text": "Toimettomuusaika, jonka kuluttua pelituokiot päättyvät automaattisesti."
+    },
+    {
+        "id": "RTfunctionTableHead",
+        "text": "Toiminto"
+    },
+    {
+        "id": "RTviewMiniPaytable",
+        "text": "Vaihtoehtoisesti voit näyttää merkkien pienoisvoittotaulukot napsauttamalla mitä tahansa kiekkojen merkkejä pääpelin aikana."
+    },
+    {
+        "id": "RTpaytableHighestRev",
+        "text": "Vain aktiivisen panoslinjan ja molempien tapojen suurin voitto maksetaan."
+    },
+    {
+        "id": "RTMGmenu",
+        "text": "Valikko"
+    },
+    {
+        "id": "RTautoplaySelectSpins",
+        "text": "Valitse Automaattipelin kierrosten määrä tai avaa Lisäasetukset ja määritä Automaattipelin lopetuksen asetukset."
+    },
+    {
+        "id": "RTMGselectCoinValueRevNew",
+        "text": "Valitse kolikon arvo vetämällä tai napauttamalla liukusäädintä."
+    },
+    {
+        "id": "RTMGselectBetLevelRevNew",
+        "text": "Valitse linjakohtaisen panoksen kolikkomäärä vetämällä tai napauttamalla liukusäädintä."
+    },
+    {
+        "id": "RTMGAutoplaySpins",
+        "text": "Valittujen kierrosten määrä näkyy painikkeessa."
+    },
+    {
+        "id": "RTMGleftHandMode",
+        "text": "Vasenkätinen tila"
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRevNew",
+        "text": "Vedä tai napauta säädintä käynnistääksesi automaattipelin ja asettaaksesi kierrosten määrän. Automaattipeli pelaa peliä valittujen pyöräytysten määrän."
+    },
+    {
+        "id": "RTpaytableButtonsDescRev",
+        "text": "Vieritä \u003cb\u003eVOITOT\u003c/b\u003e-sivujen läpi napsauttamalla oikealle tai vasemmalle osoittavia nuolia. Pääset takaisin peliin napsauttamalla keskellä olevaa painiketta."
+    },
+    {
+        "id": "RTMGstartAutoplay",
+        "text": "Voit käynnistää Automaattipelin napauttamalla."
+    },
+    {
+        "id": "RTMGstartQuickSpin",
+        "text": "Voit käynnistää Pikapyörityksen napauttamalla."
+    },
+    {
+        "id": "RTMGsoundOnOffRev",
+        "text": "Voit kytkeä äänet päälle tai pois päältä napauttamalla vaihtopainiketta."
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRev",
+        "text": "Voit kytkeä Automaattipelin päälle tai pois päältä napauttamalla vaihtopainiketta. Automaattipeli pelaa peliä automaattisesti valitun kierrosluvun ajan."
+    },
+    {
+        "id": "RTMGtapOnOffRev",
+        "text": "Voit kytkeä Pikapyörityksen päälle tai pois päältä napauttamalla vaihtopainiketta."
+    },
+    {
+        "id": "RTMGsoundsDisabledRev",
+        "text": "Voit kytkeä tulevien peli-istuntojen äänet pois päältä napauttamalla vaihtopainiketta."
+    },
+    {
+        "id": "RTplayCurrentBetLinesTo10",
+        "text": "Voit panostaa 1–10 panoslinjalle eri panostasoilla ja kolikon arvoilla."
+    },
+    {
+        "id": "RTMGplay10FixedBetLines",
+        "text": "Voit pelata 10 kiinteällä panoslinjalla ja eri panostasoilla ja kolikkoarvoilla."
+    },
+    {
+        "id": "RTMGtouchMainGame",
+        "text": "Voit piilottaa Pyöräytä-painikkeen koskettamalla pelialuetta."
+    },
+    {
+        "id": "RTMGstopAutoplay",
+        "text": "Voit pysäyttää Automaattipelin napauttamalla."
+    },
+    {
+        "id": "RTMGtapDuringSpin",
+        "text": "Voit pysäyttää kiekot napauttamalla pelialuetta kierroksen aikana."
+    },
+    {
+        "id": "RTMGgameHistoryDesc",
+        "text": "Voit tarkastella pelihistoriaa napauttamalla tätä."
+    },
+    {
+        "id": "RTMGviewGamesRules",
+        "text": "Voit tarkastella pelisääntöjä napauttamalla tätä."
+    },
+    {
+        "id": "RTMGwinComb",
+        "text": "Voit tarkastella voittoyhdistelmiä ja voittoja napauttamalla tätä."
+    },
+    {
+        "id": "RTMGselectSpinsRev",
+        "text": "Voit valita Automaattipelin kierrosten määrän pyyhkäisemällä tai napauttamalla asetuspyörää."
+    },
+    {
+        "id": "RTMGselectCoinValueRev",
+        "text": "Voit valita kolikon arvon pyyhkäisemällä tai napauttamalla asetuspyörää."
+    },
+    {
+        "id": "RTMGselectBetLevelRev",
+        "text": "Voit valita panoslinjaa kohti panostettavan kolikkomäärän pyyhkäisemällä tai napauttamalla asetuspyörää."
+    },
+    {
+        "id": "termPaytable",
+        "text": "Voitot"
+    },
+    {
+        "id": "RTMGpaytable",
+        "text": "Voitot"
+    },
+    {
+        "id": "RTMGpaytableJimi",
+        "text": "Voitot"
+    },
+    {
+        "id": "RTHighWinSymCompleteActLineRev",
+        "text": "Voitto maksetaan vain korkeimmasta voittoyhdistelmästä aktiivisella panoslinjalla vasemmanpuoleisimmasta rullasta oikealle ja/tai oikeanpuoleisimmasta vasemmalle."
+    },
+    {
+        "id": "RTwinCombinationPaytable",
+        "text": "Voittoyhdistelmät ja voitot perustuvat \u003cb\u003eVOITOT\u003c/b\u003e-voittotaulukkoon."
+    },
+    {
+        "id": "RTMGwinCombinations",
+        "text": "Voittoyhdistelmät ja voitot perustuvat \u003cb\u003eVoittotaulukkoon\u003c/b\u003e."
+    },
+    {
+        "id": "RTwinCombinationPaytablenoBold",
+        "text": "Voittoyhdistelmät ja voitot tehdään Voittotaulukon mukaan."
+    },
+    {
+        "id": "termWild",
+        "text": "Yllätys"
+    },
+    {
+        "id": "RTautoplayDuringGameRev",
+        "text": "\u003cb\u003eHuom.:\u003c/b\u003e Kun automaattipeliasetuksia muutetaan kesken pelikierroksen, kaikki muutokset tulevat voimaan pelikierroksen tai ominaisuuden päätyttyä."
+    },
+    {
+        "id": "RTopenAutoplayMenu",
+        "text": "Avaa Autom. peli -asetusvalikko napsauttamalla ja pelaa peliä automaattisesti."
+    },
+    {
+        "id": "RTwinCalculationWinMatchCurrency",
+        "text": "Panoslinjan voitto kolikoissa vastaa voittoa kolikoissa kerrottuna kolikon arvolla."
+    },
+    {
+        "id": "RTeachStar1AddRespinUpTo3respin",
+        "text": "Enintään 2  Starburst™ Wild -lisäsymbolia voi tulla näkyviin sen jälkeen kun Starburst™ Wild aktivoi uudelleenpyörityksen, liipaisten lisäpyörityksen tai enintään 3 uudelleenpyöritystä."
+    },
+    {
+        "id": "RTexCloneWildOverlay",
+        "text": "Expanding Cloning Wild -merkit ilmestyvät pyörivien kiekkojen päälle. Kloonatut merkit ilmestyvät nekin kiekkojen päälle."
+    },
+    {
+        "id": "RTsliderCoinValue",
+        "text": "Kolikon arvo asetetaan kolikon arvon liukusäätimellä."
+    },
+    {
+        "id": "RTMGautoOptions",
+        "text": "Liu\u0027uta tai napauta liukusäädintä Autopelaa-valintojen ja pelattavien pelien määrän asettamiseksi. Autopelaa-toiminto pelaa valitun määrän pyöräytyksiä."
+    },
+    {
+        "id": "RTcashIncreasesDescRev",
+        "text": "Lopettaa Autopelaa-toiminnon, jos käteinen kasvaa määrittämälläsi summalla."
+    },
+    {
+        "id": "RTcashDecreasesDescRev",
+        "text": "Lopettaa Autopelaa-toiminnon, jos käteinen pienenee määrittämälläsi summalla."
+    },
+    {
+        "id": "RTsliderBetLevel",
+        "text": "Panostaso asetetaan panostason liukusäätimellä."
+    },
+    {
+        "id": "onlyHighWinComb",
+        "text": "Vain panoslinjojen korkein voittoyhdistelmä alkaen joko äärimmäisestä vasemmalla tai äärimmäisestä oikealla  maksetaan "
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003eHuomaa\u003c/b\u003e: Seuraava on taulukko on voimassa vain, jos pelaat muulla kielellä kuin englanniksi."
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003eHuomio:\u003c/b\u003e Jotkin automaattipeliasetukset ovat pakollisia joillakin hallintoalueilla."
+    },
+    {
+        "id": "termEnglish",
+        "text": "Englanninkielinen termi"
+    },
+    {
+        "id": "featuresNotAvailablePFF",
+        "text": "Jotkin toiminnot eivät ole käytössä \u003cb\u003ePELAA LEIKISTI\u003c/b\u003e -tilassa."
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Käännetty termi"
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "Lisätietoja"
+    },
+    {
+        "id": "RTsingleWinDescRevNew",
+        "text": "Lopettaa automaattipelin, kun voitettu summa on sama tai suurempi kuin määritetty summa."
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Peliterminologian käännökset"
+    }
+]

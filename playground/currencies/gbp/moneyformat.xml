@@ -1,0 +1,11 @@
+<moneyformats>
+   <moneyformat>
+      <dividers thousands="," decimal="."/>
+      <strings>
+         <curchar after="false">£</curchar>
+         <centchar usecent="false" after="false">p</centchar>
+      </strings>
+      <iso>GBP</iso>
+      <decimals>2</decimals>
+   </moneyformat>
+</moneyformats>

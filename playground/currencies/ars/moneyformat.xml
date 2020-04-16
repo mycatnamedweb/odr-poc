@@ -1,0 +1,11 @@
+<moneyformats>
+   <moneyformat>
+      <dividers thousands="." decimal=","/>
+      <strings>
+         <curchar after="false">ARS</curchar>
+         <centchar usecent="false" after="false">?</centchar>
+      </strings>
+      <iso>ARS</iso>
+      <decimals>2</decimals>
+   </moneyformat>
+</moneyformats>

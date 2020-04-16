@@ -1,0 +1,738 @@
+﻿[
+    {
+        "id": "RTGameHistNoPlayForFun",
+        "text": "(Ikke muligt når der \u003cb\u003eSPILLES FOR SJOV\u003c/b\u003e)."
+    },
+    {
+        "id": "RTquickSpinDisclaimer",
+        "text": "(Ikke tilgængelig i alle casinoer)."
+    },
+    {
+        "id": "RTautoplayPlays",
+        "text": "\u003cb\u003eAUTOSPIL\u003c/b\u003e spiller automatisk det valgte antal runder (klik som alternativ på \u003cb\u003eAUTO\u003c/b\u003e-knappen)."
+    },
+    {
+        "id": "RTautoplayPlaysJimi",
+        "text": "\u003cb\u003eAUTOSPIL\u003c/b\u003e spiller automatisk det valgte antal runder (klik som alternativ på \u003cb\u003eAUTO\u003c/b\u003e-knappen)."
+    },
+    {
+        "id": "RTMGautoplayDisconnect",
+        "text": "\u003cb\u003eBemærk:\u003c/b\u003e Hvis forbindelsen afbrydes, mens du spiller, vender alle autospil-indstillingerne tilbage standard, når du genstarter spillet."
+    },
+    {
+        "id": "RTAutoplayDisconnect",
+        "text": "\u003cb\u003eBemærk:\u003c/b\u003e Hvis forbindelsen afbrydes, mens du spiller, vil alle autospil-indstillinger vende tilbage til standardindstillingen, når du genindlæser spillet."
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003eBemærk:\u003c/b\u003e Nogle autospil-indstillinger er obligatoriske i nogle lande."
+    },
+    {
+        "id": "RTsettingsDisclaimer",
+        "text": "\u003cb\u003eBemærk:\u003c/b\u003e Nogle kasinoer drives uden alle de nævnte spilindstillinger."
+    },
+    {
+        "id": "RTMGsettingsDisclaimer",
+        "text": "\u003cb\u003eBemærk:\u003c/b\u003e Nogle spiludbydere tilbyder nødvendigvis ikke alle de angivne spilindstillinger."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003eBemærk\u003c/b\u003e: Den følgende tabel gælder kun, hvis du spiller på et andet sprog end engelsk."
+    },
+    {
+        "id": "RTsoundButton",
+        "text": "\u003cb\u003eLyd\u003c/b\u003e"
+    },
+    {
+        "id": "RTmaxbetPlays",
+        "text": "\u003cb\u003eMAKS. INDSATS\u003c/b\u003e spiller med maksimalt antal spillelinjer, højeste satsniveau og den aktuelle møntværdi."
+    },
+    {
+        "id": "RTcoinsDisplayValues",
+        "text": "\u003cb\u003eMØNTER\u003c/b\u003e viser antallet af mønter, spilleren har til rådighed til at satse for."
+    },
+    {
+        "id": "RTMGcoinsDisplayValues",
+        "text": "\u003cb\u003eMønter\u003c/b\u003e viser antallet af mønter, spilleren har til rådighed til at satse."
+    },
+    {
+        "id": "RTMGreturnToPlayer",
+        "text": "\u003cb\u003eTilbagebetalingsprocent til spiller\u003c/b\u003e"
+    },
+    {
+        "id": "RTMGnumberSpins",
+        "text": "Antal spin"
+    },
+    {
+        "id": "RTMGnoAutoplayLeft",
+        "text": "Antallet af tilbageværende spins vises på knappen."
+    },
+    {
+        "id": "RTMGAutoplaySpins",
+        "text": "Antallet af valgte spin vises på knappen."
+    },
+    {
+        "id": "RTMGautoplayPanelLabel",
+        "text": "Autospil"
+    },
+    {
+        "id": "RTMGautoplayQuickSpinHeading",
+        "text": "Autospil og hurtig spin"
+    },
+    {
+        "id": "advancedAutoplayOptionsHeading",
+        "text": "Avancerede indstillinger for autospil"
+    },
+    {
+        "id": "RTMGreferWebSite",
+        "text": "De følgende spilfunktioner og indstillinger kan være underlagt betingelser og vilkår fra spillesiden. Se hjemmesiden for flere oplysninger om følgende:"
+    },
+    {
+        "id": "RTMGsoundsOff",
+        "text": "Deaktiver altid lyd"
+    },
+    {
+        "id": "RTtheoreticalReturn",
+        "text": "Den teoretiske tilbagebetalingsprocent til spilleren for dette spil er"
+    },
+    {
+        "id": "RTMGtheoreticalReturn",
+        "text": "Den teoretiske tilbagebetalingsprocent til spilleren for dette spil er"
+    },
+    {
+        "id": "RTMGgameSessions2",
+        "text": "Det tidsrum, hvorefter inaktive spillerunder afsluttes automatisk."
+    },
+    {
+        "id": "RTgameSessions2",
+        "text": "Det tidsrum, hvorefter inaktive spilsessioner afsluttes automatisk."
+    },
+    {
+        "id": "RTplayCurrentBetLinesTo10",
+        "text": "Du kan spille på 1 til 10 spillelinjer med forskellige satsniveauer og møntværdier."
+    },
+    {
+        "id": "RTstarburstWildFeatureActive",
+        "text": "En eller flere Starburst™ Wilds der fremkommer hvor som helst på tromle 2, 3 eller 4, aktiverer Starburst™ Wilds-funktionen."
+    },
+    {
+        "id": "RTwinCalcBetLinesNoMultiplier",
+        "text": "En gevinst i mønter på en indsatslinje er lig med værdien vist i gevinsttabellen ganget med indsatsniveauet."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoBold",
+        "text": "En gevinst i mønter på en indsatslinje er lig med værdien vist i gevinsttabellen ganget med indsatsniveauet. Beløbet ganges desuden med gældende multiplikatorer."
+    },
+    {
+        "id": "RTCalcBetLineCoinNoMultiplierTransNew",
+        "text": "En indsatslinjegevinst i mønter svarer til værdien, der er vist i gevinsttabellen ganget med indsatsniveauet."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCurrency",
+        "text": "En spillelinjegevinst i en møntenhed svarer til gevinsten i mønter ganget med møntværdien."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCurrency",
+        "text": "En spillelinjegevinst i møntenhed svarer til gevinsten i mønter ganget med møntværdien."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "En spillelinjegevinst i mønter svarer til værdien der vises i \u003cb\u003eGEVINSTTABEL\u003c/b\u003e gange satsniveauet."
+    },
+    {
+        "id": "RTMGjimiwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "En spillelinjegevinst i mønter svarer til værdien der vises i \u003cb\u003eGEVINSTTABEL\u003c/b\u003e gange satsniveauet."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoMultiplierTrans",
+        "text": "En spillelinjegevinst i mønter svarer til værdien, der vises i \u003cb\u003eGEVINSTTABEL\u003c/b\u003e, ganget med satsniveauet."
+    },
+    {
+        "id": "termEnglish",
+        "text": "Engelsk udtryk"
+    },
+    {
+        "id": "RTreferWebSite",
+        "text": "Følgende spilfunktioner og -indstillinger kan være underlagt spilwebstedets betingelser og vilkår. Du kan få flere oplysninger om følgende på webstedet:"
+    },
+    {
+        "id": "RTMGexit",
+        "text": "Forlad"
+    },
+    {
+        "id": "RTMGunfinishedGameSession2",
+        "text": "Fremgangsmåden ved håndtering af uafsluttede spillerunder."
+    },
+    {
+        "id": "RTunfinishedGameSession2",
+        "text": "Fremgangsmåden ved håndtering af uafsluttede spillerunder."
+    },
+    {
+        "id": "RTfunctionTableHead",
+        "text": "Funktion"
+    },
+    {
+        "id": "RTMGpaytable",
+        "text": "Gevinsttabel"
+    },
+    {
+        "id": "termPaytable",
+        "text": "Gevinsttabel"
+    },
+    {
+        "id": "RTMGpaytableJimi",
+        "text": "Gevinsttabel"
+    },
+    {
+        "id": "RTMGbuttonsMainGame",
+        "text": "Hovedspil"
+    },
+    {
+        "id": "RTMGquickSettings",
+        "text": "Hurtig indstillings-menu"
+    },
+    {
+        "id": "RTMGquickSpin",
+        "text": "Hurtig spin"
+    },
+    {
+        "id": "RTMGquickSpinGameSetting",
+        "text": "Hurtig spin"
+    },
+    {
+        "id": "RTMGquickStop",
+        "text": "Hurtig-stop"
+    },
+    {
+        "id": "RTstarBurstAddReSpinsRev",
+        "text": "Hvis et nyt Starburst™ Wild-symbol fremkommer under et re-spin, udvides det og fastholdes sammen med alle tidligere udvidede Starburst™ Wild-symboler for et ekstra re-spin."
+    },
+    {
+        "id": "RTMGtouchMainGameNew",
+        "text": "I liggende retning kan du røre ved spilområdet for at skjule Spin-knappen."
+    },
+    {
+        "id": "RTMGmalfunction",
+        "text": "I tilfælde af at spillehardware/software, vil alle berørte indsatser og udbetalinger blive annulleret, og alle berørte indsatser vil blive refunderet."
+    },
+    {
+        "id": "RTmalfunction",
+        "text": "I tilfælde af, fejl i spillets hardware/software, vil alle berørte indsatser og udbetalinger blive annulleret, og alle berørte indsatser vil blive refunderet."
+    },
+    {
+        "id": "RTMGbetInCash",
+        "text": "Indsats i kontanter"
+    },
+    {
+        "id": "RTMGbetInCoins",
+        "text": "Indsats i mønter"
+    },
+    {
+        "id": "RTAutoplayButton",
+        "text": "Indstil avancerede valg for autospil ved at klikke på \u003cb\u003eAUTOSPIL\u003c/b\u003e på tastaturet eller \u003cb\u003eAUTO\u003c/b\u003e i spilpanelet og dernæst på \u003cb\u003eAvancerede indstillinger\u003c/b\u003e."
+    },
+    {
+        "id": "RTMGleftHandMode",
+        "text": "Indstilling til venstre hånd"
+    },
+    {
+        "id": "termWild",
+        "text": "Joker"
+    },
+    {
+        "id": "RTadjustQualityRev",
+        "text": "Justerer grafikkvaliteten for optimalt resultat."
+    },
+    {
+        "id": "RTMGselectSpinsRev",
+        "text": "Klik eller flyt indstillingshjulet for at vælge antallet af autospil spins."
+    },
+    {
+        "id": "RTMGselectBetLevelRev",
+        "text": "Klik eller flyt indstillingshjulet for at vælge antallet af mønter til at satse pr. spillelinje."
+    },
+    {
+        "id": "RTMGselectCoinValueRev",
+        "text": "Klik eller flyt indstillingshjulet for at vælge møntværdi."
+    },
+    {
+        "id": "RTopenSettingsMenu",
+        "text": "Klik for at åbne spilindstillingsmenuen og vælg spilindstillinger. Henvis til sektionen for spilindstillinger nedenfor."
+    },
+    {
+        "id": "RTopenGameRules",
+        "text": "Klik for at åbne spillereglerne."
+    },
+    {
+        "id": "RTMGtapSpinButtonRev",
+        "text": "Klik for at begynde at spille med nuværende spillelinjer, satsniveau og møntværdi."
+    },
+    {
+        "id": "RTMGsoundsDisabledRev",
+        "text": "Klik for at deaktivere lyde for fremtidige spilsessioner."
+    },
+    {
+        "id": "RTMGgameSettingIntroDev",
+        "text": "Klik for at få adgang til spilindstillinger og spilinformation eller klik på Kontant og Mønt displayene."
+    },
+    {
+        "id": "RTgameHistoryDesc",
+        "text": "Klik for at få vist seneste spilhistorik"
+    },
+    {
+        "id": "RTMGgameHistoryDesc",
+        "text": "Klik for at få vist seneste spilhistorik."
+    },
+    {
+        "id": "RTinformationIconButtonDesc",
+        "text": "Klik for at se \u003cb\u003eGEVINSTTABELLEN\u003c/b\u003e."
+    },
+    {
+        "id": "RTinformationIconButtonDescJimi",
+        "text": "Klik for at se \u003cb\u003eGEVINSTTABELLEN\u003c/b\u003e."
+    },
+    {
+        "id": "RTinformationIconButtonNoBold",
+        "text": "Klik for at se gevinsttabel."
+    },
+    {
+        "id": "RTMGviewGamesRules",
+        "text": "Klik for at se spillereglerne."
+    },
+    {
+        "id": "RTMGwinComb",
+        "text": "Klik for at se vinderkombinationer og udbetalinger."
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRev",
+        "text": "Klik for at slå Autospil til eller fra. Autospil spiller spillet det valgte antal spins."
+    },
+    {
+        "id": "RTMGtapOnOffRev",
+        "text": "Klik for at slå Hurtig spin til eller fra."
+    },
+    {
+        "id": "RTMGsoundOnOffRev",
+        "text": "Klik for at slå lyde til eller fra."
+    },
+    {
+        "id": "RTmuteSoundSliderRev",
+        "text": "Klik for at slå spillyde fra eller benyt skyderen til at justere lydstyrken."
+    },
+    {
+        "id": "RTMGstartAutoplay",
+        "text": "Klik for at starte autospil."
+    },
+    {
+        "id": "RTstartGameRound",
+        "text": "Klik for at starte en spillerunde med det aktuelt valgte indsatsniveau og møntværdi (du kan også trykke på mellemrumstasten)."
+    },
+    {
+        "id": "RTMGstartQuickSpin",
+        "text": "Klik for at starte hurtig spin."
+    },
+    {
+        "id": "RTMGstopAutoplay",
+        "text": "Klik for at stoppe autospil."
+    },
+    {
+        "id": "RTpaytableButtonsDescRev",
+        "text": "Klik på pilene, der peger til venstre eller højre, for at bladre gennem siderne i \u003cb\u003eGEVINSTTABEL\u003c/b\u003e. Klik på midterknappen for at vende tilbage til spillet."
+    },
+    {
+        "id": "RTpaytableButtonsDescNoBold",
+        "text": "Klik på pilene, der peger til venstre eller højre, for at bladre gennem siderne i gevinsttabellen. Klik på knappen i midten for at vende tilbage til spillet."
+    },
+    {
+        "id": "RTMGtapDuringSpin",
+        "text": "Klik på spilområdet under et spin for at stoppe tromlerne."
+    },
+    {
+        "id": "RTviewMiniPaytable",
+        "text": "Klik som alternativ på et symbol på tromlerne i hovedspillet for at se en minigevinsttabel for dette symbol."
+    },
+    {
+        "id": "RTbuttonTableHead",
+        "text": "Knap"
+    },
+    {
+        "id": "RTHighWinSymCompleteActLineRev",
+        "text": "Kun den største vindende kombination, fra tromlen længst til venstre mod højre og/eller omvendt på en aktiv spillelinje, betales."
+    },
+    {
+        "id": "RTpaytableHighestRev",
+        "text": "Kun højeste gevinst pr. aktiv spillelinje fra begge retninger betales."
+    },
+    {
+        "id": "RTMGsoundSettings",
+        "text": "Lydindstillinger"
+    },
+    {
+        "id": "RTmaxBetAtHighBetLevel",
+        "text": "MAKS. INDSATS spiller spillet ved højeste satsniveau og aktuel møntværdi."
+    },
+    {
+        "id": "RTMGmenu",
+        "text": "Menu"
+    },
+    {
+        "id": "RTMGcoinvalue",
+        "text": "Møntværdi"
+    },
+    {
+        "id": "RTMGcoinValueInstruction",
+        "text": "Møntværdien indstilles ved hjælp af MØNTVÆRDI-vælgeren."
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Oversættelse af spilterminologi"
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Oversat udtryk"
+    },
+    {
+        "id": "ReSpinsAtActivatingRound",
+        "text": "Re-spin spilles med samme indsats som runden, der aktiverer re-spin."
+    },
+    {
+        "id": "RTMGtouchMainGame",
+        "text": "Rør spilområdet for at skjule spin-knappen."
+    },
+    {
+        "id": "simultaneousWinsAdded",
+        "text": "Samtidige gevinster på forskellige spillelinjer lægges sammen."
+    },
+    {
+        "id": "RTMGbetlevel",
+        "text": "Satsniveau"
+    },
+    {
+        "id": "RTbetLevel",
+        "text": "Satsniveauet er antallet af mønter satset per spillelinje."
+    },
+    {
+        "id": "RTMGbetLevelInstruction",
+        "text": "Satsniveauet indstilles ved hjælp af \u003cb\u003esatsniveau\u003c/b\u003e-vælgeren."
+    },
+    {
+        "id": "RTanimationsOff",
+        "text": "Slå animationerne til eller fra."
+    },
+    {
+        "id": "RTambienceDescRev",
+        "text": "Slår baggrundslyden til eller fra."
+    },
+    {
+        "id": "RTquickSpinDescRev",
+        "text": "Slår Hurtig spin til eller fra"
+    },
+    {
+        "id": "RTintroOffRev",
+        "text": "Slår introskærmen til eller fra."
+    },
+    {
+        "id": "RTspacebarspin",
+        "text": "Slår mellemrumstasten funktion til eller fra."
+    },
+    {
+        "id": "RTgameSoundDesc",
+        "text": "Slår spillyde til eller fra."
+    },
+    {
+        "id": "RTMGplay10FixedBetLines",
+        "text": "Spil på 10 faste spillelinjer med forskellige satsniveauer og møntværdier."
+    },
+    {
+        "id": "RTgameFunctionsHeading",
+        "text": "Spilfunktioner"
+    },
+    {
+        "id": "RTMGgameHistoryHeading",
+        "text": "Spilhistorik"
+    },
+    {
+        "id": "RTgHistoryNotAvailableForFun",
+        "text": "Spilhistorik er ikke tilgængelig når der \u003cb\u003eSPILLES FOR SJOV\u003c/b\u003e."
+    },
+    {
+        "id": "RTMGhistoryNotAvailable",
+        "text": "Spilhistorik er kun tilgængelig, når der spilles for penge."
+    },
+    {
+        "id": "gameSettingOptionsHeading",
+        "text": "Spilindstillinger"
+    },
+    {
+        "id": "RTMGgameSettings",
+        "text": "Spilindstillinger og spilinformation"
+    },
+    {
+        "id": "RTMGgameRules",
+        "text": "Spilleregler"
+    },
+    {
+        "id": "RTrulesGenerated",
+        "text": "Spilleregler genereret:"
+    },
+    {
+        "id": "gameSettingIntro",
+        "text": "Spillets indstillinger tilgås ved at klikke på skruenøgle-ikonet i spilpanelet."
+    },
+    {
+        "id": "RTMGsounds",
+        "text": "Spillyde"
+    },
+    {
+        "id": "RTMGspinSettingsRev",
+        "text": "Spin-indstillinger"
+    },
+    {
+        "id": "RTMGspinButton",
+        "text": "Spin-knap"
+    },
+    {
+        "id": "RTspinPlayRev",
+        "text": "Spin-knappen bruges til at spille spillet med aktuel spillelinje, satsniveau og møntværdi (alternativt kan trykkes på mellemrumstasten)."
+    },
+    {
+        "id": "RTsingleWinDescRev",
+        "text": "Standser autospil, når det beløb, du har vundet, er større end eller lig med det beløb, du har valgt."
+    },
+    {
+        "id": "RTMGstarburstTouchIntro",
+        "text": "Starburst Touch™ er et video slot-spil med 5 tromler, 3 rækker og Starburst™ Wild med re-spins og gevinst i begge retninger."
+    },
+    {
+        "id": "RTMGstarburstTouchRulesHeading",
+        "text": "Starburst Touch™ spilleregler"
+    },
+    {
+        "id": "RTstarBurstIntro",
+        "text": "Starburst™ er en videospilleautomat med 5 tromler i 3 rækker, med Starburst™ Wild med Re-Spins og gevinst i begge retninger."
+    },
+    {
+        "id": "RTstarBurstRulesHeading",
+        "text": "Starburst™ Spilleregler"
+    },
+    {
+        "id": "RTstarburstWildEnds",
+        "text": "Starburst™ Wild-funktionen slutter når ingen nye Starburst™ Wilds fremkommer i løbet af et nyt spin."
+    },
+    {
+        "id": "RTstarBurstWildHeading",
+        "text": "Starburst™ Wilds"
+    },
+    {
+        "id": "RTstarBurstWildSymbAppear",
+        "text": "Starburst™ Wild-symboler kan kun fremkomme på tromle 2, 3 og 4."
+    },
+    {
+        "id": "RTstarBurstWildSubstitute",
+        "text": "Starburst™ Wildsymbolerne erstatter ethvert andet symbol."
+    },
+    {
+        "id": "RTMGstopAutoplayOnOff",
+        "text": "Stop autospil"
+    },
+    {
+        "id": "cashIncreasesDesc",
+        "text": "Stop autospil, hvis kontantbeløbet øges med det beløb, som du har valgt."
+    },
+    {
+        "id": "cashDecreasesDesc",
+        "text": "Stop autospil, hvis kontantbeløbet reduceres med det beløb, som du har valgt."
+    },
+    {
+        "id": "singleWinDesc",
+        "text": "Stop autospil, når det beløb, du har vundet, er større eller lig det beløb, som du har valgt."
+    },
+    {
+        "id": "anyWinDesc",
+        "text": "Stop autospil, når du vinder en runde."
+    },
+    {
+        "id": "RTMGstopIfFreeSpins",
+        "text": "Stop hvis Free Spins vindes"
+    },
+    {
+        "id": "RTtableDescribes",
+        "text": "Tabellen nedenfor viser de forskellige knapper, der findes i spillet, og beskriver deres funktioner."
+    },
+    {
+        "id": "RTMGback",
+        "text": "Tilbage"
+    },
+    {
+        "id": "RTreturnToPlayer",
+        "text": "Tilbagebetalingsprocent til spiller"
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRevNew",
+        "text": "Træk eller tryk på skyderen for at aktivere autospil og vælge antallet af runder. Autospil spiller spillet det valgte antal runder."
+    },
+    {
+        "id": "RTMGselectBetLevelRevNew",
+        "text": "Træk eller tryk på skyderen for at vælge antallet af mønter, du ønsker at satse pr. spillelinje."
+    },
+    {
+        "id": "RTMGselectCoinValueRevNew",
+        "text": "Træk eller tryk på skyderen for at vælge møntværdi."
+    },
+    {
+        "id": "RTMGdisableAutoplayIfBonusGame",
+        "text": "Tryk for at deaktivere autospil, hvis bonusspillet vindes før det opsatte antal af autospil-runder."
+    },
+    {
+        "id": "RTMGdisableAutoplay",
+        "text": "Tryk for at deaktivere autospil, hvis Free Spins vindes, før det valgte antal af autospil-runder."
+    },
+    {
+        "id": "RTMGdisableAutoplayPickClick",
+        "text": "Tryk for at deaktivere autospil, hvis Pick and Click  vindes, før det valgte antal af autospil-runder."
+    },
+    {
+        "id": "RTMGgameSettingIntroDevNew",
+        "text": "Tryk for at få adgang til spilindstillinger og spiloplysninger."
+    },
+    {
+        "id": "RTMGleaveGame",
+        "text": "Tryk for at forlade spillet."
+    },
+    {
+        "id": "RTMGbackMainGame",
+        "text": "Tryk for at gå tilbage til hovedspillet."
+    },
+    {
+        "id": "RTMGautoplayUI",
+        "text": "Tryk for at slå autospil til eller fra uden at gå til indstillingsmenuen. Der opsættes som standard 50 runder."
+    },
+    {
+        "id": "RTMGquickSpinUI",
+        "text": "Tryk for at slå hurtig spin til eller fra uden at gå til indstillingsmenuen."
+    },
+    {
+        "id": "RTMGsoundSettingsUI",
+        "text": "Tryk for at slå lyde til eller fra uden at gå til indstillingsmenuen."
+    },
+    {
+        "id": "RTMGspinButtonLeft",
+        "text": "Tryk for at slå tilstanden for venstre hånd til eller fra."
+    },
+    {
+        "id": "RTMGquickSettingsMenu",
+        "text": "Tryk på plus-symbolet for at få adgang til menuen med hurtige indstillinger."
+    },
+    {
+        "id": "RTstarBurststickyWExpandsReSpinsRev",
+        "text": "Under Starburst™ Wild-funktionen, udvider Starburst™ Wilds sig til at dække hele tromlen og forbliver på deres plads, mens de andre tromler drejer."
+    },
+    {
+        "id": "RTautoplaySelectSpins",
+        "text": "Vælg antallet af spin til Autospil eller åbn Avancerede indstillinger for at konfigurere indstillingerne for standsning af Autospil."
+    },
+    {
+        "id": "RTwinCombinationPaytable",
+        "text": "Vinderkombinationer og udbetaling sker i henhold til  \u003cb\u003eGEVINSTTABEL\u003c/b\u003e."
+    },
+    {
+        "id": "RTMGwinCombinations",
+        "text": "Vinderkombinationer og udbetaling sker i henhold til \u003cb\u003eGevinsttabel\u003c/b\u003e."
+    },
+    {
+        "id": "RTwinCombinationPaytablenoBold",
+        "text": "Vinderkombinationer og udbetalinger sker i overensstemmelse med Gevinsttabel."
+    },
+    {
+        "id": "RTMGshowsBetCurrency",
+        "text": "Viser dit indsatsbeløb i den valgte valuta."
+    },
+    {
+        "id": "RTMGshowsBetCoins",
+        "text": "Viser dit indsatsbeløb i mønter."
+    },
+    {
+        "id": "RTMGadditionalInformation",
+        "text": "Yderligere oplysninger"
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "Yderligere oplysninger"
+    },
+    {
+        "id": "RTautoplayDuringGameRev",
+        "text": "\u003cb\u003eBemærk:\u003c/b\u003e Når indstillingerne for autospil ændres i løbet af en spillerunde, træder alle indstillinger i kraft, så snart spillerunden eller funktionen er færdiggjort."
+    },
+    {
+        "id": "RTwinCalculationWinMatchCurrency",
+        "text": "En spillelinjegevinst i møntenhed svarer til gevinsten i mønter ganget med møntværdien."
+    },
+    {
+        "id": "RTopenAutoplayMenu",
+        "text": "Klik for at åbne indstillingsmenuen for Autospil og spil spillet automatisk."
+    },
+    {
+        "id": "RTexCloneWildOverlay",
+        "text": "Expanding Cloning Wild-symbolerne vil fremkomme oven på de drejende tromler. Klonede symboler fremkommer også oven på tromlerne."
+    },
+    {
+        "id": "onlyHighWinComb",
+        "text": "Kun den højeste gevinstgivende kombination på indsatslinjerne fra enten yderst til venstre og/eller yderst til højre udbetales."
+    },
+    {
+        "id": "RTsliderCoinValue",
+        "text": "Møntværdien opsættes med møntværdi-skyderen."
+    },
+    {
+        "id": "RTeachStar1AddRespinUpTo3respin",
+        "text": "Op til 2 ekstra Starburst™ Wild-symboler kan fremkomme, efter en Starburst™ Wild aktiverer re-spin, og udløse en ekstra re-spin eller op til i alt 3 re-spins. "
+    },
+    {
+        "id": "RTsliderBetLevel",
+        "text": "Satsniveauet opsættes med satsniveau-skyderen."
+    },
+    {
+        "id": "RTcashDecreasesDescRev",
+        "text": "Stopper autospil, hvis saldo mindskes med det beløb, du angiver."
+    },
+    {
+        "id": "RTcashIncreasesDescRev",
+        "text": "Stopper autospil, hvis saldo øges med det beløb, du angiver."
+    },
+    {
+        "id": "RTMGautoOptions",
+        "text": "Træk eller tryk på skyderen for at aktivere autospil og vælge antallet af runder. Autospil spiller derefter spillet det valgte antal runder."
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003eBemærk:\u003c/b\u003e Nogle autospil-indstillinger er obligatoriske i nogle lande."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003eBemærk\u003c/b\u003e: Den følgende tabel gælder kun, hvis du spiller på et andet sprog end engelsk."
+    },
+    {
+        "id": "termEnglish",
+        "text": "Engelsk udtryk"
+    },
+    {
+        "id": "featuresNotAvailablePFF",
+        "text": "Nogle af funktionerne er måske ikke tilgængelige i \u003cb\u003eSPIL FOR SJOV\u003c/b\u003e."
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Oversættelse af spilterminologi"
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Oversat udtryk"
+    },
+    {
+        "id": "RTsingleWinDescRevNew",
+        "text": "Stop autospil når beløbet, du vinder, overgår eller er det samme, som beløbet du har valgt."
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "Yderligere oplysninger"
+    }
+]

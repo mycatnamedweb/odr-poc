@@ -1,0 +1,197 @@
+<defaults xml:lang="fi">
+  <!-- Finnish locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 16:41:58 GMT on Tuesday 16 May 2017.
+
+ -->
+  <ds Jurisdiction="*" name="RTGameHistNoPlayForFun" id="RTGameHistNoPlayForFun">(Ei saatavilla &lt;b&gt;PELAA LEIKISTI&lt;/b&gt; -tilassa).</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDisclaimer" id="RTquickSpinDisclaimer">(Ei saatavilla kaikissa kasinoissa).</ds>
+  <ds Jurisdiction="*" name="RTsoundButton" id="RTsoundButton">&lt;b&gt;Ääni&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlaysJimi" id="RTautoplayPlaysJimi">&lt;b&gt;AUTOMAATI PELI&lt;/b&gt; pelaa peliä automaattisesti valitun kierrosluvun ajan (vaihtoehtoisesti voit napsauttaa &lt;b&gt;AUTO&lt;/b&gt;-painiketta).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlays" id="RTautoplayPlays">&lt;b&gt;AUTOMAATTIPELI&lt;/b&gt; pelaa peliä automaattisesti valitun kierrosluvun ajan (vaihtoehtoisesti voit napsauttaa &lt;b&gt;AUTO&lt;/b&gt;-painiketta).</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Huomaa&lt;/b&gt;: Seuraava on taulukko on voimassa vain, jos pelaat muulla kielellä kuin englanniksi.</ds>
+  <ds Jurisdiction="*" name="RTAutoplayDisconnect" id="RTAutoplayDisconnect">&lt;b&gt;Huomautus:&lt;/b&gt; Jos yhteys katkeaa pelin aikana, kaikki automaattipelin oletusasetukset palautetaan, kun peli ladataan uudelleen.</ds>
+  <ds Jurisdiction="*" name="RTsettingsDisclaimer" id="RTsettingsDisclaimer">&lt;b&gt;Huomautus:&lt;/b&gt; Jotkin kasinot saattavat toimia ilman kaikkia lueteltuja peliasetuksia.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayDisconnect" id="RTMGautoplayDisconnect">&lt;b&gt;Huomio:&lt;/b&gt; Jos yhteytesi katkeaa pelin aikana, kaikki Automaattipeliasetukset palautetaan oletusasetuksiksi, kun peli ladataan uudelleen.</ds>
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Huomio:&lt;/b&gt; Jotkin automaattipeliasetukset ovat pakollisia joillakin hallintoalueilla.</ds>
+  <ds Jurisdiction="*" name="RTMGsettingsDisclaimer" id="RTMGsettingsDisclaimer">&lt;b&gt;Huomio:&lt;/b&gt; Jotkut operaattorit eivät välttämättä tarjoa kaikkia luettelon peliasetuksia.</ds>
+  <ds Jurisdiction="*" name="RTcoinsDisplayValues" id="RTcoinsDisplayValues">&lt;b&gt;KOLIKOITA&lt;/b&gt; näyttää panostukseen käytettävissä olevan kolikkomäärän.</ds>
+  <ds Jurisdiction="*" name="RTMGcoinsDisplayValues" id="RTMGcoinsDisplayValues">&lt;b&gt;Kolikot&lt;/b&gt; ilmoittavat pelaamiseen käytettävissä olevien kolikkojen määrän.</ds>
+  <ds Jurisdiction="*" name="RTmaxbetPlays" id="RTmaxbetPlays">&lt;b&gt;MAKSIMIPANOS&lt;/b&gt; pelaa peliä maksimipanoslinjoilla ja nykyisellä kolikon arvolla.</ds>
+  <ds Jurisdiction="*" name="RTMGreturnToPlayer" id="RTMGreturnToPlayer">&lt;b&gt;Pelaajan voitto&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTMGsoundSettings" id="RTMGsoundSettings">Ääniasetukset</ds>
+  <ds Jurisdiction="*" name="RTtableDescribes" id="RTtableDescribes">Alla olevassa taulukossa on luetteloitu pelin eri painikkeet ja niiden toiminnat.</ds>
+  <ds Jurisdiction="*" name="RTstartGameRound" id="RTstartGameRound">Aloita peli nykyisellä panostasolla ja kolikon arvolla klikkaamalla (vaihtoehtoisesti paina välilyöntiä).</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPanelLabel" id="RTMGautoplayPanelLabel">Automaattipeli</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayQuickSpinHeading" id="RTMGautoplayQuickSpinHeading">Automaattipeli ja Pikapyöritys</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRev" id="RTsingleWinDescRev">Automaattipeli päättyy, kun voittosumma saavuttaa tai ylittää määritetyn summan.</ds>
+  <ds Jurisdiction="*" name="advancedAutoplayOptionsHeading" id="advancedAutoplayOptionsHeading">Automaattipelin lisäasetukset</ds>
+  <ds Jurisdiction="*" name="RTopenGameRules" id="RTopenGameRules">Avaa pelisäännöt napsauttamalla.</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Englanninkielinen termi</ds>
+  <ds Jurisdiction="*" name="RTmaxBetAtHighBetLevel" id="RTmaxBetAtHighBetLevel">ENIMMÄISPANOS-toiminto käynnistää pelin korkeimmalla panostasolla ja valitulla kolikkoarvolla.</ds>
+  <ds Jurisdiction="*" name="simultaneousWinsAdded" id="simultaneousWinsAdded">Eri panoslinjojen samanaikaiset voitot lasketaan yhteen.</ds>
+  <ds Jurisdiction="Italy" name="RTmalfunction" id="RTmalfunction">Jos pelilaitteistossa/ohjelmistossa ilmenee toimintahäiriö, sen kohteena olevat pelipanokset ja voitot mitätöidään ja panokset palautetaan.</ds>
+  <ds Jurisdiction="*" name="RTMGmalfunction" id="RTMGmalfunction">Jos pelilaitteistossa/ohjelmistossa ilmenee toimintahäiriö, sen kohteena olevat pelipanokset ja voitot mitätöidään ja panokset palautetaan.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstAddReSpinsRev" id="RTstarBurstAddReSpinsRev">Jos uudelleenpyöräytyksen aikana esiin tulee uusi Starburst™ Wild -merkki, se laajenee ja jää paikalleen aiempien laajentuneiden Starburst™ Wild -merkkien kanssa uutta uudelleenpyöräytystä varten.</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Käännetty termi</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCash" id="RTMGbetInCash">Käteispanos</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDesc" id="RTinformationIconButtonDesc">Katso klikkaamalla &lt;b&gt;VOITOT&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDescJimi" id="RTinformationIconButtonDescJimi">Katso klikkaamalla &lt;b&gt;VOITOT&lt;/b&gt;.</ds>
+  <ds Jurisdiction="Italy" name="RTunfinishedGameSession2" id="RTunfinishedGameSession2">Keskeneräisien pelikierroksien hallintaan käytettävät toimenpiteet.</ds>
+  <ds Jurisdiction="*" name="RTMGunfinishedGameSession2" id="RTMGunfinishedGameSession2">Keskeneräisiin pelikierroksiin hallintaan käytettävät toimenpiteet.</ds>
+  <ds Jurisdiction="*" name="RTMGspinSettingsRev" id="RTMGspinSettingsRev">Kierrosasetukset</ds>
+  <ds Jurisdiction="*" name="RTMGnumberSpins" id="RTMGnumberSpins">Kierrosten lukumäärä</ds>
+  <ds Jurisdiction="*" name="RTMGcoinvalue" id="RTMGcoinvalue">Kolikkoarvo</ds>
+  <ds Jurisdiction="*" name="RTMGcoinValueInstruction" id="RTMGcoinValueInstruction">Kolikkoarvo asetetaan KOLIKKOARVO-valitsijalla.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildFeatureActive" id="RTstarburstWildFeatureActive">Kun kiekoille 2, 3 tai 4 ilmestyy sattumanvaraisesti yksi tai useampi Starburst™ Wild -merkki, käynnistyy Starburst™ Wild -toiminto.</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGameNew" id="RTMGtouchMainGameNew">Kun pelataan vaakasuorassa, piilota Pyöräytyspainike koskettamalla pelialuetta.</ds>
+  <ds Jurisdiction="*" name="RTgameSoundDesc" id="RTgameSoundDesc">Kytkee pelin äänet päälle tai pois päältä.</ds>
+  <ds Jurisdiction="*" name="ReSpinsAtActivatingRound" id="ReSpinsAtActivatingRound">Lisäpyöräytykset pelataan samalla panoksella kuin lisäpyöräytykset käynnistänyt kierros.</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Lisätietoja</ds>
+  <ds Jurisdiction="*" name="RTMGadditionalInformation" id="RTMGadditionalInformation">Lisätietoja</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplayOnOff" id="RTMGstopAutoplayOnOff">Lopeta Automaattipeli</ds>
+  <ds Jurisdiction="*" name="cashIncreasesDesc" id="cashIncreasesDesc">Lopeta automaattipeli, jos saldo kasvaa määritetyn summan.</ds>
+  <ds Jurisdiction="Spain" name="cashDecreasesDesc" id="cashDecreasesDesc">Lopeta automaattipeli, jos saldo vähenee määritetyn summan.</ds>
+  <ds Jurisdiction="*" name="anyWinDesc" id="anyWinDesc">Lopeta automaattipeli, kun voitat kierroksen.</ds>
+  <ds Jurisdiction="*" name="singleWinDesc" id="singleWinDesc">Lopeta automaattipeli, kun voittosumma saavuttaa tai ylittää määritetyn summan.</ds>
+  <ds Jurisdiction="Spain" name="RTAutoplayButton" id="RTAutoplayButton">Mikäli haluat muuttaa automaattipelin lisäasetuksia, napsauta näppäimistön &lt;b&gt;AUTOM. PELI&lt;/b&gt;-painiketta tai pelipalkin &lt;b&gt;AUTO&lt;/b&gt;-painiketta ja valitse &lt;b&gt;Lisäasetukset&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="gameSettingIntro" id="gameSettingIntro">Mikäli haluat muuttaa peliasetuksia, napsauta pelipalkin työkalupainiketta.</ds>
+  <ds Jurisdiction="*" name="RTmuteSoundSliderRev" id="RTmuteSoundSliderRev">Mykistä pelin äänet napsauttamalla mykistystä tai säädä äänenvoimakkuus liukusäätimellä.</ds>
+  <ds Jurisdiction="*" name="RTMGtapSpinButtonRev" id="RTMGtapSpinButtonRev">Napauta aloittaaksesi pelaamisen nykyisillä panoslinjoilla, panostasoilla ja kolikkoarvoilla.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayUI" id="RTMGautoplayUI">Napauta kytkeäksesi automaattipelin päälle tai pois päältä menemättä asetusvalikkoon. Määrittää oletuksena 50 kierrosta.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinUI" id="RTMGquickSpinUI">Napauta kytkeäksesi pikapyöräytyksen päälle tai pois päältä menemättä asetusvalikkoon.</ds>
+  <ds Jurisdiction="Anguilla" name="RTMGsoundSettingsUI" id="RTMGsoundSettingsUI">Napauta ottaaksesi käyttöön tai poistaaksesi käytöstä äänet menemättä asetusvalikkoon.</ds>
+  <ds Jurisdiction="*" name="RTMGspinButtonLeft" id="RTMGspinButtonLeft">Napauta ottaaksesi käyttöön tai poistaaksesi käytöstä vasenkätisen tilan.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDevNew" id="RTMGgameSettingIntroDevNew">Napauta päästäksesi peliasetuksiin ja pelin tietoihin.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettingsMenu" id="RTMGquickSettingsMenu">Napauta plusmerkkiä päästäksesi pika-asetusvalikkoon.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDev" id="RTMGgameSettingIntroDev">Napauttamalla pääset peliasetuksiin ja pelitietoihin. Voit myös napauttaa Rahaa- tai Kolikkoja-näyttöä.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonNoBold" id="RTinformationIconButtonNoBold">Napsauta näyttääksesi voittotaulukon.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescNoBold" id="RTpaytableButtonsDescNoBold">Napsauta vasemmalle tai oikealle osoittavia nuolia vierittääksesi voittotaulukon sivujen läpi. Palaa takaisin peliin napsatuttamalla keskuspainiketta.</ds>
+  <ds Jurisdiction="*" name="RTopenSettingsMenu" id="RTopenSettingsMenu">Napsauttamalla voi avata peliasetusvalikon ja valita peliasetukset. Lue lisää alla olevasta peliasetus-osiosta.</ds>
+  <ds Jurisdiction="*" name="RTgameHistoryDesc" id="RTgameHistoryDesc">Näytä pelihistoria napsauttamalla</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCoins" id="RTMGshowsBetCoins">Näyttää panoksesi kolikkoina.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCurrency" id="RTMGshowsBetCurrency">Näyttää panoksesi valittuna valuuttana.</ds>
+  <ds Jurisdiction="*" name="RTintroOffRev" id="RTintroOffRev">Näyttää tai ohittaa alkuelokuvan.</ds>
+  <ds Jurisdiction="*" name="RTanimationsOff" id="RTanimationsOff">Ota animaatiot käyttöön tai pois käytöstä.</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDescRev" id="RTquickSpinDescRev">Ottaa pikapyöritysvaihtoehdon käyttöön tai poistaa sen käytöstä</ds>
+  <ds Jurisdiction="*" name="RTambienceDescRev" id="RTambienceDescRev">Ottaa taustaäänet käyttöön tai poistaa ne käytöstä.</ds>
+  <ds Jurisdiction="*" name="RTspacebarspin" id="RTspacebarspin">Ottaa välilyöntinäppäin-toiminnon käyttöön tai poistaa sen käytöstä.</ds>
+  <ds Jurisdiction="*" name="RTMGbuttonsMainGame" id="RTMGbuttonsMainGame">Pääpeli</ds>
+  <ds Jurisdiction="*" name="RTbuttonTableHead" id="RTbuttonTableHead">Painike</ds>
+  <ds Jurisdiction="*" name="RTMGnoAutoplayLeft" id="RTMGnoAutoplayLeft">Painikkeessa näkyy jäljellä olevien kierrosten määrä.</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCoins" id="RTMGbetInCoins">Panos kolikkoina</ds>
+  <ds Jurisdiction="*" name="RTCalcBetLineCoinNoMultiplierTransNew" id="RTCalcBetLineCoinNoMultiplierTransNew">Panoslinjan voitto kolikoissa on saman suuruinen kuin voittotaulukossa näytetty kerrottuna panoksella.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCurrency" id="RTwinCalculationBetLinesCurrency">Panoslinjan voitto kolikoissa vastaa voittoa kolikoissa kerrottuna kolikon arvolla.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCoinsNoMultiplier" id="RTMGwinCalculationBetLinesCoinsNoMultiplier">Panoslinjavoitto kolikkoina on &lt;b&gt;VOITOT-TAULUKON&lt;/b&gt; arvo kertaa panostaso.</ds>
+  <ds Jurisdiction="*" name="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier" id="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier">Panoslinjavoitto kolikkoina on &lt;b&gt;VOITOT-TAULUKON&lt;/b&gt; arvo kertaa panostaso.</ds>
+  <ds Jurisdiction="*" name="RTwinCalcBetLinesNoMultiplier" id="RTwinCalcBetLinesNoMultiplier">Panoslinjavoitto kolikkoina vastaa kohdassa Voitot-taulukko  ilmoitettua arvoa panostasolla kerrottuna.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoBold" id="RTwinCalculationBetLinesCoinsNoBold">Panoslinjavoitto kolikkoina vastaa kohdassa Voitot-taulukko  ilmoitettua arvoa panostasolla kerrottuna. Tämä summa kerrotaan myös mahdollisella asianmukaisella kertoimella.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoMultiplierTrans" id="RTwinCalculationBetLinesCoinsNoMultiplierTrans">Panoslinjavoitto kolikoissa on &lt;b&gt;VOITOT&lt;/b&gt; arvo kerrottuna panostasolla.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCurrency" id="RTMGwinCalculationBetLinesCurrency">Panoslinjavoitto valuutassa on voittosumma kolikkoina kertaa kolikkoarvo.</ds>
+  <ds Jurisdiction="*" name="RTMGbetlevel" id="RTMGbetlevel">Panostaso</ds>
+  <ds Jurisdiction="*" name="RTMGbetLevelInstruction" id="RTMGbetLevelInstruction">Panostaso asetetaan &lt;b&gt;Panostaso&lt;/b&gt;-valitsijalla.</ds>
+  <ds Jurisdiction="*" name="RTbetLevel" id="RTbetLevel">Panostaso on kolkkojen määrä panoslinjaa kohti.</ds>
+  <ds Jurisdiction="*" name="RTMGtheoreticalReturn" id="RTMGtheoreticalReturn">Pelaajan teoreettinen voitto tässä pelissä on</ds>
+  <ds Jurisdiction="Italy" name="RTtheoreticalReturn" id="RTtheoreticalReturn">Pelaajan teoreettinen voitto tässä pelissä on</ds>
+  <ds Jurisdiction="*" name="RTreturnToPlayer" id="RTreturnToPlayer">Pelaajan voitto</ds>
+  <ds Jurisdiction="*" name="RTMGsounds" id="RTMGsounds">Peliäänet</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettings" id="RTMGgameSettings">Peliasetukset ja pelitiedot</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryHeading" id="RTMGgameHistoryHeading">Pelihistoria</ds>
+  <ds Jurisdiction="*" name="RTgHistoryNotAvailableForFun" id="RTgHistoryNotAvailableForFun">Pelihistoria ei ole saatavilla, kun &lt;b&gt;PELAA LEIKISTI&lt;/b&gt; -toiminto on päällä.</ds>
+  <ds Jurisdiction="*" name="RTMGhistoryNotAvailable" id="RTMGhistoryNotAvailable">Pelihistoria on saatavilla vain rahasta pelattaessa.</ds>
+  <ds Jurisdiction="*" name="gameSettingOptionsHeading" id="gameSettingOptionsHeading">Pelin asetukset</ds>
+  <ds Jurisdiction="*" name="RTMGreferWebSite" id="RTMGreferWebSite">Pelin seuraaviin toimintoihin ja asetuksiin saatetaan soveltaa pelisivuston ehtoja. Lisätietoja on pelisivustolla:</ds>
+  <ds Jurisdiction="Italy" name="RTreferWebSite" id="RTreferWebSite">Pelin seuraaviin toimintoihin ja asetuksiin saatetaan soveltaa pelisivuston ehtoja. Seuraavista asioista on lisätietoja pelisivustolla:</ds>
+  <ds Jurisdiction="*" name="RTMGgameRules" id="RTMGgameRules">Pelisäännöt</ds>
+  <ds Jurisdiction="*" name="RTrulesGenerated" id="RTrulesGenerated">Pelisäännöt laadittu:</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Peliterminologian käännökset</ds>
+  <ds Jurisdiction="*" name="RTgameFunctionsHeading" id="RTgameFunctionsHeading">Pelitoiminnot</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettings" id="RTMGquickSettings">Pika-asetusvalikko</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinGameSetting" id="RTMGquickSpinGameSetting">Pikapyöräytys</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpin" id="RTMGquickSpin">Pikapyöritys</ds>
+  <ds Jurisdiction="*" name="RTMGquickStop" id="RTMGquickStop">Pikapysäytys</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsOff" id="RTMGsoundsOff">Poista ääni aina käytöstä</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayIfBonusGame" id="RTMGdisableAutoplayIfBonusGame">Poista automaattipeli käytöstä napauttamalla, jos bonuspeli voitetaan ennen kuin automaattikierrokset päättyvät.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplay" id="RTMGdisableAutoplay">Poista automaattipeli käytöstä napauttamalla, jos Free Spins voitetaan ennen kuin automaattipelin määritetyt kierrokset on pelattu.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayPickClick" id="RTMGdisableAutoplayPickClick">Poista automaattipeli käytöstä napauttamalla, jos Pick and Click  voitetaan ennen kuin automaattipelin määritetyt kierrokset on pelattu.</ds>
+  <ds Jurisdiction="*" name="RTMGexit" id="RTMGexit">Poistu</ds>
+  <ds Jurisdiction="*" name="RTMGleaveGame" id="RTMGleaveGame">Poistu pelistä napauttamalla.</ds>
+  <ds Jurisdiction="*" name="RTMGspinButton" id="RTMGspinButton">Pyöräytä-painike</ds>
+  <ds Jurisdiction="*" name="RTspinPlayRev" id="RTspinPlayRev">Pyöräytä-painike käynnistää pelin nykyisillä panoslinjoilla, panostasolla ja kolikon arvoilla (voit myös painaa välilyöntinäppäintä).</ds>
+  <ds Jurisdiction="*" name="RTMGstopIfFreeSpins" id="RTMGstopIfFreeSpins">Pysäytä, jos voitat Free Spin -kierroksia</ds>
+  <ds Jurisdiction="*" name="RTadjustQualityRev" id="RTadjustQualityRev">Säätää kuvan laatua optimaalisen suorituskyvyn saamiseksi.</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchIntro" id="RTMGstarburstTouchIntro">Starburst Touch™ on 5 kiekon ja 3 rivin videokolikkopeli, jossa on Starburst Wild™ -uusintapyöräytyksiä ja kaksisuuntainen voitto.</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchRulesHeading" id="RTMGstarburstTouchRulesHeading">Starburst Touch™ -pelin säännöt</ds>
+  <ds Jurisdiction="*" name="RTstarBurstIntro" id="RTstarBurstIntro">Starburst™ on 5 kiekon, 3 rivin videohedelmäpeli, jossa on Starburst™ Wild -merkkejä ja lisäpyöräytyksiä sekä Voita kaksin tavoin -ominaisuus.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildHeading" id="RTstarBurstWildHeading">Starburst™ Wild -merkit</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSymbAppear" id="RTstarBurstWildSymbAppear">Starburst™ Wild -merkit esiintyvät vain kiekoilla 2, 3 ja 4.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSubstitute" id="RTstarBurstWildSubstitute">Starburst™ Wild -merkit voivat korvata minkä tahansa merkin.</ds>
+  <ds Jurisdiction="*" name="RTstarBurststickyWExpandsReSpinsRev" id="RTstarBurststickyWExpandsReSpinsRev">Starburst™ Wild -toiminnon aikana Starburst™ Wildit laajenevat peittämään koko kiekon ja pysyvät paikoillaan muiden kiekkojen pyöriessä uudelleen.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildEnds" id="RTstarburstWildEnds">Starburst™ Wild -toiminto päättyy, kun uudelleenpyöräytyksen jälkeen ei enää ilmesty uusia Starburst™ Wildejä.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstRulesHeading" id="RTstarBurstRulesHeading">Starburst™-pelin säännöt</ds>
+  <ds Jurisdiction="*" name="RTMGback" id="RTMGback">Takaisin</ds>
+  <ds Jurisdiction="*" name="RTMGbackMainGame" id="RTMGbackMainGame">Tätä napauttamalla voit palata pääpeliin.</ds>
+  <ds Jurisdiction="Italy" name="RTgameSessions2" id="RTgameSessions2">Toimettomuusaika, jonka kuluttua peli-istunnot päättyvät automaattisesti.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSessions2" id="RTMGgameSessions2">Toimettomuusaika, jonka kuluttua pelituokiot päättyvät automaattisesti.</ds>
+  <ds Jurisdiction="*" name="RTfunctionTableHead" id="RTfunctionTableHead">Toiminto</ds>
+  <ds Jurisdiction="*" name="RTviewMiniPaytable" id="RTviewMiniPaytable">Vaihtoehtoisesti voit näyttää merkkien pienoisvoittotaulukot napsauttamalla mitä tahansa kiekkojen merkkejä pääpelin aikana.</ds>
+  <ds Jurisdiction="*" name="RTpaytableHighestRev" id="RTpaytableHighestRev">Vain aktiivisen panoslinjan ja molempien tapojen suurin voitto maksetaan.</ds>
+  <ds Jurisdiction="*" name="RTMGmenu" id="RTMGmenu">Valikko</ds>
+  <ds Jurisdiction="*" name="RTautoplaySelectSpins" id="RTautoplaySelectSpins">Valitse Automaattipelin kierrosten määrä tai avaa Lisäasetukset ja määritä Automaattipelin lopetuksen asetukset.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRevNew" id="RTMGselectCoinValueRevNew">Valitse kolikon arvo vetämällä tai napauttamalla liukusäädintä.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRevNew" id="RTMGselectBetLevelRevNew">Valitse linjakohtaisen panoksen kolikkomäärä vetämällä tai napauttamalla liukusäädintä.</ds>
+  <ds Jurisdiction="*" name="RTMGAutoplaySpins" id="RTMGAutoplaySpins">Valittujen kierrosten määrä näkyy painikkeessa.</ds>
+  <ds Jurisdiction="*" name="RTMGleftHandMode" id="RTMGleftHandMode">Vasenkätinen tila</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRevNew" id="RTMGautoplayPutOnOffRevNew">Vedä tai napauta säädintä käynnistääksesi automaattipelin ja asettaaksesi kierrosten määrän. Automaattipeli pelaa peliä valittujen pyöräytysten määrän.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescRev" id="RTpaytableButtonsDescRev">Vieritä &lt;b&gt;VOITOT&lt;/b&gt;-sivujen läpi napsauttamalla oikealle tai vasemmalle osoittavia nuolia. Pääset takaisin peliin napsauttamalla keskellä olevaa painiketta.</ds>
+  <ds Jurisdiction="*" name="RTMGstartAutoplay" id="RTMGstartAutoplay">Voit käynnistää Automaattipelin napauttamalla.</ds>
+  <ds Jurisdiction="*" name="RTMGstartQuickSpin" id="RTMGstartQuickSpin">Voit käynnistää Pikapyörityksen napauttamalla.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundOnOffRev" id="RTMGsoundOnOffRev">Voit kytkeä äänet päälle tai pois päältä napauttamalla vaihtopainiketta.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRev" id="RTMGautoplayPutOnOffRev">Voit kytkeä Automaattipelin päälle tai pois päältä napauttamalla vaihtopainiketta. Automaattipeli pelaa peliä automaattisesti valitun kierrosluvun ajan.</ds>
+  <ds Jurisdiction="*" name="RTMGtapOnOffRev" id="RTMGtapOnOffRev">Voit kytkeä Pikapyörityksen päälle tai pois päältä napauttamalla vaihtopainiketta.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsDisabledRev" id="RTMGsoundsDisabledRev">Voit kytkeä tulevien peli-istuntojen äänet pois päältä napauttamalla vaihtopainiketta.</ds>
+  <ds Jurisdiction="*" name="RTplayCurrentBetLinesTo10" id="RTplayCurrentBetLinesTo10">Voit panostaa 1–10 panoslinjalle eri panostasoilla ja kolikon arvoilla.</ds>
+  <ds Jurisdiction="*" name="RTMGplay10FixedBetLines" id="RTMGplay10FixedBetLines">Voit pelata 10 kiinteällä panoslinjalla ja eri panostasoilla ja kolikkoarvoilla.</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGame" id="RTMGtouchMainGame">Voit piilottaa Pyöräytä-painikkeen koskettamalla pelialuetta.</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplay" id="RTMGstopAutoplay">Voit pysäyttää Automaattipelin napauttamalla.</ds>
+  <ds Jurisdiction="*" name="RTMGtapDuringSpin" id="RTMGtapDuringSpin">Voit pysäyttää kiekot napauttamalla pelialuetta kierroksen aikana.</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryDesc" id="RTMGgameHistoryDesc">Voit tarkastella pelihistoriaa napauttamalla tätä.</ds>
+  <ds Jurisdiction="*" name="RTMGviewGamesRules" id="RTMGviewGamesRules">Voit tarkastella pelisääntöjä napauttamalla tätä.</ds>
+  <ds Jurisdiction="*" name="RTMGwinComb" id="RTMGwinComb">Voit tarkastella voittoyhdistelmiä ja voittoja napauttamalla tätä.</ds>
+  <ds Jurisdiction="*" name="RTMGselectSpinsRev" id="RTMGselectSpinsRev">Voit valita Automaattipelin kierrosten määrän pyyhkäisemällä tai napauttamalla asetuspyörää.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRev" id="RTMGselectCoinValueRev">Voit valita kolikon arvon pyyhkäisemällä tai napauttamalla asetuspyörää.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRev" id="RTMGselectBetLevelRev">Voit valita panoslinjaa kohti panostettavan kolikkomäärän pyyhkäisemällä tai napauttamalla asetuspyörää.</ds>
+  <ds Jurisdiction="*" name="termPaytable" id="termPaytable">Voitot</ds>
+  <ds Jurisdiction="*" name="RTMGpaytable" id="RTMGpaytable">Voitot</ds>
+  <ds Jurisdiction="*" name="RTMGpaytableJimi" id="RTMGpaytableJimi">Voitot</ds>
+  <ds Jurisdiction="*" name="RTHighWinSymCompleteActLineRev" id="RTHighWinSymCompleteActLineRev">Voitto maksetaan vain korkeimmasta voittoyhdistelmästä aktiivisella panoslinjalla vasemmanpuoleisimmasta rullasta oikealle ja/tai oikeanpuoleisimmasta vasemmalle.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytable" id="RTwinCombinationPaytable">Voittoyhdistelmät ja voitot perustuvat &lt;b&gt;VOITOT&lt;/b&gt;-voittotaulukkoon.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCombinations" id="RTMGwinCombinations">Voittoyhdistelmät ja voitot perustuvat &lt;b&gt;Voittotaulukkoon&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytablenoBold" id="RTwinCombinationPaytablenoBold">Voittoyhdistelmät ja voitot tehdään Voittotaulukon mukaan.</ds>
+  <ds Jurisdiction="*" name="termWild" id="termWild">Yllätys</ds>
+  <ds Jurisdiction="*" name="RTautoplayDuringGameRev" id="RTautoplayDuringGameRev">&lt;b&gt;Huom.:&lt;/b&gt; Kun automaattipeliasetuksia muutetaan kesken pelikierroksen, kaikki muutokset tulevat voimaan pelikierroksen tai ominaisuuden päätyttyä.</ds>
+  <ds Jurisdiction="*" name="RTopenAutoplayMenu" id="RTopenAutoplayMenu">Avaa Autom. peli -asetusvalikko napsauttamalla ja pelaa peliä automaattisesti.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationWinMatchCurrency" id="RTwinCalculationWinMatchCurrency">Panoslinjan voitto kolikoissa vastaa voittoa kolikoissa kerrottuna kolikon arvolla.</ds>
+  <ds Jurisdiction="*" name="RTeachStar1AddRespinUpTo3respin" id="RTeachStar1AddRespinUpTo3respin">Enintään 2  Starburst™ Wild -lisäsymbolia voi tulla näkyviin sen jälkeen kun Starburst™ Wild aktivoi uudelleenpyörityksen, liipaisten lisäpyörityksen tai enintään 3 uudelleenpyöritystä.</ds>
+  <ds Jurisdiction="*" name="RTexCloneWildOverlay" id="RTexCloneWildOverlay">Expanding Cloning Wild -merkit ilmestyvät pyörivien kiekkojen päälle. Kloonatut merkit ilmestyvät nekin kiekkojen päälle.</ds>
+  <ds Jurisdiction="*" name="RTsliderCoinValue" id="RTsliderCoinValue">Kolikon arvo asetetaan kolikon arvon liukusäätimellä.</ds>
+  <ds Jurisdiction="*" name="RTMGautoOptions" id="RTMGautoOptions">Liu'uta tai napauta liukusäädintä Autopelaa-valintojen ja pelattavien pelien määrän asettamiseksi. Autopelaa-toiminto pelaa valitun määrän pyöräytyksiä.</ds>
+  <ds Jurisdiction="*" name="RTcashIncreasesDescRev" id="RTcashIncreasesDescRev">Lopettaa Autopelaa-toiminnon, jos käteinen kasvaa määrittämälläsi summalla.</ds>
+  <ds Jurisdiction="*" name="RTcashDecreasesDescRev" id="RTcashDecreasesDescRev">Lopettaa Autopelaa-toiminnon, jos käteinen pienenee määrittämälläsi summalla.</ds>
+  <ds Jurisdiction="*" name="RTsliderBetLevel" id="RTsliderBetLevel">Panostaso asetetaan panostason liukusäätimellä.</ds>
+  <ds Jurisdiction="*" name="onlyHighWinComb" id="onlyHighWinComb">Vain panoslinjojen korkein voittoyhdistelmä alkaen joko äärimmäisestä vasemmalla tai äärimmäisestä oikealla  maksetaan </ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Huomaa&lt;/b&gt;: Seuraava on taulukko on voimassa vain, jos pelaat muulla kielellä kuin englanniksi.</ds>
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Huomio:&lt;/b&gt; Jotkin automaattipeliasetukset ovat pakollisia joillakin hallintoalueilla.</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Englanninkielinen termi</ds>
+  <ds Jurisdiction="*" name="featuresNotAvailablePFF" id="featuresNotAvailablePFF">Jotkin toiminnot eivät ole käytössä &lt;b&gt;PELAA LEIKISTI&lt;/b&gt; -tilassa.</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Käännetty termi</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Lisätietoja</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRevNew" id="RTsingleWinDescRevNew">Lopettaa automaattipelin, kun voitettu summa on sama tai suurempi kuin määritetty summa.</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Peliterminologian käännökset</ds>
+</defaults>

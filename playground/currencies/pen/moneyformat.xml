@@ -1,0 +1,11 @@
+<moneyformats>
+   <moneyformat>
+      <dividers thousands="." decimal=","/>
+      <strings>
+         <curchar after="false">PEN</curchar>
+         <centchar usecent="false" after="false">?</centchar>
+      </strings>
+      <iso>PEN</iso>
+      <decimals>2</decimals>
+   </moneyformat>
+</moneyformats>

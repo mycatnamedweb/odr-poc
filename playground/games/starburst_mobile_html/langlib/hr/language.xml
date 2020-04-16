@@ -1,0 +1,462 @@
+﻿<defaults xml:lang="hr">
+  <!-- Croatian locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 08:40:42 GMT on Tuesday 10 October 2017.
+
+ -->
+  <ds Jurisdiction="*" name="freeRoundsFinished" id="freeRoundsFinished"></ds>
+  <ds Jurisdiction="*" name="OCTvarRetriggerFSNoSpan" id="OCTvarRetriggerFSNoSpan">+{0} Free Spinova</ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpinsNoSpan" id="MGvarRetriggerFreeSpinsNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpins" id="MGvarRetriggerFreeSpins">&lt;span class='NetEnt_plusSign'&gt;+&lt;/span&gt;&lt;span class='NetEnt_numberFreeSpins'&gt;{0}&lt;/span&gt; Free Spins</ds>
+  <ds Jurisdiction="*" name="NeProduction" id="NeProduction">A NET ENTERTAINMENT PRODUCTION</ds>
+  <ds Jurisdiction="Spain" name="OCTifFBonusIsStarted" id="OCTifFBonusIsStarted">Ako osvojite bonus igru</ds>
+  <ds Jurisdiction="*" name="OCTifWinExeeds" id="OCTifWinExeeds">Ako pojedinačni dobitak prekorači</ds>
+  <ds Jurisdiction="*" name="ifWinExeeds" id="ifWinExeeds">Ako pojedinačni dobitak prekorači</ds>
+  <ds Jurisdiction="*" name="OCTifFreeSpinsIsStarted" id="OCTifFreeSpinsIsStarted">Ako se osvoje Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTifCashDecreasesBy" id="OCTifCashDecreasesBy">Ako se saldo smanji za</ds>
+  <ds Jurisdiction="*" name="ambience" id="ambience">Ambijentski zvuk</ds>
+  <ds Jurisdiction="*" name="animationsGameSetting" id="animationsGameSetting">Animacije</ds>
+  <ds Jurisdiction="*" name="autoplayButtonTwoLine" id="autoplayButtonTwoLine">AUTO-&lt;br&gt;IGRA</ds>
+  <ds Jurisdiction="*" name="MGautoplayPanelLabel" id="MGautoplayPanelLabel">Auto-igra</ds>
+  <ds Jurisdiction="*" name="OCTautoplayButton" id="OCTautoplayButton">AUTO-IGRA</ds>
+  <ds Jurisdiction="*" name="MGautoplayCancelled" id="MGautoplayCancelled">Auto-igra poništena</ds>
+  <ds Jurisdiction="*" name="OCTautoplayPanelLabel" id="OCTautoplayPanelLabel">Automatska igra</ds>
+  <ds Jurisdiction="*" name="OCTFreeRoundsLeftwithColon" id="OCTFreeRoundsLeftwithColon">Besplatne runde: {0}</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsTitle" id="OCTfreeRoundsTitle">Besplatne vrtnje</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsTitle" id="MGfreeRoundsTitle">Besplatne vrtnje</ds>
+  <ds Jurisdiction="*" name="MGfreerounds" id="MGfreerounds">Besplatne vrtnje su istekle</ds>
+  <ds Jurisdiction="*" name="OCTfreerounds" id="OCTfreerounds">Besplatne vrtnje su istekle</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinished" id="OCTfreeRoundsFinished">Besplatne vrtnje završene</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsFinished" id="MGfreeRoundsFinished">Besplatne vrtnje završene</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsVar" id="MGfreeRoundsVar">Besplatnih rundi: {0}</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Broj {0}</ds>
+  <ds Jurisdiction="*" name="OCTnumberSpins" id="OCTnumberSpins">Broj vrtnji</ds>
+  <ds Jurisdiction="*" name="MGnumberSpins" id="MGnumberSpins">Broj vrtnji</ds>
+  <ds Jurisdiction="*" name="MGquickSpinGameSetting" id="MGquickSpinGameSetting">Brza vrtnja</ds>
+  <ds Jurisdiction="*" name="OCTquickSpin" id="OCTquickSpin">Brza vrtnja</ds>
+  <ds Jurisdiction="*" name="OCTquickSpinGameSetting" id="OCTquickSpinGameSetting">Brza vrtnja</ds>
+  <ds Jurisdiction="*" name="quickSpinGameSetting" id="quickSpinGameSetting">Brza vrtnja</ds>
+  <ds Jurisdiction="*" name="OCTcongratsLC" id="OCTcongratsLC">Čestitamo!</ds>
+  <ds Jurisdiction="*" name="MGcongrats" id="MGcongrats">Čestitamo!</ds>
+  <ds Jurisdiction="*" name="specialWinCombo" id="specialWinCombo">COMBO</ds>
+  <ds Jurisdiction="*" name="MGright" id="MGright">D</ds>
+  <ds Jurisdiction="*" name="MGbutton_yes" id="MGbutton_yes">Da</ds>
+  <ds Jurisdiction="*" name="OCTbtnYes" id="OCTbtnYes">Da</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Da biste mogli igrati ovu igru, morate nadograditi svoj internetski preglednik.</ds>
+  <ds Jurisdiction="*" name="updateBrowserReq" id="updateBrowserReq">Da biste mogli igrati, morate ažurirati svoj preglednik. Minimalni zahtjevi: {0}</ds>
+  <ds Jurisdiction="*" name="MGyes" id="MGyes">Da*</ds>
+  <ds Jurisdiction="*" name="OCTroundsUseAcctMoney" id="OCTroundsUseAcctMoney">Daljnje runde će koristiti novac s vašeg računa. Sretno!</ds>
+  <ds Jurisdiction="*" name="MGroundsUseAccountMoney" id="MGroundsUseAccountMoney">Daljnje runde će koristiti novac s vašeg računa. Sretno!</ds>
+  <ds Jurisdiction="*" name="OCTwin" id="OCTwin">Dobitak</ds>
+  <ds Jurisdiction="Spain" name="OCTmachinetext_win" id="OCTmachinetext_win">DOBITAK</ds>
+  <ds Jurisdiction="*" name="MGwinPay" id="MGwinPay">Dobitak</ds>
+  <ds Jurisdiction="*" name="OCTyouWinUCNoExclamation" id="OCTyouWinUCNoExclamation">DOBITAK</ds>
+  <ds Jurisdiction="*" name="FSplashWinBothWays" id="FSplashWinBothWays">DOBITAK &lt;br&gt; U OBA SMJERA</ds>
+  <ds Jurisdiction="*" name="WinUpTodup" id="WinUpTodup">DOBITAK DO</ds>
+  <ds Jurisdiction="*" name="MGwinIncoins" id="MGwinIncoins">Dobitak u novčićima: {0}</ds>
+  <ds Jurisdiction="*" name="bigWin" id="bigWin">DOBITAK!!!</ds>
+  <ds Jurisdiction="*" name="OCTwinColonUC" id="OCTwinColonUC">DOBITAK:</ds>
+  <ds Jurisdiction="*" name="OCTwinColonVar" id="OCTwinColonVar">Dobitak: {0}</ds>
+  <ds Jurisdiction="*" name="MGwin" id="MGwin">Dobitak: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinCapitals" id="MGwinCapitals">DOBITAK: {0}</ds>
+  <ds Jurisdiction="*" name="MGwinMultiplierVar" id="MGwinMultiplierVar">Dobitci u novčićima se množe s {0}</ds>
+  <ds Jurisdiction="*" name="MGwinningCombinations" id="MGwinningCombinations">Dobitne kombinacije i isplate</ds>
+  <ds Jurisdiction="*" name="MGwinningLinesHeading" id="MGwinningLinesHeading">Dobitne lin. za klađenje</ds>
+  <ds Jurisdiction="*" name="OCTwinningBetLinesHeading" id="OCTwinningBetLinesHeading">Dobitne lin. za klađenje</ds>
+  <ds Jurisdiction="*" name="MG11" id="MG11">Dosegli ste vaše ograničenje iznosa za igranje. Vratite se kasnije!</ds>
+  <ds Jurisdiction="*" name="winBothWaysRev" id="winBothWaysRev">DVOSMJERNI DOBITCI</ds>
+  <ds Jurisdiction="*" name="MGcolHeadFSpinSyms" id="MGcolHeadFSpinSyms">Free Spin simbola</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsUC" id="OCTfreeSpinsUC">FREE SPINS</ds>
+  <ds Jurisdiction="*" name="gameOptimisedFor" id="gameOptimisedFor">Igra je optimizirana za {0} na uređaju {1}.</ds>
+  <ds Jurisdiction="*" name="gameOptimisedVersion" id="gameOptimisedVersion">Igra je optimizirana za: {0}</ds>
+  <ds Jurisdiction="*" name="MGgameUnavailable" id="MGgameUnavailable">Igra nije raspoloživa</ds>
+  <ds Jurisdiction="*" name="OCTgameUnavailable" id="OCTgameUnavailable">Igra nije raspoloživa</ds>
+  <ds Jurisdiction="*" name="OCTrestoredGameHeader" id="OCTrestoredGameHeader">Igra se nastavlja</ds>
+  <ds Jurisdiction="*" name="MGrestoredGameHeader" id="MGrestoredGameHeader">Igra se nastavlja</ds>
+  <ds Jurisdiction="*" name="gameNotLoaded" id="gameNotLoaded">Igra se nije mogla učitati.</ds>
+  <ds Jurisdiction="*" name="MGplayingForFun" id="MGplayingForFun">IGRA ZA ZABAVU</ds>
+  <ds Jurisdiction="*" name="OCTplayingForFun" id="OCTplayingForFun">IGRA ZA ZABAVU</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingWon" id="MGRCheckPlayingWon">Igrate {0} sat/a/i i osvojili ste {1}.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingLost" id="MGRCheckPlayingLost">Igrate {0} sata/i i izgubili ste {1}.</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingLost" id="OCTRCheckPlayingLost">Igrate {0} sata/i i izgubili ste {1}.</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingWon" id="OCTRCheckPlayingWon">Igrate {0} sata/i i osvojili ste {1}.</ds>
+  <ds Jurisdiction="*" name="OCTyouPlayingFun" id="OCTyouPlayingFun">Igrate za zabavu</ds>
+  <ds Jurisdiction="*" name="MGyouPlayingFun" id="MGyouPlayingFun">Igrate za zabavu</ds>
+  <ds Jurisdiction="*" name="MGoff" id="MGoff">Isklj.</ds>
+  <ds Jurisdiction="*" name="paytableHighestRev" id="paytableHighestRev">Isplaćuje se samo najveći dobitak po aktivnoj dvosmjernoj liniji.</ds>
+  <ds Jurisdiction="Spain" name="paytableHighestNoActive" id="paytableHighestNoActive">Isplaćuje se samo najveći dobitak po dobitnoj liniji.</ds>
+  <ds Jurisdiction="*" name="MGpaytableHighestPaid" id="MGpaytableHighestPaid">Isplaćuje se samo najveći dobitak po dobitnoj liniji.</ds>
+  <ds Jurisdiction="Spain" name="OCTpaytableHighest" id="OCTpaytableHighest">Isplaćuje se samo najveći dobitak po dobitnoj liniji.</ds>
+  <ds Jurisdiction="*" name="OCTsymbolPayout" id="OCTsymbolPayout">Isplate za simbole</ds>
+  <ds Jurisdiction="Afghanistan" name="MGsymbolPayout" id="MGsymbolPayout">Isplate za simbole</ds>
+  <ds Jurisdiction="*" name="paytableInfoBetLevel1" id="paytableInfoBetLevel1">Isplatne vrijednosti novčića temelje se na razini uloga 1.</ds>
+  <ds Jurisdiction="*" name="MGsessionTimeOut" id="MGsessionTimeOut">Isteklo vrijeme ciklusa</ds>
+  <ds Jurisdiction="*" name="OCTsessionTimeOut" id="OCTsessionTimeOut">Isteklo vrijeme ciklusa</ds>
+  <ds Jurisdiction="*" name="MGuseDefaultBrowser" id="MGuseDefaultBrowser">Koristite zadani preglednik za vaš uređaj ili ažurirajte operativni sustav na vašem uređaju.</ds>
+  <ds Jurisdiction="*" name="OCTqualityHeading" id="OCTqualityHeading">Kvaliteta prikaza</ds>
+  <ds Jurisdiction="*" name="qualityHeading" id="qualityHeading">Kvaliteta prikaza</ds>
+  <ds Jurisdiction="*" name="MGleft" id="MGleft">L</ds>
+  <ds Jurisdiction="*" name="MGbetLineWinsLeftRight" id="MGbetLineWinsLeftRight">Linije su dobitne ako su dobitni simboli u nizu od prve role s lijeva nadesno.</ds>
+  <ds Jurisdiction="*" name="winBothWaysPaysRev" id="winBothWaysPaysRev">Linijski dobitci isplaćuju počevši od prve lijeve role nadesno, ili od prve desne role nalijevo.</ds>
+  <ds Jurisdiction="*" name="OCTbetLineWinsLeftToRightOnly" id="OCTbetLineWinsLeftToRightOnly">Linijski dobitci isplaćuju ukoliko se dobitne kombinacije protežu od prve lijeve do prve desne role.</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbutton" id="OCTmaxbetbutton">MAKS. ULOG</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbuttonTwoLine" id="OCTmaxbetbuttonTwoLine">MAKS.&lt;br&gt;ULOG</ds>
+  <ds Jurisdiction="*" name="maxNumberReSpins" id="maxNumberReSpins">MAKSIMALNI BROJ PONOVNIH VRTNJI JE {0}.</ds>
+  <ds Jurisdiction="*" name="MGmaxNumberReSpinsLC" id="MGmaxNumberReSpinsLC">Maksimalni broj ponovnih vrtnji je {0}.</ds>
+  <ds Jurisdiction="*" name="specialWinMegaCombo" id="specialWinMegaCombo">MEGA COMBO</ds>
+  <ds Jurisdiction="*" name="megaWin" id="megaWin">MEGA DOBITAK!</ds>
+  <ds Jurisdiction="*" name="OCTmegaWin" id="OCTmegaWin">MEGA DOBITAK!</ds>
+  <ds Jurisdiction="*" name="MGminOSReq" id="MGminOSReq">Minimalni zahtjevi:</ds>
+  <ds Jurisdiction="*" name="RCheckMonths" id="RCheckMonths">mjeseci/a</ds>
+  <ds Jurisdiction="*" name="multiplierUC" id="multiplierUC">MNOŽITELJ</ds>
+  <ds Jurisdiction="*" name="upgradeDevice" id="upgradeDevice">Molimo nadogradite svoj uređaj.</ds>
+  <ds Jurisdiction="*" name="multiplierFLC" id="multiplierFLC">Multiplier</ds>
+  <ds Jurisdiction="*" name="MGcolHeadBetMulti" id="MGcolHeadBetMulti">Multiplier uloga</ds>
+  <ds Jurisdiction="*" name="onAnyWin" id="onAnyWin">Na bilo koji dobitak</ds>
+  <ds Jurisdiction="*" name="OCTadvancedSettings" id="OCTadvancedSettings">Napredne postavke</ds>
+  <ds Jurisdiction="*" name="OCTbutton_CONTINUE" id="OCTbutton_CONTINUE">NASTAVI</ds>
+  <ds Jurisdiction="*" name="OCTContinue" id="OCTContinue">Nastavi</ds>
+  <ds Jurisdiction="*" name="MGcontinue" id="MGcontinue">Nastavi</ds>
+  <ds Jurisdiction="*" name="MGcontinuePlaying" id="MGcontinuePlaying">Nastavite s igrom s istog mjesta.</ds>
+  <ds Jurisdiction="*" name="OCTcontinuePlaying" id="OCTcontinuePlaying">Nastavite s igrom s istog mjesta.</ds>
+  <ds Jurisdiction="*" name="MGnoOSSupport" id="MGnoOSSupport">Nažalost, ovaj operativni sustav nije podržan.</ds>
+  <ds Jurisdiction="*" name="MGnoBrowserSupport" id="MGnoBrowserSupport">Nažalost, ovaj preglednik nije podržan.</ds>
+  <ds Jurisdiction="*" name="MGdeviceNoSupport" id="MGdeviceNoSupport">Nažalost, ovaj uređaj nije podržan.</ds>
+  <ds Jurisdiction="*" name="MGbutton_no" id="MGbutton_no">Ne</ds>
+  <ds Jurisdiction="*" name="OCTbtnNo" id="OCTbtnNo">Ne</ds>
+  <ds Jurisdiction="*" name="dontShowNextTime" id="dontShowNextTime">Ne prikazuj</ds>
+  <ds Jurisdiction="*" name="MGnoWin" id="MGnoWin">Nema pobjede</ds>
+  <ds Jurisdiction="*" name="MGoutOfMoney" id="MGoutOfMoney">Nemate novaca</ds>
+  <ds Jurisdiction="*" name="OCToutOfMoney" id="OCToutOfMoney">Nemate novaca</ds>
+  <ds Jurisdiction="*" name="OCTlowQuality" id="OCTlowQuality">Niska</ds>
+  <ds Jurisdiction="*" name="lowQuality" id="lowQuality">Niska</ds>
+  <ds Jurisdiction="*" name="OCTcash" id="OCTcash">Novaca</ds>
+  <ds Jurisdiction="*" name="OCTcashColon" id="OCTcashColon">Novaca:</ds>
+  <ds Jurisdiction="*" name="MGcash" id="MGcash">Novaca:  {0}</ds>
+  <ds Jurisdiction="*" name="OCTcashColonVar" id="OCTcashColonVar">Novaca: {0}</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coins" id="OCTmachinetext_coins">NOVČIĆA</ds>
+  <ds Jurisdiction="*" name="coins" id="coins">Novčića</ds>
+  <ds Jurisdiction="*" name="coinsWonColon" id="coinsWonColon">Novčića osvojeno:</ds>
+  <ds Jurisdiction="*" name="OCTcoinsWonColon" id="OCTcoinsWonColon">Novčića osvojeno:</ds>
+  <ds Jurisdiction="*" name="OCTcoinsColonVar" id="OCTcoinsColonVar">Novčića: {0}</ds>
+  <ds Jurisdiction="*" name="MGcoins" id="MGcoins">Novčića: {0}</ds>
+  <ds Jurisdiction="*" name="scatterSelect" id="scatterSelect">ODABERI SCATTER</ds>
+  <ds Jurisdiction="Spain" name="OCTautoplayPanelStartText" id="OCTautoplayPanelStartText">Odaberi za početak</ds>
+  <ds Jurisdiction="*" name="OCTgameHistory" id="OCTgameHistory">Odigrane runde</ds>
+  <ds Jurisdiction="*" name="OCTgameHistoryHeadingUC" id="OCTgameHistoryHeadingUC">ODIGRANE RUNDE</ds>
+  <ds Jurisdiction="*" name="gameHistory" id="gameHistory">Odigrane runde</ds>
+  <ds Jurisdiction="*" name="MGplayLimit" id="MGplayLimit">Ograničenje</ds>
+  <ds Jurisdiction="*" name="OCTplayLimit" id="OCTplayLimit">Ograničenje</ds>
+  <ds Jurisdiction="*" name="MGbetCashCoins" id="MGbetCashCoins">Oklada u gotov./novčić.</ds>
+  <ds Jurisdiction="*" name="MGoptionUnavailable" id="MGoptionUnavailable">Opcija nije na raspolaganju</ds>
+  <ds Jurisdiction="*" name="OCTwinUpTo" id="OCTwinUpTo">Osvoji do {0} novčića</ds>
+  <ds Jurisdiction="*" name="MGwinUpTo" id="MGwinUpTo">Osvoji do {0} novčića</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRounds" id="MGhaveFreeRounds">Osvojili ste {0} besplatnih vrtnji.</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinWon" id="MGadditonalFreeSpinWon">Osvojili ste {0} dodatnih Free Spin</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinsWon" id="MGadditonalFreeSpinsWon">Osvojili ste {0} dodatnih Free Spins.</ds>
+  <ds Jurisdiction="*" name="OCTadditonalFreeSpinsWon" id="OCTadditonalFreeSpinsWon">Osvojili ste {0} dodatnih Free Spins.</ds>
+  <ds Jurisdiction="*" name="MGyouWonCoins" id="MGyouWonCoins">Osvojili ste {0} novčića</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoins" id="OCTyouWonCoins">Osvojili ste {0} novčića</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoinsUC" id="OCTyouWonCoinsUC">Osvojili ste {0} novčića</ds>
+  <ds Jurisdiction="*" name="MGyouWon" id="MGyouWon">Osvojili ste:{0}</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Ova igra koristi kolačiće u svrhu statistike i poboljšanja korisničkog doživljaja. Potvrdite da prihvaćate naša</ds>
+  <ds Jurisdiction="*" name="optimisedForVersion" id="optimisedForVersion">Ova je igra optimizirana za: {0}</ds>
+  <ds Jurisdiction="*" name="MGoptionAvailable" id="MGoptionAvailable">Ova opcija je na raspolaganju tek kada završite rundu.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Ovaj rezultat sigurno niste priželjkivali. Poklanjamo vam još {0} Besplatne vrtnje.</ds>
+  <ds Jurisdiction="*" name="OCTstartFreeSpins" id="OCTstartFreeSpins">POČNI FREE SPINS</ds>
+  <ds Jurisdiction="*" name="OCTRCcheckReminder" id="OCTRCcheckReminder">Podsjetnik</ds>
+  <ds Jurisdiction="*" name="MGRCcheckReminder" id="MGRCcheckReminder">Podsjetnik</ds>
+  <ds Jurisdiction="*" name="OCTvoidAllPays" id="OCTvoidAllPays">Pogreška u igri poništava tu igru i isplate u njoj.</ds>
+  <ds Jurisdiction="*" name="appearsOnReels" id="appearsOnReels">POJAVLJUJU SE NA ROLAMA {0}, {1} I {2}.</ds>
+  <ds Jurisdiction="*" name="MGappearsOnReelsLC" id="MGappearsOnReelsLC">Pojavljuju se na rolama {0}, {1} i {2}.</ds>
+  <ds Jurisdiction="*" name="MGreload_btn" id="MGreload_btn">Pon. učit.</ds>
+  <ds Jurisdiction="*" name="OCTreload_btn" id="OCTreload_btn">Pon. učit.</ds>
+  <ds Jurisdiction="*" name="OCTreturnCasino" id="OCTreturnCasino">Ponovno pokrenite igru.</ds>
+  <ds Jurisdiction="*" name="MGreturnCasino" id="MGreturnCasino">Ponovno pokrenite igru.</ds>
+  <ds Jurisdiction="*" name="MGreload" id="MGreload">Ponovno učitajte igru.</ds>
+  <ds Jurisdiction="*" name="OCTreload" id="OCTreload">Ponovno učitajte igru.</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Poruka</ds>
+  <ds Jurisdiction="*" name="OCTslidePanelLabel" id="OCTslidePanelLabel">Postavke igre</ds>
+  <ds Jurisdiction="*" name="MGbetOptions" id="MGbetOptions">Postavke klađenja</ds>
+  <ds Jurisdiction="*" name="MGbetSettings" id="MGbetSettings">Postavke klađenja</ds>
+  <ds Jurisdiction="*" name="OCTbetSettingsCaps" id="OCTbetSettingsCaps">POSTAVKE ULOGA</ds>
+  <ds Jurisdiction="*" name="MGspinSettings" id="MGspinSettings">Postavke vrtnje</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRev" id="MGspinSettingsRev">Postavke vrtnje</ds>
+  <ds Jurisdiction="*" name="OCTspinSettingsCaps" id="OCTspinSettingsCaps">POSTAVKE VRTNJI</ds>
+  <ds Jurisdiction="*" name="OCTsoundSettingsCaps" id="OCTsoundSettingsCaps">POSTAVKE ZVUKA</ds>
+  <ds Jurisdiction="*" name="MGsoundSettings" id="MGsoundSettings">Postavke zvuka</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeading" id="MGgameHistoryHeading">Povijest rundi</ds>
+  <ds Jurisdiction="*" name="MGhistoryNotAvailable" id="MGhistoryNotAvailable">Povijest rundi je dostupna samo kada igrate za novac.</ds>
+  <ds Jurisdiction="*" name="OCThistoryNotAvailable" id="OCThistoryNotAvailable">Povijest rundi je dostupna samo kada igrate za novac.</ds>
+  <ds Jurisdiction="*" name="MGswipeToActivate" id="MGswipeToActivate">Povucite prstom za aktiviranje igre.</ds>
+  <ds Jurisdiction="*" name="MGspinButtonPosition" id="MGspinButtonPosition">Pozicija gumba za vrtnju</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheading" id="MGgameRulesheading">Pravila igre</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheadingCaps" id="MGgameRulesheadingCaps">PRAVILA IGRE</ds>
+  <ds Jurisdiction="*" name="OCTgameRulesUC" id="OCTgameRulesUC">PRAVILA IGRE</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">pravila o kolačićima.</ds>
+  <ds Jurisdiction="*" name="MGcasino_btn" id="MGcasino_btn">Predvorje</ds>
+  <ds Jurisdiction="*" name="OCTcasino_btn" id="OCTcasino_btn">Predvorje</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRoundsRev" id="MGhaveFreeRoundsRev">Preostaje {0} besplatnih rundi!</ds>
+  <ds Jurisdiction="*" name="OCTspinsLeftText" id="OCTspinsLeftText">Preostali broj {0}</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsLeftColonVar" id="OCTfreeSpinsLeftColonVar">Preostalo Free Spins: {0}</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsLeft" id="MGfreeRoundsLeft">Preostalo je {0} besplatnih vrtnji!</ds>
+  <ds Jurisdiction="*" name="OCTskipIntro" id="OCTskipIntro">Preskoči uvod</ds>
+  <ds Jurisdiction="*" name="OCTlogin_btn" id="OCTlogin_btn">Prijava</ds>
+  <ds Jurisdiction="*" name="MGlogin_btn" id="MGlogin_btn">Prijava</ds>
+  <ds Jurisdiction="*" name="MGexpandReelTriggerLC" id="MGexpandReelTriggerLC">Proširuju se po roli i dodjeljuju ponovne vrtnje.</ds>
+  <ds Jurisdiction="*" name="expandReelTrigger" id="expandReelTrigger">PROŠIRUJU SE PO ROLI I DODJELJUJU PONOVNE VRTNJE.</ds>
+  <ds Jurisdiction="*" name="MGfreeSpinsLeftColonVar" id="MGfreeSpinsLeftColonVar">Prostalo Free Spins: {0}</ds>
+  <ds Jurisdiction="*" name="MGaccountUnavailable" id="MGaccountUnavailable">Račun nije raspoloživ</ds>
+  <ds Jurisdiction="*" name="OCTaccountUnavailable" id="OCTaccountUnavailable">Račun nije raspoloživ</ds>
+  <ds Jurisdiction="Spain" name="OCTbetlevel" id="OCTbetlevel">Raz. uloga</ds>
+  <ds Jurisdiction="*" name="OCTlevel" id="OCTlevel">RAZINA</ds>
+  <ds Jurisdiction="*" name="MGbetlevel" id="MGbetlevel">Razina uloga</ds>
+  <ds Jurisdiction="*" name="OCTspaceSpin" id="OCTspaceSpin">Razmaknica za vrtnju</ds>
+  <ds Jurisdiction="*" name="spaceSpin" id="spaceSpin">Razmaknica za vrtnju</ds>
+  <ds Jurisdiction="Algeria" name="OCTnewHistoryWindow" id="OCTnewHistoryWindow">Rezultati prethodnih rundi će se otvoriti u drugom prozoru. Zatvorite prozor da biste se vratili u igru.</ds>
+  <ds Jurisdiction="*" name="MGnewHistoryWindow" id="MGnewHistoryWindow">Rezultati prethodnih rundi će se otvoriti u drugom prozoru. Zatvorite prozor da biste se vratili u igru.</ds>
+  <ds Jurisdiction="*" name="OCTautoSpins" id="OCTautoSpins">rundi</ds>
+  <ds Jurisdiction="Antigua and Barbuda" name="OCTreduceBet_btn" id="OCTreduceBet_btn">Smanji ulog</ds>
+  <ds Jurisdiction="*" name="MGreduceBet_btn" id="MGreduceBet_btn">Smanji ulog</ds>
+  <ds Jurisdiction="*" name="MGreduce" id="MGreduce">Smanjite ulog/okladu za nastavak igre.</ds>
+  <ds Jurisdiction="*" name="OCTreduce" id="OCTreduce">Smanjite ulog/okladu za nastavak igre.</ds>
+  <ds Jurisdiction="*" name="MGsoftNotTest" id="MGsoftNotTest">Softver nije testiran na vašem uređaju.</ds>
+  <ds Jurisdiction="*" name="mediumQuality" id="mediumQuality">Srednja</ds>
+  <ds Jurisdiction="*" name="OCTmediumQuality" id="OCTmediumQuality">Srednja</ds>
+  <ds Jurisdiction="*" name="starburstNameOfWild" id="starburstNameOfWild">Starburst™ Wild</ds>
+  <ds Jurisdiction="*" name="OCTautoplayStopText" id="OCTautoplayStopText">STOP</ds>
+  <ds Jurisdiction="*" name="specialWinSuperCombo" id="specialWinSuperCombo">SUPER COMBO</ds>
+  <ds Jurisdiction="*" name="superMegaWin" id="superMegaWin">SUPER MEGA DOBITAK!</ds>
+  <ds Jurisdiction="*" name="OCTsuperMegaWin" id="OCTsuperMegaWin">SUPER MEGA DOBITAK!</ds>
+  <ds Jurisdiction="*" name="OCTpaytable" id="OCTpaytable">Tabela isplata</ds>
+  <ds Jurisdiction="*" name="OCTbutton_paytableUC" id="OCTbutton_paytableUC">TABELA ISPLATA</ds>
+  <ds Jurisdiction="*" name="MGpaytable" id="MGpaytable">Tabela isplata</ds>
+  <ds Jurisdiction="*" name="MGerror" id="MGerror">Tehnička greška</ds>
+  <ds Jurisdiction="*" name="OCTerror" id="OCTerror">Tehnička greška</ds>
+  <ds Jurisdiction="*" name="OCTbtnOK" id="OCTbtnOK">U redu</ds>
+  <ds Jurisdiction="*" name="MGok_btn" id="MGok_btn">U redu</ds>
+  <ds Jurisdiction="*" name="InAssociation" id="InAssociation">U suradnji s</ds>
+  <ds Jurisdiction="*" name="OCTpaytableHighestWinMatch" id="OCTpaytableHighestWinMatch">U svakoj dobitnoj kombinaciji isplaćuje se samo najveći dobitak (u slučaju da ih ima više).</ds>
+  <ds Jurisdiction="*" name="MGreload_btnRev" id="MGreload_btnRev">Učitaj ponovno</ds>
+  <ds Jurisdiction="*" name="OCTloadingText" id="OCTloadingText">Učitavanje</ds>
+  <ds Jurisdiction="*" name="OCTloadingTakesLonger" id="OCTloadingTakesLonger">Učitavanje igre traje dulje od očekivanog.</ds>
+  <ds Jurisdiction="*" name="loadingTakesLonger" id="loadingTakesLonger">Učitavanje igre traje dulje od očekivanog.</ds>
+  <ds Jurisdiction="*" name="OCTloading" id="OCTloading">Učitavanje...</ds>
+  <ds Jurisdiction="*" name="MGdownloadSounds" id="MGdownloadSounds">Uključi zvukove?</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinUCnoVar" id="OCTtotalWinUCnoVar">UKUPNI DOBITAK:</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinWithColon" id="OCTtotalWinWithColon">Ukupni dobitak:</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinColonVar" id="OCTtotalWinColonVar">Ukupni dobitak: {0}</ds>
+  <ds Jurisdiction="*" name="MGtotalWin" id="MGtotalWin">Ukupni dobitak: {0}</ds>
+  <ds Jurisdiction="*" name="OCTtotalbet" id="OCTtotalbet">Ulog</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_bet" id="OCTmachinetext_bet">ULOG</ds>
+  <ds Jurisdiction="*" name="MGbetInCash" id="MGbetInCash">Ulog u gotovini</ds>
+  <ds Jurisdiction="*" name="MGbetInCoins" id="MGbetInCoins">Ulog u novčićima</ds>
+  <ds Jurisdiction="*" name="MGbetInCoinsRev" id="MGbetInCoinsRev">Ulog u novčićima</ds>
+  <ds Jurisdiction="*" name="OCTbetInCoins" id="OCTbetInCoins">Ulog u novčićima</ds>
+  <ds Jurisdiction="*" name="OCTbetInCash" id="OCTbetInCash">Ulog u novcu</ds>
+  <ds Jurisdiction="*" name="MGbetInCashRev" id="MGbetInCashRev">Ulog u novcu</ds>
+  <ds Jurisdiction="*" name="MGbet" id="MGbet">Ulog: {0}</ds>
+  <ds Jurisdiction="*" name="OCTbetColonVar" id="OCTbetColonVar">Ulog: {0}</ds>
+  <ds Jurisdiction="*" name="OCTdeposit_btn" id="OCTdeposit_btn">Uplata</ds>
+  <ds Jurisdiction="*" name="MGdeposit_btn" id="MGdeposit_btn">Uplata</ds>
+  <ds Jurisdiction="*" name="MGdeposit" id="MGdeposit">Uplatite dodatni novac ili snizite ulog.</ds>
+  <ds Jurisdiction="*" name="OCTdeposit" id="OCTdeposit">Uplatite dodatni novac ili snizite ulog.</ds>
+  <ds Jurisdiction="*" name="MGdepositPlay" id="MGdepositPlay">Uplatite još sredstava za nastavak igre.</ds>
+  <ds Jurisdiction="*" name="MGleftHandMode" id="MGleftHandMode">Upravljanje lijevom rukom</ds>
+  <ds Jurisdiction="*" name="OCTleftHandMode" id="OCTleftHandMode">Upravljanje lijevom rukom</ds>
+  <ds Jurisdiction="*" name="OCTlandscapeMode" id="OCTlandscapeMode">Uređaj stavite u vodoravni/pejzažni položaj!</ds>
+  <ds Jurisdiction="*" name="MGlandscapeMode" id="MGlandscapeMode">Uređaj stavite u vodoravni/pejzažni položaj!</ds>
+  <ds Jurisdiction="*" name="MGsoundsOff" id="MGsoundsOff">Uvijek isključi zvukove</ds>
+  <ds Jurisdiction="*" name="introScreeGameSetting" id="introScreeGameSetting">Uvod</ds>
+  <ds Jurisdiction="*" name="OCTintroScreeGameSetting" id="OCTintroScreeGameSetting">Uvod</ds>
+  <ds Jurisdiction="*" name="OCTintroGameSetting" id="OCTintroGameSetting">Uvodni film</ds>
+  <ds Jurisdiction="*" name="operatingSystemNoSupport" id="operatingSystemNoSupport">Vaš operativni sustav nije podržan.</ds>
+  <ds Jurisdiction="*" name="deviceNotSupported" id="deviceNotSupported">Vaš uređaj nije podržan.</ds>
+  <ds Jurisdiction="*" name="MGslowConnection" id="MGslowConnection">Vaša internetska veza trenutno je spora.</ds>
+  <ds Jurisdiction="*" name="OCTslowConnection" id="OCTslowConnection">Vaša internetska veza trenutno je spora.</ds>
+  <ds Jurisdiction="*" name="OCTbigWin" id="OCTbigWin">VELIKI DOBITAK!</ds>
+  <ds Jurisdiction="*" name="MGbigWin" id="MGbigWin">VELIKI DOBITAK!</ds>
+  <ds Jurisdiction="*" name="MGconnectionLost" id="MGconnectionLost">Veza izgubljena</ds>
+  <ds Jurisdiction="*" name="OCTconnectionLost" id="OCTconnectionLost">Veza izgubljena</ds>
+  <ds Jurisdiction="*" name="couldNotConnectServer" id="couldNotConnectServer">Veza s poslužiteljem nije se mogla uspostaviti.</ds>
+  <ds Jurisdiction="*" name="connectionQualityPoor" id="connectionQualityPoor">Veza: slaba</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Veza: slaba</ds>
+  <ds Jurisdiction="*" name="OCThighQuality" id="OCThighQuality">Visoka</ds>
+  <ds Jurisdiction="*" name="highQuality" id="highQuality">Visoka</ds>
+  <ds Jurisdiction="*" name="MGreturnToLobby" id="MGreturnToLobby">Vratite se u predvorje.</ds>
+  <ds Jurisdiction="*" name="OCTreturnToLobby" id="OCTreturnToLobby">Vratite se u predvorje.</ds>
+  <ds Jurisdiction="*" name="OCTreset" id="OCTreset">Vratiti</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coinvalue" id="OCTmachinetext_coinvalue">VRIJ. NOV.</ds>
+  <ds Jurisdiction="*" name="OCTcoinValue" id="OCTcoinValue">Vrijednost novčića</ds>
+  <ds Jurisdiction="*" name="MGcoinvalue" id="MGcoinvalue">Vrijednost novčića</ds>
+  <ds Jurisdiction="*" name="MGpaytableInfoBetLevel1" id="MGpaytableInfoBetLevel1">Vrijednosti isplate se temelje na 1. razini uloga.</ds>
+  <ds Jurisdiction="*" name="OCTdepositPlay" id="OCTdepositPlay">Za nastavak igre uplatite dodatna sredstva.</ds>
+  <ds Jurisdiction="*" name="OCTextraInfo" id="OCTextraInfo">Za više informacija pogledajte Pravila igre.</ds>
+  <ds Jurisdiction="*" name="extraInfo" id="extraInfo">Za više informacija pogledajte Pravila igre.</ds>
+  <ds Jurisdiction="*" name="MGsubAllSymbolsLC" id="MGsubAllSymbolsLC">Zamjenjuju sve simbole.</ds>
+  <ds Jurisdiction="*" name="subAllSymbols" id="subAllSymbols">ZAMJENJUJU SVE SIMBOLE.</ds>
+  <ds Jurisdiction="*" name="startFreeSpins" id="startFreeSpins">Započni Free Spins</ds>
+  <ds Jurisdiction="*" name="MGclose_btn" id="MGclose_btn">Zatvori</ds>
+  <ds Jurisdiction="*" name="OCTclose_btn" id="OCTclose_btn">Zatvori</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlay" id="OCTstopAutoPlay">Zaustavi automatsku igru</ds>
+  <ds Jurisdiction="*" name="MGstopIfBonusGame" id="MGstopIfBonusGame">Zaustavi kada se osvoje Bonus Game</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinscrosstowntraffic" id="OCTstopIfFreeSpinscrosstowntraffic">Zaustavi kada se osvoje Crosstown Traffic Free Spins</ds>
+  <ds Jurisdiction="*" name="stopIfFeatureSpins" id="stopIfFeatureSpins">Zaustavi kada se osvoje Feature Spin</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpins" id="OCTstopIfFreeSpins">Zaustavi kada se osvoje Free Spins</ds>
+  <ds Jurisdiction="*" name="MGstopIfFreeSpins" id="MGstopIfFreeSpins">Zaustavi kada se osvoje Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinslittlewing" id="OCTstopIfFreeSpinslittlewing">Zaustavi kada se osvoje Little Wing Free Spins</ds>
+  <ds Jurisdiction="*" name="stopIfPickAndClick" id="stopIfPickAndClick">Zaustavi kada se osvoje Pick and Click</ds>
+  <ds Jurisdiction="*" name="stopIfPoliceSpins" id="stopIfPoliceSpins">Zaustavi kada se osvoje Police Spins</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinspurplehaze" id="OCTstopIfFreeSpinspurplehaze">Zaustavi kada se osvoje Purple Haze Free Spins</ds>
+  <ds Jurisdiction="*" name="autoBonusGame" id="autoBonusGame">Zaustavlja autoigru ako se Bonus Game osvoji prije određenog broja rundi autoigre.</ds>
+  <ds Jurisdiction="*" name="autoplayFeatureSpins" id="autoplayFeatureSpins">Zaustavlja autoigru ako se Feature Spinsovi osvoje prije određenog broja rundi autoigre.</ds>
+  <ds Jurisdiction="*" name="MGlostConnectionInactivity" id="MGlostConnectionInactivity">Zbog trajanja neaktivnosti, izgubljena je veza s igrom.</ds>
+  <ds Jurisdiction="*" name="OCTlostConnectInactivity" id="OCTlostConnectInactivity">Zbog trajanja neaktivnosti, izgubljena je veza s igrom.</ds>
+  <ds Jurisdiction="*" name="MGplayingForMoney" id="MGplayingForMoney">Želite igrati za novac?</ds>
+  <ds Jurisdiction="*" name="MGcontinueYesNo" id="MGcontinueYesNo">Želite li nastaviti?</ds>
+  <ds Jurisdiction="*" name="OCTcontinueYesNo" id="OCTcontinueYesNo">Želite li nastaviti?</ds>
+  <ds Jurisdiction="*" name="updateBrowserQuestion" id="updateBrowserQuestion">Želite obaviti ažuriranje?</ds>
+  <ds Jurisdiction="*" name="OCTgameSound" id="OCTgameSound">Zvuci u igri</ds>
+  <ds Jurisdiction="*" name="MGgameSound" id="MGgameSound">Zvuci u igri</ds>
+  <ds Jurisdiction="*" name="MGsounds" id="MGsounds">Zvuci u igri</ds>
+  <ds Jurisdiction="*" name="sound" id="sound">Zvučni efekti</ds>
+  <ds Jurisdiction="*" name="MGsoundsNo" id="MGsoundsNo">Zvuk isklj.</ds>
+  <ds Jurisdiction="*" name="OCTsoundsNo" id="OCTsoundsNo">Zvuk isklj.</ds>
+  <ds Jurisdiction="*" name="OCTsoundsOn" id="OCTsoundsOn">Zvuk uklj.</ds>
+  <ds Jurisdiction="*" name="MGsoundsOn" id="MGsoundsOn">Zvuk uklj.</ds>
+  <ds Jurisdiction="*" name="ifCashIncreasesBy" id="ifCashIncreasesBy">Ako se saldo poveća za</ds>
+  <ds Jurisdiction="*" name="OCTifCashIncreasesBy" id="OCTifCashIncreasesBy">Ako se saldo poveća za</ds>
+  <ds Jurisdiction="*" name="ifCashDecreasesBy" id="ifCashDecreasesBy">Ako se saldo smanji za</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Da biste mogli igrati ovu igru, morate koristiti {0}.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">Da biste mogli igrati ovu igru, morate nadograditi svoj operativni sustav.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Dodatne besplatnih rundi</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeadingCaps" id="MGgameHistoryHeadingCaps">ODIGRANE RUNDE</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">Optimizirano za {0} na sustavu {1} {2}</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Ova igra koristi kolačiće za prilagođavanje korisnicima i upravljanje oglašavanjem. Molimo potvrdite da se slažete s našim</ds>
+  <ds Jurisdiction="*" name="MGvoidAllPays" id="MGvoidAllPays">Pogreška u igri poništava tu igru i isplate u njoj.</ds>
+  <ds Jurisdiction="*" name="voidAllPays" id="voidAllPays">Pogreška u igri poništava tu igru i isplate u njoj.</ds>
+  <ds Jurisdiction="*" name="MGbetSettingsCaps" id="MGbetSettingsCaps">POSTAVKE ULOGA</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRevCaps" id="MGspinSettingsRevCaps">POSTAVKE VRTNJI</ds>
+  <ds Jurisdiction="*" name="MGsoundSettingsCaps" id="MGsoundSettingsCaps">POSTAVKE ZVUKA</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">Za najbolji doživljaj igranja, nadogradite svoj operativni sustav.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">Za najbolji doživljaj igranja, nadogradite svoj operativni sustav.</ds>
+  <ds Jurisdiction="*" name="autoplayPS" id="autoplayPS">Zaustavlja auto-igru ako se bonus igra ili Police Spins osvoje prije određenog broja automatskih vrtnji.</ds>
+  <ds Jurisdiction="*" name="autoplayFS" id="autoplayFS">Zaustavlja autoigru ako se Free Spinovi osvoje prije određenog broja rundi autoigre.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="OCTroundsLeft" id="OCTroundsLeft">Besplatne runde</ds>
+  <ds Jurisdiction="*" name="freeRoundsCompleteDialogText" id="freeRoundsCompleteDialogText">Besplatne runde su završene. Za daljnje runde će biti potreban novac s vašeg računa. Sretno!</ds>
+  <ds Jurisdiction="*" name="FreeRoundsLeftwithColonVar" id="FreeRoundsLeftwithColonVar">Besplatne runde: {0}</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinishedRev" id="OCTfreeRoundsFinishedRev">Besplatne vrtnje završene</ds>
+  <ds Jurisdiction="*" name="roundsLeft" id="roundsLeft">Besplatnih rundi</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired_header" id="gameWalletMssgExpired_header">Bonus je istekao</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited_header" id="gameWalletMssgForfeited_header">Bonus je izgubljen</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered_header" id="gameWalletMssgWagered_header">Bonus je pretvoren</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Broj {0}</ds>
+  <ds Jurisdiction="*" name="OCTcongratsUC" id="OCTcongratsUC">ČESTITAMO!</ds>
+  <ds Jurisdiction="*" name="freeRoundsInitiatedDialogText" id="freeRoundsInitiatedDialogText">Čestitamo!  Osvojili ste {0} besplatnih rundi. Sretno!</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered" id="gameWalletMssgWagered">Čestitamo! Vaš {0} bonus je sada novac na vašem računu. Prijavite se ponovno i iskoristite ga.</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Da biste mogli igrati ovu igru, morate nadograditi svoj internetski preglednik.</ds>
+  <ds Jurisdiction="*" name="RCheckDay" id="RCheckDay">dan</ds>
+  <ds Jurisdiction="*" name="RCheckDays" id="RCheckDays">dana</ds>
+  <ds Jurisdiction="*" name="RCheckLost" id="RCheckLost">Do sada ste izgubili</ds>
+  <ds Jurisdiction="*" name="RCheckWon" id="RCheckWon">Do sada ste osvojili</ds>
+  <ds Jurisdiction="*" name="addValue" id="addValue">Dodaj gumb Vrijednost</ds>
+  <ds Jurisdiction="*" name="RCheckYear" id="RCheckYear">godina</ds>
+  <ds Jurisdiction="*" name="RCheckYears" id="RCheckYears">godine/a</ds>
+  <ds Jurisdiction="*" name="110" id="110">Igra ne može započeti. Pokušajte kasnije.</ds>
+  <ds Jurisdiction="*" name="0" id="0">Igra trenutno nije na raspolaganju. Pokušajte kasnije.</ds>
+  <ds Jurisdiction="*" name="53" id="53">Igra trenutno nije na raspolaganju. Pokušajte kasnije.</ds>
+  <ds Jurisdiction="*" name="56" id="56">Igra trenutno nije na raspolaganju. Pokušajte kasnije.</ds>
+  <ds Jurisdiction="*" name="58" id="58">Igra trenutno nije na raspolaganju. Pokušajte kasnije.</ds>
+  <ds Jurisdiction="*" name="25" id="25">Igranje je onemogućeno.</ds>
+  <ds Jurisdiction="*" name="RCheckPlayingFor" id="RCheckPlayingFor">Igrate</ds>
+  <ds Jurisdiction="*" name="greaterCDB" id="greaterCDB">Iznos mora biti veći od iznosa uloga.</ds>
+  <ds Jurisdiction="*" name="59" id="59">Korisnik je već prijavljen. Pokušajte kasnije.</ds>
+  <ds Jurisdiction="*" name="RCheckMinute" id="RCheckMinute">minuta</ds>
+  <ds Jurisdiction="*" name="RCheckMinutes" id="RCheckMinutes">minute/a</ds>
+  <ds Jurisdiction="*" name="RCheckMonth" id="RCheckMonth">mjesec</ds>
+  <ds Jurisdiction="*" name="OCTonAnyWin" id="OCTonAnyWin">Na bilo koji dobitak</ds>
+  <ds Jurisdiction="*" name="101" id="101">Na Vašem računu kockarnice nema dovoljno sredstava.</ds>
+  <ds Jurisdiction="*" name="10" id="10">Na Vašem računu nema dovoljno sredstava.</ds>
+  <ds Jurisdiction="*" name="100" id="100">Na Vašem računu nema dovoljno sredstava.</ds>
+  <ds Jurisdiction="*" name="51" id="51">Na Vašem računu nema dovoljno sredstava.</ds>
+  <ds Jurisdiction="*" name="15" id="15">Na Vašem računu nema dovoljno sredstava. Uplatite dodatni novac ili snizite ulog.</ds>
+  <ds Jurisdiction="*" name="upgradeIn" id="upgradeIn">Nadogradite {0} putem {1}.</ds>
+  <ds Jurisdiction="*" name="button_CONTINUE" id="button_CONTINUE">NASTAVI</ds>
+  <ds Jurisdiction="*" name="Continue" id="Continue">Nastavi</ds>
+  <ds Jurisdiction="*" name="browserVersionNotSupported" id="browserVersionNotSupported">Nažalost, ova verzija preglednika nije podržana.</ds>
+  <ds Jurisdiction="*" name="mandatoryField" id="mandatoryField">Obvezno polje</ds>
+  <ds Jurisdiction="*" name="11" id="11">Ograničenje dozvoljenog igranja. Dobrodošli ste pokušati kasnije.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimit" id="OCTlossLimit">Ograničenje gubitka</ds>
+  <ds Jurisdiction="*" name="12" id="12">Oklada nije moguća zbog isteka bonusa.</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Ova igra koristi kolačiće u svrhu statistike i poboljšanja korisničkog doživljaja. Potvrdite da prihvaćate naša</ds>
+  <ds Jurisdiction="*" name="120" id="120">Ova opcija je na raspolaganju tek kada završite rundu.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Ovaj rezultat sigurno niste priželjkivali. Poklanjamo vam još {0} Besplatne vrtnje.</ds>
+  <ds Jurisdiction="*" name="60" id="60">Ovaj turnir je završen, zadnja odigrana runda neće biti dio statistike turnira.</ds>
+  <ds Jurisdiction="*" name="50" id="50">Ovaj turnir je završen.</ds>
+  <ds Jurisdiction="*" name="40" id="40">Ovaj turnir još nije počeo, pokušajte kasnije.</ds>
+  <ds Jurisdiction="*" name="RCheckReminder" id="RCheckReminder">PODSJETNIK</ds>
+  <ds Jurisdiction="*" name="messagecaption" id="messagecaption">Poruka</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Poruka</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfo" id="OCTlossLimitInfo">Potvrdite ili odredite iznos uloga prije određivanja ograničenja na uvijet **Ako se sredstva smanje za**.</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">pravila o kolačićima.</ds>
+  <ds Jurisdiction="*" name="OCThaveFreeRounds" id="OCThaveFreeRounds">Preostaje {0} besplatnih rundi!</ds>
+  <ds Jurisdiction="*" name="122" id="122">Prikaz utrke nije moguć.</ds>
+  <ds Jurisdiction="*" name="autoRounds" id="autoRounds">rundi</ds>
+  <ds Jurisdiction="*" name="RCheckHour" id="RCheckHour">sat</ds>
+  <ds Jurisdiction="*" name="RCheckHours" id="RCheckHours">sati</ds>
+  <ds Jurisdiction="*" name="RCheckSecond" id="RCheckSecond">sekunda</ds>
+  <ds Jurisdiction="*" name="RCheckSeconds" id="RCheckSeconds">sekundi</ds>
+  <ds Jurisdiction="*" name="RCheckWeek" id="RCheckWeek">tjedan</ds>
+  <ds Jurisdiction="*" name="RCheckWeeks" id="RCheckWeeks">tjedana</ds>
+  <ds Jurisdiction="*" name="RCheckPlaying" id="RCheckPlaying">Trajanje igranja: {0} {1}. {2} {3}. {4}</ds>
+  <ds Jurisdiction="*" name="70" id="70">Trenutno nemamo pristup do Vašeg računa. Molimo Vas da pokušate kasnije.</ds>
+  <ds Jurisdiction="*" name="ok_btn" id="ok_btn">U redu</ds>
+  <ds Jurisdiction="*" name="OBOCTTotalWinwithColonVar" id="OBOCTTotalWinwithColonVar">Ukupna isplata: {0}</ds>
+  <ds Jurisdiction="*" name="OBfreeRoundsGamePanel" id="OBfreeRoundsGamePanel">Ukupni dobitak: {0}</ds>
+  <ds Jurisdiction="*" name="TotalWinwithColonVar" id="TotalWinwithColonVar">Ukupni dobitak: {0}</ds>
+  <ds Jurisdiction="*" name="OCTTotalWinwithColonUC" id="OCTTotalWinwithColonUC">UKUPNI DOBITAK: {0}</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitTouch" id="OCTlossLimitTouch">Unesite iznos ako se iznos novca smanji za</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitWarning" id="OCTlossLimitWarning">Unesite iznos za uvijet **Ako se sredstva smanje za**.</ds>
+  <ds Jurisdiction="*" name="notSupportedBrowser" id="notSupportedBrowser">Vaš preglednik nije podržan.</ds>
+  <ds Jurisdiction="*" name="betExceedCDB" id="betExceedCDB">Vaš ulog je prekoračio ograničenje "Ako se ukupni dobitak smanji za". Povećajte iznos ograničenja.</ds>
+  <ds Jurisdiction="*" name="13" id="13">Vaš ulog prekoračio je maksimalni dozvoljeni ulog u ovoj igri.</ds>
+  <ds Jurisdiction="*" name="102" id="102">Vaša auto-igra je otkazana.</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Veza: slaba</ds>
+  <ds Jurisdiction="*" name="reset" id="reset">Vratiti</ds>
+  <ds Jurisdiction="*" name="20" id="20">Vrijeme za igru je isteklo. Igru započnite ponovo.</ds>
+  <ds Jurisdiction="*" name="14" id="14">Za ažuriranje salda ponovno učitajte igru.</ds>
+  <ds Jurisdiction="*" name="performanceNotification" id="performanceNotification">Za bolju igrivost smanjite kvalitetu grafičkog prikaza u postavkama igre.</ds>
+  <ds Jurisdiction="*" name="OBperformanceNotification" id="OBperformanceNotification">Za poboljšane performanse, snizite kvalitetu prikaza u izborniku za opcije u igri.</ds>
+  <ds Jurisdiction="*" name="121" id="121">Za početak auto-igre morate staviti okladu.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired" id="gameWalletMssgExpired">Žao nam je. Vaš {0} bonus je istekao i više nije dostupan.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited" id="gameWalletMssgForfeited">Žao nam je. Vaš {0} bonus je izgubljen.</ds>
+  <ds Jurisdiction="*" name="close_btn" id="close_btn">Zatvori</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlayColon" id="OCTstopAutoPlayColon">Zaustavi automatsku igru:</ds>
+  <ds Jurisdiction="*" name="RCheckEndButton" id="RCheckEndButton">Završiti</ds>
+  <ds Jurisdiction="*" name="OCTCheckEndButton" id="OCTCheckEndButton">Završiti</ds>
+  <ds Jurisdiction="*" name="RCheckEndCont" id="RCheckEndCont">Želite li završiti ili nastaviti igranje?</ds>
+  <ds Jurisdiction="*" name="bonusAwardedTitle" id="bonusAwardedTitle">Bonus je dodijeljen</ds>
+  <ds Jurisdiction="*" name="bonusAwardedCongrats" id="bonusAwardedCongrats">Čestitamo! Dodijeljen Vam je bonus iznos od {0}.</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Da biste mogli igrati ovu igru, morate koristiti {0}.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">Da biste mogli igrati ovu igru, morate nadograditi svoj operativni sustav.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Dodatne besplatnih rundi</ds>
+  <ds Jurisdiction="*" name="nothanks" id="nothanks">Ne, hvala</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">Optimizirano za {0} na sustavu {1} {2}</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Ova igra koristi kolačiće za prilagođavanje korisnicima i upravljanje oglašavanjem. Molimo potvrdite da se slažete s našim</ds>
+  <ds Jurisdiction="*" name="iagree" id="iagree">Slažem se</ds>
+  <ds Jurisdiction="*" name="OBTotalWinwithColonVar" id="OBTotalWinwithColonVar">Ukupna isplata: {0}</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">Za najbolji doživljaj igranja, nadogradite svoj operativni sustav.</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">Za najbolji doživljaj igranja, nadogradite svoj operativni sustav.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfoTouch" id="OCTlossLimitInfoTouch">Za zaustavljanje autoigre, odredite iznos uloga prije određivanja ograničenja.</ds>
+  <ds Jurisdiction="*" name="16" id="16">Žao nam je, ali ponuda besplatnih rundi već je iskorištena.</ds>
+  <ds Jurisdiction="*" name="OCTstopIfWinExeeds" id="OCTstopIfWinExeeds">Zaustavi ako pojedinačni dobitak prekorači</ds>
+  <ds Jurisdiction="*" name="stopWhenJackpotIsWon" id="stopWhenJackpotIsWon">Zaustavi ako se osvoji jackpot</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashDecreasesBy" id="OCTstopIfCashDecreasesBy">Zaustavi ako se ukupni dobitak smanji za</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashIncreasesBy" id="OCTstopIfCashIncreasesBy">Zaustavi ako ukupni dobitak naraste za</ds>
+</defaults>

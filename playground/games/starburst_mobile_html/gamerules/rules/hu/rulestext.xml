@@ -1,0 +1,197 @@
+<defaults xml:lang="hu">
+  <!-- Hungarian locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 16:41:58 GMT on Tuesday 16 May 2017.
+
+ -->
+  <ds Jurisdiction="*" name="RTGameHistNoPlayForFun" id="RTGameHistNoPlayForFun">(Nem elérhető &lt;b&gt;DEMÓ JÁTÉK&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDisclaimer" id="RTquickSpinDisclaimer">(Nem minden kaszinóban érhető el).</ds>
+  <ds Jurisdiction="*" name="RTsoundButton" id="RTsoundButton">&lt;b&gt;Hang&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Megjegyzés:&lt;/b&gt; Egyes automatikus játék opciók bizonyos illetékességi területeken kötelezők.</ds>
+  <ds Jurisdiction="*" name="RTsettingsDisclaimer" id="RTsettingsDisclaimer">&lt;b&gt;Megjegyzés:&lt;/b&gt; Előfordulhat, hogy bizonyos kaszinókban nem érhető el minden játékbeállítás.</ds>
+  <ds Jurisdiction="*" name="RTMGsettingsDisclaimer" id="RTMGsettingsDisclaimer">&lt;b&gt;Megjegyzés:&lt;/b&gt; Előfordulhat, hogy egyes szolgáltatóknál nem minden játékbeállítás érhető el.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayDisconnect" id="RTMGautoplayDisconnect">&lt;b&gt;Megjegyzés:&lt;/b&gt; Ha játék közben megszakad a csatlakozása a játékhoz, akkor a játék újratöltésekor az Automatikus játék beállításai alapértelmezésbe állítódnak vissza.</ds>
+  <ds Jurisdiction="*" name="RTAutoplayDisconnect" id="RTAutoplayDisconnect">&lt;b&gt;Megjegyzés:&lt;/b&gt; Ha játék közben megszűnik a csatlakozás, akkor játék újraindításakor az Autom. játék beállítások visszakerülnek alapbeállításba.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Megjegyzés&lt;/b&gt;: A következő táblázat csak akkor érvényes, ha nem angol nyelven játszik.</ds>
+  <ds Jurisdiction="*" name="RTMGreturnToPlayer" id="RTMGreturnToPlayer">&lt;b&gt;Vissza a játékoshoz&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTMGplay10FixedBetLines" id="RTMGplay10FixedBetLines">10 tétsoron, különböző tétszinten és érmeértéken játszhatsz egyszerre.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDesc" id="RTinformationIconButtonDesc">A &lt;b&gt;KIFIZETÉSI TÁBLÁZAT&lt;/b&gt; megtekintéséhez kattints ide.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDescJimi" id="RTinformationIconButtonDescJimi">A &lt;b&gt;KIFIZETÉSI TÁBLÁZAT&lt;/b&gt; megtekintéséhez kattints ide.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescRev" id="RTpaytableButtonsDescRev">A &lt;b&gt;KIFIZETÉSI TÁBLÁZAT&lt;/b&gt; oldalainak görgetéséhez kattintson a jobbra vagy balra mutató nyilakra. A játékhoz a középső gombra kattintva térhet vissza.</ds>
+  <ds Jurisdiction="*" name="RTmaxbetPlays" id="RTmaxbetPlays">A &lt;b&gt;MAX. TÉT&lt;/b&gt; beállítással az összes nyerővonalon, a legmagasabb tétszinten és aktuális érmeértékkel játszhat.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildFeatureActive" id="RTstarburstWildFeatureActive">A 2, 3, 4 tárcsákon bárhol megjelenő egy vagy több Starburst™ Wilds  aktiválja a Starburst™ Wild funkciót.</ds>
+  <ds Jurisdiction="*" name="RTMGspinButtonLeft" id="RTMGspinButtonLeft">A bal kezes mód ki- és bekapcsolásához koppintson.</ds>
+  <ds Jurisdiction="Italy" name="RTunfinishedGameSession2" id="RTunfinishedGameSession2">A be nem fejezett játékkörök kezeléséhez szükséges eljárások.</ds>
+  <ds Jurisdiction="*" name="RTMGunfinishedGameSession2" id="RTMGunfinishedGameSession2">A be nem fejezett játékkörök kezeléséhez szükséges eljárások.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettingsMenu" id="RTMGquickSettingsMenu">A Gyorsbeállítások menü eléréséhez koppintson a plusz jelre.</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDescRev" id="RTquickSpinDescRev">A gyorspörgetés opció be- és kikapcsolása</ds>
+  <ds Jurisdiction="*" name="RTMGnoAutoplayLeft" id="RTMGnoAutoplayLeft">A hátralévő pörgetések száma megjelenik a gombon.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDevNew" id="RTMGgameSettingIntroDevNew">A játék beállítások és információk megnyitásához koppintson.</ds>
+  <ds Jurisdiction="*" name="RTmuteSoundSliderRev" id="RTmuteSoundSliderRev">A játék hangjának elnémításához kattintson, vagy használja a csúszkát a hangerő beállításához.</ds>
+  <ds Jurisdiction="Italy" name="RTmalfunction" id="RTmalfunction">A játék hardver/szoftver meghibásodása esetén az összes érintett fogadás és kifizetés semmisnek minősül és az összes megett tétet visszafizetjük.</ds>
+  <ds Jurisdiction="*" name="RTMGmalfunction" id="RTMGmalfunction">A játék hardver/szoftver meghibásodása esetén az összes érintett fogadás és kifizetés semmisnek minősül és az összes megtett tétet visszafizetjük.</ds>
+  <ds Jurisdiction="*" name="RTMGleaveGame" id="RTMGleaveGame">A játékból való kilépéshez koppintson ide.</ds>
+  <ds Jurisdiction="*" name="RTMGhistoryNotAvailable" id="RTMGhistoryNotAvailable">A játékelőzmények csak pénzes játék esetén kérhetők le.</ds>
+  <ds Jurisdiction="*" name="RTgHistoryNotAvailableForFun" id="RTgHistoryNotAvailableForFun">A Játékelőzmények funkció nem érhető el a &lt;b&gt;DEMÓ JÁTÉK&lt;/b&gt; változatban.</ds>
+  <ds Jurisdiction="*" name="RTstartGameRound" id="RTstartGameRound">A játékkör indításához az aktuális tétszinten és érmeértéken, nyomja le a szóköz billentyűt.</ds>
+  <ds Jurisdiction="Italy" name="RTtheoreticalReturn" id="RTtheoreticalReturn">A játékos általános nyeresége ebben a játékban</ds>
+  <ds Jurisdiction="*" name="RTMGtheoreticalReturn" id="RTMGtheoreticalReturn">A játékos általános nyeresége ebben a játékban</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonNoBold" id="RTinformationIconButtonNoBold">A kifizetési táblázat megtekintéséhez kattintson.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescNoBold" id="RTpaytableButtonsDescNoBold">A kifizetési táblázat oldalak közötti görgetéshez kattintson a balra vagy jobbra mutató nyilakra. A játékhoz való visszatéréshez kattintson a középső gombra.</ds>
+  <ds Jurisdiction="*" name="RTMGAutoplaySpins" id="RTMGAutoplaySpins">A kiválasztott pörgetések száma a gombon látható.</ds>
+  <ds Jurisdiction="Italy" name="RTreferWebSite" id="RTreferWebSite">A következő játék funkciókra és beállításokra a játék weboldalának használati feltételei vonatkozhatnak. További tájékoztatásért lásd a játék weboldalát:</ds>
+  <ds Jurisdiction="*" name="RTMGreferWebSite" id="RTMGreferWebSite">A következő játékfunkciókat és beállításokat befolyásolhatják a játék weboldalának használati feltételei. További tájékoztatásért az alábbiakról fordulj a játék üzemeltetőjéhez:</ds>
+  <ds Jurisdiction="*" name="RTHighWinSymCompleteActLineRev" id="RTHighWinSymCompleteActLineRev">A legmagasabb nyerő kombináció a bal szélső keréktől és/vagy a jobb szélső keréktől kell haladnia egy aktív tétsoron.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytable" id="RTwinCombinationPaytable">A nyerő kombinációkat és a kifizetéseket a &lt;b&gt;KIFIZETÉSI TÁBLÁZAT&lt;/b&gt; tartalmazza.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCombinations" id="RTMGwinCombinations">A nyerő kombinációkat és a kifizetéseket a kifizetési táblázat tartalmazza.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytablenoBold" id="RTwinCombinationPaytablenoBold">A nyerő kombinációkat és kifizetéseket a kifizetési Táblázat Határozza meg.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRevNew" id="RTMGselectBetLevelRevNew">A nyerővonalankénti érmék számának kiválasztásához húzd vagy koppints a csúszkára.</ds>
+  <ds Jurisdiction="*" name="RTspacebarspin" id="RTspacebarspin">A space gomb funkció be- és kikapcsolása.</ds>
+  <ds Jurisdiction="*" name="RTspinPlayRev" id="RTspinPlayRev">A spin gombbal az aktuális nyerősorok, tét és érmeérték figyelembe vételével indítható a játék (vagy nyomja meg a space gombot).</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchIntro" id="RTMGstarburstTouchIntro">A Starburst Touch™ egy 5 kerekes, 3 soros videojáték Starburst™ Wild funkcióval, újrapörgetésekkel és kétirányú nyereményekkel.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstIntro" id="RTstarBurstIntro">A Starburst™ egy 5-kerekes, 3-soros videójáték Starburst™ Wild szimbólumokkal, újrapörgetéssel és kétoldali nyereménnyel.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildEnds" id="RTstarburstWildEnds">A Starburst™ Wild funkció akkor ér véget, ha nincs újabb Starburst™ Wilds jel az újrapörgetéskor.</ds>
+  <ds Jurisdiction="*" name="RTstarBurststickyWExpandsReSpinsRev" id="RTstarBurststickyWExpandsReSpinsRev">A Starburst™ Wild funkció során a Starburst™ Wilds a teljes tárcsára kiterjed és a helyén marad amíg a többi tárcsa újrapörög.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSymbAppear" id="RTstarBurstWildSymbAppear">A Starburst™ Wild szimbólumok csak a 2, 3 és 4 tárcsákon jelenhetnek meg.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSubstitute" id="RTstarBurstWildSubstitute">A Starburst™ Wild szimbólumok minden szimbólumot helyettesítenek.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCurrency" id="RTMGshowsBetCurrency">A tét mennyiségét mutatja ki a választott pénznemben.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCoins" id="RTMGshowsBetCoins">A tét mennyiségét mutatja ki érmékben.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoMultiplierTrans" id="RTwinCalculationBetLinesCoinsNoMultiplierTrans">A tétsor nyeremény érmékben megegyezik a &lt;b&gt;KIFIZETÉSI TÁBLÁZATBAN&lt;/b&gt; szereplő értékkel, a tétszinttel megszorozva.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCoinsNoMultiplier" id="RTMGwinCalculationBetLinesCoinsNoMultiplier">A tétsor nyeremény érmékben megegyezik a &lt;b&gt;KIFIZETÉSI TÁBLÁZATBAN&lt;/b&gt; szereplő értékkel, a tétszinttel megszorozva.</ds>
+  <ds Jurisdiction="*" name="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier" id="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier">A tétsor nyeremény érmékben megegyezik a &lt;b&gt;KIFIZETÉSI TÁBLÁZATBAN&lt;/b&gt; szereplő értékkel, a tétszinttel megszorozva.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCurrency" id="RTMGwinCalculationBetLinesCurrency">A tétsor nyereménye pénznemben egyenlő az érmenyeremény és érmeérték szorzatával.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCurrency" id="RTwinCalculationBetLinesCurrency">A tétsor nyereménye pénznemben egyenlő az érmenyeremény és érmeérték szorzatával.</ds>
+  <ds Jurisdiction="*" name="RTMGbetLevelInstruction" id="RTMGbetLevelInstruction">A tétszintet a &lt;b&gt;Tétszint&lt;/b&gt; kiválasztóval állíthatja be.</ds>
+  <ds Jurisdiction="*" name="RTbetLevel" id="RTbetLevel">A tétszintet a soronként megtett  érmeérték adja.</ds>
+  <ds Jurisdiction="*" name="RTCalcBetLineCoinNoMultiplierTransNew" id="RTCalcBetLineCoinNoMultiplierTransNew">A tétvonal nyeremény érmékben megegyezik a tétszinttel beszorzott kifizetési táblázatban látható értékkel.</ds>
+  <ds Jurisdiction="*" name="simultaneousWinsAdded" id="simultaneousWinsAdded">A több nyerővonalon egy időben szerzett nyeremények összeadódnak.</ds>
+  <ds Jurisdiction="*" name="RTpaytableHighestRev" id="RTpaytableHighestRev">Aktív nyerővonalanként csak a legmagasabb nyereményt és fogadási módot fizetjük ki.</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Angol kifejezés</ds>
+  <ds Jurisdiction="*" name="RTanimationsOff" id="RTanimationsOff">Animációk be- és kikapcsolása.</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRev" id="RTsingleWinDescRev">Automata játék leállítása, ha a nyert összeg eléri vagy meghaladja az Ön által megadott értéket.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPanelLabel" id="RTMGautoplayPanelLabel">Automatikus játék</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayQuickSpinHeading" id="RTMGautoplayQuickSpinHeading">Automatikus játék és gyorspörgetés</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplayOnOff" id="RTMGstopAutoplayOnOff">Automatikus játék leállítása</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlays" id="RTautoplayPlays">Az &lt;b&gt;AUTOM. JÁTÉK&lt;/b&gt; beállításban a megadott számú körök végéig a játék automatikusan folyik (vagy kattintson az &lt;b&gt;AUTO&lt;/b&gt; gombra).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlaysJimi" id="RTautoplayPlaysJimi">Az &lt;b&gt;AUTOM. JÁTÉK&lt;/b&gt; beállításban a megadott számú körök végéig a játék automatikusan folyik (vagy kattintson az &lt;b&gt;AUTO&lt;/b&gt; gombra).</ds>
+  <ds Jurisdiction="*" name="RTcoinsDisplayValues" id="RTcoinsDisplayValues">Az &lt;b&gt;ÉRMÉ&lt;/b&gt; opció kijelzi a játékosnak rendelkezésére álló érmék számát.</ds>
+  <ds Jurisdiction="*" name="RTMGcoinsDisplayValues" id="RTMGcoinsDisplayValues">Az &lt;b&gt;Érmék&lt;/b&gt; a játékos rendelkezésére álló érmék számát mutatja.</ds>
+  <ds Jurisdiction="*" name="RTtableDescribes" id="RTtableDescribes">Az alábbi táblázatban megtalálja a játékban előforduló gombok és ezek működésének leírását.</ds>
+  <ds Jurisdiction="*" name="advancedAutoplayOptionsHeading" id="advancedAutoplayOptionsHeading">Az automata játék beállításai haladóknak</ds>
+  <ds Jurisdiction="*" name="anyWinDesc" id="anyWinDesc">Az automata játék leállítása nyert kör után.</ds>
+  <ds Jurisdiction="Spain" name="cashDecreasesDesc" id="cashDecreasesDesc">Az automata játék leállítása, ha a készpénzmennyiség az Ön által meghatározott összeggel csökkent.</ds>
+  <ds Jurisdiction="*" name="cashIncreasesDesc" id="cashIncreasesDesc">Az automata játék leállítása, ha a készpénzmennyiség meghaladja az Ön által meghatározott összeget.</ds>
+  <ds Jurisdiction="*" name="singleWinDesc" id="singleWinDesc">Az automata játék leállítása, ha a nyert összeg eléri vagy meghaladja az Ön által meghatározott értéket.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRevNew" id="RTMGautoplayPutOnOffRevNew">Az Automatikus játék bekapcsolásához koppints a csúszkára és húzással állítsd be a körök számát. A játékot a megadott körök számáig automatikusan folytatja.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayIfBonusGame" id="RTMGdisableAutoplayIfBonusGame">Az automatikus játék kikapcsolásához koppintson, ha Bonus Game játékot nyer mielőtt az automatikus játék befejeződne.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRevNew" id="RTMGselectCoinValueRevNew">Az érmeérték kiválasztásához húzza vagy koppintson a csúszkára.</ds>
+  <ds Jurisdiction="*" name="RTMGcoinValueInstruction" id="RTMGcoinValueInstruction">Az érmeértéket az ÉRMEÉRTÉK kiválasztóval állíthatja be.</ds>
+  <ds Jurisdiction="Italy" name="RTgameSessions2" id="RTgameSessions2">Az inaktív játékmenetek automatikus befejezésének ideje.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSessions2" id="RTMGgameSessions2">Az inaktív játékmenetek automatikus befejezésének ideje.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstAddReSpinsRev" id="RTstarBurstAddReSpinsRev">Az újrapörgetés során megjelenő újabb Starburst™ Wild szimbólum újabb újrapörgetést aktivál és a korábban kiterjedt Starburst™ Wild szimbólummal együtt a helyén marad.</ds>
+  <ds Jurisdiction="*" name="ReSpinsAtActivatingRound" id="ReSpinsAtActivatingRound">Az újrapörgetések tétje a Free Spins-t aktiváló játék tétjével egyenlő.</ds>
+  <ds Jurisdiction="*" name="RTMGleftHandMode" id="RTMGleftHandMode">Bal kéz mód</ds>
+  <ds Jurisdiction="*" name="RTgameSoundDesc" id="RTgameSoundDesc">Be- és kikapcsolja a játék hangját.</ds>
+  <ds Jurisdiction="*" name="RTwinCalcBetLinesNoMultiplier" id="RTwinCalcBetLinesNoMultiplier">Egy tétsor nyereménye érmében megegyezik a tétszinttel megszorzott Kifizetési táblázat összegével.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoBold" id="RTwinCalculationBetLinesCoinsNoBold">Egy tétsor nyereménye érmében megegyezik a tétszinttel megszorzott Kifizetési táblázat összegével. Ezt az összeget az egyéb szorzókkal is be kell szorozni.</ds>
+  <ds Jurisdiction="*" name="RTMGselectSpinsRev" id="RTMGselectSpinsRev">Érintse meg a beállítási tárcsát az automatikus játékkörök kiválasztásához.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRev" id="RTMGselectCoinValueRev">Érintse meg a beállítási tárcsát az érmeérték kiválasztásához.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRev" id="RTMGselectBetLevelRev">Érintse meg a beállítási tárcsát, hogy kiválassza, mennyi érmét kíván megjátszani egy soron.</ds>
+  <ds Jurisdiction="*" name="RTMGtapOnOffRev" id="RTMGtapOnOffRev">Érintse meg a gombot a Gyorspörgetés ki- és bekapcsolásához.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundOnOffRev" id="RTMGsoundOnOffRev">Érintse meg a gombot a hang be- és kikapcsolásához.</ds>
+  <ds Jurisdiction="*" name="RTMGtapSpinButtonRev" id="RTMGtapSpinButtonRev">Érintse meg a gombot a játék elindításához a jelenlegi nyerővonalakkal, tétszinten és érmeértéken.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDev" id="RTMGgameSettingIntroDev">Érintse meg a gombot a játékbeállítások és információk megnyitásához, vagy érintse meg a Pénznem és Érmék kijelzéseket.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRev" id="RTMGautoplayPutOnOffRev">Érintse meg a gombot az automatikus játékmód ki- és bekapcsolásához. Automatikus játékmódban a megadott számú pörgetések végéig a játék automatikusan folyik.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsDisabledRev" id="RTMGsoundsDisabledRev">Érintse meg a gombot, hogy leállítsa a hangokat a további játékmenetekben.</ds>
+  <ds Jurisdiction="*" name="RTMGtapDuringSpin" id="RTMGtapDuringSpin">Érintse meg a játékfelületet egy pörgetés közben, a tárcsák leállításához.</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGame" id="RTMGtouchMainGame">Érintse meg a játékfelületet, a Pörgetés gomb elrejtéséhez.</ds>
+  <ds Jurisdiction="*" name="RTMGbackMainGame" id="RTMGbackMainGame">Érintse meg, hogy visszatérjen a főjátékhoz.</ds>
+  <ds Jurisdiction="*" name="RTMGcoinvalue" id="RTMGcoinvalue">Érmeérték</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGameNew" id="RTMGtouchMainGameNew">Fekvő módban a Pörgetés gomb elrejtéséhez érintse meg a játék területet.</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCoins" id="RTMGbetInCoins">Fogadás érmében</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCash" id="RTMGbetInCash">Fogadás pénzben</ds>
+  <ds Jurisdiction="*" name="RTMGbuttonsMainGame" id="RTMGbuttonsMainGame">Főjáték</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Fordítás</ds>
+  <ds Jurisdiction="*" name="RTfunctionTableHead" id="RTfunctionTableHead">Funkció</ds>
+  <ds Jurisdiction="*" name="RTrulesGenerated" id="RTrulesGenerated">Generált játékszabályok:</ds>
+  <ds Jurisdiction="*" name="RTbuttonTableHead" id="RTbuttonTableHead">Gomb</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettings" id="RTMGquickSettings">Gyorsbeállítások menü</ds>
+  <ds Jurisdiction="*" name="RTMGquickStop" id="RTMGquickStop">Gyorsleállítás</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpin" id="RTMGquickSpin">Gyorspörgetés</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinGameSetting" id="RTMGquickSpinGameSetting">Gyorspörgetés</ds>
+  <ds Jurisdiction="*" name="gameSettingIntro" id="gameSettingIntro">Ha a játékbeállításokon kíván változtatni, kattintson a játékpanelen található, franciakulcs alakú ikonra.</ds>
+  <ds Jurisdiction="Spain" name="RTAutoplayButton" id="RTAutoplayButton">Ha az automatikus játék beállításain kíván változtatni, kattintson a billentyűzet &lt;b&gt;AUTOM. JÁTÉK&lt;/b&gt; gombjára, vagy a játékpanelen található &lt;b&gt;AUTO&lt;/b&gt; gombra, majd ott a &lt;b&gt;Speciális beállítások&lt;/b&gt; feliratra.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsOff" id="RTMGsoundsOff">Hang kikapcsolása mindig</ds>
+  <ds Jurisdiction="*" name="RTMGsoundSettings" id="RTMGsoundSettings">Hangbeállítások</ds>
+  <ds Jurisdiction="*" name="RTambienceDescRev" id="RTambienceDescRev">Háttérzene be- és kikapcsolása.</ds>
+  <ds Jurisdiction="*" name="RTviewMiniPaytable" id="RTviewMiniPaytable">Illetve játék közben rákattinthat a tárcsákon megjelenő bármely szimbólumra a szimbólum mini játékának megtekintéséhez.</ds>
+  <ds Jurisdiction="*" name="RTgameHistoryDesc" id="RTgameHistoryDesc">Itt legutóbbi játékainak alakulását tekintheti meg</ds>
+  <ds Jurisdiction="*" name="gameSettingOptionsHeading" id="gameSettingOptionsHeading">Játékbeállítások</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettings" id="RTMGgameSettings">Játékbeállítások és játékinformáció</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryHeading" id="RTMGgameHistoryHeading">Játékelőzmények</ds>
+  <ds Jurisdiction="*" name="RTgameFunctionsHeading" id="RTgameFunctionsHeading">Játékfunkciók</ds>
+  <ds Jurisdiction="*" name="RTMGsounds" id="RTMGsounds">Játékhangok</ds>
+  <ds Jurisdiction="*" name="RTMGgameRules" id="RTMGgameRules">Játékszabályok</ds>
+  <ds Jurisdiction="*" name="RTopenSettingsMenu" id="RTopenSettingsMenu">Kattintson a gombra a játékbeállítások menű megnyitásához, és válasszon játékopciót. A játékbeállításokat alább tekintheti meg.</ds>
+  <ds Jurisdiction="*" name="RTopenGameRules" id="RTopenGameRules">Kattintson a gombra a játékszabályok megnyitásához.</ds>
+  <ds Jurisdiction="*" name="RTadjustQualityRev" id="RTadjustQualityRev">Képminőség beállítása az optimális teljesítmény érdekében.</ds>
+  <ds Jurisdiction="*" name="RTintroOffRev" id="RTintroOffRev">Kezdőképernyő be- és kikapcsolása.</ds>
+  <ds Jurisdiction="*" name="RTMGpaytable" id="RTMGpaytable">Kifizetési táblázat</ds>
+  <ds Jurisdiction="*" name="termPaytable" id="termPaytable">Kifizetési táblázat</ds>
+  <ds Jurisdiction="*" name="RTMGpaytableJimi" id="RTMGpaytableJimi">Kifizetési táblázat</ds>
+  <ds Jurisdiction="*" name="RTMGexit" id="RTMGexit">Kilépés</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinUI" id="RTMGquickSpinUI">Koppintson a gyors pörgetés ki- és bekapcsolásához a beállítások menü megnyitása nélkül.</ds>
+  <ds Jurisdiction="Anguilla" name="RTMGsoundSettingsUI" id="RTMGsoundSettingsUI">Koppintson a hang ki- és bekapcsolásához a beállítások menü megnyitása nélkül.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayUI" id="RTMGautoplayUI">Koppintson az automatikus játék be-és kikapcsolásához a beállítások menü megnyitása nélkül. Az alapértelmezés szerinti körök száma 50.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplay" id="RTMGdisableAutoplay">Koppintson az automatikus játék kikapcsolásához, ha Free Spins-t nyert a megadott játékkörök lejátszása előtt.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayPickClick" id="RTMGdisableAutoplayPickClick">Koppintson az automatikus játék kikapcsolásához, ha Pick and Click -t nyert a megadott játékkörök lejátszása előtt.</ds>
+  <ds Jurisdiction="*" name="RTMGstartQuickSpin" id="RTMGstartQuickSpin">Koppintson rá a Gyorspörgetés indításához.</ds>
+  <ds Jurisdiction="*" name="RTMGwinComb" id="RTMGwinComb">Koppintson rá a nyerési kombinációk és kifeizetések megtekintéséhez.</ds>
+  <ds Jurisdiction="*" name="RTMGviewGamesRules" id="RTMGviewGamesRules">Koppintson rá a szabályok megtekintéséhez.</ds>
+  <ds Jurisdiction="*" name="RTMGstartAutoplay" id="RTMGstartAutoplay">Koppintson rá az automatikus játék indításához.</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplay" id="RTMGstopAutoplay">Koppintson rá az automatikus játék leállításához.</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryDesc" id="RTMGgameHistoryDesc">Koppintson rá legutóbbi játékai megtekintéséhez.</ds>
+  <ds Jurisdiction="*" name="RTMGstopIfFreeSpins" id="RTMGstopIfFreeSpins">Leáll, ha Free Spins-t nyer</ds>
+  <ds Jurisdiction="*" name="RTmaxBetAtHighBetLevel" id="RTmaxBetAtHighBetLevel">MAX TÉTTEL a játékot a legmagasabb tétszinten és az aktuális érmeértéken játszhatja.</ds>
+  <ds Jurisdiction="*" name="RTMGmenu" id="RTMGmenu">Menü</ds>
+  <ds Jurisdiction="*" name="RTplayCurrentBetLinesTo10" id="RTplayCurrentBetLinesTo10">Összesen 1 - 10 nyerővonalon, különböző tétszinten és érmeértéken játszhat.</ds>
+  <ds Jurisdiction="*" name="RTMGspinButton" id="RTMGspinButton">Pörgetés gomb</ds>
+  <ds Jurisdiction="*" name="RTMGspinSettingsRev" id="RTMGspinSettingsRev">Pörgetés-beállítások</ds>
+  <ds Jurisdiction="*" name="RTMGnumberSpins" id="RTMGnumberSpins">Pörgetések száma</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchRulesHeading" id="RTMGstarburstTouchRulesHeading">Starburst Touch™ játékszabályok</ds>
+  <ds Jurisdiction="*" name="RTstarBurstRulesHeading" id="RTstarBurstRulesHeading">Starburst™ játékszabályok</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildHeading" id="RTstarBurstWildHeading">Starburst™ Wild szimbólumok</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Szerencsejáték kifejezések fordítása</ds>
+  <ds Jurisdiction="*" name="RTMGbetlevel" id="RTMGbetlevel">Tétszint</ds>
+  <ds Jurisdiction="*" name="RTMGadditionalInformation" id="RTMGadditionalInformation">További információk</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">További információk</ds>
+  <ds Jurisdiction="*" name="RTautoplaySelectSpins" id="RTautoplaySelectSpins">Válassza ki az Automatikus játék pörgetéseinek számát vagy nyissa meg a Speciális beállítások menüt az Automatikus játék leállításának beállításához.</ds>
+  <ds Jurisdiction="*" name="RTMGback" id="RTMGback">Vissza</ds>
+  <ds Jurisdiction="*" name="RTreturnToPlayer" id="RTreturnToPlayer">Vissza a játékoshoz</ds>
+  <ds Jurisdiction="*" name="termWild" id="termWild">Wild</ds>
+  <ds Jurisdiction="*" name="RTautoplayDuringGameRev" id="RTautoplayDuringGameRev">&lt;b&gt;Megjegyzés:&lt;/b&gt; Ha egy játékkörben módosítja az Automatikus játék beállításokat, az összes beállítás csak a játékkör vagy funkció befejezése után lép érvénybe.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationWinMatchCurrency" id="RTwinCalculationWinMatchCurrency">A tétsor nyereménye pénznemben egyenlő az érmenyeremény és érmeérték szorzatával.</ds>
+  <ds Jurisdiction="*" name="RTopenAutoplayMenu" id="RTopenAutoplayMenu">Kattintson az Automatikus játék beállítása menüre az automatikus játék elindításához.</ds>
+  <ds Jurisdiction="*" name="RTsliderBetLevel" id="RTsliderBetLevel">A tétszintet a Tétszint csúszkával állíthatod be.</ds>
+  <ds Jurisdiction="*" name="RTMGautoOptions" id="RTMGautoOptions">Az automatikus játék és játékkör opciók beállításához húzd vagy kattints a csúszkára. Az automatikus játékot a megadott számú pörgetésig játssza.</ds>
+  <ds Jurisdiction="*" name="RTsliderCoinValue" id="RTsliderCoinValue">Az érmeértéket az Érmeérték csúszkával állíthatod be.</ds>
+  <ds Jurisdiction="*" name="RTexCloneWildOverlay" id="RTexCloneWildOverlay">Az Expanding Cloning Wild szimbólumok a pörgő tárcsákra helyezve jelennek meg. A lemásolt szimbólumok szintén a tárcsákon ráhelyezve láthatók.</ds>
+  <ds Jurisdiction="*" name="RTcashIncreasesDescRev" id="RTcashIncreasesDescRev">Leállítja az Automatikus játékot ha a készpénz a megadott értékkel nő.</ds>
+  <ds Jurisdiction="*" name="RTcashDecreasesDescRev" id="RTcashDecreasesDescRev">Leállítja az Automatikus játékot ha a készpénz a megadott összeggel csökken.</ds>
+  <ds Jurisdiction="*" name="RTeachStar1AddRespinUpTo3respin" id="RTeachStar1AddRespinUpTo3respin">Legfeljebb két további Starburst™ Wild szimbólum jelenhet meg miután a Starburst™ Wild aktiválja az újrapörgetést, elindítva egy, vagy maximum 3 újrapörgetést.</ds>
+  <ds Jurisdiction="*" name="onlyHighWinComb" id="onlyHighWinComb">Tétsoronként csak a legmagasabb nyerő kombinációt fizeti ki, a bal szélétől a jobb széléig és/vagy a jobb szélétől a bal széléig.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Megjegyzés:&lt;/b&gt; Egyes automatikus játék opciók bizonyos illetékességi területeken kötelezők.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Megjegyzés&lt;/b&gt;: A következő táblázat csak akkor érvényes, ha nem angol nyelven játszik.</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Angol kifejezés</ds>
+  <ds Jurisdiction="*" name="featuresNotAvailablePFF" id="featuresNotAvailablePFF">Előfordulhat, hogy &lt;b&gt;DEMÓ JÁTÉK&lt;/b&gt; módban egyes funkciók nem állnak rendelkezésre.</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Fordítás</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRevNew" id="RTsingleWinDescRevNew">Leállítja az autom. játékot ha a nyeremény eléri vagy meghaladja a megadott szintet.</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Szerencsejáték kifejezések fordítása</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">További információk</ds>
+</defaults>

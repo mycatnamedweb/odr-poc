@@ -1,0 +1,197 @@
+<defaults xml:lang="el">
+  <!-- Greek locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 16:41:58 GMT on Tuesday 16 May 2017.
+
+ -->
+  <ds Jurisdiction="*" name="RTquickSpinDisclaimer" id="RTquickSpinDisclaimer">(Δεν διατίθεται σε όλα τα καζίνα).</ds>
+  <ds Jurisdiction="*" name="RTGameHistNoPlayForFun" id="RTGameHistNoPlayForFun">(Δεν υπάρχει σε &lt;b&gt; ΕΙΚΟΝΙΚΟ ΠΑΙΧΝ&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTMGreturnToPlayer" id="RTMGreturnToPlayer">&lt;b&gt;Απόδοση στον παίκτη&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTsoundButton" id="RTsoundButton">&lt;b&gt;Ήχος&lt;/b&gt;</ds>
+  <ds Jurisdiction="*" name="RTcoinsDisplayValues" id="RTcoinsDisplayValues">&lt;b&gt;ΝΟΜΙΣΜΑΤΑ&lt;/b&gt; προβάλλει τον αριθμό νομισμάτων που έχει στην διάθεση του ο παίκτης για να στοιχηματίσει.</ds>
+  <ds Jurisdiction="*" name="RTMGcoinsDisplayValues" id="RTMGcoinsDisplayValues">&lt;b&gt;Νομίσματα&lt;/b&gt; προβάλλει τον αριθμό νομισμάτων που έχει στην διάθεση του ο παίκτης για να στοιχηματίσει.</ds>
+  <ds Jurisdiction="*" name="RTAutoplayDisconnect" id="RTAutoplayDisconnect">&lt;b&gt;Σημείωση:&lt;/b&gt; Αν αποσυνδεθείτε ενώ παίζετε, όλες οι ρυθμίσεις αυτόματου παιχνιδιού θα επανέλθουν στις προεπιλογές όταν ξαναφορτώσετε το παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="RTMGsettingsDisclaimer" id="RTMGsettingsDisclaimer">&lt;b&gt;Σημείωση:&lt;/b&gt; Κάποιοι διαχειριστές μπορεί να μην προσφέρουν όλες τις ρυθμίσεις παιχνιδιού που αναφέρονται.</ds>
+  <ds Jurisdiction="*" name="RTsettingsDisclaimer" id="RTsettingsDisclaimer">&lt;b&gt;Σημείωση:&lt;/b&gt; Ορισμένα καζίνο μπορεί να λειτουργούν χωρίς το σύνολο των ρυθμίσεων παιχνιδιού που παρατίθενται.</ds>
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Σημείωση:&lt;/b&gt; Ορισμένες επιλογές αυτόματου παιχνιδιού είναι υποχρεωτικές σε κάποιες περιοχές</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayDisconnect" id="RTMGautoplayDisconnect">&lt;b&gt;Σημείωση:&lt;/b&gt; Αν αποσυνδεθείτε στην διάρκεια του παιχνιδιού, όλες οι ρυθμίσεις αυτόματου παιχνιδιού θα επανέλθουν στις προκαθορισμένες όταν επανεκκινήσετε το παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Σημείωση&lt;/b&gt;: Ο ακόλουθος πίνακας ισχύει μόνο αν παίζετε σε διαφορετική γλώσσα από τα Αγγλικά.</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGame" id="RTMGtouchMainGame">Αγγίξτε την περιοχή παιχνιδιού για να κρύψετε το κουμπί περιστροφής.</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Αγγλικός όρος</ds>
+  <ds Jurisdiction="*" name="RTMGcoinvalue" id="RTMGcoinvalue">Αξία νομίσματος</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCash" id="RTMGbetInCash">Αξία στοιχήματος</ds>
+  <ds Jurisdiction="*" name="RTMGnumberSpins" id="RTMGnumberSpins">Αριθμός περιστροφών</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPanelLabel" id="RTMGautoplayPanelLabel">Αυτόματο παιχνίδι</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayQuickSpinHeading" id="RTMGautoplayQuickSpinHeading">Αυτόματο παιχνίδι και γρήγορη περιστροφή</ds>
+  <ds Jurisdiction="*" name="gameSettingIntro" id="gameSettingIntro">Για να αποκτήσετε πρόσβαση στις ρυθμίσεις παιχνιδιού, κάντε κλικ στο εικονίδιο του μηχανικού κλειδιού στον πίνακα παιχνιδιού.</ds>
+  <ds Jurisdiction="Spain" name="RTAutoplayButton" id="RTAutoplayButton">Για να ρυθμίσετε τις επιλογές αυτόματου παιχνιδιού για προχωρημένους, κάντε κλικ στο &lt;b&gt;ΑΥΤΟΜΑΤΟ ΠΑΙΧΝΙΔΙ&lt;/b&gt; στο πληκτρολόγιο ή στο &lt;b&gt;AUTO&lt;/b&gt; στον πίνακα του παιχνιδιού, και μετά κάντε κλικ στο &lt;b&gt;Ρυθμίσεις για προχωρημένους&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpin" id="RTMGquickSpin">Γρήγορη περιστροφή</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinGameSetting" id="RTMGquickSpinGameSetting">Γρήγορη περιστροφή</ds>
+  <ds Jurisdiction="*" name="RTMGquickStop" id="RTMGquickStop">Γρήγορος τερματισμός</ds>
+  <ds Jurisdiction="*" name="RTgHistoryNotAvailableForFun" id="RTgHistoryNotAvailableForFun">Δεν είναι διαθέσιμο το ιστορικό του παιχνιδιού σε λειτουργία &lt;b&gt;ΕΙΚΟΝΙΚΟΥ ΠΑΙΧΝΙΔΙΟΥ&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTrulesGenerated" id="RTrulesGenerated">Δημιουργήθηκαν οι κανόνες παιχνιδιού:</ds>
+  <ds Jurisdiction="Italy" name="RTunfinishedGameSession2" id="RTunfinishedGameSession2">Διαδικασίες που χρησιμοποιούνται για την διαχείριση ημιτελών γύρων παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="RTMGunfinishedGameSession2" id="RTMGunfinishedGameSession2">Διαδικασίες που χρησιμοποιούνται για την διαχείριση ημιτελών γύρων παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="RTMGstopIfFreeSpins" id="RTMGstopIfFreeSpins">Διακοπή αν κερδίζετε Free Spins</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplayOnOff" id="RTMGstopAutoplayOnOff">Διακοπή αυτόματου παιχνιδιού</ds>
+  <ds Jurisdiction="Italy" name="RTgameSessions2" id="RTgameSessions2">Διάστημα μετά την παρέλευση του οποίου αδρανείς συνεδρίες παιχνιδιού τερματίζονται αυτόματα.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSessions2" id="RTMGgameSessions2">Διάστημα μετά την παρέλευση του οποίου αδρανείς συνεδρίες παιχνιδιού τερματίζονται αυτόματα.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCoins" id="RTMGshowsBetCoins">Εμφανίζει το ποσό του στοιχήματος σας σε νομίσματα.</ds>
+  <ds Jurisdiction="*" name="RTMGshowsBetCurrency" id="RTMGshowsBetCurrency">Εμφανίζει το ποσό του στοιχήματος σας στο επιλεγμένο συνάλλαγμα.</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildFeatureActive" id="RTstarburstWildFeatureActive">Ένα ή περισσότερα μπαλαντέρ Starburst™ Wilds που εμφανίζονται στους κυλίνδρους 2, 3, ή 4 ενεργοποιούν την λειτουργία Starburst™ Wild.</ds>
+  <ds Jurisdiction="*" name="RTCalcBetLineCoinNoMultiplierTransNew" id="RTCalcBetLineCoinNoMultiplierTransNew">Ένα κέρδος γραμμής πονταρίσματος σε νομίσματα ισούται με την αξία που εμφανίζεται στον πίνακα πληρωμών, επί το επίπεδο πονταρίσματος.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCurrency" id="RTMGwinCalculationBetLinesCurrency">Ένα κέρδος γραμμής πονταρίσματος σε συνάλλαγμα είναι ίσο με το κέρδος σε νομίσματα επί την αξία νομίσματος.</ds>
+  <ds Jurisdiction="*" name="RTviewMiniPaytable" id="RTviewMiniPaytable">Εναλλακτικά, κάντε κλικ σε οποιοδήποτε σύμβολο στους κυλίνδρους κατά το κύριο παιχνίδι για να εμφανιστεί μικρός πίνακας πληρωμών για αυτό το σύμβολο.</ds>
+  <ds Jurisdiction="*" name="RTintroOffRev" id="RTintroOffRev">Ενεργοποιεί ή απενεργοποιεί την εισαγωγική οθόνη.</ds>
+  <ds Jurisdiction="*" name="RTquickSpinDescRev" id="RTquickSpinDescRev">Ενεργοποιεί ή απενεργοποιεί την επιλογή γρήγορης περιστροφής</ds>
+  <ds Jurisdiction="*" name="RTspacebarspin" id="RTspacebarspin">Ενεργοποιεί ή απενεργοποιεί την λειτουργία του πλήκτρου κενού.</ds>
+  <ds Jurisdiction="*" name="RTambienceDescRev" id="RTambienceDescRev">Ενεργοποιεί και απενεργοποεί τη μουσική υπόκρουση.</ds>
+  <ds Jurisdiction="*" name="RTgameSoundDesc" id="RTgameSoundDesc">Ενεργοποιεί και απενεργοποιεί τους ήχους του παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="RTanimationsOff" id="RTanimationsOff">Ενεργοποιήστε ή απενεργοποιήστε τις κινούμενες εικόνες.</ds>
+  <ds Jurisdiction="*" name="RTMGexit" id="RTMGexit">Έξοδος</ds>
+  <ds Jurisdiction="*" name="RTautoplaySelectSpins" id="RTautoplaySelectSpins">Επιλέξτε τον αριθμό περιστροφών για το Αυτόματο παιχνίδι ή ανοίξτε τις ρυθμίσεις για προχωρημένους για να διαμορφώσετε τις επιλογές τερματισμού του Αυτόματο παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="advancedAutoplayOptionsHeading" id="advancedAutoplayOptionsHeading">Επιλογές αυτόματου παιχνιδιού για προχωρημένους</ds>
+  <ds Jurisdiction="*" name="gameSettingOptionsHeading" id="gameSettingOptionsHeading">Επιλογές ρύθμισης παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="RTMGbetlevel" id="RTMGbetlevel">Επίπεδο πονταρίσματος</ds>
+  <ds Jurisdiction="*" name="RTreturnToPlayer" id="RTreturnToPlayer">Επιστροφή στον παίκτη</ds>
+  <ds Jurisdiction="*" name="RTMGcoinValueInstruction" id="RTMGcoinValueInstruction">Η αξία νομίσματος ορίζεται με τον επιλογέα ΑΞΙΑ ΝΟΜΙΣΜΑΤΟΣ.</ds>
+  <ds Jurisdiction="Italy" name="RTtheoreticalReturn" id="RTtheoreticalReturn">Η θεωρητική απόδοση στον παίχτη για αυτό το παιχνίδι είναι</ds>
+  <ds Jurisdiction="*" name="RTMGtheoreticalReturn" id="RTMGtheoreticalReturn">Η θεωρητική επιστροφή στον παίκτη για αυτό το παιχνίδι είναι</ds>
+  <ds Jurisdiction="*" name="RTstarburstWildEnds" id="RTstarburstWildEnds">Η λειτουργία Starburst™ Wild σταματά αν δεν εμφανιστούν νέα Starburst™ Wilds στην διάρκεια μιας επαναληπτικής περιστροφής.</ds>
+  <ds Jurisdiction="*" name="RTMGsounds" id="RTMGsounds">Ήχοι παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryHeading" id="RTMGgameHistoryHeading">Ιστορικό παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="RTMGgameRules" id="RTMGgameRules">Κανόνες Παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchRulesHeading" id="RTMGstarburstTouchRulesHeading">Κανόνες παιχνιδιού Starburst Touch™</ds>
+  <ds Jurisdiction="*" name="RTstarBurstRulesHeading" id="RTstarBurstRulesHeading">Κανόνες παιχνιδιού Starburst™</ds>
+  <ds Jurisdiction="*" name="RTopenGameRules" id="RTopenGameRules">Κάντε κλικ για να ανοίξετε τους κανόνες παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="RTgameHistoryDesc" id="RTgameHistoryDesc">Κάντε κλικ για να δείτε το πρόσφατο ιστορικό των παιχνιδιών σας</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonNoBold" id="RTinformationIconButtonNoBold">Κάντε κλικ για να δείτε τον πίνακα πληρωμών.</ds>
+  <ds Jurisdiction="*" name="RTstartGameRound" id="RTstartGameRound">Κάντε κλικ για να ξεκινήσετε έναν γύρο παιχνιδιού με το τρέχον επίπεδο πονταρίσματος και την τρέχουσα αξία νομίσματος (εναλλακτικά, πατήστε to πλήκτρο διαστήματος).</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDesc" id="RTinformationIconButtonDesc">Κάντε κλικ για να προβάλετε τον  &lt;b&gt;ΠΙΝΑΚΑ ΠΛΗΡΩΜΩΝ&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTinformationIconButtonDescJimi" id="RTinformationIconButtonDescJimi">Κάντε κλικ για να προβάλετε τον  &lt;b&gt;ΠΙΝΑΚΑ ΠΛΗΡΩΜΩΝ&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTmuteSoundSliderRev" id="RTmuteSoundSliderRev">Κάντε κλικ για να σιγήσετε τους ήχους παιχνιδιού ή χρησιμοποιήστε τον συρόμενο διακόπτη για να ρυθμίσετε την ένταση του ήχου.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescNoBold" id="RTpaytableButtonsDescNoBold">Κάντε κλικ στα βέλη που δείχνουν προς τα αριστερά ή τα δεξιά για να κυλήσετε τις σελίδες του πίνακα πληρωμών. Κάντε κλικ στο κεντρικό κουμπί για να επιστρέψετε στο παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="RTstarBurststickyWExpandsReSpinsRev" id="RTstarBurststickyWExpandsReSpinsRev">Κατά την λειτουργία Starburst™ Wild, τα Starburst™ Wild επεκτείνονται για να καλύψουν ολόκληρο τον κύλινδρο και παραμένουν στην θέση τους ενώ οι άλλοι κύλινδροι γυρίζουν ξανά.</ds>
+  <ds Jurisdiction="*" name="RTbuttonTableHead" id="RTbuttonTableHead">Κουμπί</ds>
+  <ds Jurisdiction="*" name="RTMGspinButton" id="RTMGspinButton">Κουμπί περιστροφής</ds>
+  <ds Jurisdiction="*" name="RTMGbuttonsMainGame" id="RTMGbuttonsMainGame">Κύριο παιχνίδι</ds>
+  <ds Jurisdiction="*" name="RTfunctionTableHead" id="RTfunctionTableHead">Λειτουργία</ds>
+  <ds Jurisdiction="*" name="RTMGleftHandMode" id="RTMGleftHandMode">Λειτουργία αριστερού χεριού</ds>
+  <ds Jurisdiction="*" name="RTgameFunctionsHeading" id="RTgameFunctionsHeading">Λειτουργίες παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="RTopenSettingsMenu" id="RTopenSettingsMenu">Με κλικ ανοίγετε το μενού ρυθμίσεων του παιχνιδιού και επιλέγετε δυνατότητες του παιχνιδιού. Δείτε την ενότητα ρυθμίσεων παιχνιδιού παρακάτω.</ds>
+  <ds Jurisdiction="*" name="RTpaytableButtonsDescRev" id="RTpaytableButtonsDescRev">Με κλικ στα βέλη που δείχνουν προς τα αριστερά και τα δεξιά περιηγηθείτε στις σελίδες του &lt;b&gt;ΠΙΝΑΚΑΣ ΠΛΗΡΩΜΩΝ&lt;/b&gt;. Κάντε κλικ στο κεντρικό κουμπί για να επιστρέψετε στο παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="RTMGmenu" id="RTMGmenu">Μενού</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettings" id="RTMGquickSettings">Μενού γρήγορων ρυθμίσεων</ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Μεταφράσεις Ορολογίας Παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Μεταφρασμένος όρος</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoMultiplierTrans" id="RTwinCalculationBetLinesCoinsNoMultiplierTrans">Μια επιτυχία γραμμής πονταρίσματος σε νομίσματα είναι ίση με την αξία που προβάλλεται στον &lt;b&gt;ΠΙΝΑΚΑΣ ΠΛΗΡΩΜΩΝ&lt;/b&gt; πολλαπλασιασμένη με το επίπεδο πονταρίσματος.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCalculationBetLinesCoinsNoMultiplier" id="RTMGwinCalculationBetLinesCoinsNoMultiplier">Μια επιτυχία γραμμής πονταρίσματος σε νομίσματα είναι ίση με την αξία που προβάλλεται στον &lt;b&gt;ΠΙΝΑΚΑΣ ΠΛΗΡΩΜΩΝ&lt;/b&gt; πολλαπλασιασμένη με το επίπεδο πονταρίσματος.</ds>
+  <ds Jurisdiction="*" name="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier" id="RTMGjimiwinCalculationBetLinesCoinsNoMultiplier">Μια επιτυχία γραμμής πονταρίσματος σε νομίσματα είναι ίση με την αξία που προβάλλεται στον &lt;b&gt;ΠΙΝΑΚΑΣ ΠΛΗΡΩΜΩΝ&lt;/b&gt; πολλαπλασιασμένη με το επίπεδο πονταρίσματος.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCurrency" id="RTwinCalculationBetLinesCurrency">Μια επιτυχία γραμμής πονταρίσματος σε συνάλλαγμα είναι ίση με το κέρδος σε νομίσματα πολλαπλασιασμένο με την αξία νομίσματος.</ds>
+  <ds Jurisdiction="*" name="RTpaytableHighestRev" id="RTpaytableHighestRev">Μόνο το μεγαλύτερο κέρδος ανά ενεργή γραμμή στοιχήματος από τις δύο μεριές πληρώνεται.</ds>
+  <ds Jurisdiction="*" name="termWild" id="termWild">Μπαλαντέρ</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildHeading" id="RTstarBurstWildHeading">Μπαλαντέρ Starburst™</ds>
+  <ds Jurisdiction="*" name="RTplayCurrentBetLinesTo10" id="RTplayCurrentBetLinesTo10">Μπορείτε να παίξετε 1 έως 10 γραμμές πονταρίσματος σε διαφορετικά επίπεδα πονταρίσματος και αξίες νομισμάτων.</ds>
+  <ds Jurisdiction="*" name="RTMGplay10FixedBetLines" id="RTMGplay10FixedBetLines">Μπορείτε να παίξετε 10 προκαθορισμένες γραμμές πονταρίσματος σε διάφορα επίπεδα στοιχήματος και διάφορες αξίες νομισμάτων.</ds>
+  <ds Jurisdiction="*" name="RTMGnoAutoplayLeft" id="RTMGnoAutoplayLeft">Ο αριθμός γύρων που απομένουν προβάλλεται στο κουμπί.</ds>
+  <ds Jurisdiction="*" name="RTMGAutoplaySpins" id="RTMGAutoplaySpins">Ο αριθμός περιστροφών που επιλέξατε εμφανίζεται στο κουμπί.</ds>
+  <ds Jurisdiction="*" name="RTMGreferWebSite" id="RTMGreferWebSite">Οι ακόλουθες λειτουργίες και ρυθμίσεις παιχνιδιού μπορεί να υπόκεινται στους όρους και τις προϋποθέσεις του δικτυακού τόπου τυχερών παιχνιδιών. Για περισσότερες πληροφορίες για τα ακόλουθα ανατρέξτε στο δικτυακό τόπο τυχερών παιχνιδιών:</ds>
+  <ds Jurisdiction="Italy" name="RTreferWebSite" id="RTreferWebSite">Οι ακόλουθες λειτουργίες και ρυθμίσεις των παιχνιδιών μπορεί να υπόκεινται στους όρους και τις προϋποθέσεις του δικτυακού τόπου τυχερών παιχνιδιών. Για περισσότερες πληροφορίες για τα εξής, ανατρέξτε στον δικτυακό τόπο τυχερών παιχνιδιών:</ds>
+  <ds Jurisdiction="*" name="ReSpinsAtActivatingRound" id="ReSpinsAtActivatingRound">Οι επαναληπτικοί γύροι παίζονται με το ίδιο στοίχημα με τον γύρο που τους ενεργοποιεί.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytablenoBold" id="RTwinCombinationPaytablenoBold">Οι κερδοφόροι συνδυασμοί και οι πληρωμές γίνονται σύμφωνα με τον πίνακα πληρωμών.</ds>
+  <ds Jurisdiction="*" name="RTMGwinCombinations" id="RTMGwinCombinations">Οι νικητήριοι συνδυασμοί και οι πληρωμές γίνονται σύμφωνα με τον πίνακα πληρωμών.</ds>
+  <ds Jurisdiction="*" name="RTwinCombinationPaytable" id="RTwinCombinationPaytable">Οι νικητήριοι συνδυασμοί και πληρωμές γίνονται σύμφωνα με τον &lt;b&gt;ΠΙΝΑΚΑΣ ΠΛΗΡΩΜΩΝ&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsOff" id="RTMGsoundsOff">Πάντα σίγαση ήχου</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayIfBonusGame" id="RTMGdisableAutoplayIfBonusGame">Πατήστε για να απενεργοποιήσετε το αυτόματο παιχνίδι, αν κερδίσετε ένα παιχνίδι μπόνους πριν από τον καθορισμένο αριθμό γύρων αυτόματου παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplay" id="RTMGdisableAutoplay">Πατήστε για να απενεργοποιήσετε το αυτόματο παιχνίδι, αν κερδίσετε περιστροφές Free Spin πριν τελειώσει ο καθορισμένος αριθμός γύρων αυτόματου παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="RTMGdisableAutoplayPickClick" id="RTMGdisableAutoplayPickClick">Πατήστε για να απενεργοποιήσετε το αυτόματο παιχνίδι, αν κερδίσετε περιστροφές Pick and Click  πριν τελειώσει ο καθορισμένος αριθμός γύρων αυτόματου παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="RTMGtapSpinButtonRev" id="RTMGtapSpinButtonRev">Πατήστε για να αρχίσετε το παιχνίδι με τις τρέχουσες γραμμές πονταρίσματος, το τρέχον επίπεδο στοιχήματος και την τρέχουσα αξία νομίσματος.</ds>
+  <ds Jurisdiction="*" name="RTMGleaveGame" id="RTMGleaveGame">Πατήστε για να βγείτε από το παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="RTMGwinComb" id="RTMGwinComb">Πατήστε για να δείτε συνδυασμούς που κερδίζουν και αποδόσεις.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDev" id="RTMGgameSettingIntroDev">Πατήστε για να δείτε τις ρυθμίσεις και τις πληροφορίες παιχνιδιού, εναλλακτικά πατήστε στις οθόνες Μετρητά και Νομίσματα.</ds>
+  <ds Jurisdiction="*" name="RTMGgameHistoryDesc" id="RTMGgameHistoryDesc">Πατήστε για να δείτε το πρόσφατο ιστορικό των παιχνιδιών σας.</ds>
+  <ds Jurisdiction="*" name="RTMGstartQuickSpin" id="RTMGstartQuickSpin">Πατήστε για να εκκινήσετε την γρήγορη περιστροφή.</ds>
+  <ds Jurisdiction="*" name="RTMGstartAutoplay" id="RTMGstartAutoplay">Πατήστε για να εκκινήσετε το αυτόματο παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="RTMGviewGamesRules" id="RTMGviewGamesRules">Πατήστε για να εμφανίσετε τους κανόνες παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSpinUI" id="RTMGquickSpinUI">Πατήστε για να ενεργοποιήσετε ή να απενεργοποιήσετε τη Γρήγορη περιστροφή χωρίς να πάτε στο μενού ρυθμίσεων.</ds>
+  <ds Jurisdiction="*" name="RTMGspinButtonLeft" id="RTMGspinButtonLeft">Πατήστε για να ενεργοποιήσετε ή να απενεργοποιήσετε την αριστερή λειτουργία.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayUI" id="RTMGautoplayUI">Πατήστε για να ενεργοποιήσετε ή να απενεργοποιήσετε το Αυτόματο παιχνίδι χωρίς να πάτε στο μενού ρυθμίσεων. Η προεπιλεγμένη ρύθμιση είναι 50 γύροι.</ds>
+  <ds Jurisdiction="Anguilla" name="RTMGsoundSettingsUI" id="RTMGsoundSettingsUI">Πατήστε για να ενεργοποιήσετε ή να απενεργοποιήσετε τον Ήχο χωρίς να πάτε στο μενού ρυθμίσεων.</ds>
+  <ds Jurisdiction="*" name="RTMGbackMainGame" id="RTMGbackMainGame">Πατήστε για να επιστρέψετε στο κύριο παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettingIntroDevNew" id="RTMGgameSettingIntroDevNew">Πατήστε για να μπείτε στις ρυθμίσεις και τις πληροφορίες παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="RTMGstopAutoplay" id="RTMGstopAutoplay">Πατήστε για να σταματήσετε το αυτόματο παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="RTMGtapDuringSpin" id="RTMGtapDuringSpin">Πατήστε στην περιοχή παιχνιδιού στην διάρκεια της περιστροφής για να σταματήσετε τους κυλίνδρους.</ds>
+  <ds Jurisdiction="*" name="RTMGquickSettingsMenu" id="RTMGquickSettingsMenu">Πατήστε την ένδειξη συν για να μπείτε στο μενού γρήγορων ρυθμίσεων.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundsDisabledRev" id="RTMGsoundsDisabledRev">Πατήστε τον διακόπτη για απενεργοποίηση των ήχων για επόμενες συνεδρίες παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundOnOffRev" id="RTMGsoundOnOffRev">Πατήστε τον διακόπτη για ν' ανοίξετε ή να κλείσετε τους ήχους.</ds>
+  <ds Jurisdiction="*" name="RTMGtapOnOffRev" id="RTMGtapOnOffRev">Πατήστε τον διακόπτη για να ενεργοποιήσετε ή ν' απενεργοποιήσετε την γρήγορη περιστροφή.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRev" id="RTMGautoplayPutOnOffRev">Πατήστε τον διακόπτη για να ενεργοποιήσετε ή ν' απενεργοποιήσετε το αυτόματο παιχνίδι. Το αυτόματο παιχνίδι διεξάγει αυτόματα το παιχνίδι για τον επιλεγμένο αριθμό περιστροφών.</ds>
+  <ds Jurisdiction="*" name="termPaytable" id="termPaytable">Πίνακας πληρωμών</ds>
+  <ds Jurisdiction="*" name="RTMGpaytable" id="RTMGpaytable">Πίνακας πληρωμών</ds>
+  <ds Jurisdiction="*" name="RTMGpaytableJimi" id="RTMGpaytableJimi">Πίνακας πληρωμών</ds>
+  <ds Jurisdiction="*" name="RTMGback" id="RTMGback">Πίσω</ds>
+  <ds Jurisdiction="*" name="RTadjustQualityRev" id="RTadjustQualityRev">Προσαρμογή της ποιότητας γραφικών για καλύτερες επιδόσεις.</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Πρόσθετες πληροφορίες</ds>
+  <ds Jurisdiction="*" name="RTMGadditionalInformation" id="RTMGadditionalInformation">Πρόσθετες πληροφορίες</ds>
+  <ds Jurisdiction="*" name="simultaneousWinsAdded" id="simultaneousWinsAdded">Προστίθενται τα ταυτόχρονα κέρδη από τις διάφορες γραμμές πονταρίσματος.</ds>
+  <ds Jurisdiction="*" name="RTMGsoundSettings" id="RTMGsoundSettings">Ρυθμίσεις ήχου</ds>
+  <ds Jurisdiction="*" name="RTMGgameSettings" id="RTMGgameSettings">Ρυθμίσεις και πληροφορίες παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="RTMGspinSettingsRev" id="RTMGspinSettingsRev">Ρυθμίσεις περιστροφής</ds>
+  <ds Jurisdiction="*" name="RTMGtouchMainGameNew" id="RTMGtouchMainGameNew">Σε λειτουργία τοπίου, αγγίξτε την περιοχή του παιχνιδιού για να αποκρύψετε το κουμπί περιστροφής.</ds>
+  <ds Jurisdiction="*" name="RTHighWinSymCompleteActLineRev" id="RTHighWinSymCompleteActLineRev">Σε μια ενεργή γραμμή πονταρίσματος πληρώνεται ο νικηφόρος συνδυασμός με το μεγαλύτερο κέρδος από τον τέρμα αριστερά κύλινδρο προς τα δεξιά και/ή τον τέρμα δεξιά κύλινδρο προς τα αριστερά.</ds>
+  <ds Jurisdiction="*" name="RTMGmalfunction" id="RTMGmalfunction">Σε περίπτωση δυσλειτουργίας στο υλικό/λογισμικό του παιχνιδιού, όλα τα πονταρίσματα παιχνιδιών και οι πληρωμές που επηρεάζονται θα θεωρούνται άκυρα και όλα τα πονταρίσματα που επηρεάζονται θα επιστρέφονται.</ds>
+  <ds Jurisdiction="Italy" name="RTmalfunction" id="RTmalfunction">Σε περίπτωση δυσλειτουργίας στο υλικό/λογισμικό του παιχνιδιού, όλα τα πονταρίσματα παιχνιδιών και οι πληρωμές που επηρεάζονται θα θεωρούνται άκυρα και όλα τα πονταρίσματα που επηρεάζονται θα επιστρέφονται.</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRev" id="RTsingleWinDescRev">Σταματά το αυτόματο παιχνίδι, όταν το ποσό που κερδίζετε υπερβαίνει ή ισούται με το ποσό που προσδιορίσατε.</ds>
+  <ds Jurisdiction="*" name="cashIncreasesDesc" id="cashIncreasesDesc">Σταματήστε το Αυτόματο Παιχνίδι, αν τα μετρητά αυξηθούν κατά το ποσό που προσδιορίσατε.</ds>
+  <ds Jurisdiction="Spain" name="cashDecreasesDesc" id="cashDecreasesDesc">Σταματήστε το Αυτόματο Παιχνίδι, αν τα μετρητά μειωθούν κατά το ποσό που προσδιορίσατε.</ds>
+  <ds Jurisdiction="*" name="anyWinDesc" id="anyWinDesc">Σταματήστε το Αυτόματο Παιχνίδι, όταν κερδίζετε σε ένα γύρο.</ds>
+  <ds Jurisdiction="*" name="singleWinDesc" id="singleWinDesc">Σταματήστε το Αυτόματο Παιχνίδι, όταν το ποσό που κερδίζετε υπερβαίνει ή ισούται με το ποσό που προσδιορίσατε.</ds>
+  <ds Jurisdiction="*" name="RTMGbetInCoins" id="RTMGbetInCoins">Στοίχημα σε νομίσματα</ds>
+  <ds Jurisdiction="*" name="RTtableDescribes" id="RTtableDescribes">Στον παρακάτω πίνακα φαίνονται τα διάφορα κουμπιά του παιχνιδιού και περιγράφονται οι λειτουργίες τους.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRevNew" id="RTMGselectCoinValueRevNew">Σύρετε ή πατήστε τον διακόπτη ρύθμισης για να επιλέξετε την αξία νομίσματος.</ds>
+  <ds Jurisdiction="*" name="RTMGautoplayPutOnOffRevNew" id="RTMGautoplayPutOnOffRevNew">Σύρετε ή πατήστε τον συρόμενο διακόπτη για να ενεργοποιήσετε το αυτόματο παιχνίδι και να ορίσετε τον αριθμό γύρων. Το αυτόματο παιχνίδι παίζει το παιχνίδι για τον επιλεγμένο αριθμό περιστροφών.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRevNew" id="RTMGselectBetLevelRevNew">Σύρετε ή πατήστε τον συρόμενο διακόπτη για να επιλέξετε τον αριθμό νομισμάτων που θα στοιχηματίσετε ανά γραμμή πονταρίσματος.</ds>
+  <ds Jurisdiction="*" name="RTMGselectCoinValueRev" id="RTMGselectCoinValueRev">Σύρετε ή πατήστε τον τροχό ρυθμίσεων για να επιλέξετε την αξία νομίσματος.</ds>
+  <ds Jurisdiction="*" name="RTMGselectBetLevelRev" id="RTMGselectBetLevelRev">Σύρετε ή πατήστε τον τροχό ρυθμίσεων για να επιλέξετε τον αριθμό νομισμάτων που θα στοιχηματίσετε ανά γραμμή πονταρίσματος.</ds>
+  <ds Jurisdiction="*" name="RTMGselectSpinsRev" id="RTMGselectSpinsRev">Σύρετε ή πατήστε τον τροχό ρυθμίσεων για να επιλέξετε τον αριθμό περιστροφών για το αυτόματο παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstAddReSpinsRev" id="RTstarBurstAddReSpinsRev">Τα σύμβολα Starburst™ Wild που εμφανίζονται στην διάρκεια μια επαναληπτικής περιστροφής, επεκτείνονται και μένουν στη θέση τους μαζί με τυχόν Starburst™ Wild που έχουν επεκταθεί προηγουμένως για μια ακόμη επαναληπτική περιστροφή.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSymbAppear" id="RTstarBurstWildSymbAppear">Τα σύμβολα Wild στο Starburst™ μπορούν να εμφανιστούν μόνο στους κυλίνδρους 2, 3 και 4.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstWildSubstitute" id="RTstarBurstWildSubstitute">Τα σύμβολα μπαλαντέρ Starburst™ αντικαθιστούν όλα τα σύμβολα.</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlaysJimi" id="RTautoplayPlaysJimi">Το &lt;b&gt;ΑΥΤΟΜ. ΠΑΙΧΝΙΔΙ&lt;/b&gt; διεξάγει αυτόματα το παιχνίδι για τον επιλεγμένο αριθμό γύρων (εναλλακτικά, κάντε κλικ στο κουμπί &lt;b&gt;AUTO&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTautoplayPlays" id="RTautoplayPlays">Το &lt;b&gt;ΑΥΤΟΜΑΤΟ ΠΑΙΧΝΙΔΙ&lt;/b&gt; διεξάγει αυτόματα το παιχνίδι για τον επιλεγμένο αριθμό γύρων (εναλλακτικά, κάντε κλικ στο κουμπί &lt;b&gt;AUTO&lt;/b&gt;).</ds>
+  <ds Jurisdiction="*" name="RTmaxbetPlays" id="RTmaxbetPlays">Το &lt;b&gt;ΜΕΓ ΣΤΟΙΧΗΜΑ&lt;/b&gt; διεξάγει το παιχνίδι στις μέγιστες γραμμές πονταρίσματος, το υψηλότερο επίπεδο πονταρίσματος και την τρέχουσα αξία νομισμάτων.</ds>
+  <ds Jurisdiction="*" name="RTMGstarburstTouchIntro" id="RTMGstarburstTouchIntro">Το Starburst Touch™ είναι ένας βιντεοκουλοχέρης 5-κυλίνδρων, 3-σειρών που διαθέτει Starburst™ Wild με επαναληπτικές περιστροφές, και win both way.</ds>
+  <ds Jurisdiction="*" name="RTstarBurstIntro" id="RTstarBurstIntro">Το Starburst™ είναι ένας βιντεοκουλοχέρης 5-κυλίνδρων, 3-γραμμών εφοδιασμένος με το σύμβολο μπαλαντέρ Starburst™ με επαναληπτικούς γύρους και κέρδη από δύο μεριές.</ds>
+  <ds Jurisdiction="*" name="RTbetLevel" id="RTbetLevel">Το επίπεδο πονταρίσματος είναι ο αριθμός νομισμάτων που στοιχηματίζονται ανά γραμμή πονταρίσματος.</ds>
+  <ds Jurisdiction="*" name="RTMGbetLevelInstruction" id="RTMGbetLevelInstruction">Το επίπεδο πονταρίσματος ορίζεται με τον επιλογέα &lt;b&gt;Επίπεδο πονταρίσματος&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTMGhistoryNotAvailable" id="RTMGhistoryNotAvailable">Το ιστορικό παιχνιδιού είναι διαθέσιμο μόνο σε παιχνίδι με χρήματα.</ds>
+  <ds Jurisdiction="*" name="RTwinCalcBetLinesNoMultiplier" id="RTwinCalcBetLinesNoMultiplier">Το κέρδος γραμμής πονταρίσματος σε νομίσματα είναι ίσο με την τιμή που εμφανίζεται στον Πίνακα πληρωμών επί το επίπεδο πονταρίσματος.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationBetLinesCoinsNoBold" id="RTwinCalculationBetLinesCoinsNoBold">Το κέρδος γραμμής πονταρίσματος σε νομίσματα είναι ίσο με την τιμή που εμφανίζεται στον Πίνακα πληρωμών επί το επίπεδο πονταρίσματος. Το ποσό αυτό πολλαπλασιάζεται και με τυχόν ισχύοντες πολλαπλασιαστές.</ds>
+  <ds Jurisdiction="*" name="RTspinPlayRev" id="RTspinPlayRev">Το κουμπί περιστροφής διεξάγει το παιχνίδι με βάση τις τρέχουσες γραμμές πονταρίσματος, επίπεδο πονταρίσματος και αξία νομισμάτων (εναλλακτικά πατήστε το πλήκτρο κενού).</ds>
+  <ds Jurisdiction="*" name="RTmaxBetAtHighBetLevel" id="RTmaxBetAtHighBetLevel">Το ΜΕΓΙΣΤΟ ΣΤΟΙΧΗΜΑ διεξάγει το παιχνίδι στο υψηλότερο επίπεδο πονταρίσματος και με την τρέχουσα αξία νομίσματος.</ds>
+  <ds Jurisdiction="*" name="RTautoplayDuringGameRev" id="RTautoplayDuringGameRev">&lt;b&gt;Σημείωση:&lt;/b&gt; Όταν αλλάζετε τις ρυθμίσεις αυτόματου παιχνιδιού στην διάρκεια ενός γύρου παιχνιδιού, όλες οι ρυθμίσεις θα ενεργοποιηθούν μετά την ολοκλήρωση του γύρου ή της λειτουργίας του παιχνιδιού.</ds>
+  <ds Jurisdiction="*" name="RTopenAutoplayMenu" id="RTopenAutoplayMenu">Κάντε κλικ για να ανοίξετε το μενού ρυθμίσεων αυτόματου παιχνιδιού και να παίξετε αυτόματα το παιχνίδι.</ds>
+  <ds Jurisdiction="*" name="RTwinCalculationWinMatchCurrency" id="RTwinCalculationWinMatchCurrency">Μια επιτυχία γραμμής πονταρίσματος σε συνάλλαγμα είναι ίση με το κέρδος σε νομίσματα πολλαπλασιασμένο με την αξία νομίσματος.</ds>
+  <ds Jurisdiction="*" name="RTcashIncreasesDescRev" id="RTcashIncreasesDescRev">Διακόπτει το αυτόματο παιχνίδι αν τα μετρητά αυξηθούν κατά το ποσό του ορίζετε.</ds>
+  <ds Jurisdiction="*" name="RTcashDecreasesDescRev" id="RTcashDecreasesDescRev">Διακόπτει το αυτόματο παιχνίδι αν τα μετρητά μειωθούν κατά το ποσό του ορίζετε.</ds>
+  <ds Jurisdiction="*" name="RTsliderCoinValue" id="RTsliderCoinValue">Η αξία νομίσματος ορίζεται με τον συρόμενο διακόπτη αξίας νομίσματος.</ds>
+  <ds Jurisdiction="*" name="RTeachStar1AddRespinUpTo3respin" id="RTeachStar1AddRespinUpTo3respin">Μέχρι και 2 πρόσθετα σύμβολα Starburst™ Wild μπορεί να εμφανιστούν αφού ένα σύμβολο Starburst™ Wild ενεργοποιήσει μια επαναληπτική περιστροφή, προκαλώντας μια πρόσθετη επαναληπτική περιστροφή ή το πολύ 3 επαναληπτικές περιστροφές.</ds>
+  <ds Jurisdiction="*" name="onlyHighWinComb" id="onlyHighWinComb">Σε κάθε γύρο πληρώνεται μόνο ο υψηλότερος κερδοφόρος συνδυασμός σε γραμμές πονταρίσματος είτε από τέρμα αριστερά προς τα δεξιά είτε/και από τέρμα δεξιά προς τα αριστερά. </ds>
+  <ds Jurisdiction="*" name="RTMGautoOptions" id="RTMGautoOptions">Σύρετε ή πατήστε το ρυθμιστικό για να επιτρέψετε στο αυτόματο παιχνίδι να ορίσει τις επιλογές αυτόματου παιχνιδιού και τον αριθμό γύρων. Το αυτόματο παιχνίδι παίζει το παιχνίδι για τον επιλεγμένο αριθμό περιστροφών.</ds>
+  <ds Jurisdiction="*" name="RTexCloneWildOverlay" id="RTexCloneWildOverlay">Τα σύμβολα Expanding Cloning Wild θα εμφανιστούν σαν μια επιπλέον στρώση στους περιστρεφόμενους κυλίνδρους. Τα κλωνοποιημένα σύμβολα επίσης εμφανίζονται σαν επιπλέον στρώση στους κυλίνδρους.</ds>
+  <ds Jurisdiction="*" name="RTsliderBetLevel" id="RTsliderBetLevel">Το επίπεδο πονταρίσματος ορίζεται με τον ολισθητή επιπέδου πονταρίσματος.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="RTautoplayNote" id="RTautoplayNote">&lt;b&gt;Σημείωση:&lt;/b&gt; Ορισμένες επιλογές αυτόματου παιχνιδιού είναι υποχρεωτικές σε κάποιες περιοχές</ds>
+  <ds Jurisdiction="*" name="RTtablePlayLangThnEng" id="RTtablePlayLangThnEng">&lt;b&gt;Σημείωση&lt;/b&gt;: Ο ακόλουθος πίνακας ισχύει μόνο αν παίζετε σε διαφορετική γλώσσα από τα Αγγλικά.</ds>
+  <ds Jurisdiction="*" name="termEnglish" id="termEnglish">Αγγλικός όρος</ds>
+  <ds Jurisdiction="*" name="RTsingleWinDescRevNew" id="RTsingleWinDescRevNew">Διακοπή αυτόματου παιχνιδιού όταν το ποσό που κερδίζετε υπερβεί ή φτάσει το ποσό που καθορίζετε. </ds>
+  <ds Jurisdiction="*" name="RTtransGameTerms" id="RTtransGameTerms">Μεταφράσεις Ορολογίας Παιχνιδιού</ds>
+  <ds Jurisdiction="*" name="termTranslatedTerm" id="termTranslatedTerm">Μεταφρασμένος όρος</ds>
+  <ds Jurisdiction="*" name="featuresNotAvailablePFF" id="featuresNotAvailablePFF">Ορισμένα χαρακτηριστικά μπορεί να μην είναι διαθέσιμα στη λειτουργία &lt;b&gt;ΕΙΚΟΝΙΚΟ ΠΑΙΧΝ&lt;/b&gt;.</ds>
+  <ds Jurisdiction="*" name="RTadditionalInformation" id="RTadditionalInformation">Πρόσθετες πληροφορίες</ds>
+</defaults>

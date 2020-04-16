@@ -1,0 +1,738 @@
+﻿[
+    {
+        "id": "RTGameHistNoPlayForFun",
+        "text": "(ei ole kättesaadav, kui \u003cb\u003eMÄNGI OMA LÕBUKS\u003c/b\u003e)."
+    },
+    {
+        "id": "RTquickSpinDisclaimer",
+        "text": "(ei ole saadaval kõikides kasiinodes)."
+    },
+    {
+        "id": "RTautoplayPlaysJimi",
+        "text": "\u003cb\u003eAUTOMAATMÄNGY\u003c/b\u003e mängib automaatselt mängu valitud ridade hulgas (teise võimalusena klõpsake nuppu \u003cb\u003eAUTO\u003c/b\u003e)."
+    },
+    {
+        "id": "RTautoplayPlays",
+        "text": "\u003cb\u003eAUTOPLAY\u003c/b\u003e mängib automaatselt mängu valitud ridade hulgas (teise võimalusena klõpsake nuppu \u003cb\u003eAUTO\u003c/b\u003e)."
+    },
+    {
+        "id": "RTsoundButton",
+        "text": "\u003cb\u003eHeli\u003c/b\u003e"
+    },
+    {
+        "id": "RTMGreturnToPlayer",
+        "text": "\u003cb\u003eMängija tasu\u003c/b\u003e"
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003eMärkus.\u003c/b\u003e Mõned autoplay seaded on mõnes riigis seaduse järgi kohustuslikud."
+    },
+    {
+        "id": "RTMGautoplayDisconnect",
+        "text": "\u003cb\u003eMärkus:\u003c/b\u003e Kui teie ühendus mängimise vältel katkeb, muutuvad mängu uuesti laadides kõik automaatmängu seaded vaikimisi määratuks."
+    },
+    {
+        "id": "RTAutoplayDisconnect",
+        "text": "\u003cb\u003eMärkus:\u003c/b\u003e Kui teie ühendus mängimise vältel katkeb, muutuvad mängu uuesti laadides kõik Autoplay seaded vaikimisi määratuks."
+    },
+    {
+        "id": "RTsettingsDisclaimer",
+        "text": "\u003cb\u003eMärkus:\u003c/b\u003e Mõned kasiinod võivad opereerida ilma mängus toodud seadistusteta."
+    },
+    {
+        "id": "RTMGsettingsDisclaimer",
+        "text": "\u003cb\u003eMärkus:\u003c/b\u003e Mõningad korraldajad ei pruugi pakkuda kõiki antud mänguseadeid."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003eMärkus\u003c/b\u003e: Järgnev tabel kohaldub vaid siis, kui te ei mängi inglise keeles."
+    },
+    {
+        "id": "RTmaxbetPlays",
+        "text": "\u003cb\u003eMAX PANUS\u003c/b\u003e mängib mängu maksimaalsetel panustusridadel, kõrgeimal panustustasandil ja olemasoleval mündiväärtusel."
+    },
+    {
+        "id": "RTMGcoinsDisplayValues",
+        "text": "\u003cb\u003eMündid\u003c/b\u003e näitab mängijal olemasolevate müntide hulka, mida mängija saab panustada."
+    },
+    {
+        "id": "RTcoinsDisplayValues",
+        "text": "\u003cb\u003eMÜNDID\u003c/b\u003e näitab mängijal olemasolevate müntide hulka, mida mängija saab panustada."
+    },
+    {
+        "id": "RTinformationIconButtonDesc",
+        "text": "\u003cb\u003eVÕIDUTABELI\u003c/b\u003e vaatamiseks klõpsa."
+    },
+    {
+        "id": "RTinformationIconButtonDescJimi",
+        "text": "\u003cb\u003eVÕIDUTABELI\u003c/b\u003e vaatamiseks klõpsa."
+    },
+    {
+        "id": "RTMGgameSessions2",
+        "text": "Aeg, mille möödudes mitteaktiivsed mänguseansid lõppevad automaatselt."
+    },
+    {
+        "id": "RTgameSessions2",
+        "text": "Aeg, mille möödudes mitteaktiivsed mänguseansid lõppevad automaatselt."
+    },
+    {
+        "id": "RTMGsoundsOff",
+        "text": "Alati keela helid"
+    },
+    {
+        "id": "RTMGreferWebSite",
+        "text": "Alljärgnevad mänguomadused ja seadistused võivad muutuda olenevalt mängukoha tingimustest. Alljärgneva kohta lisateabe saamiseks vaadake mängude veebilehte:"
+    },
+    {
+        "id": "RTreferWebSite",
+        "text": "Alljärgnevad mänguomadused ja seadistused võivad muutuda olenevalt mängukoha tingimustest. Alljärgneva kohta lisateabe saamiseks vaadake mängude veebilehte:"
+    },
+    {
+        "id": "RTtableDescribes",
+        "text": "Allolev tabel annab mängus leiduvate erinevate nuppude nimekirja ja kirjeldab nende funktsioone."
+    },
+    {
+        "id": "RTanimationsOff",
+        "text": "Animatsioonid sees/väljas."
+    },
+    {
+        "id": "termWild",
+        "text": "Asendussümbol"
+    },
+    {
+        "id": "RTMGautoplayPanelLabel",
+        "text": "Automaatmäng"
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRevNew",
+        "text": "Automaatmäng käivitamiseks ja mängude arvu määramiseks nihuta slaiderit või koputa sellel. Automaatmäng mängib nii palju keerutusi, kui oled valinud."
+    },
+    {
+        "id": "RTMGautoplayQuickSpinHeading",
+        "text": "Automaatne mängimine ja Kiire spin"
+    },
+    {
+        "id": "RTfunctionTableHead",
+        "text": "Funktsioon"
+    },
+    {
+        "id": "RTMGsoundSettings",
+        "text": "Heli seaded"
+    },
+    {
+        "id": "RTMGtouchMainGameNew",
+        "text": "Horisontaalpaigutusega režiimis puuduta Keerutamise nupu peitmiseks mänguala."
+    },
+    {
+        "id": "termEnglish",
+        "text": "Inglisekeelne termin"
+    },
+    {
+        "id": "RTMGnoAutoplayLeft",
+        "text": "Järelejäänud keerutuste arvu kuvatakse nupul."
+    },
+    {
+        "id": "RTMGspinSettingsRev",
+        "text": "Keerutamise seaded"
+    },
+    {
+        "id": "RTMGnumberSpins",
+        "text": "Keerutuste arv"
+    },
+    {
+        "id": "RTMGquickSpinGameSetting",
+        "text": "Kiire keerutus"
+    },
+    {
+        "id": "RTMGquickStop",
+        "text": "Kiire peatamine"
+    },
+    {
+        "id": "RTMGquickSpin",
+        "text": "Kiire spin"
+    },
+    {
+        "id": "RTMGquickSettingsMenu",
+        "text": "Kiirete seadete menüüsse minekuks koputa pluss-märgile."
+    },
+    {
+        "id": "RTMGquickSettings",
+        "text": "Kiirseadete menüü"
+    },
+    {
+        "id": "RTinformationIconButtonNoBold",
+        "text": "Klõpsa võidutabeli vaatamiseks."
+    },
+    {
+        "id": "RTstartGameRound",
+        "text": "Klõpsa, kui soovid mängu alustada hetkel aktiivse panusetasemega ja mündiväärtusega (alternatiivina võid vajutada tühikuklahvi)."
+    },
+    {
+        "id": "RTmuteSoundSliderRev",
+        "text": "Klõpsake mänguheli vaigistamiseks või kasutage helitugevuse reguleerimiseks liugurit."
+    },
+    {
+        "id": "RTpaytableButtonsDescRev",
+        "text": "Klõpsake vasakule või paremale osutavatele nooltele, et sirvida \u003cb\u003eVÕIDUTABEL\u003c/b\u003e lehekülgi. Mängu tagasi pöördumiseks klõpsake keskmist nuppu."
+    },
+    {
+        "id": "RTopenSettingsMenu",
+        "text": "Klõpsake, et avada mängu seadete menüü ja valida mängu valikute vahel. Vaadake allolevat mängu valikute rubriiki."
+    },
+    {
+        "id": "RTopenGameRules",
+        "text": "Klõpsake, et avada mängureeglid."
+    },
+    {
+        "id": "RTgameHistoryDesc",
+        "text": "Klõpsake, et näha oma mängu ajalugu"
+    },
+    {
+        "id": "RTadjustQualityRev",
+        "text": "Kohandab kehva võrguühenduse korral optimaalse toimimise tagamiseks graafika kvaliteeti."
+    },
+    {
+        "id": "RTMGdisableAutoplayIfBonusGame",
+        "text": "Koputa Automaatmängimise keelamiseks, kui boonusmäng võidetakse enne määratud automaatmängu ringe."
+    },
+    {
+        "id": "RTMGdisableAutoplay",
+        "text": "Koputa automaatmängimise peatamiseks, kui enne automaatmänguks valitud keerutuste lõppu võidetakse Free Spins."
+    },
+    {
+        "id": "RTMGdisableAutoplayPickClick",
+        "text": "Koputa automaatmängimise peatamiseks, kui enne automaatmänguks valitud keerutuste lõppu võidetakse Pick and Click ."
+    },
+    {
+        "id": "RTMGautoplayUI",
+        "text": "Koputa, et lülitada Automaatmängimine sisse või välja ilma seadete menüüd kasutamata. Vaikimisi seadistatakse 50 ringi."
+    },
+    {
+        "id": "RTMGsoundSettingsUI",
+        "text": "Koputa, et lülitada Heli sisse või välja ilma seadete menüüd kasutamata."
+    },
+    {
+        "id": "RTMGquickSpinUI",
+        "text": "Koputa, et lülitada Kiire keerutus sisse või välja ilma seadete menüüd kasutamata."
+    },
+    {
+        "id": "RTMGspinButtonLeft",
+        "text": "Koputa, et lülitada vasaku käe režiim sisse või välja."
+    },
+    {
+        "id": "RTMGgameSettingIntroDevNew",
+        "text": "Koputa, et pääseda ligi mängu seadetele ja mänguinfole."
+    },
+    {
+        "id": "RTMGleaveGame",
+        "text": "Koputage, et mängust lahkuda."
+    },
+    {
+        "id": "RTstarBurstAddReSpinsRev",
+        "text": "Kui korduskeerutuse ajal ilmub uus Starburst™ Wild’i  sümbol, laieneb see ja jääb koos teiste, varem laienenud Starburst™ Wild’idega veel üheks korduskeerutuseks paigale."
+    },
+    {
+        "id": "RTMGexit",
+        "text": "Lahku"
+    },
+    {
+        "id": "simultaneousWinsAdded",
+        "text": "Lisatakse samaaegsed võidud erinevates panuseridades."
+    },
+    {
+        "id": "RTMGadditionalInformation",
+        "text": "Lisateave"
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "Lisateave"
+    },
+    {
+        "id": "RTrulesGenerated",
+        "text": "Loodud mängureeglid:"
+    },
+    {
+        "id": "RTunfinishedGameSession2",
+        "text": "Lõpetamata mänguringide haldamiseks kasutatavad toimingud."
+    },
+    {
+        "id": "RTMGunfinishedGameSession2",
+        "text": "Lõpetamata mänguringide haldamiseks kasutatavad toimingud."
+    },
+    {
+        "id": "RTintroOffRev",
+        "text": "Lülitab avakuva sisse või välja."
+    },
+    {
+        "id": "RTquickSpinDescRev",
+        "text": "Lülitab kiirkeerutuse võimaluse sisse või välja"
+    },
+    {
+        "id": "RTgameSoundDesc",
+        "text": "Lülitab mängu heli sisse või välja."
+    },
+    {
+        "id": "RTambienceDescRev",
+        "text": "Lülitab taustamuusika sisse või välja."
+    },
+    {
+        "id": "RTspacebarspin",
+        "text": "Lülitab tühikuklahvi funktsiooni sisse või välja."
+    },
+    {
+        "id": "RTAutoplayButton",
+        "text": "Määramaks täpsema automaatmängu valikuid klõpsake klahvistikul \u003cb\u003eAUTOPLAY\u003c/b\u003e või mängu juhtlaual \u003cb\u003eAUTO\u003c/b\u003e, ning klõpsake seejärel \u003cb\u003eTäpsemad seaded\u003c/b\u003e."
+    },
+    {
+        "id": "RTpaytableHighestRev",
+        "text": "Makstakse üksnes suurim võit aktiivse panuserea kohta mõlemalt panuseteelt."
+    },
+    {
+        "id": "RTHighWinSymCompleteActLineRev",
+        "text": "Makstakse vaid aktiivse panuserea suurim võidukombinatsioon vasakpoolsemailt rullikult paremale ja/või parempoolseimalt rullikult vasakule."
+    },
+    {
+        "id": "RTreturnToPlayer",
+        "text": "Mängija tasu"
+    },
+    {
+        "id": "RTtheoreticalReturn",
+        "text": "Mängija teoreetiline tasuvus selle mängu eest on"
+    },
+    {
+        "id": "RTMGtheoreticalReturn",
+        "text": "Mängija teoreetiline teenitud summa selle mängu eest on"
+    },
+    {
+        "id": "RTgameFunctionsHeading",
+        "text": "Mängu funktsioonid"
+    },
+    {
+        "id": "RTMGsounds",
+        "text": "Mängu helid"
+    },
+    {
+        "id": "RTMGgameSettings",
+        "text": "Mängu seaded ja informatsioon mängu kohta"
+    },
+    {
+        "id": "gameSettingOptionsHeading",
+        "text": "Mängu seadete valikud"
+    },
+    {
+        "id": "gameSettingIntro",
+        "text": "Mängu seadetele ligi pääsemiseks klõpsake mutrivõtme ikooni mängu juhtlaual."
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Mängu terminoloogia tõlked"
+    },
+    {
+        "id": "RTMGgameHistoryHeading",
+        "text": "Mänguajalugu"
+    },
+    {
+        "id": "RTgHistoryNotAvailableForFun",
+        "text": "Mänguajalugu ei ole  \u003cb\u003eMÄNGI OMA LÕBUKS\u003c/b\u003e režiimis saadaval."
+    },
+    {
+        "id": "RTMGhistoryNotAvailable",
+        "text": "Mänguajalugu on kättesaadav vaid raha peale mängides."
+    },
+    {
+        "id": "RTMGgameRules",
+        "text": "Mängureeglid"
+    },
+    {
+        "id": "RTmalfunction",
+        "text": "Mänguriistvara/-tarkvara tõrke korral kuulutatakse kõik seotud mängupanused ja väljamaksed tühisteks ning kõik seotud panused makstakse tagasi."
+    },
+    {
+        "id": "RTMGmalfunction",
+        "text": "Mänguriistvara/-tarkvara tõrke korral kuulutatakse kõik seotud mängupanused ja väljamaksed tühisteks ning kõik seotud panused makstakse tagasi."
+    },
+    {
+        "id": "RTmaxBetAtHighBetLevel",
+        "text": "MAX PANUS mängib mängu suurima panusetaseme ja olemasoleva mündiväärtusega."
+    },
+    {
+        "id": "RTMGmenu",
+        "text": "Menüü"
+    },
+    {
+        "id": "RTstarburstWildFeatureActive",
+        "text": "Mis tahes kohas rullikutel 2, 3 või 4 ilmuv Starburst™ Wild aktiveerib Starburst™ Wild funktsiooni."
+    },
+    {
+        "id": "RTMGcoinvalue",
+        "text": "Mündi väärtus"
+    },
+    {
+        "id": "RTMGcoinValueInstruction",
+        "text": "Mündiväärtus valitakse kasutades valijat MÜNDI VÄÄRTUS."
+    },
+    {
+        "id": "RTMGselectCoinValueRevNew",
+        "text": "Mündiväärtuse valimiseks lohista liugurit või koputa sellele."
+    },
+    {
+        "id": "RTMGshowsBetCoins",
+        "text": "Näitab teie panusesummat müntides."
+    },
+    {
+        "id": "RTMGshowsBetCurrency",
+        "text": "Näitab teie panusesummat valitud valuutas."
+    },
+    {
+        "id": "RTbuttonTableHead",
+        "text": "Nupp"
+    },
+    {
+        "id": "RTMGspinButton",
+        "text": "Nupp \"Keeruta\""
+    },
+    {
+        "id": "RTspinPlayRev",
+        "text": "Nupp Keeruta alustab mängu valitud võiduridade, panusetaseme ja mündiväärtusega (teise võimalusena võite vajutada tühikuklahvile)."
+    },
+    {
+        "id": "RTMGbetInCoins",
+        "text": "Panus müntides"
+    },
+    {
+        "id": "RTMGbetInCash",
+        "text": "Panus rahas"
+    },
+    {
+        "id": "RTbetLevel",
+        "text": "Panuse tase on panuserea kohta panustatud müntide arv."
+    },
+    {
+        "id": "RTMGselectBetLevelRevNew",
+        "text": "Panuseliinil panustatavate müntide arvu määramiseks lohista või koputa slaiderit."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoMultiplierTrans",
+        "text": "Panuserea võit müntides on võrdne \u003cb\u003eVÕIDUTABELIS\u003c/b\u003e näidatud väärtusega, korrutatuna panusetasemega."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "Panuserea võit müntides on võrdne väärtusega, mis on näidatud Paytable\u0027is, korrutatuna panusetasemega."
+    },
+    {
+        "id": "RTMGjimiwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "Panuserea võit müntides on võrdne väärtusega, mis on näidatud Paytable\u0027is, korrutatuna panusetasemega."
+    },
+    {
+        "id": "RTwinCalcBetLinesNoMultiplier",
+        "text": "Panuserea võit müntides on võrdne Võidutabelis näidatud väärtusega, korrutatud panusetasemega."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoBold",
+        "text": "Panuserea võit müntides on võrdne Võidutabelis näidatud väärtusega, korrutatud panusetasemega. See väärtus korrutatakse ka mis tahes kohalduvate kordajatega."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCurrency",
+        "text": "Panuserea võit valuutas on võrdne võiduga müntides, korrutatuna mündiväärtusega."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCurrency",
+        "text": "Panuserea võit valuutas on võrdne võiduga müntides, korrutatuna mündiväärtusega."
+    },
+    {
+        "id": "RTMGbetlevel",
+        "text": "Panusetase"
+    },
+    {
+        "id": "RTMGbetLevelInstruction",
+        "text": "Panusetase valitakse \u003cb\u003ePanusetaseme\u003c/b\u003e valijat kasutades."
+    },
+    {
+        "id": "RTCalcBetLineCoinNoMultiplierTransNew",
+        "text": "Panustatud mängurea võit müntides on võidutabelis näidatud summa korrutatuna panusetasemega."
+    },
+    {
+        "id": "RTMGstopAutoplayOnOff",
+        "text": "Peata automaatne mängimine"
+    },
+    {
+        "id": "RTMGstopIfFreeSpins",
+        "text": "Peata, kui võidetakse Free Spinsid"
+    },
+    {
+        "id": "RTsingleWinDescRev",
+        "text": "Peatab Automaatmängu, kui võidetud summa ületab või on samaväärne teie poolt määratud summaga."
+    },
+    {
+        "id": "anyWinDesc",
+        "text": "Peatage Automaatmäng, kui võidate ringi."
+    },
+    {
+        "id": "singleWinDesc",
+        "text": "Peatage Automaatmäng, kui võidetud summa ületab või on samaväärne teie poolt täpsustatud summaga."
+    },
+    {
+        "id": "cashDecreasesDesc",
+        "text": "Peatage Autoplay, kui sularaha suureneb teie poolt täpsustatud summa võrra."
+    },
+    {
+        "id": "cashIncreasesDesc",
+        "text": "Peatage Autoplay, kui sularaha suureneb teie poolt täpsustatud summa võrra."
+    },
+    {
+        "id": "RTMGbuttonsMainGame",
+        "text": "Põhimäng"
+    },
+    {
+        "id": "RTMGtouchMainGame",
+        "text": "Puudutage mänguala, et peita Keeruta-nuppu."
+    },
+    {
+        "id": "RTMGtapDuringSpin",
+        "text": "Rataste peatamiseks vajutage keerutamise vältel mängualale."
+    },
+    {
+        "id": "RTMGplay10FixedBetLines",
+        "text": "Saate mängida 10-l kindlaks määratud panusereal erinevate panusetasemete ja mündiväärtustega."
+    },
+    {
+        "id": "RTMGstarburstTouchIntro",
+        "text": "Starburst Touch™ on 5 rullikuga, 3-realine videomäng, milles on taaskeerutustega Starburst™ Wild ning Võida Mõlemat Pidi."
+    },
+    {
+        "id": "RTMGstarburstTouchRulesHeading",
+        "text": "Starburst Touch™-i mängureeglid"
+    },
+    {
+        "id": "RTstarBurstWildSubstitute",
+        "text": "Starburst™ Huupi sümbolid asendavad kõiki teisi sümboleid."
+    },
+    {
+        "id": "RTstarBurstRulesHeading",
+        "text": "Starburst™ mängureeglid"
+    },
+    {
+        "id": "RTstarBurstIntro",
+        "text": "Starburst™ on 5-ketta ja 3-reaga mänguautomaat, milles on Starburst™ Huupi sümbolid koos uuesti keerutustega ning mõlemat pidi võitmine."
+    },
+    {
+        "id": "RTstarburstWildEnds",
+        "text": "Starburst™ Wild funktsioon lõppeb, kui uuesti keerutamise vältel ei ilmu ühtki uut Starburst™ Wildsi."
+    },
+    {
+        "id": "RTstarBurststickyWExpandsReSpinsRev",
+        "text": "Starburst™ Wild funktsiooni jooksul Starburst™Wildsid laienevad, et katta kogu rullik, ja jäävad oma positsioonile, kui teised rullikud uuesti keerlevad."
+    },
+    {
+        "id": "RTstarBurstWildSymbAppear",
+        "text": "Starburst™ Wild sümbolid saavad ilmuda vaid rullikutele 2, 3 ja 4."
+    },
+    {
+        "id": "RTstarBurstWildHeading",
+        "text": "Starburst™ Wilds"
+    },
+    {
+        "id": "RTMGback",
+        "text": "Tagasi"
+    },
+    {
+        "id": "advancedAutoplayOptionsHeading",
+        "text": "Täpsemad Autoplay valikud"
+    },
+    {
+        "id": "RTviewMiniPaytable",
+        "text": "Teise võimalusena klõpsake selle sümboli mini võidutabeli vaatamiseks põhimängu ajal kettal asuvale suvalisele sümbolile."
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Tõlgitud termin"
+    },
+    {
+        "id": "RTMGselectSpinsRev",
+        "text": "Tõmmake või vajutage seadistusratast, et valida automaatmängu keerutuste arv."
+    },
+    {
+        "id": "RTMGselectCoinValueRev",
+        "text": "Tõmmake või vajutage seadistusratast, et valida mündi väärtus."
+    },
+    {
+        "id": "RTMGselectBetLevelRev",
+        "text": "Tõmmake või vajutage seadistusratast, et valida müntide hulk, mida soovite panusereale panustada."
+    },
+    {
+        "id": "ReSpinsAtActivatingRound",
+        "text": "Uuesti keerutused mängitakse sama panusega, kui vooru aktiveerivad uuesti keerutused."
+    },
+    {
+        "id": "RTMGsoundsDisabledRev",
+        "text": "Vajutage lülitile, et keelata helid tulevastes mängusessioonides."
+    },
+    {
+        "id": "RTMGsoundOnOffRev",
+        "text": "Vajutage lülitile, et lülitada helid sisse või välja."
+    },
+    {
+        "id": "RTMGviewGamesRules",
+        "text": "Vajutage mängu reeglite vaatamiseks."
+    },
+    {
+        "id": "RTMGbackMainGame",
+        "text": "Vajutage tagasi põhimängu naasmiseks."
+    },
+    {
+        "id": "RTMGstartAutoplay",
+        "text": "Vajutage, et alustada automaatset mängimist."
+    },
+    {
+        "id": "RTMGstartQuickSpin",
+        "text": "Vajutage, et alustada kiiret keerutamist."
+    },
+    {
+        "id": "RTMGtapSpinButtonRev",
+        "text": "Vajutage, et alustada mängu olemasolevate panuseridade, panusetaseme ja mündiväärtusega."
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRev",
+        "text": "Vajutage, et lülitada automaatmäng sisse või välja. Automaatmäng mängib mängu valitud arvu keerutusi."
+    },
+    {
+        "id": "RTMGtapOnOffRev",
+        "text": "Vajutage, et lülitada kiirkeerutus sisse või välja."
+    },
+    {
+        "id": "RTMGgameHistoryDesc",
+        "text": "Vajutage, et näha oma viimast mänguajalugu."
+    },
+    {
+        "id": "RTMGgameSettingIntroDev",
+        "text": "Vajutage, et pääseda ligi mängu seadetele ja mängu informatsioonile, alternatiivse võimalusena vajutage vastavalt Raha ja Mündid kuvale."
+    },
+    {
+        "id": "RTMGstopAutoplay",
+        "text": "Vajutage, et peatada automaatne mängimine."
+    },
+    {
+        "id": "RTMGwinComb",
+        "text": "Vajutage, et vaadata võidukombinatsioone ja väljamakseid."
+    },
+    {
+        "id": "RTautoplaySelectSpins",
+        "text": "Valige Autoplay keerutuste arv või avage täiendavad seaded, et seadistada Autoplay peatumise valikud."
+    },
+    {
+        "id": "RTMGAutoplaySpins",
+        "text": "Valitud keerutuste arv on kuvatud nupul."
+    },
+    {
+        "id": "RTMGleftHandMode",
+        "text": "Vasaku käe režiim"
+    },
+    {
+        "id": "RTwinCombinationPaytable",
+        "text": "Võidukombinatsioonid ja väljamaksed tehakse vastavalt \u003cb\u003eVÕIDUTABEL\u003c/b\u003e."
+    },
+    {
+        "id": "RTMGwinCombinations",
+        "text": "Võidukombinatsioonid ja väljamaksed tehakse vastavalt võidutabelile."
+    },
+    {
+        "id": "RTMGpaytable",
+        "text": "Võidutabel"
+    },
+    {
+        "id": "termPaytable",
+        "text": "Võidutabel"
+    },
+    {
+        "id": "RTMGpaytableJimi",
+        "text": "Võidutabel"
+    },
+    {
+        "id": "RTpaytableButtonsDescNoBold",
+        "text": "Võidutabeli lehekülgede sirvimiseks klõpsa nooltele, mis osutavad vasakule või paremale. Mängu tagasi pöördumiseks klõpsa keskmisele nupule."
+    },
+    {
+        "id": "RTplayCurrentBetLinesTo10",
+        "text": "Võite mängida 1 kuni 10 panuserida erinevatel panusetasemetel ja mündiväärtustel."
+    },
+    {
+        "id": "RTwinCombinationPaytablenoBold",
+        "text": "Võitvad kombinatsioonid ja väljamaksed tehakse vastavalt Võidutabelile."
+    },
+    {
+        "id": "RTautoplayDuringGameRev",
+        "text": "\u003cb\u003eMärkus:\u003c/b\u003e Kui muudate automaatmängu seadeid mänguraundi  vältel, rakenduvad kõik seaded pärast mänguraundi või funktsiooni lõppu."
+    },
+    {
+        "id": "RTopenAutoplayMenu",
+        "text": "Klõpsake, et avada automaatmängu seadete menüü ja mängida mängu automaatselt."
+    },
+    {
+        "id": "RTwinCalculationWinMatchCurrency",
+        "text": "Panuserea võit valuutas on võrdne võiduga müntides, korrutatuna mündiväärtusega."
+    },
+    {
+        "id": "RTexCloneWildOverlay",
+        "text": "Expanding Cloning Wild\u0027i sümbol ilmub keerlevate rullikute kohale. Ka kloonitud sümbolid ilmuvad rullikute kohale."
+    },
+    {
+        "id": "RTMGautoOptions",
+        "text": "Lohistage või koputage liugurit, et lubada automaatmängimisel seadistada automaatmängimise valikud ja mängukordade arv. Automaatmängimine mängib mängu valitud arvu keerutuste vältel."
+    },
+    {
+        "id": "RTsliderCoinValue",
+        "text": "Mündi väärtuse reguleerimiseks kasuta vastavat slaiderit."
+    },
+    {
+        "id": "RTsliderBetLevel",
+        "text": "Panuse suuruse reguleerimiseks kasuta vastavat slaiderit."
+    },
+    {
+        "id": "RTeachStar1AddRespinUpTo3respin",
+        "text": "Pärast Starburst™ Wildi poolt uue keerutuse käivitamist võivad ilmuda kuni 2 täiendavat Starburst™ Wild-sümbolit, mis käivitavad täiendava uue keerutuse või kuni 3 uut keerutust"
+    },
+    {
+        "id": "RTcashIncreasesDescRev",
+        "text": "Peatab automaatmängimise, kui raha on suurenenud teie märgitud summas."
+    },
+    {
+        "id": "RTcashDecreasesDescRev",
+        "text": "Peatab automaatmängimise, kui raha on vähenenud teie märgitud summas."
+    },
+    {
+        "id": "onlyHighWinComb",
+        "text": "Välja makstakse ainult panuseradade kõrgeim võidukombinatsioon vasakpoolseimast paremale ja/või parempoolseimast vasakule."
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003eMärkus.\u003c/b\u003e Mõned autoplay seaded on mõnes riigis seaduse järgi kohustuslikud."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003eMärkus\u003c/b\u003e: Järgnev tabel kohaldub vaid siis, kui te ei mängi inglise keeles."
+    },
+    {
+        "id": "termEnglish",
+        "text": "Inglisekeelne termin"
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "Lisateave"
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Mängu terminoloogia tõlked"
+    },
+    {
+        "id": "featuresNotAvailablePFF",
+        "text": "Mõned funktsioonid ei pruugi \u003cb\u003eMÄNGI OMA LÕBUKS\u003c/b\u003e režiimil saadaval olla."
+    },
+    {
+        "id": "RTsingleWinDescRevNew",
+        "text": "Peatab Autoplay, kui võidetud summa ületab, või on võrdne, teie määratud summaga."
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Tõlgitud termin"
+    }
+]

@@ -1,0 +1,738 @@
+﻿[
+    {
+        "id": "RTGameHistNoPlayForFun",
+        "text": "(niet beschikbaar tijdens \u003cb\u003eOEFENEN\u003c/b\u003e)."
+    },
+    {
+        "id": "RTquickSpinDisclaimer",
+        "text": "(niet in alle casino\u0027s beschikbaar)."
+    },
+    {
+        "id": "RTsoundButton",
+        "text": "\u003cb\u003eGeluid\u003c/b\u003e"
+    },
+    {
+        "id": "RTAutoplayDisconnect",
+        "text": "\u003cb\u003eLet op:\u003c/b\u003e Als je verbinding tijdens het spelen verbroken wordt, worden alle Autoplay-instellingen op de standaardwaarden teruggezet wanneer je het spel weer opstart."
+    },
+    {
+        "id": "RTMGautoplayDisconnect",
+        "text": "\u003cb\u003eLet op:\u003c/b\u003e Als je verbinding tijdens het spelen verbroken wordt, worden alle Autospel-instellingen op de standaardwaarden teruggezet wanneer je het spel weer opstart."
+    },
+    {
+        "id": "RTMGsettingsDisclaimer",
+        "text": "\u003cb\u003eLet op:\u003c/b\u003e Bepaalde operators bieden niet alle genoemde instellingen aan."
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003eLet op:\u003c/b\u003e Sommige Autoplay-opties zijn verplicht in bepaalde rechtsgebieden."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003eLet op\u003c/b\u003e: De volgende tabel is uitsluitend van toepassing als je niet in de Engelse taal speelt."
+    },
+    {
+        "id": "RTMGcoinsDisplayValues",
+        "text": "\u003cb\u003eMunten\u003c/b\u003e geeft het aantal munten weer dat de speler beschikbaar heeft om in te zetten."
+    },
+    {
+        "id": "RTcoinsDisplayValues",
+        "text": "\u003cb\u003eMUNTEN\u003c/b\u003e geeft het aantal munten weer dat de speler beschikbaar heeft om in te zetten."
+    },
+    {
+        "id": "RTsettingsDisclaimer",
+        "text": "\u003cb\u003eOpmerking:\u003c/b\u003e Sommige casino’s hebben wellicht geen van de genoemde instellingen."
+    },
+    {
+        "id": "RTMGreturnToPlayer",
+        "text": "\u003cb\u003eUitbetalingspercentage\u003c/b\u003e"
+    },
+    {
+        "id": "RTMGnumberSpins",
+        "text": "Aantal rondes"
+    },
+    {
+        "id": "RTMGadditionalInformation",
+        "text": "Aanvullende informatie"
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "Aanvullende informatie"
+    },
+    {
+        "id": "RTpaytableHighestRev",
+        "text": "Alleen de hoogste winst per actieve lijn in beide richtingen wordt uitbetaald."
+    },
+    {
+        "id": "RTanimationsOff",
+        "text": "Animaties aan of uit zetten."
+    },
+    {
+        "id": "RTMGautoplayQuickSpinHeading",
+        "text": "Automatisch spelen en Snel draaien"
+    },
+    {
+        "id": "RTMGautoplayPanelLabel",
+        "text": "Autospel"
+    },
+    {
+        "id": "RTunfinishedGameSession2",
+        "text": "De gebruikte procedures bij onvoltooide spelrondes."
+    },
+    {
+        "id": "RTMGunfinishedGameSession2",
+        "text": "De gebruikte procedures bij onvoltooide spelrondes."
+    },
+    {
+        "id": "RTMGcoinValueInstruction",
+        "text": "De muntwaarde kun je kiezen met behulp van het keuzemenu MUNTWAARDE."
+    },
+    {
+        "id": "RTMGhistoryNotAvailable",
+        "text": "De spelgeschiedenis is uitsluitend beschikbaar als je voor geld speelt."
+    },
+    {
+        "id": "RTstarburstWildEnds",
+        "text": "De Starburst™ Wild-functie is ten einde wanneer er geen Starburst™ Wilds meer verschijnen tijdens een re-spin."
+    },
+    {
+        "id": "RTtheoreticalReturn",
+        "text": "De theoretische uitbetaling van dit spel is"
+    },
+    {
+        "id": "RTMGtheoreticalReturn",
+        "text": "De theoretische uitbetaling van dit spel is"
+    },
+    {
+        "id": "RTMGgameSessions2",
+        "text": "De tijdslimiet waarna een inactieve spelsessie automatisch gesloten wordt."
+    },
+    {
+        "id": "RTgameSessions2",
+        "text": "De tijdslimiet waarna een inactieve spelsessie automatisch gesloten wordt."
+    },
+    {
+        "id": "RTMGreferWebSite",
+        "text": "De volgende spelfuncties kunnen onderhevig zijn aan de algemene voorwaarden van de spelsite. Voor meer informatie over het volgende, neem je contact op met de betreffende spelsite:"
+    },
+    {
+        "id": "RTreferWebSite",
+        "text": "De volgende spelfuncties kunnen onderhevig zijn aan de algemene voorwaarden van de spelsite. Voor meer informatie over het volgende, neem je contact op met de betreffende spelsite:"
+    },
+    {
+        "id": "RTMGspinButton",
+        "text": "Draaien-knop"
+    },
+    {
+        "id": "RTMGspinSettingsRev",
+        "text": "Draai-instellingen"
+    },
+    {
+        "id": "RTwinCalculationBetLinesCurrency",
+        "text": "Een lijnwinst in een valuta is gelijk aan de winst in munten vermenigvuldigd met de muntwaarde."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCurrency",
+        "text": "Een lijnwinst in een valuta is gelijk aan de winst in munten vermenigvuldigd met de muntwaarde."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoMultiplierTrans",
+        "text": "Een lijnwinst in munten is gelijk aan de waarde die wordt weergegeven in de \u003cb\u003ePRIJZENTABEL\u003c/b\u003e vermenigvuldigd met het inzetniveau."
+    },
+    {
+        "id": "RTMGwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "Een lijnwinst in munten is gelijk aan de waarde die wordt weergegeven in de \u003cb\u003ePRIJZENTABEL\u003c/b\u003e, vermenigvuldigd met het inzetniveau."
+    },
+    {
+        "id": "RTMGjimiwinCalculationBetLinesCoinsNoMultiplier",
+        "text": "Een lijnwinst in munten is gelijk aan de waarde die wordt weergegeven in de \u003cb\u003ePRIJZENTABEL\u003c/b\u003e, vermenigvuldigd met het inzetniveau."
+    },
+    {
+        "id": "RTCalcBetLineCoinNoMultiplierTransNew",
+        "text": "Een lijnwinst in munten is gelijk aan de waarde die wordt weergegeven in de prijzentabel, vermenigvuldigd met het inzetniveau."
+    },
+    {
+        "id": "RTwinCalcBetLinesNoMultiplier",
+        "text": "Een lijnwinst in munten is gelijk aan de waarde die wordt weergegeven in de Prijzentabel, vermenigvuldigd met het inzetniveau."
+    },
+    {
+        "id": "RTwinCalculationBetLinesCoinsNoBold",
+        "text": "Een lijnwinst in munten is gelijk aan de waarde die wordt weergegeven in de Prijzentabel, vermenigvuldigd met het inzetniveau. Dit bedrag wordt ook vermenigvuldigd met eventuele andere toepasselijke vermenigvuldigers."
+    },
+    {
+        "id": "RTstarburstWildFeatureActive",
+        "text": "Een of meerdere Starburst™ Wilds waar dan ook op rollen 2, 3 of 4 activeren de Starburst™ Wild-functie."
+    },
+    {
+        "id": "termEnglish",
+        "text": "Engelse term"
+    },
+    {
+        "id": "RTfunctionTableHead",
+        "text": "Functie"
+    },
+    {
+        "id": "advancedAutoplayOptionsHeading",
+        "text": "Geavanceerde autoplay-opties"
+    },
+    {
+        "id": "RTMGbetInCash",
+        "text": "Geld inzetten"
+    },
+    {
+        "id": "simultaneousWinsAdded",
+        "text": "Gelijktijdige winsten op verschillende inzetlijnen worden opgeteld."
+    },
+    {
+        "id": "RTMGsoundsOff",
+        "text": "Geluid altijd uitschakelen"
+    },
+    {
+        "id": "RTMGsounds",
+        "text": "Geluidseffecten"
+    },
+    {
+        "id": "RTMGsoundSettings",
+        "text": "Geluidsinstellingen"
+    },
+    {
+        "id": "RTMGAutoplaySpins",
+        "text": "Het aantal geselecteerde rondes wordt weergegeven op de knop."
+    },
+    {
+        "id": "RTMGnoAutoplayLeft",
+        "text": "Het aantal resterende rondes wordt weergegeven op de knop."
+    },
+    {
+        "id": "RTbetLevel",
+        "text": "Het inzetniveau is het aantal munten dat wordt ingezet per lijn."
+    },
+    {
+        "id": "RTMGbetLevelInstruction",
+        "text": "Het inzetniveau kun je kiezen met behulp van het keuzemenu \u003cb\u003eInzetniveau\u003c/b\u003e."
+    },
+    {
+        "id": "RTMGbuttonsMainGame",
+        "text": "Hoofdspel"
+    },
+    {
+        "id": "RTtableDescribes",
+        "text": "In de onderstaande tabel staan de verschillende knoppen die je vindt in het spel en hun functies."
+    },
+    {
+        "id": "RTmalfunction",
+        "text": "In het geval van een fout in de spelsoftware/-hardware, worden alle hierdoor beïnvloede spellen en uitbetalingen geannuleerd en de betreffende inzetten geretourneerd."
+    },
+    {
+        "id": "RTMGmalfunction",
+        "text": "In het geval van een fout in de spelsoftware/-hardware, worden alle hierdoor beïnvloede spellen en uitbetalingen geannuleerd en de betreffende inzetten geretourneerd."
+    },
+    {
+        "id": "RTMGbetlevel",
+        "text": "Inzetniveau"
+    },
+    {
+        "id": "RTviewMiniPaytable",
+        "text": "Je kunt ook tijdens het spel op een van de symbolen op de rollen klikken om de uitbetalingen van dat symbool te bekijken."
+    },
+    {
+        "id": "RTplayCurrentBetLinesTo10",
+        "text": "Je kunt op 1 tot 10 lijnen spelen, met verschillende inzetniveaus en muntwaardes."
+    },
+    {
+        "id": "RTMGplay10FixedBetLines",
+        "text": "Je speelt met 10 vaste lijnen op verschillende inzetniveaus en muntwaardes."
+    },
+    {
+        "id": "termWild",
+        "text": "Joker"
+    },
+    {
+        "id": "RTautoplaySelectSpins",
+        "text": "Kies het aantal Autoplay-rondes, of open de geavanceerde instellingen om de opties voor het stoppen van Autoplay in te stellen."
+    },
+    {
+        "id": "RTinformationIconButtonDesc",
+        "text": "Klik hier om de \u003cb\u003ePRIJZENTABEL\u003c/b\u003e te bekijken."
+    },
+    {
+        "id": "RTinformationIconButtonDescJimi",
+        "text": "Klik hier om de \u003cb\u003ePRIJZENTABEL\u003c/b\u003e te bekijken."
+    },
+    {
+        "id": "RTstartGameRound",
+        "text": "Klik hier om een spelronde te starten met de huidige muntwaarde en inzetniveau (je kunt ook op spatiebalk drukken)."
+    },
+    {
+        "id": "RTopenGameRules",
+        "text": "Klik hierop om de spelregels te bekijken."
+    },
+    {
+        "id": "RTmuteSoundSliderRev",
+        "text": "Klik hierop om het geluid van het spel uit te zetten, of gebruik de schuifbalk om het volume aan te passen."
+    },
+    {
+        "id": "RTopenSettingsMenu",
+        "text": "Klik hierop om het menu met spelinstellingen te openen en spelopties te kiezen. Zie het onderdeel Spelinstellingen hieronder."
+    },
+    {
+        "id": "RTinformationIconButtonNoBold",
+        "text": "Klik om de prijzentabel te bekijken."
+    },
+    {
+        "id": "RTgameHistoryDesc",
+        "text": "Klik om je spelgeschiedenis te bekijken"
+    },
+    {
+        "id": "RTpaytableButtonsDescRev",
+        "text": "Klik op de pijltjes naar links en rechts om door de \u003cb\u003ePRIJZENTABEL\u003c/b\u003e te bladeren. Klik op de middelste knop om terug te keren naar het spel."
+    },
+    {
+        "id": "RTpaytableButtonsDescNoBold",
+        "text": "Klik op de pijltjes naar links en rechts om door de prijzentabel te bladeren. Klik op de middelste knop om terug te keren naar het spel."
+    },
+    {
+        "id": "RTbuttonTableHead",
+        "text": "Knop"
+    },
+    {
+        "id": "RTMGleftHandMode",
+        "text": "Linkshandige stand"
+    },
+    {
+        "id": "RTMGmenu",
+        "text": "Menu"
+    },
+    {
+        "id": "RTMGquickSettings",
+        "text": "Menu Snelle instellingen"
+    },
+    {
+        "id": "RTautoplayPlays",
+        "text": "Met \u003cb\u003eAUTO PLAY\u003c/b\u003e speel je het spel automatisch voor het ingestelde aantal ronden (je kunt ook op de \u003cb\u003eAUTO\u003c/b\u003e-knop drukken)."
+    },
+    {
+        "id": "RTautoplayPlaysJimi",
+        "text": "Met \u003cb\u003eAUTOSPEL\u003c/b\u003e speel je het spel automatisch voor het ingestelde aantal ronden (je kunt ook op de \u003cb\u003eAUTO\u003c/b\u003e-knop drukken)."
+    },
+    {
+        "id": "RTmaxbetPlays",
+        "text": "Met de knop \u003cb\u003eMAX. INZET\u003c/b\u003e start je het spel met het maximale aantal lijnen, op het hoogste inzetniveau en met de huidige muntwaarde."
+    },
+    {
+        "id": "RTspinPlayRev",
+        "text": "Met de knop Draaien start je het spel met het huidige aantal lijnen, inzetniveau en muntwaarde (je kunt ook op de spatiebalk drukken)."
+    },
+    {
+        "id": "RTmaxBetAtHighBetLevel",
+        "text": "Met MAX. INZET speel je het spel met het hoogste inzetniveau, en de huidige muntwaarde."
+    },
+    {
+        "id": "RTMGbetInCoins",
+        "text": "Munten inzetten"
+    },
+    {
+        "id": "RTMGcoinvalue",
+        "text": "Muntwaarde"
+    },
+    {
+        "id": "RTAutoplayButton",
+        "text": "Om de geavanceerde autoplay-opties in te stellen, klik je op \u003cb\u003eAUTO PLAY\u003c/b\u003e of op \u003cb\u003eAUTO\u003c/b\u003e in het spelpaneel, en vervolgens op \u003cb\u003eGeavanceerde instellingen\u003c/b\u003e."
+    },
+    {
+        "id": "gameSettingIntro",
+        "text": "Om de spelinstellingen te openen, klik je op het steeksleutelicoon in het spelpaneel."
+    },
+    {
+        "id": "ReSpinsAtActivatingRound",
+        "text": "Opnieuw draaien wordt gespeeld met dezelfde inzet als de ronde die het opnieuw draaien activeert."
+    },
+    {
+        "id": "RTMGpaytable",
+        "text": "Prijzentabel"
+    },
+    {
+        "id": "termPaytable",
+        "text": "Prijzentabel"
+    },
+    {
+        "id": "RTMGpaytableJimi",
+        "text": "Prijzentabel"
+    },
+    {
+        "id": "RTspacebarspin",
+        "text": "Schakelt het gebruik van de spatiebalk in of uit."
+    },
+    {
+        "id": "RTgameSoundDesc",
+        "text": "Schakelt het geluid van het spel in of uit."
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRevNew",
+        "text": "Sleep of tik de schuif om Autoplay te activeren en het aantal rondes te kiezen. Met Autoplay speel je het spel automatisch voor het ingestelde aantal rondes."
+    },
+    {
+        "id": "RTMGselectCoinValueRevNew",
+        "text": "Sleep of tik de schuif om een muntwaarde te kiezen."
+    },
+    {
+        "id": "RTMGselectCoinValueRev",
+        "text": "Sleep of tik het instellingswiel om een muntwaarde te kiezen."
+    },
+    {
+        "id": "RTMGselectSpinsRev",
+        "text": "Sleep of tik het instellingswiel om het aantal Autospel-rondes te kiezen."
+    },
+    {
+        "id": "RTMGselectBetLevelRev",
+        "text": "Sleep of tik het instellingswiel om het aantal per lijn ingezette munten aan te passen."
+    },
+    {
+        "id": "RTMGexit",
+        "text": "Sluiten"
+    },
+    {
+        "id": "RTMGquickSpin",
+        "text": "Snel draaien"
+    },
+    {
+        "id": "RTMGquickSpinGameSetting",
+        "text": "Snel draaien"
+    },
+    {
+        "id": "RTMGquickStop",
+        "text": "Snel stoppen"
+    },
+    {
+        "id": "RTgameFunctionsHeading",
+        "text": "Spelfuncties"
+    },
+    {
+        "id": "RTMGgameHistoryHeading",
+        "text": "Spelgeschiedenis"
+    },
+    {
+        "id": "RTgHistoryNotAvailableForFun",
+        "text": "Spelgeschiedenis is niet beschikbaar tijdens \u003cb\u003eOEFENEN\u003c/b\u003e."
+    },
+    {
+        "id": "RTMGgameSettings",
+        "text": "Spelinstellingen en spelinformatie"
+    },
+    {
+        "id": "gameSettingOptionsHeading",
+        "text": "Spelinstellingsopties"
+    },
+    {
+        "id": "RTMGgameRules",
+        "text": "Spelregels"
+    },
+    {
+        "id": "RTrulesGenerated",
+        "text": "Spelregels gegenereerd:"
+    },
+    {
+        "id": "RTMGstarburstTouchRulesHeading",
+        "text": "Spelregels Starburst Touch™"
+    },
+    {
+        "id": "RTMGstarburstTouchIntro",
+        "text": "Starburst Touch™ is een videoslot met 5 rollen, 3 rijen, Starburst™ Wild, opnieuw draaien en win heen en weer."
+    },
+    {
+        "id": "RTstarBurstIntro",
+        "text": "Starburst™ is een videoslot met 5 rollen, 3 rijen, Starburst™-jokers, opnieuw draaien en win heen en weer."
+    },
+    {
+        "id": "RTstarBurstRulesHeading",
+        "text": "Starburst™ Spelregels"
+    },
+    {
+        "id": "RTstarBurstAddReSpinsRev",
+        "text": "Starburst™ Wild-symbolen die verschijnen tijdens een re-spin, leveren een extra re-spin op."
+    },
+    {
+        "id": "RTstarBurstWildSymbAppear",
+        "text": "Starburst™ Wild-symbolen verschijnen uitsluitend op rollen 2, 3 en 4."
+    },
+    {
+        "id": "RTstarBurstWildSubstitute",
+        "text": "Starburst™-jokersymbolen vervangen andere symbolen."
+    },
+    {
+        "id": "RTstarBurstWildHeading",
+        "text": "Starburst™-Wilds"
+    },
+    {
+        "id": "RTMGstopIfFreeSpins",
+        "text": "Stop als ik Free Spins win"
+    },
+    {
+        "id": "RTMGstopAutoplayOnOff",
+        "text": "Stop Automatisch spelen"
+    },
+    {
+        "id": "cashIncreasesDesc",
+        "text": "Stop Autoplay wanneer je saldo omhoog gaat met het ingevulde bedrag."
+    },
+    {
+        "id": "cashDecreasesDesc",
+        "text": "Stop Autoplay wanneer je saldo omlaag gaat met het ingevulde bedrag."
+    },
+    {
+        "id": "singleWinDesc",
+        "text": "Stop Autospel wanneer het gewonnen bedrag groter of gelijk is aan het ingevulde bedrag."
+    },
+    {
+        "id": "anyWinDesc",
+        "text": "Stop Autospel wanneer je in een ronde wint."
+    },
+    {
+        "id": "RTsingleWinDescRev",
+        "text": "Stopt automatisch spelen wanneer het gewonnen bedrag groter of gelijk is aan het ingevulde bedrag."
+    },
+    {
+        "id": "RTMGback",
+        "text": "Terug"
+    },
+    {
+        "id": "RTstarBurststickyWExpandsReSpinsRev",
+        "text": "Tijdens de Starburst™ Wild-bonus klappen de Starburst™ Wilds uit over de hele rol en blijven op hun plaats terwijl de overige rollen opnieuw draaien."
+    },
+    {
+        "id": "RTMGgameSettingIntroDev",
+        "text": "Tik hierop om de spelinstellingen en spelinformatie te openen. Je kunt ook op de vakken Geld en Munten tikken."
+    },
+    {
+        "id": "RTMGtapSpinButtonRev",
+        "text": "Tik hierop om het spel te spelen met de huidige lijnen, muntwaarde en inzetniveau."
+    },
+    {
+        "id": "RTMGtouchMainGameNew",
+        "text": "Tik in de liggende stand op het spelvak om de Draaien-knop te verbergen."
+    },
+    {
+        "id": "RTMGautoplayUI",
+        "text": "Tik om Autoplay in of uit te schakelen zonder het instellingenmenu te openen. Stelt standaard 50 rondes in."
+    },
+    {
+        "id": "RTMGdisableAutoplay",
+        "text": "Tik om Autoplay uit te schakelen als je Free Spins wint voordat het ingestelde aantal Autoplay-rondes voorbij is."
+    },
+    {
+        "id": "RTMGdisableAutoplayIfBonusGame",
+        "text": "Tik om Autoplay uit te schakelen als je het bonusspel wint voordat het ingestelde aantal autoplay-rondes voorbij is."
+    },
+    {
+        "id": "RTMGdisableAutoplayPickClick",
+        "text": "Tik om Autoplay uit te schakelen als je Pick and Click  wint voordat het ingestelde aantal Autoplay-rondes voorbij is."
+    },
+    {
+        "id": "RTMGstartAutoplay",
+        "text": "Tik om Autospel te starten."
+    },
+    {
+        "id": "RTMGstopAutoplay",
+        "text": "Tik om Autospel te stoppen."
+    },
+    {
+        "id": "RTMGspinButtonLeft",
+        "text": "Tik om de linkshandige stand aan of uit te zetten."
+    },
+    {
+        "id": "RTMGgameSettingIntroDevNew",
+        "text": "Tik om de spelinstellingen en spelinformatie te openen."
+    },
+    {
+        "id": "RTMGviewGamesRules",
+        "text": "Tik om de spelregels te bekijken."
+    },
+    {
+        "id": "RTMGsoundSettingsUI",
+        "text": "Tik om geluiden in of uit te schakelen zonder het instellingenmenu te openen."
+    },
+    {
+        "id": "RTMGleaveGame",
+        "text": "Tik om het spel te verlaten."
+    },
+    {
+        "id": "RTMGquickSpinUI",
+        "text": "Tik om Hurtig tur in of uit te schakelen zonder het instellingenmenu te openen."
+    },
+    {
+        "id": "RTMGgameHistoryDesc",
+        "text": "Tik om je spelgeschiedenis te bekijken."
+    },
+    {
+        "id": "RTMGstartQuickSpin",
+        "text": "Tik om Snel draaien te starten."
+    },
+    {
+        "id": "RTMGbackMainGame",
+        "text": "Tik om terug te keren naar het hoofdspel."
+    },
+    {
+        "id": "RTMGwinComb",
+        "text": "Tik om winnende combinaties en uitbetalingen te tonen."
+    },
+    {
+        "id": "RTMGautoplayPutOnOffRev",
+        "text": "Tik op de schakelaar om Autospel aan of uit te zetten. Met Autospel speel je het spel automatisch voor het ingestelde aantal ronden."
+    },
+    {
+        "id": "RTMGsoundOnOffRev",
+        "text": "Tik op de schakelaar om de geluidseffecten aan of uit te zetten."
+    },
+    {
+        "id": "RTMGsoundsDisabledRev",
+        "text": "Tik op de schakelaar om geluidseffecten ook voor toekomstige sessies uit te zetten."
+    },
+    {
+        "id": "RTMGtapOnOffRev",
+        "text": "Tik op de schakelaar om Snel draaien aan of uit te zetten."
+    },
+    {
+        "id": "RTMGquickSettingsMenu",
+        "text": "Tik op het plus-symbool om het menu Snel instellen te openen."
+    },
+    {
+        "id": "RTMGtouchMainGame",
+        "text": "Tik op het spelvak om de Draaien-knop te verbergen."
+    },
+    {
+        "id": "RTMGselectBetLevelRevNew",
+        "text": "Tik op sleep de schuifregelaar om het aantal munten inzet per lijn te kiezen."
+    },
+    {
+        "id": "RTMGtapDuringSpin",
+        "text": "Tik tijdens een draai op het spelvak om de rollen te stoppen."
+    },
+    {
+        "id": "RTMGshowsBetCurrency",
+        "text": "Toont het inzetbedrag in de gekozen valuta."
+    },
+    {
+        "id": "RTMGshowsBetCoins",
+        "text": "Toont het inzetbedrag in munten."
+    },
+    {
+        "id": "RTreturnToPlayer",
+        "text": "Uitbetalingspercentage"
+    },
+    {
+        "id": "RTHighWinSymCompleteActLineRev",
+        "text": "Uitsluitend de hoogste winnende combinaties van uiterst links naar rechts en/of van uiterst rechts naar links op een actieve lijn worden uitbetaald."
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Vertaalde term"
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Vertaling van spelterminologie"
+    },
+    {
+        "id": "RTadjustQualityRev",
+        "text": "Wijzigt de grafische kwaliteit voor optimale prestaties."
+    },
+    {
+        "id": "RTwinCombinationPaytable",
+        "text": "Winnende combinaties en uitbetalingen geschieden aan de hand van de \u003cb\u003ePRIJZENTABEL\u003c/b\u003e."
+    },
+    {
+        "id": "RTwinCombinationPaytablenoBold",
+        "text": "Winnende combinaties en uitbetalingen geschieden aan de hand van de Prijzentabel."
+    },
+    {
+        "id": "RTMGwinCombinations",
+        "text": "Winnende combinaties en uitbetalingen geschieden aan de hand van de Prijzentabel."
+    },
+    {
+        "id": "RTambienceDescRev",
+        "text": "Zet de achtergrondmuziek aan of uit."
+    },
+    {
+        "id": "RTquickSpinDescRev",
+        "text": "Zet de optie Snel draaien aan of uit"
+    },
+    {
+        "id": "RTintroOffRev",
+        "text": "Zet het introductiescherm aan of uit."
+    },
+    {
+        "id": "RTautoplayDuringGameRev",
+        "text": "\u003cb\u003eLet op:\u003c/b\u003e Wanneer je de Autoplay-instellingen verandert tijdens een spelronde, dan worden deze wijzigingen pas van kracht wanneer de spelronde of functie afgerond is."
+    },
+    {
+        "id": "RTwinCalculationWinMatchCurrency",
+        "text": "Een lijnwinst in een valuta is gelijk aan de winst in munten vermenigvuldigd met de muntwaarde."
+    },
+    {
+        "id": "RTopenAutoplayMenu",
+        "text": "Klik hierop om het Autoplay-menu te openen en het spel automatisch te spelen."
+    },
+    {
+        "id": "RTexCloneWildOverlay",
+        "text": "De Expanding Cloning Wild-symbolen verschijnen over de draaiende rollen en ook de gekloonde symbolen verschijnen over de rollen."
+    },
+    {
+        "id": "RTsliderCoinValue",
+        "text": "Kies de muntwaarde met behulp van de schuifregelaar Muntwaarde."
+    },
+    {
+        "id": "RTsliderBetLevel",
+        "text": "Kies het inzetniveau met behulp van de schuifregelaar Inzetniveau."
+    },
+    {
+        "id": "RTeachStar1AddRespinUpTo3respin",
+        "text": "Nadat een Starburst™ Wild een re-spin geactiveerd heeft, kunnen tot 2 extra Starburst™ Wild-symbolen verschijnen. Hierdoor win je tot maximaal 3 extra re-spins."
+    },
+    {
+        "id": "RTMGautoOptions",
+        "text": "Sleep of tik de schuif om de Autplay-opties en het aantal rondes te kiezen. Met Autospel speel je het spel automatisch voor het ingestelde aantal rondes."
+    },
+    {
+        "id": "RTcashDecreasesDescRev",
+        "text": "Stopt Autoplay als cash daalt met het door jou opgegeven bedrag."
+    },
+    {
+        "id": "RTcashIncreasesDescRev",
+        "text": "Stopt Autoplay als cash stijgt met het door jou opgegeven bedrag."
+    },
+    {
+        "id": "onlyHighWinComb",
+        "text": "Uitsluitend de hoogste winnende combinatie van uiterst links naar rechts op een lijn wordt uitbetaald."
+    },
+    {
+        "id": "RTautoplayNote",
+        "text": "\u003cb\u003eLet op:\u003c/b\u003e Sommige Autoplay-opties zijn verplicht in bepaalde rechtsgebieden."
+    },
+    {
+        "id": "RTtablePlayLangThnEng",
+        "text": "\u003cb\u003eLet op\u003c/b\u003e: De volgende tabel is uitsluitend van toepassing als je niet in de Engelse taal speelt."
+    },
+    {
+        "id": "RTadditionalInformation",
+        "text": "Aanvullende informatie"
+    },
+    {
+        "id": "termEnglish",
+        "text": "Engelse term"
+    },
+    {
+        "id": "featuresNotAvailablePFF",
+        "text": "Sommige functies zijn niet beschikbaar in \u003cb\u003eSPEEL VOOR DE LOL\u003c/b\u003e modus."
+    },
+    {
+        "id": "RTsingleWinDescRevNew",
+        "text": "Stopt Autoplay wanneer het gewonnen bedrag groter of gelijk is aan het ingevulde bedrag."
+    },
+    {
+        "id": "termTranslatedTerm",
+        "text": "Vertaalde term"
+    },
+    {
+        "id": "RTtransGameTerms",
+        "text": "Vertaling van spelterminologie"
+    }
+]

@@ -1,0 +1,462 @@
+﻿<defaults xml:lang="fr">
+  <!-- French locale -->
+  <!-- 
+
+i plus auto-publish notes: 
+
+This XML file contains content for game starburst_mobile_html (Starburst Touch™)
+
+Publication of release 0.0.1 generated at 08:40:42 GMT on Tuesday 10 October 2017.
+
+ -->
+  <ds Jurisdiction="*" name="freeRoundsFinished" id="freeRoundsFinished"></ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpinsNoSpan" id="MGvarRetriggerFreeSpinsNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTvarRetriggerFSNoSpan" id="OCTvarRetriggerFSNoSpan">+{0} Free Spins</ds>
+  <ds Jurisdiction="*" name="MGvarRetriggerFreeSpins" id="MGvarRetriggerFreeSpins">&lt;span class='NetEnt_plusSign'&gt;+&lt;/span&gt;&lt;span class='NetEnt_numberFreeSpins'&gt;{0}&lt;/span&gt; Free Spins</ds>
+  <ds Jurisdiction="*" name="NeProduction" id="NeProduction">A NET ENTERTAINMENT PRODUCTION</ds>
+  <ds Jurisdiction="*" name="OCTcasino_btn" id="OCTcasino_btn">Accueil</ds>
+  <ds Jurisdiction="*" name="MGcasino_btn" id="MGcasino_btn">Accueil</ds>
+  <ds Jurisdiction="*" name="MGdownloadSounds" id="MGdownloadSounds">Activer le son ?</ds>
+  <ds Jurisdiction="*" name="animationsGameSetting" id="animationsGameSetting">Animations</ds>
+  <ds Jurisdiction="*" name="appearsOnReels" id="appearsOnReels">APPARAÎT SUR ROULEAUX {0}, {1} et {2}.</ds>
+  <ds Jurisdiction="*" name="MGappearsOnReelsLC" id="MGappearsOnReelsLC">Apparaît sur rouleaux {0}, {1} et {2}.</ds>
+  <ds Jurisdiction="*" name="OCTcash" id="OCTcash">Argent</ds>
+  <ds Jurisdiction="*" name="OCTcashColon" id="OCTcashColon">Argent:</ds>
+  <ds Jurisdiction="*" name="MGcash" id="MGcash">Argent:  {0}</ds>
+  <ds Jurisdiction="*" name="OCTcashColonVar" id="OCTcashColonVar">Argent: {0}</ds>
+  <ds Jurisdiction="*" name="MGstopIfBonusGame" id="MGstopIfBonusGame">Arrêt si Bonus Game remporté</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinscrosstowntraffic" id="OCTstopIfFreeSpinscrosstowntraffic">Arrêt si Crosstown Traffic Free Spins remportés</ds>
+  <ds Jurisdiction="*" name="stopIfFeatureSpins" id="stopIfFeatureSpins">Arrêt si Feature Spin remportés</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpins" id="OCTstopIfFreeSpins">Arrêt si Free Spins remportés</ds>
+  <ds Jurisdiction="*" name="MGstopIfFreeSpins" id="MGstopIfFreeSpins">Arrêt si Free Spins remportés</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinslittlewing" id="OCTstopIfFreeSpinslittlewing">Arrêt si Little Wing Free Spins remportés</ds>
+  <ds Jurisdiction="*" name="stopIfPickAndClick" id="stopIfPickAndClick">Arrêt si Pick and Click remportés</ds>
+  <ds Jurisdiction="*" name="stopIfPoliceSpins" id="stopIfPoliceSpins">Arrêt si Police Spins remportés</ds>
+  <ds Jurisdiction="*" name="OCTstopIfFreeSpinspurplehaze" id="OCTstopIfFreeSpinspurplehaze">Arrêt si Purple Haze Free Spins remportés</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlay" id="OCTstopAutoPlay">Arrêter le jeu automatique</ds>
+  <ds Jurisdiction="*" name="autoBonusGame" id="autoBonusGame">Arrêtez le jeu automatique si le Bonus Game est remporté avant le nombre défini de parties en jeu automatique.</ds>
+  <ds Jurisdiction="*" name="autoplayFeatureSpins" id="autoplayFeatureSpins">Arrêtez le jeu automatique si les Feature Spins sont remportés avant que nombre défini de parties en jeu automatique.</ds>
+  <ds Jurisdiction="*" name="OCTspaceSpin" id="OCTspaceSpin">Barre d'espace de tour</ds>
+  <ds Jurisdiction="*" name="spaceSpin" id="spaceSpin">Barre d'espace de tour</ds>
+  <ds Jurisdiction="*" name="OCTlowQuality" id="OCTlowQuality">Bas</ds>
+  <ds Jurisdiction="*" name="lowQuality" id="lowQuality">Bas</ds>
+  <ds Jurisdiction="*" name="optimisedForVersion" id="optimisedForVersion">Ce jeu est optimisé pour: {0}</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Ce jeu utilise des cookies pour des statistiques et pour améliorer l'expérience d’utilisateur. Veuillez acceptez notre</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Certainement pas le résultat que vous attendiez. Voici {0} Rounds gratuits de notre part.</ds>
+  <ds Jurisdiction="*" name="MGoptionAvailable" id="MGoptionAvailable">Cette option est uniquement disponible après que vous avez fini la partie.</ds>
+  <ds Jurisdiction="*" name="OCTloadingText" id="OCTloadingText">Chargement en cours</ds>
+  <ds Jurisdiction="*" name="OCTloading" id="OCTloading">Chargement en cours...</ds>
+  <ds Jurisdiction="*" name="specialWinCombo" id="specialWinCombo">COMBO</ds>
+  <ds Jurisdiction="*" name="MGplayingForMoney" id="MGplayingForMoney">Commencer à jouer avec de l'argent ?</ds>
+  <ds Jurisdiction="*" name="MGaccountUnavailable" id="MGaccountUnavailable">Compte non disponible</ds>
+  <ds Jurisdiction="*" name="OCTaccountUnavailable" id="OCTaccountUnavailable">Compte non disponible</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Connexion : Mauvaise</ds>
+  <ds Jurisdiction="*" name="connectionQualityPoor" id="connectionQualityPoor">Connexion : Mauvaise</ds>
+  <ds Jurisdiction="*" name="MGconnectionLost" id="MGconnectionLost">Connexion perdue</ds>
+  <ds Jurisdiction="*" name="OCTconnectionLost" id="OCTconnectionLost">Connexion perdue</ds>
+  <ds Jurisdiction="*" name="OCTContinue" id="OCTContinue">Continuer</ds>
+  <ds Jurisdiction="*" name="OCTbutton_CONTINUE" id="OCTbutton_CONTINUE">CONTINUER</ds>
+  <ds Jurisdiction="*" name="MGcontinue" id="MGcontinue">Continuer</ds>
+  <ds Jurisdiction="*" name="MGcontinuePlaying" id="MGcontinuePlaying">Continuer de jouer là où vous vous étiez arrêté.</ds>
+  <ds Jurisdiction="*" name="OCTcontinuePlaying" id="OCTcontinuePlaying">Continuer de jouer là où vous vous étiez arrêté.</ds>
+  <ds Jurisdiction="*" name="MGright" id="MGright">D</ds>
+  <ds Jurisdiction="*" name="MGdeposit_btn" id="MGdeposit_btn">Dépôt</ds>
+  <ds Jurisdiction="*" name="OCTdeposit_btn" id="OCTdeposit_btn">Dépôt</ds>
+  <ds Jurisdiction="*" name="winBothWaysPaysRev" id="winBothWaysPaysRev">Des gains de lignes de mise sont payés lorsqu'ils se succèdent soit de gauche à droite soit de droite à gauche.</ds>
+  <ds Jurisdiction="*" name="MGoff" id="MGoff">Désactivé</ds>
+  <ds Jurisdiction="*" name="couldNotConnectServer" id="couldNotConnectServer">Échec de connexion au serveur.</ds>
+  <ds Jurisdiction="*" name="introScreeGameSetting" id="introScreeGameSetting">Ecran intro</ds>
+  <ds Jurisdiction="*" name="OCTintroScreeGameSetting" id="OCTintroScreeGameSetting">Ecran intro</ds>
+  <ds Jurisdiction="*" name="sound" id="sound">Effets sonores</ds>
+  <ds Jurisdiction="*" name="InAssociation" id="InAssociation">En association avec</ds>
+  <ds Jurisdiction="*" name="MGerror" id="MGerror">Erreur technique</ds>
+  <ds Jurisdiction="*" name="OCTerror" id="OCTerror">Erreur technique</ds>
+  <ds Jurisdiction="*" name="OCTcongratsLC" id="OCTcongratsLC">Félicitations !</ds>
+  <ds Jurisdiction="*" name="MGcongrats" id="MGcongrats">Félicitations!</ds>
+  <ds Jurisdiction="*" name="MGclose_btn" id="MGclose_btn">Fermer</ds>
+  <ds Jurisdiction="*" name="OCTclose_btn" id="OCTclose_btn">Fermer</ds>
+  <ds Jurisdiction="*" name="OCTintroGameSetting" id="OCTintroGameSetting">Film intro</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsUC" id="OCTfreeSpinsUC">FREE SPINS</ds>
+  <ds Jurisdiction="*" name="OCTfreeSpinsLeftColonVar" id="OCTfreeSpinsLeftColonVar">Free Spins restant: {0}</ds>
+  <ds Jurisdiction="*" name="MGfreeSpinsLeftColonVar" id="MGfreeSpinsLeftColonVar">Free Spins restant: {0}</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsFinished" id="MGfreeRoundsFinished">Free spins terminés</ds>
+  <ds Jurisdiction="*" name="MGleft" id="MGleft">G</ds>
+  <ds Jurisdiction="*" name="MGwinCapitals" id="MGwinCapitals">GAGNE : {0}</ds>
+  <ds Jurisdiction="*" name="MGwinUpTo" id="MGwinUpTo">Gagnez jusqu’à {0} pièces</ds>
+  <ds Jurisdiction="*" name="OCTwinUpTo" id="OCTwinUpTo">Gagnez jusqu’à {0} pièces</ds>
+  <ds Jurisdiction="*" name="WinUpTodup" id="WinUpTodup">GAGNEZ JUSQU'A</ds>
+  <ds Jurisdiction="*" name="OCTwin" id="OCTwin">Gain</ds>
+  <ds Jurisdiction="*" name="MGwinPay" id="MGwinPay">Gain</ds>
+  <ds Jurisdiction="Spain" name="OCTmachinetext_win" id="OCTmachinetext_win">GAIN</ds>
+  <ds Jurisdiction="*" name="OCTwinColonUC" id="OCTwinColonUC">GAIN :</ds>
+  <ds Jurisdiction="*" name="OCTwinColonVar" id="OCTwinColonVar">Gain : {0}</ds>
+  <ds Jurisdiction="*" name="MGwin" id="MGwin">Gain : {0}</ds>
+  <ds Jurisdiction="*" name="FSplashWinBothWays" id="FSplashWinBothWays">GAIN &lt;br&gt; DE DEUX MANIERES</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinUCnoVar" id="OCTtotalWinUCnoVar">GAIN TOTAL :</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinWithColon" id="OCTtotalWinWithColon">Gain total:</ds>
+  <ds Jurisdiction="*" name="MGtotalWin" id="MGtotalWin">Gain total: {0}</ds>
+  <ds Jurisdiction="*" name="winBothWaysRev" id="winBothWaysRev">GAINS 2 MANIERES</ds>
+  <ds Jurisdiction="*" name="MGswipeToActivate" id="MGswipeToActivate">Glissez vers le haut pour activer le jeu.</ds>
+  <ds Jurisdiction="*" name="bigWin" id="bigWin">GROS GAIN !</ds>
+  <ds Jurisdiction="*" name="OCTbigWin" id="OCTbigWin">GROS GAIN !</ds>
+  <ds Jurisdiction="*" name="MGbigWin" id="MGbigWin">GROS GAIN!</ds>
+  <ds Jurisdiction="*" name="highQuality" id="highQuality">Haute</ds>
+  <ds Jurisdiction="*" name="OCThighQuality" id="OCThighQuality">Haute</ds>
+  <ds Jurisdiction="*" name="OCTgameHistory" id="OCTgameHistory">Historique du jeu</ds>
+  <ds Jurisdiction="*" name="OCTgameHistoryHeadingUC" id="OCTgameHistoryHeadingUC">HISTORIQUE DU JEU</ds>
+  <ds Jurisdiction="*" name="gameHistory" id="gameHistory">Historique du jeu</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeading" id="MGgameHistoryHeading">Historique du jeu</ds>
+  <ds Jurisdiction="*" name="MGautoplayPanelLabel" id="MGautoplayPanelLabel">Jeu auto</ds>
+  <ds Jurisdiction="*" name="OCTautoplayButton" id="OCTautoplayButton">JEU AUTO</ds>
+  <ds Jurisdiction="*" name="OCTautoplayPanelLabel" id="OCTautoplayPanelLabel">Jeu automatique</ds>
+  <ds Jurisdiction="*" name="MGautoplayCancelled" id="MGautoplayCancelled">Jeu automatique annulé</ds>
+  <ds Jurisdiction="*" name="MGgameUnavailable" id="MGgameUnavailable">Jeu non disponible</ds>
+  <ds Jurisdiction="*" name="OCTgameUnavailable" id="OCTgameUnavailable">Jeu non disponible</ds>
+  <ds Jurisdiction="*" name="OCTplayingForFun" id="OCTplayingForFun">JEU VIRTUEL</ds>
+  <ds Jurisdiction="*" name="MGplayingForFun" id="MGplayingForFun">JEU VIRTUEL</ds>
+  <ds Jurisdiction="*" name="autoplayButtonTwoLine" id="autoplayButtonTwoLine">JEU&lt;br&gt;AUTO</ds>
+  <ds Jurisdiction="*" name="MGminOSReq" id="MGminOSReq">La caractéristique minimum est :</ds>
+  <ds Jurisdiction="*" name="startFreeSpins" id="startFreeSpins">Lancer Free Spins</ds>
+  <ds Jurisdiction="*" name="OCTstartFreeSpins" id="OCTstartFreeSpins">LANCER LES FREE SPINS</ds>
+  <ds Jurisdiction="*" name="OCTloadingTakesLonger" id="OCTloadingTakesLonger">Le chargement du jeu prend plus longtemps que d'habitude.</ds>
+  <ds Jurisdiction="*" name="loadingTakesLonger" id="loadingTakesLonger">Le chargement du jeu prend plus longtemps que d'habitude.</ds>
+  <ds Jurisdiction="*" name="gameOptimisedVersion" id="gameOptimisedVersion">Le jeu est optimisé pour  : {0}</ds>
+  <ds Jurisdiction="*" name="gameOptimisedFor" id="gameOptimisedFor">Le jeu est optimisé pour {0} sur {1}.</ds>
+  <ds Jurisdiction="*" name="gameNotLoaded" id="gameNotLoaded">Le jeu n'a pas pu charger.</ds>
+  <ds Jurisdiction="*" name="MGsoftNotTest" id="MGsoftNotTest">Le logiciel n'est pas testé sur votre appareil.</ds>
+  <ds Jurisdiction="*" name="MGmaxNumberReSpinsLC" id="MGmaxNumberReSpinsLC">Le nombre maximum de nouveaux tours est {0}.</ds>
+  <ds Jurisdiction="*" name="maxNumberReSpins" id="maxNumberReSpins">LE NOMBRE MAXIMUM DE NOUVEAUX TOURS EST {0}.</ds>
+  <ds Jurisdiction="*" name="OCTbetLineWinsLeftToRightOnly" id="OCTbetLineWinsLeftToRightOnly">Les gains de ligne de mise rapportent s'ils se suivent du rouleau le plus à gauche vers celui le plus à droite.</ds>
+  <ds Jurisdiction="*" name="MGwinMultiplierVar" id="MGwinMultiplierVar">Les gains de pièces sont multipliés par {0}</ds>
+  <ds Jurisdiction="*" name="MGbetLineWinsLeftRight" id="MGbetLineWinsLeftRight">Les lignes de mise remportent si les symboles gagnants se suivent depuis le rouleau le plus à gauche jusqu'à la droite.</ds>
+  <ds Jurisdiction="*" name="MGroundsUseAccountMoney" id="MGroundsUseAccountMoney">Les prochains tours utilisent l'argent de votre compte. Bonne chance !</ds>
+  <ds Jurisdiction="*" name="OCTroundsUseAcctMoney" id="OCTroundsUseAcctMoney">Les prochains tours utilisent l'argent de votre compte. Bonne chance !</ds>
+  <ds Jurisdiction="*" name="paytableInfoBetLevel1" id="paytableInfoBetLevel1">Les valeurs de paiement de jeton se basent sur un pari de niveau 1.</ds>
+  <ds Jurisdiction="*" name="MGpaytableInfoBetLevel1" id="MGpaytableInfoBetLevel1">Les valeurs de paiement des pièces sont basées sur le niveau de mise 1.</ds>
+  <ds Jurisdiction="*" name="MGhistoryNotAvailable" id="MGhistoryNotAvailable">L'historique de jeu est disponible seulement quand vous jouez de l'argent.</ds>
+  <ds Jurisdiction="*" name="OCThistoryNotAvailable" id="OCThistoryNotAvailable">L'historique de jeu est disponible seulement quand vous jouez de l'argent.</ds>
+  <ds Jurisdiction="Algeria" name="OCTnewHistoryWindow" id="OCTnewHistoryWindow">L'historique du jeu s'ouvrira dans une nouvelle page. Fermez la page pour revenir au jeu.</ds>
+  <ds Jurisdiction="*" name="MGnewHistoryWindow" id="MGnewHistoryWindow">L'historique du jeu s'ouvrira dans une nouvelle page. Fermez la page pour revenir au jeu.</ds>
+  <ds Jurisdiction="*" name="MGwinningLinesHeading" id="MGwinningLinesHeading">Lignes de pari gagnantes</ds>
+  <ds Jurisdiction="*" name="OCTwinningBetLinesHeading" id="OCTwinningBetLinesHeading">Lignes de pari gagnantes</ds>
+  <ds Jurisdiction="*" name="OCTplayLimit" id="OCTplayLimit">Limite de jeu</ds>
+  <ds Jurisdiction="*" name="MGplayLimit" id="MGplayLimit">Limite de jeu</ds>
+  <ds Jurisdiction="*" name="MGlogin_btn" id="MGlogin_btn">Login</ds>
+  <ds Jurisdiction="*" name="OCTlogin_btn" id="OCTlogin_btn">Login</ds>
+  <ds Jurisdiction="*" name="onAnyWin" id="onAnyWin">Lors d'un gain</ds>
+  <ds Jurisdiction="*" name="MGnoBrowserSupport" id="MGnoBrowserSupport">Malheureusement, ce navigateur n'est pas pris en charge.</ds>
+  <ds Jurisdiction="*" name="MGnoOSSupport" id="MGnoOSSupport">Malheureusement, ce système d'exploitation n'est pas pris en charge.</ds>
+  <ds Jurisdiction="*" name="MGdeviceNoSupport" id="MGdeviceNoSupport">Malheureusement, cet appareil n'est pas pris en charge.</ds>
+  <ds Jurisdiction="*" name="specialWinMegaCombo" id="specialWinMegaCombo">MEGA COMBO</ds>
+  <ds Jurisdiction="*" name="megaWin" id="megaWin">MEGA GAIN !</ds>
+  <ds Jurisdiction="*" name="OCTmegaWin" id="OCTmegaWin">MEGA GAIN !</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Message</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_bet" id="OCTmachinetext_bet">MISE</ds>
+  <ds Jurisdiction="*" name="OCTtotalbet" id="OCTtotalbet">Mise</ds>
+  <ds Jurisdiction="*" name="MGbetInCash" id="MGbetInCash">Mise en argent</ds>
+  <ds Jurisdiction="*" name="MGbetInCoins" id="MGbetInCoins">Mise en pieces</ds>
+  <ds Jurisdiction="*" name="MGbetInCoinsRev" id="MGbetInCoinsRev">Mise en pièces</ds>
+  <ds Jurisdiction="*" name="OCTbetInCoins" id="OCTbetInCoins">Mise en pièces</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbutton" id="OCTmaxbetbutton">MISE MAX</ds>
+  <ds Jurisdiction="*" name="OCTbetColonVar" id="OCTbetColonVar">Mise: {0}</ds>
+  <ds Jurisdiction="*" name="MGbet" id="MGbet">Mise: {0}</ds>
+  <ds Jurisdiction="*" name="OCTmaxbetbuttonTwoLine" id="OCTmaxbetbuttonTwoLine">MISE&lt;br&gt;MAX</ds>
+  <ds Jurisdiction="*" name="OCTbetInCash" id="OCTbetInCash">Miser en liquide</ds>
+  <ds Jurisdiction="*" name="MGbetInCashRev" id="MGbetInCashRev">Miser en liquide</ds>
+  <ds Jurisdiction="*" name="MGleftHandMode" id="MGleftHandMode">Mode main gauche</ds>
+  <ds Jurisdiction="*" name="OCTleftHandMode" id="OCTleftHandMode">Mode main gauche</ds>
+  <ds Jurisdiction="*" name="RCheckMonths" id="RCheckMonths">mois</ds>
+  <ds Jurisdiction="*" name="OCTmediumQuality" id="OCTmediumQuality">Moyenne</ds>
+  <ds Jurisdiction="*" name="mediumQuality" id="mediumQuality">Moyenne</ds>
+  <ds Jurisdiction="*" name="multiplierUC" id="multiplierUC">MULTIPLICATEUR</ds>
+  <ds Jurisdiction="*" name="MGcolHeadBetMulti" id="MGcolHeadBetMulti">Multiplicateur mise</ds>
+  <ds Jurisdiction="*" name="multiplierFLC" id="multiplierFLC">Multiplier</ds>
+  <ds Jurisdiction="*" name="ambience" id="ambience">Musique d'ambiance</ds>
+  <ds Jurisdiction="*" name="dontShowNextTime" id="dontShowNextTime">Ne pas afficher la prochaine fois</ds>
+  <ds Jurisdiction="*" name="MGbetlevel" id="MGbetlevel">Niv. mise</ds>
+  <ds Jurisdiction="Spain" name="OCTbetlevel" id="OCTbetlevel">Niv. mise</ds>
+  <ds Jurisdiction="*" name="OCTlevel" id="OCTlevel">NIVEAU</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Nombre de {0}</ds>
+  <ds Jurisdiction="*" name="OCTspinsLeftText" id="OCTspinsLeftText">Nombre de {0} restants</ds>
+  <ds Jurisdiction="*" name="OCTnumberSpins" id="OCTnumberSpins">Nombre de tours</ds>
+  <ds Jurisdiction="*" name="MGnumberSpins" id="MGnumberSpins">Nombre de tours</ds>
+  <ds Jurisdiction="*" name="MGbutton_no" id="MGbutton_no">Non</ds>
+  <ds Jurisdiction="*" name="OCTbtnNo" id="OCTbtnNo">Non</ds>
+  <ds Jurisdiction="*" name="OCTbtnOK" id="OCTbtnOK">OK</ds>
+  <ds Jurisdiction="*" name="MGok_btn" id="MGok_btn">OK</ds>
+  <ds Jurisdiction="*" name="MGoptionUnavailable" id="MGoptionUnavailable">Option non disponible</ds>
+  <ds Jurisdiction="*" name="MGbutton_yes" id="MGbutton_yes">Oui</ds>
+  <ds Jurisdiction="*" name="OCTbtnYes" id="OCTbtnYes">Oui</ds>
+  <ds Jurisdiction="*" name="MGyes" id="MGyes">Oui*</ds>
+  <ds Jurisdiction="*" name="OCTsymbolPayout" id="OCTsymbolPayout">Paiement de symbole</ds>
+  <ds Jurisdiction="Afghanistan" name="MGsymbolPayout" id="MGsymbolPayout">Paiement de symbole</ds>
+  <ds Jurisdiction="*" name="MGwinningCombinations" id="MGwinningCombinations">Paiements et combinaisons de gains</ds>
+  <ds Jurisdiction="*" name="OCTadvancedSettings" id="OCTadvancedSettings">Paramètres avancés</ds>
+  <ds Jurisdiction="*" name="OCTspinSettingsCaps" id="OCTspinSettingsCaps">PARAMETRES DE LANCER</ds>
+  <ds Jurisdiction="*" name="MGbetSettings" id="MGbetSettings">Paramètres de mise</ds>
+  <ds Jurisdiction="*" name="OCTbetSettingsCaps" id="OCTbetSettingsCaps">PARAMETRES DE PARI</ds>
+  <ds Jurisdiction="*" name="MGbetOptions" id="MGbetOptions">Paramètres de pari</ds>
+  <ds Jurisdiction="*" name="OCTsoundSettingsCaps" id="OCTsoundSettingsCaps">PARAMETRES DE SON</ds>
+  <ds Jurisdiction="*" name="MGspinSettings" id="MGspinSettings">Paramètres des tours</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRev" id="MGspinSettingsRev">Paramètres des tours</ds>
+  <ds Jurisdiction="*" name="OCTslidePanelLabel" id="OCTslidePanelLabel">Paramètres du jeu</ds>
+  <ds Jurisdiction="*" name="MGbetCashCoins" id="MGbetCashCoins">Pari en liquide/pièces</ds>
+  <ds Jurisdiction="*" name="MGrestoredGameHeader" id="MGrestoredGameHeader">Partie restaurée</ds>
+  <ds Jurisdiction="*" name="OCTrestoredGameHeader" id="OCTrestoredGameHeader">Partie restaurée</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsTitle" id="OCTfreeRoundsTitle">Parties gratuites</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsTitle" id="MGfreeRoundsTitle">Parties gratuites</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsVar" id="MGfreeRoundsVar">Parties gratuites : {0}</ds>
+  <ds Jurisdiction="*" name="MGfreerounds" id="MGfreerounds">Parties gratuites expirées</ds>
+  <ds Jurisdiction="*" name="OCTfreerounds" id="OCTfreerounds">Parties gratuites expirées</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinished" id="OCTfreeRoundsFinished">Parties gratuites terminés</ds>
+  <ds Jurisdiction="*" name="MGnoWin" id="MGnoWin">Pas de gain</ds>
+  <ds Jurisdiction="*" name="OCTskipIntro" id="OCTskipIntro">Passer l’intro</ds>
+  <ds Jurisdiction="*" name="OCTlostConnectInactivity" id="OCTlostConnectInactivity">Perte de connexion du jeu pour cause d'inactivité.</ds>
+  <ds Jurisdiction="*" name="MGlostConnectionInactivity" id="MGlostConnectionInactivity">Perte de connexion du jeu pour cause d'inactivité.</ds>
+  <ds Jurisdiction="*" name="coins" id="coins">Pièces</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coins" id="OCTmachinetext_coins">PIÈCES</ds>
+  <ds Jurisdiction="*" name="OCTcoinsColonVar" id="OCTcoinsColonVar">Pièces : {0}</ds>
+  <ds Jurisdiction="*" name="MGcoins" id="MGcoins">Pièces : {0}</ds>
+  <ds Jurisdiction="*" name="coinsWonColon" id="coinsWonColon">Pièces remportées :</ds>
+  <ds Jurisdiction="*" name="OCTcoinsWonColon" id="OCTcoinsWonColon">Pièces remportées :</ds>
+  <ds Jurisdiction="*" name="OCToutOfMoney" id="OCToutOfMoney">Plus d'argent</ds>
+  <ds Jurisdiction="*" name="MGoutOfMoney" id="MGoutOfMoney">Plus d'argent</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">politique de cookies.</ds>
+  <ds Jurisdiction="*" name="MGspinButtonPosition" id="MGspinButtonPosition">Position du bouton de lancement</ds>
+  <ds Jurisdiction="*" name="extraInfo" id="extraInfo">Pour plus d'informations, reportez-vous aux Règles de Jeu.</ds>
+  <ds Jurisdiction="*" name="OCTextraInfo" id="OCTextraInfo">Pour plus d'informations, reportez-vous aux Règles de Jeu.</ds>
+  <ds Jurisdiction="*" name="OCTqualityHeading" id="OCTqualityHeading">Qualité graphique</ds>
+  <ds Jurisdiction="*" name="qualityHeading" id="qualityHeading">Qualité graphique</ds>
+  <ds Jurisdiction="*" name="OCTRCcheckReminder" id="OCTRCcheckReminder">Rappel</ds>
+  <ds Jurisdiction="*" name="MGRCcheckReminder" id="MGRCcheckReminder">Rappel</ds>
+  <ds Jurisdiction="*" name="MGreload_btn" id="MGreload_btn">Recharger</ds>
+  <ds Jurisdiction="*" name="MGreload_btnRev" id="MGreload_btnRev">Recharger</ds>
+  <ds Jurisdiction="*" name="OCTreload_btn" id="OCTreload_btn">Recharger</ds>
+  <ds Jurisdiction="Antigua and Barbuda" name="OCTreduceBet_btn" id="OCTreduceBet_btn">Réduire la mise</ds>
+  <ds Jurisdiction="*" name="MGreduceBet_btn" id="MGreduceBet_btn">Réduire la mise</ds>
+  <ds Jurisdiction="*" name="MGsoundSettings" id="MGsoundSettings">Réglages du son</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheading" id="MGgameRulesheading">Règles</ds>
+  <ds Jurisdiction="*" name="MGgameRulesheadingCaps" id="MGgameRulesheadingCaps">RÈGLES DU JEU</ds>
+  <ds Jurisdiction="*" name="OCTgameRulesUC" id="OCTgameRulesUC">RÈGLES DU JEU</ds>
+  <ds Jurisdiction="*" name="OCTreset" id="OCTreset">Réinitialiser</ds>
+  <ds Jurisdiction="*" name="OCTsessionTimeOut" id="OCTsessionTimeOut">Scéance terminée</ds>
+  <ds Jurisdiction="*" name="MGsessionTimeOut" id="MGsessionTimeOut">Scéance terminée</ds>
+  <ds Jurisdiction="Spain" name="OCTautoplayPanelStartText" id="OCTautoplayPanelStartText">Sélectionner pour démarrer</ds>
+  <ds Jurisdiction="*" name="scatterSelect" id="scatterSelect">SELECTIONNEZ UN SCATTER</ds>
+  <ds Jurisdiction="*" name="expandReelTrigger" id="expandReelTrigger">S'ETEND SUR LE ROULEAU ET DECLENCHE UN NOUVEAU TOUR.</ds>
+  <ds Jurisdiction="*" name="MGexpandReelTriggerLC" id="MGexpandReelTriggerLC">S'étend sur le rouleau et déclenche un nouveau tour.</ds>
+  <ds Jurisdiction="*" name="MGpaytableHighestPaid" id="MGpaytableHighestPaid">Seul la combinaison de gains la plus élevée par ligne de mise est payée.</ds>
+  <ds Jurisdiction="*" name="paytableHighestRev" id="paytableHighestRev">Seul le gain le plus élevé par ligne de mise active de deux manières est payé.</ds>
+  <ds Jurisdiction="Spain" name="paytableHighestNoActive" id="paytableHighestNoActive">Seul le gain le plus élevé par ligne de mise est payé.</ds>
+  <ds Jurisdiction="Spain" name="OCTpaytableHighest" id="OCTpaytableHighest">Seul le gain le plus élevé par ligne de mise est payé.</ds>
+  <ds Jurisdiction="*" name="OCTpaytableHighestWinMatch" id="OCTpaytableHighestWinMatch">Seul le plus haut gain par gain de symboles correspondants est payé.</ds>
+  <ds Jurisdiction="*" name="OCTifFreeSpinsIsStarted" id="OCTifFreeSpinsIsStarted">Si Free Spins est remporté</ds>
+  <ds Jurisdiction="*" name="OCTifCashDecreasesBy" id="OCTifCashDecreasesBy">Si l'argent baisse de</ds>
+  <ds Jurisdiction="*" name="OCTifWinExeeds" id="OCTifWinExeeds">Si le gain unique dépasse</ds>
+  <ds Jurisdiction="*" name="ifWinExeeds" id="ifWinExeeds">Si le gain unique dépasse</ds>
+  <ds Jurisdiction="Spain" name="OCTifFBonusIsStarted" id="OCTifFBonusIsStarted">Si le jeu bonus est gagné</ds>
+  <ds Jurisdiction="*" name="OCTsoundsOn" id="OCTsoundsOn">Son activé</ds>
+  <ds Jurisdiction="*" name="MGsoundsOn" id="MGsoundsOn">Son activé</ds>
+  <ds Jurisdiction="*" name="MGsoundsNo" id="MGsoundsNo">Son désactivé</ds>
+  <ds Jurisdiction="*" name="OCTsoundsNo" id="OCTsoundsNo">Son désactivé</ds>
+  <ds Jurisdiction="*" name="OCTgameSound" id="OCTgameSound">Sons du jeu</ds>
+  <ds Jurisdiction="*" name="MGsounds" id="MGsounds">Sons du jeu</ds>
+  <ds Jurisdiction="*" name="MGgameSound" id="MGgameSound">Sons du jeu</ds>
+  <ds Jurisdiction="*" name="MGcontinueYesNo" id="MGcontinueYesNo">Souhaitez-vous continuer ?</ds>
+  <ds Jurisdiction="*" name="OCTcontinueYesNo" id="OCTcontinueYesNo">Souhaitez-vous continuer ?</ds>
+  <ds Jurisdiction="*" name="starburstNameOfWild" id="starburstNameOfWild">Starburst™ Wild</ds>
+  <ds Jurisdiction="*" name="OCTautoplayStopText" id="OCTautoplayStopText">STOP</ds>
+  <ds Jurisdiction="*" name="MGsubAllSymbolsLC" id="MGsubAllSymbolsLC">Substitut pour tous les symboles.</ds>
+  <ds Jurisdiction="*" name="subAllSymbols" id="subAllSymbols">SUBSTITUT POUR TOUS LES SYMBOLES.</ds>
+  <ds Jurisdiction="*" name="specialWinSuperCombo" id="specialWinSuperCombo">SUPER COMBO</ds>
+  <ds Jurisdiction="*" name="superMegaWin" id="superMegaWin">SUPER MEGA GAIN !</ds>
+  <ds Jurisdiction="*" name="OCTsuperMegaWin" id="OCTsuperMegaWin">SUPER MEGA GAIN !</ds>
+  <ds Jurisdiction="*" name="MGcolHeadFSpinSyms" id="MGcolHeadFSpinSyms">Symboles Free Spin</ds>
+  <ds Jurisdiction="*" name="MGpaytable" id="MGpaytable">Tableau des gains</ds>
+  <ds Jurisdiction="*" name="OCTpaytable" id="OCTpaytable">Tableau des gains</ds>
+  <ds Jurisdiction="*" name="OCTbutton_paytableUC" id="OCTbutton_paytableUC">TABLEAU DES GAINS</ds>
+  <ds Jurisdiction="*" name="OCTtotalWinColonVar" id="OCTtotalWinColonVar">Total des gains : {0}</ds>
+  <ds Jurisdiction="*" name="MGsoundsOff" id="MGsoundsOff">Toujours désactiver le son</ds>
+  <ds Jurisdiction="*" name="MGquickSpinGameSetting" id="MGquickSpinGameSetting">Tour rapide</ds>
+  <ds Jurisdiction="*" name="OCTquickSpin" id="OCTquickSpin">Tour rapide</ds>
+  <ds Jurisdiction="*" name="OCTquickSpinGameSetting" id="OCTquickSpinGameSetting">Tour rapide</ds>
+  <ds Jurisdiction="*" name="quickSpinGameSetting" id="quickSpinGameSetting">Tour rapide</ds>
+  <ds Jurisdiction="*" name="OCTautoSpins" id="OCTautoSpins">tours</ds>
+  <ds Jurisdiction="*" name="OCTFreeRoundsLeftwithColon" id="OCTFreeRoundsLeftwithColon">Tours gratuits: {0}</ds>
+  <ds Jurisdiction="*" name="OCTvoidAllPays" id="OCTvoidAllPays">Un dysfonctionnement annule tous les jeux et paiements.</ds>
+  <ds Jurisdiction="*" name="MGuseDefaultBrowser" id="MGuseDefaultBrowser">Utilisez le navigateur par défaut de l'appareil ou bien actualisez votre système.</ds>
+  <ds Jurisdiction="*" name="MGcoinvalue" id="MGcoinvalue">Val pièces</ds>
+  <ds Jurisdiction="*" name="OCTcoinValue" id="OCTcoinValue">Val pièces</ds>
+  <ds Jurisdiction="*" name="OCTmachinetext_coinvalue" id="OCTmachinetext_coinvalue">VAL PIÈCES</ds>
+  <ds Jurisdiction="*" name="MGdepositPlay" id="MGdepositPlay">Veuillez  déposer plus d'argent pour continuer jouer.</ds>
+  <ds Jurisdiction="*" name="upgradeDevice" id="upgradeDevice">Veuillez actualiser la version de votre appareil.</ds>
+  <ds Jurisdiction="*" name="MGdeposit" id="MGdeposit">Veuillez déposer d'autre argent ou bien réduire votre mise.</ds>
+  <ds Jurisdiction="*" name="OCTdeposit" id="OCTdeposit">Veuillez déposer d'autre argent ou bien réduire votre mise.</ds>
+  <ds Jurisdiction="*" name="OCTdepositPlay" id="OCTdepositPlay">Veuillez déposer plus d'argent pour continuer de jouer.</ds>
+  <ds Jurisdiction="*" name="OCTreload" id="OCTreload">Veuillez recharger le jeu.</ds>
+  <ds Jurisdiction="*" name="MGreload" id="MGreload">Veuillez recharger le jeu.</ds>
+  <ds Jurisdiction="*" name="MGreturnCasino" id="MGreturnCasino">Veuillez recommencer le jeu.</ds>
+  <ds Jurisdiction="*" name="OCTreturnCasino" id="OCTreturnCasino">Veuillez recommencer le jeu.</ds>
+  <ds Jurisdiction="*" name="OCTreduce" id="OCTreduce">Veuillez réduire votre mise pour continuer jouer.</ds>
+  <ds Jurisdiction="*" name="MGreduce" id="MGreduce">Veuillez réduire votre mise pour continuer jouer.</ds>
+  <ds Jurisdiction="*" name="MGlandscapeMode" id="MGlandscapeMode">Veuillez régler votre appareil sur le mode paysage !</ds>
+  <ds Jurisdiction="*" name="OCTlandscapeMode" id="OCTlandscapeMode">Veuillez régler votre appareil sur le mode paysage !</ds>
+  <ds Jurisdiction="*" name="OCTreturnToLobby" id="OCTreturnToLobby">Veuillez revenir au lobby.</ds>
+  <ds Jurisdiction="*" name="MGreturnToLobby" id="MGreturnToLobby">Veuillez revenir au lobby.</ds>
+  <ds Jurisdiction="*" name="deviceNotSupported" id="deviceNotSupported">Votre appareil n'est pas pris en charge.</ds>
+  <ds Jurisdiction="*" name="MGslowConnection" id="MGslowConnection">Votre connexion Internet actuelle est lente.</ds>
+  <ds Jurisdiction="*" name="OCTslowConnection" id="OCTslowConnection">Votre connexion Internet actuelle est lente.</ds>
+  <ds Jurisdiction="*" name="MGwinIncoins" id="MGwinIncoins">Votre gain en pièces : {0}</ds>
+  <ds Jurisdiction="*" name="operatingSystemNoSupport" id="operatingSystemNoSupport">Votre système d'exploitation n'est pas pris en charge.</ds>
+  <ds Jurisdiction="*" name="updateBrowserQuestion" id="updateBrowserQuestion">Voulez-vous faire une mise à jour?</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRounds" id="MGhaveFreeRounds">Vous avez {0} free spins.</ds>
+  <ds Jurisdiction="*" name="MGfreeRoundsLeft" id="MGfreeRoundsLeft">Vous avez {0} parties gratuites restantes !</ds>
+  <ds Jurisdiction="*" name="MGhaveFreeRoundsRev" id="MGhaveFreeRoundsRev">Vous avez {0} parties gratuites!</ds>
+  <ds Jurisdiction="*" name="MG11" id="MG11">Vous avez atteint votre limite de jeu. On se revoit très bientôt!</ds>
+  <ds Jurisdiction="*" name="OCTyouWinUCNoExclamation" id="OCTyouWinUCNoExclamation">VOUS AVEZ GAGNÉ</ds>
+  <ds Jurisdiction="*" name="MGyouWon" id="MGyouWon">Vous avez gagné {0}</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinWon" id="MGadditonalFreeSpinWon">Vous avez gagné {0} Free Spin supplémentaires</ds>
+  <ds Jurisdiction="*" name="MGadditonalFreeSpinsWon" id="MGadditonalFreeSpinsWon">Vous avez gagné {0} Free Spins supplémentaires.</ds>
+  <ds Jurisdiction="*" name="OCTadditonalFreeSpinsWon" id="OCTadditonalFreeSpinsWon">Vous avez gagné {0} Free Spins supplémentaires.</ds>
+  <ds Jurisdiction="*" name="MGyouWonCoins" id="MGyouWonCoins">Vous avez remporté {0} pièces</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoins" id="OCTyouWonCoins">Vous avez remporté {0} pièces</ds>
+  <ds Jurisdiction="*" name="OCTyouWonCoinsUC" id="OCTyouWonCoinsUC">Vous avez remporté {0} pièces</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Vous devez actualiser votre navigateur pour jouer.</ds>
+  <ds Jurisdiction="*" name="updateBrowserReq" id="updateBrowserReq">Vous devez mettre à jour votre navigateur pour pouvoir jouer. Condition minimum: {0}</ds>
+  <ds Jurisdiction="*" name="OCTyouPlayingFun" id="OCTyouPlayingFun">Vous êtes en mode jeu virtuel</ds>
+  <ds Jurisdiction="*" name="MGyouPlayingFun" id="MGyouPlayingFun">Vous êtes en mode jeu virtuel</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingWon" id="OCTRCheckPlayingWon">Vous jouez depuis {0} heures et avez gagné {1}.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingWon" id="MGRCheckPlayingWon">Vous jouez depuis {0} heures et avez gagné {1}.</ds>
+  <ds Jurisdiction="*" name="MGRCheckPlayingLost" id="MGRCheckPlayingLost">Vous jouez depuis {0} heures et avez perdu {1}.</ds>
+  <ds Jurisdiction="*" name="OCTRCheckPlayingLost" id="OCTRCheckPlayingLost">Vous jouez depuis {0} heures et avez perdu {1}.</ds>
+  <ds Jurisdiction="*" name="autoplayPS" id="autoplayPS">Arrêt du jeu auto si le Bonus Game ou Police Spins est remporté avant le nombre défini de parties en jeu auto.</ds>
+  <ds Jurisdiction="*" name="autoplayFS" id="autoplayFS">Arrêtez le jeu automatique si les tours gratuits sont remportés avant que nombre défini de parties en jeu automatique.</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Ce jeu utilise des cookies pour améliorer l'expérience de l'utilisateur et gérer la publicité. Veuillez confirmer que vous acceptez notre</ds>
+  <ds Jurisdiction="*" name="MGgameHistoryHeadingCaps" id="MGgameHistoryHeadingCaps">HISTORIQUE DE JEU</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">Optimisé pour {0} sur {1} {2}</ds>
+  <ds Jurisdiction="*" name="MGspinSettingsRevCaps" id="MGspinSettingsRevCaps">PARAMETRES DE LANCER</ds>
+  <ds Jurisdiction="*" name="MGbetSettingsCaps" id="MGbetSettingsCaps">PARAMETRES DE PARI</ds>
+  <ds Jurisdiction="*" name="MGsoundSettingsCaps" id="MGsoundSettingsCaps">PARAMETRES DE SON</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Parties gratuites supplémentaires</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">Pour une expérience de jeu optimale, veuillez actualiser votre navigateur.</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">Pour une expérience de jeu optimale, veuillez actualiser votre système d'exploitation.</ds>
+  <ds Jurisdiction="*" name="OCTifCashIncreasesBy" id="OCTifCashIncreasesBy">Si l'argent augmente de</ds>
+  <ds Jurisdiction="*" name="ifCashIncreasesBy" id="ifCashIncreasesBy">Si l'argent augmente de</ds>
+  <ds Jurisdiction="*" name="ifCashDecreasesBy" id="ifCashDecreasesBy">Si l'argent décroît de</ds>
+  <ds Jurisdiction="*" name="voidAllPays" id="voidAllPays">Un dysfonctionnement annule tous les jeux et paiements.</ds>
+  <ds Jurisdiction="*" name="MGvoidAllPays" id="MGvoidAllPays">Un dysfonctionnement annule tous les jeux et paiements.</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">Vous devez actualiser votre système d'exploitation pour jouer.</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Vous devez utiliser {0} pour jouer.</ds>
+  <!-- Content below is applicable to all games (from the _all mapping) -->
+  <ds Jurisdiction="*" name="addValue" id="addValue">Ajouter valeur</ds>
+  <ds Jurisdiction="*" name="RCheckYear" id="RCheckYear">an</ds>
+  <ds Jurisdiction="*" name="RCheckYears" id="RCheckYears">ans</ds>
+  <ds Jurisdiction="*" name="OCTstopAutoPlayColon" id="OCTstopAutoPlayColon">Arrêter le jeu automatique:</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered_header" id="gameWalletMssgWagered_header">Bonus converti</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired_header" id="gameWalletMssgExpired_header">Bonus expiré</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited_header" id="gameWalletMssgForfeited_header">Bonus perdu</ds>
+  <ds Jurisdiction="*" name="cookiePolicy" id="cookiePolicy">Ce jeu utilise des cookies pour des statistiques et pour améliorer l'expérience d’utilisateur. Veuillez acceptez notre</ds>
+  <ds Jurisdiction="*" name="50" id="50">Ce tournois est terminé.</ds>
+  <ds Jurisdiction="*" name="60" id="60">Ce tournois est terminé. Le dernier tour joué ne fera pas partie des statistiques du tournois.</ds>
+  <ds Jurisdiction="*" name="40" id="40">Ce tournois n'a pas encore débuté, veuillez essayer de nouveau plus tard.</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraWon" id="OCTfreeRoundsExtraWon">Certainement pas le résultat que vous attendiez. Voici {0} Rounds gratuits de notre part.</ds>
+  <ds Jurisdiction="*" name="120" id="120">Cette option est uniquement disponible après que vous avez fini la partie.</ds>
+  <ds Jurisdiction="*" name="mandatoryField" id="mandatoryField">Champ obligatoire</ds>
+  <ds Jurisdiction="*" name="59" id="59">Client déjà connecté. Veuillez essayer plus tard.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfo" id="OCTlossLimitInfo">Confirmez ou décidez du montant à miser avant de définir la limite de l'éventualité :  **si l'argent baisse de**</ds>
+  <ds Jurisdiction="*" name="OCTconnectionQualityPoor" id="OCTconnectionQualityPoor">Connexion : Mauvaise</ds>
+  <ds Jurisdiction="*" name="button_CONTINUE" id="button_CONTINUE">CONTINUER</ds>
+  <ds Jurisdiction="*" name="Continue" id="Continue">Continuer</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgForfeited" id="gameWalletMssgForfeited">Désolé. Votre bonus {0} a été perdu.</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgExpired" id="gameWalletMssgExpired">Désolé. Votre bonus {0} a expiré et n'est plus disponible.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitInfoTouch" id="OCTlossLimitInfoTouch">Déterminez le montant de mise avant de définir la limite pour arrêter le jeu automatique.</ds>
+  <ds Jurisdiction="*" name="RCheckPlayingFor" id="RCheckPlayingFor">Durée :</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitTouch" id="OCTlossLimitTouch">Entrez si l'argent diminue</ds>
+  <ds Jurisdiction="*" name="OCTcongratsUC" id="OCTcongratsUC">FELICITATIONS !</ds>
+  <ds Jurisdiction="*" name="gameWalletMssgWagered" id="gameWalletMssgWagered">Félicitations ! Votre bonus {0} s'est transformé en crédit. Pour l'utiliser, reconnectez-vous.</ds>
+  <ds Jurisdiction="*" name="freeRoundsInitiatedDialogText" id="freeRoundsInitiatedDialogText">Félicitations ! Vous avez {0} tours gratuits. Bonne chance !</ds>
+  <ds Jurisdiction="*" name="close_btn" id="close_btn">Fermer</ds>
+  <ds Jurisdiction="*" name="OCTCheckEndButton" id="OCTCheckEndButton">Fin</ds>
+  <ds Jurisdiction="*" name="RCheckEndButton" id="RCheckEndButton">Fin</ds>
+  <ds Jurisdiction="*" name="RCheckHour" id="RCheckHour">heure</ds>
+  <ds Jurisdiction="*" name="RCheckHours" id="RCheckHours">heures</ds>
+  <ds Jurisdiction="*" name="RCheckDay" id="RCheckDay">jour</ds>
+  <ds Jurisdiction="*" name="RCheckDays" id="RCheckDays">jours</ds>
+  <ds Jurisdiction="*" name="12" id="12">La mise actuelle n'a pas pu être faite à cause d'un bonus expiré.</ds>
+  <ds Jurisdiction="*" name="122" id="122">Le film de course n'a pas pu être lu.</ds>
+  <ds Jurisdiction="*" name="110" id="110">Le jeu ne peut pas être démarré. Réessayez plus tard.</ds>
+  <ds Jurisdiction="*" name="0" id="0">Le jeu n'est actuellement pas disponible. Réessayez plus tard.</ds>
+  <ds Jurisdiction="*" name="53" id="53">Le jeu n'est actuellement pas disponible. Réessayez plus tard.</ds>
+  <ds Jurisdiction="*" name="56" id="56">Le jeu n'est actuellement pas disponible. Réessayez plus tard.</ds>
+  <ds Jurisdiction="*" name="58" id="58">Le jeu n'est actuellement pas disponible. Réessayez plus tard.</ds>
+  <ds Jurisdiction="*" name="greaterCDB" id="greaterCDB">Le montant doit être supérieur au montant de la mise.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimit" id="OCTlossLimit">Limite de perte</ds>
+  <ds Jurisdiction="*" name="OCTonAnyWin" id="OCTonAnyWin">Lors d'un gain</ds>
+  <ds Jurisdiction="*" name="browserVersionNotSupported" id="browserVersionNotSupported">Malheureusement cette version du navigateur n'est pas prise en charge.</ds>
+  <ds Jurisdiction="*" name="messagecaption" id="messagecaption">Message</ds>
+  <ds Jurisdiction="*" name="OCTmessagecaption" id="OCTmessagecaption">Message</ds>
+  <ds Jurisdiction="*" name="RCheckMinute" id="RCheckMinute">minute</ds>
+  <ds Jurisdiction="*" name="RCheckMinutes" id="RCheckMinutes">minutes</ds>
+  <ds Jurisdiction="*" name="RCheckMonth" id="RCheckMonth">mois</ds>
+  <ds Jurisdiction="*" name="numberOfRounds" id="numberOfRounds">Nombre de {0}</ds>
+  <ds Jurisdiction="*" name="70" id="70">Nous ne pouvons pas accéder à votre compte actuellement. Veuillez réessayer plus tard.</ds>
+  <ds Jurisdiction="*" name="ok_btn" id="ok_btn">OK</ds>
+  <ds Jurisdiction="*" name="RCheckWon" id="RCheckWon">Pendant ce temps vous avez gagné</ds>
+  <ds Jurisdiction="*" name="RCheckLost" id="RCheckLost">Pendant ce temps vous avez perdu</ds>
+  <ds Jurisdiction="*" name="cookiePolicyPart2" id="cookiePolicyPart2">politique de cookies.</ds>
+  <ds Jurisdiction="*" name="OBperformanceNotification" id="OBperformanceNotification">Pour améliorer la performance, diminuez la qualité graphique dans le menu des options de jeu.</ds>
+  <ds Jurisdiction="*" name="performanceNotification" id="performanceNotification">Pour améliorer la performance, réduisez la qualité des graphiques avec les paramètres du jeu.</ds>
+  <ds Jurisdiction="*" name="121" id="121">Pour commencer le jeu auto, vous devez miser.</ds>
+  <ds Jurisdiction="*" name="RCheckReminder" id="RCheckReminder">RAPPEL</ds>
+  <ds Jurisdiction="*" name="reset" id="reset">Réinitialiser</ds>
+  <ds Jurisdiction="*" name="RCheckSecond" id="RCheckSecond">seconde</ds>
+  <ds Jurisdiction="*" name="RCheckSeconds" id="RCheckSeconds">secondes</ds>
+  <ds Jurisdiction="*" name="RCheckWeek" id="RCheckWeek">semaine</ds>
+  <ds Jurisdiction="*" name="RCheckWeeks" id="RCheckWeeks">semaines</ds>
+  <ds Jurisdiction="*" name="TotalWinwithColonVar" id="TotalWinwithColonVar">Total des gains : {0}</ds>
+  <ds Jurisdiction="*" name="OCTTotalWinwithColonUC" id="OCTTotalWinwithColonUC">TOTAL DES GAINS : {0}</ds>
+  <ds Jurisdiction="*" name="OBfreeRoundsGamePanel" id="OBfreeRoundsGamePanel">Total gains : {0}</ds>
+  <ds Jurisdiction="*" name="OBOCTTotalWinwithColonVar" id="OBOCTTotalWinwithColonVar">Total payé : {0}</ds>
+  <ds Jurisdiction="*" name="autoRounds" id="autoRounds">tours</ds>
+  <ds Jurisdiction="*" name="OCTroundsLeft" id="OCTroundsLeft">Tours gratuits</ds>
+  <ds Jurisdiction="*" name="roundsLeft" id="roundsLeft">Tours gratuits</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsFinishedRev" id="OCTfreeRoundsFinishedRev">Tours gratuits terminés</ds>
+  <ds Jurisdiction="*" name="freeRoundsCompleteDialogText" id="freeRoundsCompleteDialogText">Tours gratuits terminés. Votre compte sera désormais débité. Bonne chance !</ds>
+  <ds Jurisdiction="*" name="FreeRoundsLeftwithColonVar" id="FreeRoundsLeftwithColonVar">Tours gratuits: {0}</ds>
+  <ds Jurisdiction="*" name="25" id="25">Tous les jeux ont été desactivés.</ds>
+  <ds Jurisdiction="*" name="upgradeIn" id="upgradeIn">Veuillez actualiser de {0} à {1}.</ds>
+  <ds Jurisdiction="*" name="14" id="14">Veuillez recharger pour rafraîchir l'équilibre du jeu.</ds>
+  <ds Jurisdiction="*" name="OCTlossLimitWarning" id="OCTlossLimitWarning">Veuillez saisir le montant de  **si l'argent baisse de**</ds>
+  <ds Jurisdiction="*" name="101" id="101">Votre compte Casino n'a pas assez d'argent.</ds>
+  <ds Jurisdiction="*" name="10" id="10">Votre compte n'a pas assez d'argent.</ds>
+  <ds Jurisdiction="*" name="100" id="100">Votre compte n'a pas assez d'argent.</ds>
+  <ds Jurisdiction="*" name="51" id="51">Votre compte n'a pas assez d'argent.</ds>
+  <ds Jurisdiction="*" name="15" id="15">Votre compte n'a pas assez d'argent. Veuillez ajouter de l'argent ou réduire votre mise.</ds>
+  <ds Jurisdiction="*" name="102" id="102">Votre jeu auto a été annulé.</ds>
+  <ds Jurisdiction="*" name="betExceedCDB" id="betExceedCDB">Votre mise a dépassé si l'argent diminue de la limite. Veuillez accroître la limite.</ds>
+  <ds Jurisdiction="*" name="notSupportedBrowser" id="notSupportedBrowser">Votre navigateur n'est pas pris en charge.</ds>
+  <ds Jurisdiction="*" name="13" id="13">Votre pari a dépassé la limite de mise maximale de ce jeu.</ds>
+  <ds Jurisdiction="*" name="20" id="20">Votre session a expiré. Recommencer le jeu.</ds>
+  <ds Jurisdiction="*" name="OCThaveFreeRounds" id="OCThaveFreeRounds">Vous avez {0} parties gratuites!</ds>
+  <ds Jurisdiction="*" name="11" id="11">Vous avez atteint votre limite de jeu. A bientôt !</ds>
+  <ds Jurisdiction="*" name="deviceBrowserUpdateMust" id="deviceBrowserUpdateMust">Vous devez actualiser votre navigateur pour jouer.</ds>
+  <ds Jurisdiction="*" name="RCheckPlaying" id="RCheckPlaying">Vous jouez depuis {0} {1}. {2} {3}. {4}</ds>
+  <ds Jurisdiction="*" name="RCheckEndCont" id="RCheckEndCont">Vous voulez continuer ou arrêter de jouer ?</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashIncreasesBy" id="OCTstopIfCashIncreasesBy">Arrêtez si l'argent augmente de</ds>
+  <ds Jurisdiction="*" name="OCTstopIfCashDecreasesBy" id="OCTstopIfCashDecreasesBy">Arrêtez si l'argent diminue de</ds>
+  <ds Jurisdiction="*" name="OCTstopIfWinExeeds" id="OCTstopIfWinExeeds">Arrêtez si le gain unique dépasse</ds>
+  <ds Jurisdiction="*" name="stopWhenJackpotIsWon" id="stopWhenJackpotIsWon">Arrêtez si le jackpot est gagné</ds>
+  <ds Jurisdiction="*" name="bonusAwardedTitle" id="bonusAwardedTitle">Bonus attribué</ds>
+  <ds Jurisdiction="*" name="del_cookiePolicyPrev" id="del_cookiePolicyPrev">Ce jeu utilise des cookies pour améliorer l'expérience de l'utilisateur et gérer la publicité. Veuillez confirmer que vous acceptez notre</ds>
+  <ds Jurisdiction="*" name="16" id="16">Désolé. L'offre de parties gratuites a déjà été utilisée.</ds>
+  <ds Jurisdiction="*" name="bonusAwardedCongrats" id="bonusAwardedCongrats">Félicitations ! Vous avez remporté {0} bonus. </ds>
+  <ds Jurisdiction="*" name="iagree" id="iagree">Je suis d'accord</ds>
+  <ds Jurisdiction="*" name="nothanks" id="nothanks">Non, merci</ds>
+  <ds Jurisdiction="*" name="deviceOptimizedFor" id="deviceOptimizedFor">Optimisé pour {0} sur {1} {2}</ds>
+  <ds Jurisdiction="*" name="OCTfreeRoundsExtraTitle" id="OCTfreeRoundsExtraTitle">Parties gratuites supplémentaires</ds>
+  <ds Jurisdiction="*" name="deviceUpdateBrowser" id="deviceUpdateBrowser">Pour une expérience de jeu optimale, veuillez actualiser votre navigateur.</ds>
+  <ds Jurisdiction="*" name="deviceBestGameExperience" id="deviceBestGameExperience">Pour une expérience de jeu optimale, veuillez actualiser votre système d'exploitation.</ds>
+  <ds Jurisdiction="*" name="OBTotalWinwithColonVar" id="OBTotalWinwithColonVar">Total payé : {0}</ds>
+  <ds Jurisdiction="*" name="deviceUpdateOS" id="deviceUpdateOS">Vous devez actualiser votre système d'exploitation pour jouer.</ds>
+  <ds Jurisdiction="*" name="deviceUseBrowser" id="deviceUseBrowser">Vous devez utiliser {0} pour jouer.</ds>
+</defaults>
