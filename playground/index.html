@@ -16,16 +16,16 @@
     <br>6. Click on Toggle Device Toolbar in order to emulate a mobile browser.
     <br>NOTE: do not refresh or you get redirected to the marketing site.
     <br>7. Execute the following code in the Console (DevTools)
-    <br><div style="background-color: black; color: white; width: 400px;">
-      <pre><code>
-      // Inject Netent game:
-      // (with: 1. fixed main.js, 2. interceptor script in .xhtml)
-      var iframe = document.createElement('iframe');
-      iframe.src = 'https://gabriele-sacchi.github.io/odr-poc/playground/games/starburst_mobile_html/game/starburst_mobile_html.xhtml?lobbyURL=http://localhost:5000/&server=https://neogames-game-test.casinomodule.com/&sessId=DEMO-12345-EUR&operatorId=neogames&gameId=starburst_mobile_html_sw&lang=en&integration=standard&keepAliveURL=&disableDeviceDetection=true&skipIntro=false&launchType=iframe';
-      iframe.height = '600px';
-      iframe.width = '100%';
-      document.body.appendChild(iframe);
-      </code></pre>
+    <br><div style="background-color: black;color: white;width: 600px;">
+      <pre>
+        // Inject Netent game:
+        // (with: 1. fixed main.js, 2. interceptor script in .xhtml)
+        var iframe = document.createElement('iframe');
+        iframe.src = 'https://gabriele-sacchi.github.io/odr-poc/playground/games/starburst_mobile_html/game/starburst_mobile_html.xhtml?lobbyURL=http://localhost:5000/&amp;server=https://neogames-game-test.casinomodule.com/&amp;sessId=DEMO-12345-EUR&amp;operatorId=neogames&amp;gameId=starburst_mobile_html_sw&amp;lang=en&amp;integration=standard&amp;keepAliveURL=&amp;disableDeviceDetection=true&amp;skipIntro=false&amp;launchType=iframe';
+        iframe.height = '600px';
+        iframe.width = '100%';
+        document.body.appendChild(iframe);
+      </pre>
     </div>
   </center>
 </body>
