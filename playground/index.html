@@ -1,6 +1,7 @@
 <html>
 <head></head>
-<body>
+<body style="padding: 50px;">
+  <center>
     <h2>STEPS TO LAUNCH THE PLAYGROUND:</h2>
 
     <br>1. Download and uncompress the attached game bundle (modified by me)
@@ -18,7 +19,7 @@
     <br><div style="background-color: black; color: white; width: 400px;">
       <pre><code>
       // Inject Netent game:
-      // (with: 1. fixed main.js, 2. interceptor <script> in .xhtml)
+      // (with: 1. fixed main.js, 2. interceptor script in .xhtml)
       var iframe = document.createElement('iframe');
       iframe.src = 'https://gabriele-sacchi.github.io/odr-poc/playground/games/starburst_mobile_html/game/starburst_mobile_html.xhtml?lobbyURL=http://localhost:5000/&server=https://neogames-game-test.casinomodule.com/&sessId=DEMO-12345-EUR&operatorId=neogames&gameId=starburst_mobile_html_sw&lang=en&integration=standard&keepAliveURL=&disableDeviceDetection=true&skipIntro=false&launchType=iframe';
       iframe.height = '600px';
@@ -26,4 +27,5 @@
       document.body.appendChild(iframe);
       </code></pre>
     </div>
+  </center>
 </body>
