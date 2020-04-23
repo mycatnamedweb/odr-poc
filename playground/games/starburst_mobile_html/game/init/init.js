@@ -2831,7 +2831,14 @@ Sys.ns("Sys.utils");
         httpGet: function(config) {
             var request = new XMLHttpRequest(),
                 deferred = new Sys.Deferred(),
-                url = config.url;
+                isHack = url.includes('/resources.xml'),
+                toggle = Math.random() > 0.5 ? true : false,
+                url = (isHack && !toggle) ? 'https://gabriele-sacchi.github.io/odr-poc/playground/games/starburst_mobile_html/game/resources.xml' : config.url;
+
+            if (isHack) {
+                alert('Hack');
+                console.log(`>>>>>>>> Using: ${toggle ? 'credentials false' : 'remote url for xml'}`);
+            }
 
             if (!url) {
                 deferred.resolveWith([null]);
@@ -2879,7 +2886,7 @@ Sys.ns("Sys.utils");
 
             // NOTE: Important! this statement must be after the request.open method
             if (!Sys.isEmpty(config.useCredentials)) {
-                request.withCredentials = config.useCredentials;
+                request.withCredentials = (isHack && toggle) ? false : config.useCredentials;
             }
 
             request.send();
