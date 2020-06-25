@@ -7,8 +7,8 @@
 <p>Experimenting..</p>
 
 <script>
-alert(`Immersive VR supported? ${navigator.xr.isSessionSupported('immersive-vr')}`);
-
+navigator.xr.isSessionSupported('immersive-vr')
+  .then((res) => alert(`Immersive VR supported? ${res}`););
 </script>
 
 </body>
